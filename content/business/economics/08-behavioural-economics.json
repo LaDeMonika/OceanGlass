@@ -1,0 +1,217 @@
+{
+  "slug": "behavioural-economics",
+  "title": { "en": "Behavioural economics", "bs": "Bihevioralna ekonomija" },
+  "summary": {
+    "en": "Why real people don't always decide 'rationally', and how businesses use that.",
+    "bs": "Zašto stvarni ljudi ne odlučuju uvijek 'racionalno' i kako firme to koriste."
+  },
+  "concepts": [
+    {
+      "slug": "loss-aversion",
+      "term": "Loss aversion",
+      "local": "averzija prema gubitku",
+      "minutes": 5,
+      "youtube": "Igr-avFbfb8",
+      "youtubeQuery": "loss aversion explained simply",
+      "related": ["Framing", "Sunk cost", "Anchoring"],
+      "en": {
+        "one": "Loss aversion means losing something hurts about twice as much as gaining the same thing feels good.",
+        "explain": "People work harder to avoid a loss than to get an equal gain. That is why free trials work: once you have the product, cancelling feels like losing it.",
+        "example": "'Save €50' gets less response than 'Don't lose €50' for the same energy-saving offer.",
+        "why": "It helps you frame offers, guarantees and trials, and spot when fear of a loss is driving your own decisions.",
+        "mixup": "Loss aversion is not just being careful. It makes people hold on to bad investments too long to avoid admitting a loss."
+      },
+      "bs": {
+        "one": "Loss aversion (averzija prema gubitku) znači da gubitak boli otprilike duplo više nego što isti dobitak raduje.",
+        "explain": "Ljudi se više trude izbjeći gubitak nego dobiti jednak dobitak. Zato besplatne probe rade: kad jednom imaš proizvod, otkazivanje se čini kao gubitak.",
+        "example": "'Uštedi 50 €' dobije manje odziva nego 'Nemoj izgubiti 50 €' za istu ponudu uštede energije.",
+        "why": "Pomaže ti oblikovati ponude, garancije i probe, i primijetiti kad strah od gubitka vodi tvoje odluke.",
+        "mixup": "Averzija prema gubitku nije samo opreznost. Tjera ljude da predugo drže loše investicije da ne priznaju gubitak."
+      }
+    },
+    {
+      "slug": "anchoring",
+      "term": "Anchoring",
+      "local": "efekat sidra",
+      "minutes": 5,
+      "youtube": "KYAarpk_LZ4",
+      "youtubeQuery": "anchoring bias explained pricing",
+      "related": ["Pricing", "Loss aversion", "Framing"],
+      "en": {
+        "one": "Anchoring is when the first number people see shapes how they judge everything after.",
+        "explain": "A high first price makes later prices seem cheap. Even random numbers can act as anchors. Sellers use it with 'was €200, now €120', and negotiators open with an ambitious first offer.",
+        "example": "A menu lists a €60 steak at the top. The €28 pasta now looks reasonable, so more people order it.",
+        "why": "Anchors shape what customers think is a fair price, and the first offer in a negotiation often sets the range.",
+        "mixup": "An anchor does not have to be believable to work. Even an obviously high number pulls guesses toward it."
+      },
+      "bs": {
+        "one": "Anchoring (efekat sidra) je kad prvi broj koji ljudi vide oblikuje kako procjenjuju sve poslije.",
+        "explain": "Visoka prva cijena čini kasnije cijene jeftinijim. Čak i nasumični brojevi mogu biti sidro. Prodavci to koriste s 'bilo 200 €, sada 120 €', a pregovarači otvaraju ambicioznom prvom ponudom.",
+        "example": "Na vrhu menija je biftek za 60 €. Pasta za 28 € sada izgleda razumno, pa je više ljudi naruči.",
+        "why": "Sidra oblikuju šta kupci smatraju fer cijenom, a prva ponuda u pregovorima često postavi okvir.",
+        "mixup": "Sidro ne mora biti uvjerljivo da bi radilo. Čak i očito previsok broj vuče procjene prema sebi."
+      }
+    },
+    {
+      "slug": "sunk-cost",
+      "term": "Sunk cost fallacy",
+      "local": "zamka nepovratnog troška",
+      "minutes": 5,
+      "youtube": "jJajz9n9Oi4",
+      "youtubeQuery": "sunk cost fallacy explained simply",
+      "related": ["Opportunity cost", "Loss aversion", "Marginal thinking"],
+      "en": {
+        "one": "A sunk cost is money or time already spent that you cannot get back. The fallacy is letting it push you to keep going with a bad plan.",
+        "explain": "Good decisions look only at future costs and benefits. What is spent is spent either way. Yet people keep pouring money into failing projects 'because we've already invested so much'.",
+        "example": "You spent €20,000 on an app that customers don't use. Spending another €10,000 'so the first €20,000 isn't wasted' is the sunk cost fallacy.",
+        "why": "Recognising it saves you from throwing good money after bad.",
+        "mixup": "Ignoring sunk costs does not mean ignoring lessons. Learn from what you spent, but don't let it decide what you do next."
+      },
+      "bs": {
+        "one": "Sunk cost (nepovratni trošak) je novac ili vrijeme već potrošeno koje ne možeš vratiti. Zamka je kad te to tjera da nastaviš s lošim planom.",
+        "explain": "Dobre odluke gledaju samo buduće troškove i koristi. Potrošeno je potrošeno u svakom slučaju. Ipak, ljudi nastave ulijevati novac u projekte koji propadaju 'jer smo već toliko uložili'.",
+        "example": "Potrošio si 20.000 € na aplikaciju koju kupci ne koriste. Potrošiti još 10.000 € 'da prvih 20.000 € ne propadne' je zamka nepovratnog troška.",
+        "why": "Kad je prepoznaš, ne bacaš dobar novac za lošim.",
+        "mixup": "Ignorisati nepovratni trošak ne znači ignorisati lekcije. Uči iz onoga što si potrošio, ali ne daj da to odluči šta radiš dalje."
+      }
+    },
+    {
+      "slug": "nudge",
+      "term": "Nudge",
+      "local": "nudge (blagi podsticaj)",
+      "minutes": 5,
+      "youtube": "H9_74lAfylM",
+      "youtubeQuery": "nudge theory explained simply",
+      "related": ["Default effect", "Incentives", "Choice architecture"],
+      "en": {
+        "one": "A nudge is a small change in how a choice is shown that steers people without forbidding anything.",
+        "explain": "Defaults are the strongest nudge: most people stay with what is pre-selected. Others are reminders, putting healthy food at eye level, or showing what neighbours do. People are still free to choose otherwise.",
+        "example": "When a company makes pension saving the default and staff must opt out, many more people save.",
+        "why": "Small design choices on your website, forms or shop shelves can change what customers do far more than price cuts.",
+        "mixup": "A nudge is not a hidden trick. Tricks that hide costs or make cancelling hard are 'dark patterns' and can be illegal."
+      },
+      "bs": {
+        "one": "Nudge (blagi podsticaj) je mala promjena u načinu prikaza izbora koja usmjerava ljude, a ništa ne zabranjuje.",
+        "explain": "Zadane opcije su najjači nudge: većina ljudi ostane na onome što je unaprijed označeno. Drugi su podsjetnici, zdrava hrana u visini očiju ili prikaz šta rade komšije. Ljudi i dalje slobodno biraju drugačije.",
+        "example": "Kad firma postavi penzionu štednju kao zadanu, a radnici se moraju sami odjaviti, mnogo više ljudi štedi.",
+        "why": "Mali dizajnerski izbori na tvom sajtu, formularima ili policama mogu promijeniti ponašanje kupaca više od sniženja.",
+        "mixup": "Nudge nije skriveni trik. Trikovi koji skrivaju troškove ili otežavaju otkazivanje su 'dark patterns' i mogu biti nezakoniti."
+      }
+    },
+    {
+      "slug": "herd-behaviour",
+      "term": "Herd behaviour & social proof",
+      "local": "ponašanje krda i društveni dokaz",
+      "minutes": 5,
+      "youtube": "n5EBEicC_kc",
+      "youtubeQuery": "social proof and herd behavior explained",
+      "related": ["Nudge", "Bubble", "Marketing"],
+      "en": {
+        "one": "Herd behaviour is when people copy what others do instead of deciding on their own. Social proof is using that: 'others chose this, so it must be good'.",
+        "explain": "When we are unsure, the crowd feels like a safe guide. This drives reviews, 'bestseller' labels and queues outside restaurants. In markets, it can create bubbles when everyone buys because everyone else is buying.",
+        "example": "Two restaurants side by side: the one with a queue gets even more guests, even if the food is the same.",
+        "why": "Reviews, testimonials and customer counts are some of the strongest sales tools you have.",
+        "mixup": "Popular is not the same as good. A crowd can be wrong, as crashes after price bubbles show."
+      },
+      "bs": {
+        "one": "Herd behaviour (ponašanje krda) je kad ljudi kopiraju druge umjesto da sami odluče. Social proof (društveni dokaz) je korištenje toga: 'drugi su ovo izabrali, mora biti dobro'.",
+        "explain": "Kad nismo sigurni, gomila se čini kao siguran vodič. To pokreće recenzije, oznake 'najprodavanije' i redove ispred restorana. Na tržištima može stvoriti balone kad svi kupuju jer svi drugi kupuju.",
+        "example": "Dva restorana jedan do drugog: onaj s redom dobije još više gostiju, iako je hrana ista.",
+        "why": "Recenzije, preporuke i broj kupaca su neki od najjačih alata prodaje koje imaš.",
+        "mixup": "Popularno nije isto što i dobro. Gomila može griješiti, kao što pokazuju padovi nakon cjenovnih balona."
+      }
+    },
+    {
+      "slug": "scarcity-heuristic",
+      "term": "Scarcity effect",
+      "local": "efekat oskudice",
+      "minutes": 4,
+      "youtube": "8sfKUnu-vuQ",
+      "youtubeQuery": "scarcity principle marketing explained",
+      "related": ["Loss aversion", "Herd behaviour & social proof", "Pricing"],
+      "en": {
+        "one": "The scarcity effect is when people want something more because it seems rare or about to run out.",
+        "explain": "'Only 2 left', 'offer ends tonight' and limited editions all use it. Scarcity makes us fear missing out and decide faster, often with less thinking.",
+        "example": "A hotel site shows 'Only 1 room left at this price!' and you book within minutes.",
+        "why": "Honest scarcity, like real limited stock, can boost sales, and knowing the trick helps you resist it as a buyer.",
+        "mixup": "Do not confuse this with scarcity in economics, which simply means resources are limited. This is a feeling that makes things seem more valuable."
+      },
+      "bs": {
+        "one": "Scarcity effect (efekat oskudice) je kad ljudi nešto više žele jer izgleda rijetko ili pred nestankom.",
+        "explain": "'Još samo 2', 'ponuda ističe večeras' i ograničena izdanja to koriste. Oskudica izaziva strah da ćemo propustiti i tjera nas da brže odlučimo, često uz manje razmišljanja.",
+        "example": "Sajt hotela pokaže 'Još samo 1 soba po ovoj cijeni!' i ti rezervišeš za par minuta.",
+        "why": "Iskrena oskudica, kao stvarno ograničene zalihe, može povećati prodaju, a kad znaš trik, lakše mu odoliš kao kupac.",
+        "mixup": "Ne miješaj ovo s oskudicom u ekonomiji, koja samo znači da su resursi ograničeni. Ovo je osjećaj zbog kojeg stvari izgledaju vrijednije."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "You've spent €20,000 on a failing project. What should decide whether you spend €10,000 more?",
+        "bs": "Potrošio si 20.000 € na projekat koji propada. Šta treba odlučiti da li ćeš potrošiti još 10.000 €?"
+      },
+      "options": [
+        { "en": "The €20,000 already spent", "bs": "Već potrošenih 20.000 €" },
+        { "en": "How embarrassing it is to stop", "bs": "Koliko je neugodno stati" },
+        { "en": "Only future costs and benefits", "bs": "Samo budući troškovi i koristi" }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "The €20,000 is a sunk cost. It is gone either way, so only the future counts.",
+        "bs": "20.000 € je nepovratni trošak. Nema ga u svakom slučaju, pa se računa samo budućnost."
+      }
+    },
+    {
+      "q": {
+        "en": "A shop shows 'was €200, now €120'. Which effect does the €200 use?",
+        "bs": "Radnja pokaže 'bilo 200 €, sada 120 €'. Koji efekat koristi tih 200 €?"
+      },
+      "options": [
+        { "en": "Comparative advantage", "bs": "Komparativna prednost" },
+        { "en": "Deflation", "bs": "Deflacija" },
+        { "en": "Anchoring", "bs": "Efekat sidra" }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "The first number (€200) becomes an anchor that makes €120 feel cheap.",
+        "bs": "Prvi broj (200 €) postaje sidro zbog kojeg 120 € izgleda jeftino."
+      }
+    },
+    {
+      "q": {
+        "en": "Pension saving is set as the default and staff must opt out. Many more people save. This is…",
+        "bs": "Penziona štednja je postavljena kao zadana, a radnici se moraju odjaviti. Mnogo više ljudi štedi. To je…"
+      },
+      "options": [
+        { "en": "A tax", "bs": "Porez" },
+        { "en": "A ban", "bs": "Zabrana" },
+        { "en": "A nudge", "bs": "Nudge (blagi podsticaj)" }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "Changing the default steers behaviour without removing choice: a nudge.",
+        "bs": "Promjena zadane opcije usmjerava ponašanje bez oduzimanja izbora: to je nudge."
+      }
+    },
+    {
+      "q": {
+        "en": "Why do free trials convert so well?",
+        "bs": "Zašto besplatne probe tako dobro pretvaraju korisnike u kupce?"
+      },
+      "options": [
+        { "en": "Trials are always better products", "bs": "Probe su uvijek bolji proizvodi" },
+        {
+          "en": "Cancelling feels like losing something you have",
+          "bs": "Otkazivanje se čini kao gubitak nečega što imaš"
+        },
+        { "en": "People forget prices", "bs": "Ljudi zaborave cijene" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Loss aversion: once you have it, giving it up hurts more than not having had it.",
+        "bs": "Averzija prema gubitku: kad nešto imaš, odricanje boli više nego da ga nikad nisi imao."
+      }
+    }
+  ]
+}

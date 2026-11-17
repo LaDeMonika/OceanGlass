@@ -1,0 +1,220 @@
+{
+  "slug": "market-types",
+  "title": { "en": "Market types & competition", "bs": "Vrste tržišta i konkurencija" },
+  "summary": {
+    "en": "How many competitors you have changes everything: your prices, your profits and your strategy.",
+    "bs": "Broj konkurenata mijenja sve: tvoje cijene, dobit i strategiju."
+  },
+  "concepts": [
+    {
+      "slug": "perfect-competition",
+      "term": "Perfect competition",
+      "local": "savršena konkurencija",
+      "minutes": 5,
+      "youtube": "kYiO6XTLjJI",
+      "youtubeQuery": "perfect competition explained simply",
+      "related": ["Monopoly", "Market price", "Commodity"],
+      "en": {
+        "one": "Perfect competition is a market with many sellers of the same product, where no one can set the price.",
+        "explain": "Each seller is small, products are nearly identical, and buyers can easily switch. If one seller charges more, buyers go elsewhere. Profits get pushed down to just enough to stay in business. Wheat, currencies and many farm products come close.",
+        "example": "At a market with 30 potato stalls selling the same potatoes, no stall can charge €2 a kilo when the rest charge €1.",
+        "why": "It shows why selling something identical to everyone else is hard: you can only compete on cost.",
+        "mixup": "Perfect competition is a model, not a real place. Real markets are always somewhat imperfect."
+      },
+      "bs": {
+        "one": "Perfect competition (savršena konkurencija) je tržište s mnogo prodavaca istog proizvoda, gdje niko ne može odrediti cijenu.",
+        "explain": "Svaki prodavac je mali, proizvodi su skoro isti, a kupci lako mijenjaju prodavca. Ako neko naplati više, kupci odu drugdje. Dobit se spusti tek toliko da se može opstati. Pšenica, valute i mnogi poljoprivredni proizvodi su blizu toga.",
+        "example": "Na pijaci s 30 tezgi istog krompira nijedna tezga ne može naplatiti 2 € za kilo kad ostali traže 1 €.",
+        "why": "Pokazuje zašto je teško prodavati isto što i svi ostali: možeš se takmičiti samo troškom.",
+        "mixup": "Savršena konkurencija je model, a ne stvarno mjesto. Prava tržišta su uvijek pomalo nesavršena."
+      }
+    },
+    {
+      "slug": "monopoly",
+      "term": "Monopoly",
+      "local": "monopol",
+      "minutes": 5,
+      "youtube": "Sb_-wfmJnHA",
+      "youtubeQuery": "monopoly explained simply",
+      "related": ["Barriers to entry", "Perfect competition", "Government regulation"],
+      "en": {
+        "one": "A monopoly is a market with only one seller and no close substitutes.",
+        "explain": "Without competitors, the seller can charge higher prices and offer less. Monopolies come from patents, control of a key resource, huge start-up costs or government licences. Because they can harm customers, competition authorities watch and limit them.",
+        "example": "A town has one water company. You cannot switch, so the price and service are controlled by a regulator.",
+        "why": "Understanding monopoly power explains why some companies earn huge profits and why governments step in.",
+        "mixup": "A big company is not automatically a monopoly. What matters is whether customers have real alternatives."
+      },
+      "bs": {
+        "one": "Monopoly (monopol) je tržište sa samo jednim prodavcem i bez bliskih zamjena.",
+        "explain": "Bez konkurenata prodavac može naplaćivati više cijene i nuditi manje. Monopoli nastaju iz patenata, kontrole ključnog resursa, ogromnih početnih troškova ili državnih dozvola. Pošto mogu štetiti kupcima, tijela za zaštitu konkurencije ih prate i ograničavaju.",
+        "example": "Grad ima jednu vodovodnu firmu. Ne možeš promijeniti dobavljača, pa cijenu i uslugu kontroliše regulator.",
+        "why": "Razumijevanje monopolske moći objašnjava zašto neke firme imaju ogromnu dobit i zašto država intervenira.",
+        "mixup": "Velika firma nije automatski monopol. Važno je imaju li kupci prave alternative."
+      }
+    },
+    {
+      "slug": "oligopoly",
+      "term": "Oligopoly",
+      "local": "oligopol",
+      "minutes": 5,
+      "youtube": "aMYdkalJriM",
+      "youtubeQuery": "oligopoly explained simply",
+      "related": ["Monopoly", "Barriers to entry", "Game theory"],
+      "en": {
+        "one": "An oligopoly is a market controlled by a few large sellers who watch each other closely.",
+        "explain": "Mobile networks, airlines, supermarkets and car makers are typical. Each firm's moves depend on what the others do: if one cuts prices, the rest often follow. Secretly agreeing on prices (a cartel) is illegal.",
+        "example": "A country has three mobile operators. When one launches a cheaper plan, the other two respond within weeks.",
+        "why": "Many of the markets you buy and sell in are oligopolies, so rivals' reactions must be part of every plan.",
+        "mixup": "Few competitors does not mean no competition. Oligopolies can fight hard on service, brand and price."
+      },
+      "bs": {
+        "one": "Oligopoly (oligopol) je tržište koje kontroliše nekoliko velikih prodavaca koji se pažljivo prate.",
+        "explain": "Mobilni operateri, avio-kompanije, supermarketi i proizvođači auta su tipični. Potezi svake firme zavise od drugih: ako jedna spusti cijene, ostale često prate. Tajni dogovor o cijenama (kartel) je nezakonit.",
+        "example": "Država ima tri mobilna operatera. Kad jedan pokrene jeftiniju tarifu, druga dva odgovore za nekoliko sedmica.",
+        "why": "Mnoga tržišta na kojima kupuješ i prodaješ su oligopoli, pa reakcije rivala moraju biti dio svakog plana.",
+        "mixup": "Malo konkurenata ne znači bez konkurencije. Oligopoli se mogu žestoko boriti uslugom, brendom i cijenom."
+      }
+    },
+    {
+      "slug": "monopolistic-competition",
+      "term": "Monopolistic competition",
+      "local": "monopolistička konkurencija",
+      "minutes": 5,
+      "youtube": "xic-Mqjii58",
+      "youtubeQuery": "monopolistic competition explained",
+      "related": ["Brand", "Perfect competition", "Positioning"],
+      "en": {
+        "one": "Monopolistic competition is a market with many sellers whose products are a bit different from each other.",
+        "explain": "Restaurants, hair salons, clothing brands and cafés live here. Each has a small 'monopoly' over its own style, location or brand, so it can charge a little more, but customers can still switch easily.",
+        "example": "Ten cafés on one street. One has better coffee and a nicer terrace and charges €0.30 more, and still stays full.",
+        "why": "This is where most small businesses compete, so being different matters more than being cheapest.",
+        "mixup": "Being different only helps if customers notice and care about the difference."
+      },
+      "bs": {
+        "one": "Monopolistic competition (monopolistička konkurencija) je tržište s mnogo prodavaca čiji su proizvodi malo drugačiji.",
+        "explain": "Restorani, frizerski saloni, modni brendovi i kafići žive ovdje. Svaki ima mali 'monopol' nad svojim stilom, lokacijom ili brendom, pa može naplatiti malo više, ali kupci i dalje lako mijenjaju.",
+        "example": "Deset kafića u jednoj ulici. Jedan ima bolju kafu i ljepšu terasu, naplaćuje 0,30 € više i i dalje je pun.",
+        "why": "Ovdje se takmiči većina malih firmi, pa je biti drugačiji važnije nego biti najjeftiniji.",
+        "mixup": "Biti drugačiji pomaže samo ako kupci primijete razliku i ako im je važna."
+      }
+    },
+    {
+      "slug": "barriers-to-entry",
+      "term": "Barriers to entry",
+      "local": "prepreke ulasku na tržište",
+      "minutes": 5,
+      "youtube": "3azFZRK-dQo",
+      "youtubeQuery": "barriers to entry explained simply",
+      "related": ["Monopoly", "Economies of scale", "Competitive advantage"],
+      "en": {
+        "one": "Barriers to entry are things that make it hard for new competitors to start in a market.",
+        "explain": "High start-up costs, licences, patents, strong brands, control of shops or suppliers, and big players' low costs all keep newcomers out. Low barriers mean many new rivals; high barriers protect existing firms' profits.",
+        "example": "Opening a food truck needs a few thousand euros and a permit (low barrier). Starting an airline needs planes, airport slots and licences (high barrier).",
+        "why": "Before entering a market, ask how easy it is for others to copy you. After you enter, ask how you can raise barriers for the next ones.",
+        "mixup": "A low barrier is not always good news for you. If you can enter easily, so can everyone else."
+      },
+      "bs": {
+        "one": "Barriers to entry (prepreke ulasku) su stvari koje otežavaju novim konkurentima da počnu na tržištu.",
+        "explain": "Visoki početni troškovi, dozvole, patenti, jaki brendovi, kontrola prodavnica ili dobavljača i niski troškovi velikih igrača drže nove učesnike vani. Niske prepreke znače mnogo novih rivala; visoke štite dobit postojećih firmi.",
+        "example": "Za food truck treba nekoliko hiljada eura i dozvola (niska prepreka). Za avio-kompaniju trebaju avioni, termini na aerodromima i licence (visoka prepreka).",
+        "why": "Prije ulaska na tržište pitaj koliko te drugi lako mogu kopirati. Nakon ulaska pitaj kako da podigneš prepreke za sljedeće.",
+        "mixup": "Niska prepreka nije uvijek dobra vijest za tebe. Ako ti lako uđeš, mogu i svi ostali."
+      }
+    },
+    {
+      "slug": "economies-of-scale",
+      "term": "Economies of scale",
+      "local": "ekonomija obima",
+      "minutes": 5,
+      "youtube": "eBcfViUhJks",
+      "youtubeQuery": "economies of scale explained simply",
+      "related": ["Fixed vs. variable costs", "Barriers to entry", "Unit economics"],
+      "en": {
+        "one": "Economies of scale means the cost of each unit falls as you produce more.",
+        "explain": "Fixed costs like machines, software and rent are spread over more units, and big buyers get better prices from suppliers. That is why large firms can often sell cheaper. Past a certain size, costs can rise again because of complexity: diseconomies of scale.",
+        "example": "A bakery making 200 loaves a day spends €0.80 per loaf. At 2,000 loaves, with the same oven running all day and flour bought in bulk, it spends €0.50.",
+        "why": "It explains why growth can make a business much more profitable, and why small firms should not fight big ones on price alone.",
+        "mixup": "Bigger is not always cheaper. Some businesses get harder to manage and more expensive per unit as they grow."
+      },
+      "bs": {
+        "one": "Economies of scale (ekonomija obima) znači da trošak svakog komada pada kako proizvodiš više.",
+        "explain": "Fiksni troškovi kao mašine, softver i kirija rasporede se na više komada, a veliki kupci dobiju bolje cijene od dobavljača. Zato velike firme često mogu prodavati jeftinije. Iznad neke veličine troškovi mogu opet rasti zbog složenosti.",
+        "example": "Pekara koja pravi 200 hljebova dnevno troši 0,80 € po hljebu. Na 2.000 hljebova, s istom peći koja radi cijeli dan i brašnom kupljenim na veliko, troši 0,50 €.",
+        "why": "Objašnjava zašto rast može učiniti firmu mnogo profitabilnijom i zašto se male firme ne trebaju boriti s velikima samo cijenom.",
+        "mixup": "Veće nije uvijek jeftinije. Neke firme rastom postaju teže za vođenje i skuplje po komadu."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "A town has one electricity supplier and no alternatives. This is…",
+        "bs": "Grad ima jednog dobavljača struje i nema alternative. Ovo je…"
+      },
+      "options": [
+        { "en": "an oligopoly", "bs": "oligopol" },
+        { "en": "perfect competition", "bs": "savršena konkurencija" },
+        { "en": "a monopoly", "bs": "monopol" }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "One seller with no close substitutes is a monopoly.",
+        "bs": "Jedan prodavac bez bliskih zamjena je monopol."
+      }
+    },
+    {
+      "q": {
+        "en": "Three airlines dominate a route and copy each other's price cuts. This market is…",
+        "bs": "Tri avio-kompanije dominiraju linijom i kopiraju sniženja jedna drugoj. Ovo tržište je…"
+      },
+      "options": [
+        { "en": "monopolistic competition", "bs": "monopolistička konkurencija" },
+        { "en": "a monopoly", "bs": "monopol" },
+        { "en": "an oligopoly", "bs": "oligopol" }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "A few large sellers reacting to each other is the mark of an oligopoly.",
+        "bs": "Nekoliko velikih prodavaca koji reaguju jedni na druge je znak oligopola."
+      }
+    },
+    {
+      "q": {
+        "en": "Why can a big factory often sell cheaper than a small workshop?",
+        "bs": "Zašto velika fabrika često može prodavati jeftinije od male radionice?"
+      },
+      "options": [
+        { "en": "Its products are always worse", "bs": "Njeni proizvodi su uvijek lošiji" },
+        {
+          "en": "Economies of scale spread fixed costs over many units",
+          "bs": "Ekonomija obima raspoređuje fiksne troškove na mnogo komada"
+        },
+        { "en": "It pays no taxes", "bs": "Ne plaća porez" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "More units share the same machines and overheads, so each costs less.",
+        "bs": "Više komada dijeli iste mašine i režije, pa svaki košta manje."
+      }
+    },
+    {
+      "q": {
+        "en": "For a small café on a street with nine others, what matters most?",
+        "bs": "Za mali kafić u ulici s još devet drugih, šta je najvažnije?"
+      },
+      "options": [
+        { "en": "Having the most tables", "bs": "Imati najviše stolova" },
+        {
+          "en": "Being different in a way customers care about",
+          "bs": "Biti drugačiji na način koji je kupcima važan"
+        },
+        { "en": "Being the cheapest", "bs": "Biti najjeftiniji" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "In monopolistic competition, a valued difference lets you charge a bit more and keep customers.",
+        "bs": "U monopolističkoj konkurenciji, cijenjena razlika ti dozvoljava da naplatiš malo više i zadržiš kupce."
+      }
+    }
+  ]
+}

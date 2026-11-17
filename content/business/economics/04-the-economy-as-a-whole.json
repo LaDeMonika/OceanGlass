@@ -1,0 +1,213 @@
+{
+  "slug": "the-economy-as-a-whole",
+  "title": { "en": "The economy as a whole", "bs": "Ekonomija u cjelini" },
+  "summary": {
+    "en": "The big numbers in the news, and what they mean for your business.",
+    "bs": "Veliki brojevi iz vijesti i šta znače za tvoj biznis."
+  },
+  "concepts": [
+    {
+      "slug": "gdp",
+      "term": "GDP",
+      "local": "BDP (bruto domaći proizvod)",
+      "minutes": 5,
+      "youtube": "iLom1WlqwS0",
+      "youtubeQuery": "what is GDP explained simply",
+      "related": ["Recession", "Productivity", "Business cycle"],
+      "en": {
+        "one": "GDP is the total value of everything a country produces in a year. It is the size of the economy.",
+        "explain": "It adds up the value of all final goods and services made inside the country: cars, haircuts, apartments, software. GDP growth shows whether the economy is expanding. GDP per person is often used to compare living standards.",
+        "example": "If a country's GDP grows from €30 billion to €31.5 billion in a year, the economy grew 5%. After inflation, real growth may be smaller.",
+        "why": "A growing economy usually means more customers with money to spend; a shrinking one means tougher sales.",
+        "mixup": "GDP is not happiness or wealth. It does not count unpaid work, pollution or how fairly income is shared."
+      },
+      "bs": {
+        "one": "GDP (BDP, bruto domaći proizvod) je ukupna vrijednost svega što država proizvede u godini. To je veličina ekonomije.",
+        "explain": "Sabere vrijednost svih krajnjih proizvoda i usluga napravljenih u zemlji: auta, šišanja, stanova, softvera. Rast BDP-a pokazuje da li se ekonomija širi. BDP po stanovniku se često koristi za poređenje životnog standarda.",
+        "example": "Ako BDP države naraste s 30 na 31,5 milijardi € za godinu, ekonomija je narasla 5%. Nakon inflacije stvarni rast može biti manji.",
+        "why": "Ekonomija koja raste obično znači više kupaca s novcem za trošenje; ona koja se smanjuje znači težu prodaju.",
+        "mixup": "BDP nije sreća ni bogatstvo. Ne broji neplaćeni rad, zagađenje ni koliko je pravedno raspodijeljen dohodak."
+      }
+    },
+    {
+      "slug": "recession",
+      "term": "Recession",
+      "local": "recesija",
+      "minutes": 5,
+      "youtube": "sTUh-NQ7q3E",
+      "youtubeQuery": "what is a recession explained simply",
+      "related": ["GDP", "Business cycle", "Unemployment"],
+      "en": {
+        "one": "A recession is a period when the economy shrinks instead of growing, usually for at least two quarters in a row.",
+        "explain": "People and firms spend less, sales fall, companies cut jobs and investment, and unemployment rises. Recessions can come from financial crises, sudden shocks like a pandemic, or high interest rates. They usually last months, not years.",
+        "example": "During 2020, many countries' GDP fell sharply as shops closed. Restaurants lost most of their sales for months.",
+        "why": "Businesses with cash reserves and flexible costs survive recessions; those with heavy debt and fixed costs often do not.",
+        "mixup": "A recession is not the end of the economy. Many strong companies were started or grew during recessions."
+      },
+      "bs": {
+        "one": "Recession (recesija) je period kad se ekonomija smanjuje umjesto da raste, obično najmanje dva kvartala zaredom.",
+        "explain": "Ljudi i firme troše manje, prodaja pada, firme smanjuju broj radnika i ulaganja, a nezaposlenost raste. Recesije mogu doći od finansijskih kriza, iznenadnih šokova kao pandemija ili visokih kamata. Obično traju mjesecima, ne godinama.",
+        "example": "Tokom 2020. BDP mnogih zemalja je naglo pao jer su radnje zatvorene. Restorani su mjesecima izgubili većinu prodaje.",
+        "why": "Firme s rezervama novca i fleksibilnim troškovima prežive recesije; one s velikim dugom i fiksnim troškovima često ne.",
+        "mixup": "Recesija nije kraj ekonomije. Mnoge jake firme su pokrenute ili narasle tokom recesija."
+      }
+    },
+    {
+      "slug": "unemployment",
+      "term": "Unemployment",
+      "local": "nezaposlenost",
+      "minutes": 4,
+      "youtube": "FcUKvEKFpRI",
+      "youtubeQuery": "unemployment rate explained simply",
+      "related": ["Recession", "GDP", "Hiring process"],
+      "en": {
+        "one": "The unemployment rate is the share of people who want a job and are looking, but do not have one.",
+        "explain": "It does not count students, retirees or people not looking for work. High unemployment means weak demand and easier hiring; low unemployment means people have money to spend but workers are harder to find and wages rise.",
+        "example": "If 100,000 people are in the labour force and 8,000 are looking for work, the unemployment rate is 8%.",
+        "why": "It tells you how easy it will be to hire, and how much customers might spend.",
+        "mixup": "Low unemployment is not always easy for business. It often means a fight for staff and rising wage costs."
+      },
+      "bs": {
+        "one": "Unemployment rate (stopa nezaposlenosti) je udio ljudi koji žele posao i traže ga, a nemaju ga.",
+        "explain": "Ne broji studente, penzionere ni ljude koji ne traže posao. Visoka nezaposlenost znači slabu potražnju i lakše zapošljavanje; niska znači da ljudi imaju novca za trošenje, ali je radnike teže naći i plate rastu.",
+        "example": "Ako je 100.000 ljudi u radnoj snazi, a 8.000 traži posao, stopa nezaposlenosti je 8%.",
+        "why": "Govori ti koliko će biti lako zaposliti i koliko bi kupci mogli trošiti.",
+        "mixup": "Niska nezaposlenost nije uvijek laka za firme. Često znači borbu za radnike i rast troškova plata."
+      }
+    },
+    {
+      "slug": "business-cycle",
+      "term": "Business cycle",
+      "local": "privredni (poslovni) ciklus",
+      "minutes": 5,
+      "youtube": "NwqP8IcYpYs",
+      "youtubeQuery": "business cycle explained simply",
+      "related": ["Recession", "GDP", "Forecast"],
+      "en": {
+        "one": "The business cycle is the repeating rise and fall of the economy: growth, peak, slowdown, low point, recovery.",
+        "explain": "Economies do not grow in a straight line. Good times bring more spending and borrowing until things overheat; then spending falls until the economy recovers again. The length of each phase varies.",
+        "example": "Construction booms when credit is cheap and the economy grows, then slows sharply when rates rise and buyers pull back.",
+        "why": "Planning for the down phase while times are good is what keeps a business alive through the whole cycle.",
+        "mixup": "Nobody can predict the exact timing of the next turn. Plan for it, but do not bet everything on guessing it."
+      },
+      "bs": {
+        "one": "Business cycle (privredni ciklus) je ponavljajući rast i pad ekonomije: rast, vrhunac, usporavanje, dno, oporavak.",
+        "explain": "Ekonomije ne rastu pravolinijski. Dobra vremena donose više trošenja i zaduživanja dok se stvari ne pregriju; onda trošenje pada dok se ekonomija opet ne oporavi. Dužina svake faze varira.",
+        "example": "Građevina cvjeta kad su krediti jeftini i ekonomija raste, a onda naglo uspori kad kamate porastu i kupci se povuku.",
+        "why": "Planiranje za lošu fazu dok su vremena dobra je ono što firmu drži živom kroz cijeli ciklus.",
+        "mixup": "Niko ne može predvidjeti tačno vrijeme sljedećeg preokreta. Planiraj za njega, ali ne kladi se sve na pogađanje."
+      }
+    },
+    {
+      "slug": "productivity",
+      "term": "Productivity",
+      "local": "produktivnost",
+      "minutes": 4,
+      "youtube": "UHiUYj5EA0w",
+      "youtubeQuery": "productivity economics explained simply",
+      "related": ["GDP", "Economies of scale", "Operations"],
+      "en": {
+        "one": "Productivity is how much output you get from each hour of work or each euro of input.",
+        "explain": "Better tools, skills, processes and technology let people produce more in the same time. Over the long run, rising productivity is the main reason wages and living standards rise.",
+        "example": "A bookkeeper using good software processes 400 invoices a day instead of 150. Same hours, more output.",
+        "why": "Higher productivity lets you pay better wages and still keep prices competitive.",
+        "mixup": "Productivity is not working longer hours. It is getting more done in the same hours."
+      },
+      "bs": {
+        "one": "Productivity (produktivnost) je koliko rezultata dobiješ iz svakog sata rada ili svakog eura ulaganja.",
+        "explain": "Bolji alati, vještine, procesi i tehnologija omogućavaju ljudima da proizvedu više u istom vremenu. Dugoročno, rast produktivnosti je glavni razlog zašto rastu plate i životni standard.",
+        "example": "Knjigovođa s dobrim softverom obradi 400 faktura dnevno umjesto 150. Isti sati, više rezultata.",
+        "why": "Veća produktivnost ti omogućava da plaćaš bolje plate, a da cijene ostanu konkurentne.",
+        "mixup": "Produktivnost nije duži rad. To je postići više u istim satima."
+      }
+    },
+    {
+      "slug": "cpi",
+      "term": "Consumer price index (CPI)",
+      "local": "indeks potrošačkih cijena",
+      "minutes": 4,
+      "youtube": "lDVx_K9EE2g",
+      "youtubeQuery": "consumer price index CPI explained simply",
+      "related": ["Inflation", "Central bank", "Business cycle"],
+      "en": {
+        "one": "The CPI tracks the price of a typical 'shopping basket' over time. Its yearly change is the official inflation rate.",
+        "explain": "Statisticians check the prices of hundreds of everyday things like food, rent, fuel, clothes and services each month. If the basket costs 4% more than a year ago, inflation is 4%.",
+        "example": "Last year the basket cost €1,000; now it costs €1,035. Inflation is 3.5%.",
+        "why": "Contracts, wages, rents and pensions are often adjusted by CPI, so it directly affects your costs.",
+        "mixup": "Your own costs may rise faster or slower than the CPI. A café feels coffee and energy prices more than the average basket."
+      },
+      "bs": {
+        "one": "CPI (indeks potrošačkih cijena) prati cijenu tipične 'potrošačke korpe' kroz vrijeme. Njegova godišnja promjena je zvanična stopa inflacije.",
+        "explain": "Statističari svaki mjesec provjeravaju cijene stotina svakodnevnih stvari kao što su hrana, kirija, gorivo, odjeća i usluge. Ako korpa košta 4% više nego prije godinu, inflacija je 4%.",
+        "example": "Prošle godine korpa je koštala 1.000 €; sada košta 1.035 €. Inflacija je 3,5%.",
+        "why": "Ugovori, plate, kirije i penzije se često usklađuju po CPI, pa direktno utiče na tvoje troškove.",
+        "mixup": "Tvoji troškovi mogu rasti brže ili sporije od CPI. Kafić više osjeti cijene kafe i energije nego prosječna korpa."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": { "en": "What does GDP measure?", "bs": "Šta mjeri BDP?" },
+      "options": [
+        { "en": "How happy people are", "bs": "Koliko su ljudi sretni" },
+        {
+          "en": "The total value of everything a country produces in a year",
+          "bs": "Ukupnu vrijednost svega što država proizvede u godini"
+        },
+        { "en": "The money the government has", "bs": "Novac koji ima vlada" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "GDP is the size of the economy, not wealth or wellbeing.",
+        "bs": "BDP je veličina ekonomije, a ne bogatstvo ili dobrobit."
+      }
+    },
+    {
+      "q": {
+        "en": "In a recession, which business is most at risk?",
+        "bs": "U recesiji, koja firma je najugroženija?"
+      },
+      "options": [
+        {
+          "en": "One with heavy debt and high fixed costs",
+          "bs": "Ona s velikim dugom i visokim fiksnim troškovima"
+        },
+        {
+          "en": "One with cash reserves and flexible costs",
+          "bs": "Ona s rezervama novca i fleksibilnim troškovima"
+        }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "When sales fall, debt payments and fixed costs stay, draining cash quickly.",
+        "bs": "Kad prodaja padne, rate i fiksni troškovi ostaju i brzo troše novac."
+      }
+    },
+    {
+      "q": {
+        "en": "Labour force 50,000; 3,000 looking for work. What is the unemployment rate?",
+        "bs": "Radna snaga 50.000; 3.000 traži posao. Kolika je stopa nezaposlenosti?"
+      },
+      "options": [
+        { "en": "3%", "bs": "3%" },
+        { "en": "60%", "bs": "60%" },
+        { "en": "6%", "bs": "6%" }
+      ],
+      "answer": 2,
+      "explain": { "en": "3,000 ÷ 50,000 = 6%.", "bs": "3.000 ÷ 50.000 = 6%." }
+    },
+    {
+      "q": {
+        "en": "The CPI basket costs €2,000 last year and €2,080 now. What is inflation?",
+        "bs": "Korpa CPI je prošle godine koštala 2.000 €, a sada 2.080 €. Kolika je inflacija?"
+      },
+      "options": [
+        { "en": "4%", "bs": "4%" },
+        { "en": "8%", "bs": "8%" },
+        { "en": "80%", "bs": "80%" }
+      ],
+      "answer": 0,
+      "explain": { "en": "80 ÷ 2,000 = 4%.", "bs": "80 ÷ 2.000 = 4%." }
+    }
+  ]
+}

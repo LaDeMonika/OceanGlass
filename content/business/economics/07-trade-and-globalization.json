@@ -1,0 +1,216 @@
+{
+  "slug": "trade-and-globalization",
+  "title": { "en": "Trade & globalization", "bs": "Trgovina i globalizacija" },
+  "summary": {
+    "en": "Why countries trade, what tariffs do, and how global supply chains work.",
+    "bs": "Zašto zemlje trguju, šta rade carine i kako rade globalni lanci snabdijevanja."
+  },
+  "concepts": [
+    {
+      "slug": "comparative-advantage",
+      "term": "Comparative advantage",
+      "local": "komparativna prednost",
+      "minutes": 6,
+      "youtube": "U12yZXBmQmY",
+      "youtubeQuery": "comparative advantage explained simply",
+      "related": ["Opportunity cost", "Specialization", "Trade balance"],
+      "en": {
+        "one": "Comparative advantage means you should do what you give up the least to do, and trade for the rest.",
+        "explain": "Even if one country is better at everything, both gain when each focuses on what it is relatively best at. What matters is the opportunity cost, not who is fastest. The same works for people: a lawyer who types fast still hires an assistant.",
+        "example": "A founder can do sales and bookkeeping better than anyone else on the team. Still, the firm gains when the founder sells and an accountant handles the books.",
+        "why": "It explains why trade and specialisation make everyone richer, and helps you decide what to outsource.",
+        "mixup": "Comparative advantage is not the same as being the best (absolute advantage). You can have a comparative advantage without being best at anything."
+      },
+      "bs": {
+        "one": "Comparative advantage (komparativna prednost) znači da trebaš raditi ono za šta se najmanje odričeš, a ostalo nabaviti trgovinom.",
+        "explain": "Čak i ako je jedna zemlja bolja u svemu, obje dobijaju kad se svaka fokusira na ono u čemu je relativno najbolja. Bitan je oportunitetni trošak, ne ko je najbrži. Isto vrijedi za ljude: advokat koji brzo kuca ipak zaposli asistenta.",
+        "example": "Osnivač radi prodaju i knjigovodstvo bolje od ikoga u timu. Ipak, firma dobija kad osnivač prodaje, a knjige vodi računovođa.",
+        "why": "Objašnjava zašto trgovina i specijalizacija sve čine bogatijim i pomaže ti odlučiti šta dati vanjskim saradnicima.",
+        "mixup": "Komparativna prednost nije isto što i biti najbolji (apsolutna prednost). Možeš imati komparativnu prednost a da nisi najbolji ni u čemu."
+      }
+    },
+    {
+      "slug": "trade-balance",
+      "term": "Trade balance",
+      "local": "trgovinski bilans",
+      "minutes": 5,
+      "youtube": "Q54KGAU8QYE",
+      "youtubeQuery": "trade balance deficit surplus explained",
+      "related": ["Imports & exports", "Exchange rate", "GDP"],
+      "en": {
+        "one": "The trade balance is a country's exports minus its imports.",
+        "explain": "If it sells more abroad than it buys, it has a trade surplus; if it buys more, a trade deficit. Both Bosnia and Herzegovina and Croatia import more goods than they export, while Croatia earns a lot from tourism, which counts as a service export.",
+        "example": "A country exports €8 billion and imports €12 billion of goods. Its goods trade deficit is €4 billion.",
+        "why": "It shows where your country's money flows and which industries depend on foreign buyers.",
+        "mixup": "A trade deficit is not automatically bad. It can mean people are buying machines from abroad that will grow the economy."
+      },
+      "bs": {
+        "one": "Trade balance (trgovinski bilans) je izvoz države minus njen uvoz.",
+        "explain": "Ako prodaje više u inostranstvo nego što kupuje, ima trgovinski suficit; ako kupuje više, deficit. I BiH i Hrvatska uvoze više robe nego što izvoze, a Hrvatska puno zarađuje od turizma, koji se računa kao izvoz usluga.",
+        "example": "Zemlja izveze 8 milijardi €, a uveze 12 milijardi € robe. Njen deficit u trgovini robom je 4 milijarde €.",
+        "why": "Pokazuje kuda teče novac tvoje zemlje i koje industrije zavise od stranih kupaca.",
+        "mixup": "Trgovinski deficit nije automatski loš. Može značiti da ljudi kupuju mašine iz inostranstva koje će razviti ekonomiju."
+      }
+    },
+    {
+      "slug": "tariffs",
+      "term": "Tariffs & trade barriers",
+      "local": "carine i trgovinske barijere",
+      "minutes": 5,
+      "youtube": "rEopj_6i7f0",
+      "youtubeQuery": "tariffs explained simply who pays",
+      "related": ["Trade balance", "Free trade", "Prices"],
+      "en": {
+        "one": "A tariff is a tax on goods coming from another country.",
+        "explain": "It makes imports more expensive so local producers can compete. Other barriers are quotas (limits on amounts) and strict paperwork or standards. Tariffs protect some jobs, but buyers usually pay higher prices, and other countries often hit back with their own tariffs.",
+        "example": "A 25% tariff on imported steel makes a €1,000 load cost €1,250, so local car parts makers pay more.",
+        "why": "Tariffs can suddenly raise your costs or shut you out of a market, so watch trade news if you import or export.",
+        "mixup": "The foreign country does not simply 'pay' the tariff. The importer pays it at the border, and part usually ends up in customer prices."
+      },
+      "bs": {
+        "one": "Tariff (carina) je porez na robu koja dolazi iz druge države.",
+        "explain": "Čini uvoz skupljim, da domaći proizvođači mogu konkurisati. Druge barijere su kvote (ograničenja količine) i stroga papirologija ili standardi. Carine štite neka radna mjesta, ali kupci obično plaćaju više, a druge zemlje često uzvrate svojim carinama.",
+        "example": "Carina od 25% na uvozni čelik pretvori tovar od 1.000 € u 1.250 €, pa domaći proizvođači auto-dijelova plaćaju više.",
+        "why": "Carine mogu naglo podići troškove ili te zatvoriti za tržište, pa prati trgovinske vijesti ako uvoziš ili izvoziš.",
+        "mixup": "Strana država ne 'plaća' carinu sama. Plaća je uvoznik na granici, a dio obično završi u cijenama za kupce."
+      }
+    },
+    {
+      "slug": "supply-chain",
+      "term": "Supply chain",
+      "local": "lanac snabdijevanja",
+      "minutes": 5,
+      "youtube": "N8YBFiD_p9k",
+      "youtubeQuery": "supply chain explained simply",
+      "related": ["Logistics", "Inventory", "Globalization"],
+      "en": {
+        "one": "A supply chain is every step and company needed to get a product from raw materials to the customer.",
+        "explain": "A T-shirt might use cotton from India, be sewn in Bangladesh, shipped through Rotterdam and sold in Sarajevo. Global chains cut costs, but one broken link, like a closed port or a war, can stop everything.",
+        "example": "In 2021 a chip shortage stopped car factories in Europe for months, because one small part was missing.",
+        "why": "Knowing your supply chain helps you avoid running out of stock and spot cheaper or safer suppliers.",
+        "mixup": "The cheapest supply chain is not always the best. Very long chains can cost more when things go wrong."
+      },
+      "bs": {
+        "one": "Supply chain (lanac snabdijevanja) je svaki korak i firma potrebna da proizvod stigne od sirovine do kupca.",
+        "explain": "Majica može koristiti pamuk iz Indije, biti sašivena u Bangladešu, poslana preko Rotterdama i prodana u Sarajevu. Globalni lanci smanjuju troškove, ali jedna pokidana karika, npr. zatvorena luka ili rat, može sve zaustaviti.",
+        "example": "2021. nestašica čipova zaustavila je fabrike automobila u Evropi mjesecima, jer je falio jedan mali dio.",
+        "why": "Kad poznaješ svoj lanac snabdijevanja, lakše izbjegneš nestašicu robe i nađeš jeftinije ili sigurnije dobavljače.",
+        "mixup": "Najjeftiniji lanac nije uvijek najbolji. Vrlo dugi lanci mogu koštati više kad nešto krene naopako."
+      }
+    },
+    {
+      "slug": "fdi-globalization",
+      "term": "Globalization & FDI",
+      "local": "globalizacija i strane direktne investicije",
+      "minutes": 5,
+      "youtube": "QI8zEyplFn4",
+      "youtubeQuery": "globalization and foreign direct investment explained",
+      "related": ["Supply chain", "Comparative advantage", "Exchange rate"],
+      "en": {
+        "one": "Globalization is the world's economies growing closer through trade, investment, people and ideas. FDI (foreign direct investment) is when a company from one country builds or buys a business in another.",
+        "explain": "Firms invest abroad to reach new customers or cheaper production. For the host country, FDI brings jobs, skills and technology, but profits may flow back abroad.",
+        "example": "A German car-parts maker opens a factory near Tuzla and hires 500 people.",
+        "why": "Globalization brings both foreign competitors to your market and foreign customers you can sell to.",
+        "mixup": "FDI is not buying a few shares on the stock market. That is portfolio investment; FDI means lasting control or a real operation."
+      },
+      "bs": {
+        "one": "Globalization (globalizacija) je zbližavanje svjetskih ekonomija kroz trgovinu, investicije, ljude i ideje. FDI (strane direktne investicije) je kad firma iz jedne zemlje gradi ili kupuje posao u drugoj.",
+        "explain": "Firme ulažu u inostranstvo da dođu do novih kupaca ili jeftinije proizvodnje. Zemlji domaćinu FDI donosi poslove, znanje i tehnologiju, ali dobit može otići nazad u inostranstvo.",
+        "example": "Njemački proizvođač auto-dijelova otvori fabriku kod Tuzle i zaposli 500 ljudi.",
+        "why": "Globalizacija donosi i strane konkurente na tvoje tržište i strane kupce kojima možeš prodavati.",
+        "mixup": "FDI nije kupovina par dionica na berzi. To je portfeljna investicija; FDI znači trajnu kontrolu ili stvaran pogon."
+      }
+    },
+    {
+      "slug": "eu-single-market",
+      "term": "EU single market",
+      "local": "jedinstveno tržište EU",
+      "minutes": 5,
+      "youtube": "cOUig3vE1JU",
+      "youtubeQuery": "EU single market explained simply",
+      "related": ["Tariffs & trade barriers", "Free trade", "Regulation"],
+      "en": {
+        "one": "The EU single market lets goods, services, money and people move between member countries almost as freely as within one country.",
+        "explain": "There are no tariffs or border checks for goods inside it, and products follow shared rules. Croatia is inside; Bosnia and Herzegovina is not a member but trades with the EU under a Stabilisation and Association Agreement that removed most tariffs on industrial goods.",
+        "example": "A Zagreb startup can sell to customers in Austria with no customs paperwork, as if selling in Split.",
+        "why": "The EU is the region's biggest market. Knowing its rules (like CE marks or GDPR) opens doors to 450 million customers.",
+        "mixup": "The single market is not the same as the euro. Some EU members, like Poland, are in the single market but use their own currency."
+      },
+      "bs": {
+        "one": "EU single market (jedinstveno tržište EU) omogućava da roba, usluge, novac i ljudi idu između članica skoro jednako slobodno kao unutar jedne zemlje.",
+        "explain": "Unutar njega nema carina ni graničnih kontrola za robu, a proizvodi prate zajednička pravila. Hrvatska je unutra; BiH nije članica, ali trguje s EU po Sporazumu o stabilizaciji i pridruživanju, koji je ukinuo većinu carina na industrijsku robu.",
+        "example": "Startup iz Zagreba može prodavati kupcima u Austriji bez carinskih papira, kao da prodaje u Splitu.",
+        "why": "EU je najveće tržište u regiji. Kad znaš njegova pravila (npr. CE oznaku ili GDPR), otvaraš vrata za 450 miliona kupaca.",
+        "mixup": "Jedinstveno tržište nije isto što i euro. Neke članice EU, kao Poljska, su na jedinstvenom tržištu, ali imaju svoju valutu."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "A country exports €8 billion and imports €12 billion. What is its trade balance?",
+        "bs": "Zemlja izveze 8 milijardi €, a uveze 12 milijardi €. Koliki je trgovinski bilans?"
+      },
+      "options": [
+        { "en": "€20 billion", "bs": "20 milijardi €" },
+        { "en": "A €4 billion surplus", "bs": "Suficit od 4 milijarde €" },
+        { "en": "A €4 billion deficit", "bs": "Deficit od 4 milijarde €" }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "Exports minus imports = 8 − 12 = −4, so a €4 billion deficit.",
+        "bs": "Izvoz minus uvoz = 8 − 12 = −4, dakle deficit od 4 milijarde €."
+      }
+    },
+    {
+      "q": {
+        "en": "A 20% tariff is put on imported bikes. Who usually ends up paying most of it?",
+        "bs": "Na uvozne bicikle se uvede carina od 20%. Ko je obično na kraju najviše plati?"
+      },
+      "options": [
+        { "en": "Nobody, it is a symbolic tax", "bs": "Niko, to je simboličan porez" },
+        { "en": "Local buyers, through higher prices", "bs": "Domaći kupci, kroz više cijene" },
+        { "en": "The foreign government", "bs": "Strana vlada" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "The importer pays at the border and passes much of it on in prices.",
+        "bs": "Uvoznik plaća na granici i veliki dio prebaci na cijene."
+      }
+    },
+    {
+      "q": {
+        "en": "A founder is better than the accountant at both selling and bookkeeping. What should the founder do?",
+        "bs": "Osnivač je bolji od računovođe i u prodaji i u knjigovodstvu. Šta osnivač treba raditi?"
+      },
+      "options": [
+        { "en": "Do both jobs alone", "bs": "Raditi oba posla sam" },
+        {
+          "en": "Focus on selling and let the accountant keep the books",
+          "bs": "Fokusirati se na prodaju, a knjige prepustiti računovođi"
+        }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Comparative advantage: the founder gives up most by not selling, so both gain from specialising.",
+        "bs": "Komparativna prednost: osnivač najviše gubi kad ne prodaje, pa oboje dobijaju specijalizacijom."
+      }
+    },
+    {
+      "q": { "en": "Which is foreign direct investment?", "bs": "Šta je strana direktna investicija?" },
+      "options": [
+        { "en": "A tourist spending €500 on holiday", "bs": "Turista potroši 500 € na odmoru" },
+        { "en": "An Austrian bank buying a local bank", "bs": "Austrijska banka kupi domaću banku" },
+        {
+          "en": "Buying 10 shares of a foreign company online",
+          "bs": "Kupovina 10 dionica strane firme online"
+        }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "FDI means lasting control or a real operation in another country.",
+        "bs": "FDI znači trajnu kontrolu ili stvaran pogon u drugoj zemlji."
+      }
+    }
+  ]
+}

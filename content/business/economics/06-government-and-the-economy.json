@@ -1,0 +1,216 @@
+{
+  "slug": "government-and-the-economy",
+  "title": { "en": "Government & the economy", "bs": "Država i ekonomija" },
+  "summary": {
+    "en": "How taxes, public spending, debt and rules shape the market you work in.",
+    "bs": "Kako porezi, javna potrošnja, dug i pravila oblikuju tržište na kojem radiš."
+  },
+  "concepts": [
+    {
+      "slug": "taxes-economy",
+      "term": "Taxes in the economy",
+      "local": "porezi u ekonomiji",
+      "minutes": 5,
+      "youtube": "s8REEj5ljb8",
+      "youtubeQuery": "why do governments collect taxes explained",
+      "related": ["VAT", "Government budget", "Fiscal policy"],
+      "en": {
+        "one": "Taxes are money the state collects from people and firms to pay for public services.",
+        "explain": "The main types are taxes on income (salaries and profits), on spending (VAT/PDV) and on property. They pay for roads, schools, hospitals and pensions. Taxes also change behaviour: high taxes on tobacco make people smoke less.",
+        "example": "A café in Mostar pays 17% PDV on sales, 10% profit tax, and payroll contributions for its staff.",
+        "why": "Taxes are one of your biggest costs, so they shape prices, wages and where you set up a business.",
+        "mixup": "Lower tax rates do not always mean less tax collected. If they bring more business activity, total tax income can stay similar."
+      },
+      "bs": {
+        "one": "Taxes (porezi) su novac koji država skuplja od ljudi i firmi da plati javne usluge.",
+        "explain": "Glavne vrste su porezi na dohodak (plate i dobit), na potrošnju (PDV) i na imovinu. Iz njih se plaćaju putevi, škole, bolnice i penzije. Porezi mijenjaju i ponašanje: visoki porezi na duhan smanjuju pušenje.",
+        "example": "Kafić u Mostaru plaća 17% PDV-a na prodaju, 10% poreza na dobit i doprinose za radnike.",
+        "why": "Porezi su jedan od najvećih troškova, pa utiču na cijene, plate i to gdje otvaraš firmu.",
+        "mixup": "Niže porezne stope ne znače uvijek manje prikupljenog poreza. Ako donesu više poslovanja, ukupni prihod od poreza može ostati sličan."
+      }
+    },
+    {
+      "slug": "budget-deficit",
+      "term": "Budget deficit",
+      "local": "budžetski deficit",
+      "minutes": 5,
+      "youtube": "1cYsDFSwKVw",
+      "youtubeQuery": "government budget deficit explained simply",
+      "related": ["Public debt", "Taxes in the economy", "Fiscal policy"],
+      "en": {
+        "one": "A budget deficit is when the government spends more in a year than it collects in taxes.",
+        "explain": "The gap is covered by borrowing. A surplus is the opposite: more income than spending. Deficits are common in recessions, when tax income falls and support spending rises. The EU rule of thumb is to keep the deficit under 3% of GDP.",
+        "example": "A country collects €20 billion and spends €21 billion this year. The €1 billion deficit is borrowed and adds to public debt.",
+        "why": "Big deficits can lead to future tax rises or spending cuts, which affect your customers and costs.",
+        "mixup": "A deficit is one year's gap. Debt is the total of all past gaps still unpaid."
+      },
+      "bs": {
+        "one": "Budget deficit (budžetski deficit) je kad država u godini potroši više nego što prikupi od poreza.",
+        "explain": "Razlika se pokriva zaduživanjem. Suficit je suprotno: više prihoda nego rashoda. Deficiti su česti u recesiji, kad porezi padaju, a pomoć raste. Pravilo EU je držati deficit ispod 3% BDP-a.",
+        "example": "Država ove godine prikupi 20 milijardi €, a potroši 21 milijardu €. Deficit od 1 milijarde € se posudi i dodaje javnom dugu.",
+        "why": "Veliki deficiti mogu donijeti buduća povećanja poreza ili rezove, a to utiče na tvoje kupce i troškove.",
+        "mixup": "Deficit je jaz u jednoj godini. Dug je zbir svih prošlih jazova koji još nisu vraćeni."
+      }
+    },
+    {
+      "slug": "public-debt",
+      "term": "Public debt",
+      "local": "javni dug",
+      "minutes": 5,
+      "youtube": "REpXXZiRbYQ",
+      "youtubeQuery": "national debt explained simply",
+      "related": ["Budget deficit", "GDP", "Interest rate"],
+      "en": {
+        "one": "Public debt is the total amount the government owes to lenders, built up from past deficits.",
+        "explain": "It is usually shown as a share of GDP, so you can compare countries of different sizes. Some debt is normal, for example to build roads. The risk is when interest payments grow so big that they crowd out schools, health or investment.",
+        "example": "A country with €50 billion of GDP and €40 billion of debt has debt at 80% of GDP.",
+        "why": "High debt can push up interest rates and taxes in the whole country, including for your loans.",
+        "mixup": "Public debt is not like household debt. A state lives much longer, collects taxes and can roll over debt for decades."
+      },
+      "bs": {
+        "one": "Public debt (javni dug) je ukupan iznos koji država duguje povjeriocima, nastao iz prošlih deficita.",
+        "explain": "Obično se prikazuje kao procenat BDP-a, da se mogu porediti zemlje različite veličine. Nešto duga je normalno, npr. za izgradnju puteva. Rizik je kad kamate postanu toliko velike da istisnu škole, zdravstvo ili investicije.",
+        "example": "Zemlja sa 50 milijardi € BDP-a i 40 milijardi € duga ima dug od 80% BDP-a.",
+        "why": "Visok dug može podići kamate i poreze u cijeloj zemlji, pa i za tvoje kredite.",
+        "mixup": "Javni dug nije kao dug domaćinstva. Država živi mnogo duže, prikuplja poreze i može obnavljati dug decenijama."
+      }
+    },
+    {
+      "slug": "fiscal-vs-monetary",
+      "term": "Fiscal vs. monetary policy",
+      "local": "fiskalna i monetarna politika",
+      "minutes": 6,
+      "youtube": "o0Yt6buayZ4",
+      "youtubeQuery": "fiscal policy vs monetary policy explained",
+      "related": ["Central bank", "Taxes in the economy", "Policy interest rate"],
+      "en": {
+        "one": "Fiscal policy is the government using taxes and spending. Monetary policy is the central bank using interest rates and money.",
+        "explain": "Both try to keep the economy steady. In a slump, the government can cut taxes or spend more (fiscal), and the central bank can cut rates (monetary). In a boom with high inflation, they do the opposite. In BiH, with the currency board, almost all the work falls on fiscal policy.",
+        "example": "During COVID, governments paid wage subsidies (fiscal) while the ECB kept rates near zero (monetary).",
+        "why": "Knowing who pulls which lever helps you read the news and predict changes in demand and credit.",
+        "mixup": "The government does not set interest rates. In the euro area that is the ECB's job, not the ministry of finance."
+      },
+      "bs": {
+        "one": "Fiscal policy (fiskalna politika) je kad država koristi poreze i potrošnju. Monetary policy (monetarna politika) je kad centralna banka koristi kamate i novac.",
+        "explain": "Obje pokušavaju držati ekonomiju stabilnom. U padu država može smanjiti poreze ili više trošiti (fiskalno), a centralna banka spustiti kamate (monetarno). U procvatu s visokom inflacijom rade suprotno. U BiH, zbog valutnog odbora, skoro sav posao pada na fiskalnu politiku.",
+        "example": "Tokom COVID-a vlade su plaćale subvencije za plate (fiskalno), a ECB je držala kamate blizu nule (monetarno).",
+        "why": "Kad znaš ko vuče koju polugu, lakše čitaš vijesti i predviđaš promjene u potražnji i kreditima.",
+        "mixup": "Vlada ne određuje kamatne stope. U eurozoni je to posao ECB-a, a ne ministarstva finansija."
+      }
+    },
+    {
+      "slug": "externalities",
+      "term": "Externalities",
+      "local": "eksternalije",
+      "minutes": 5,
+      "youtube": "2ebO7hazRhI",
+      "youtubeQuery": "externalities explained simply economics",
+      "related": ["Regulation", "Taxes in the economy", "Market failure"],
+      "en": {
+        "one": "An externality is a cost or benefit that hits people who were not part of the deal.",
+        "explain": "A factory that pollutes a river creates a negative externality: fishermen and residents pay, but not in the factory's price. Positive externalities exist too: when you get vaccinated, others are protected. Markets alone make too much of the bad kind and too little of the good kind.",
+        "example": "A bar's loud music late at night costs neighbours their sleep, but that cost is not on anyone's bill.",
+        "why": "Externalities explain many taxes and rules, like CO2 prices, which can land on your costs.",
+        "mixup": "An externality is not just any side effect. It must affect someone outside the buyer-seller deal who did not agree to it."
+      },
+      "bs": {
+        "one": "Externality (eksternalija) je trošak ili korist koja pogodi ljude koji nisu bili dio posla.",
+        "explain": "Fabrika koja zagađuje rijeku stvara negativnu eksternaliju: ribari i mještani plaćaju, ali to nije u cijeni fabrike. Postoje i pozitivne: kad se vakcinišeš, štitiš i druge. Samo tržište pravi previše loših i premalo dobrih.",
+        "example": "Glasna muzika iz bara kasno noću komšijama oduzima san, ali taj trošak nije ni na čijem računu.",
+        "why": "Eksternalije objašnjavaju mnoge poreze i pravila, kao cijenu CO2, koja može pasti na tvoje troškove.",
+        "mixup": "Eksternalija nije bilo kakva nuspojava. Mora pogoditi nekoga izvan dogovora kupca i prodavca, ko na to nije pristao."
+      }
+    },
+    {
+      "slug": "regulation",
+      "term": "Regulation",
+      "local": "regulacija",
+      "minutes": 5,
+      "youtube": "GoEcnaRWRk0",
+      "youtubeQuery": "why governments regulate business explained",
+      "related": ["Externalities", "Monopoly", "Consumer protection"],
+      "en": {
+        "one": "Regulation is rules the state sets for how businesses must work.",
+        "explain": "Rules cover safety, health, the environment, competition, data privacy and consumer rights. Good rules fix market problems, like hidden dangers or monopolies. Too many or unclear rules raise costs and slow new businesses.",
+        "example": "A food business must meet hygiene standards and pass inspections before it can open.",
+        "why": "Rules decide what you may sell, how, and at what extra cost, so you need to know them before you start.",
+        "mixup": "Regulation is not only red tape. Many rules protect honest firms from competitors who would cut corners."
+      },
+      "bs": {
+        "one": "Regulation (regulacija) su pravila koja država postavlja o tome kako firme moraju raditi.",
+        "explain": "Pravila pokrivaju sigurnost, zdravlje, okoliš, konkurenciju, zaštitu podataka i prava potrošača. Dobra pravila rješavaju tržišne probleme, kao skrivene opasnosti ili monopole. Previše ili nejasnih pravila dižu troškove i usporavaju nove firme.",
+        "example": "Firma s hranom mora ispuniti higijenske standarde i proći inspekciju prije otvaranja.",
+        "why": "Pravila određuju šta smiješ prodavati, kako i uz koji dodatni trošak, pa ih moraš znati prije početka.",
+        "mixup": "Regulacija nije samo birokratija. Mnoga pravila štite poštene firme od konkurenata koji bi varali."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "A country spends €21 billion and collects €20 billion in one year. What is the €1 billion?",
+        "bs": "Država u jednoj godini potroši 21 milijardu €, a prikupi 20 milijardi €. Šta je ta 1 milijarda €?"
+      },
+      "options": [
+        { "en": "A surplus", "bs": "Suficit" },
+        { "en": "Public debt", "bs": "Javni dug" },
+        { "en": "A budget deficit", "bs": "Budžetski deficit" }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "Spending more than you collect in one year is a deficit. Debt is the total of past deficits.",
+        "bs": "Kad u jednoj godini potrošiš više nego što prikupiš, to je deficit. Dug je zbir prošlih deficita."
+      }
+    },
+    {
+      "q": {
+        "en": "The government cuts taxes to fight a recession. What kind of policy is this?",
+        "bs": "Vlada smanji poreze da se bori protiv recesije. Koja je to politika?"
+      },
+      "options": [
+        { "en": "Fiscal policy", "bs": "Fiskalna politika" },
+        { "en": "Monetary policy", "bs": "Monetarna politika" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Taxes and public spending are fiscal policy. Interest rates are monetary policy.",
+        "bs": "Porezi i javna potrošnja su fiskalna politika. Kamate su monetarna politika."
+      }
+    },
+    {
+      "q": {
+        "en": "A factory's smoke harms people living nearby, who get nothing from the factory. This is…",
+        "bs": "Dim iz fabrike šteti ljudima u blizini, koji od fabrike nemaju ništa. To je…"
+      },
+      "options": [
+        { "en": "A subsidy", "bs": "Subvencija" },
+        { "en": "Opportunity cost", "bs": "Oportunitetni trošak" },
+        { "en": "A negative externality", "bs": "Negativna eksternalija" }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "The harm falls on people outside the deal, so it is a negative externality.",
+        "bs": "Šteta pada na ljude izvan dogovora, pa je to negativna eksternalija."
+      }
+    },
+    {
+      "q": {
+        "en": "Why is public debt usually shown as a % of GDP?",
+        "bs": "Zašto se javni dug obično prikazuje kao % BDP-a?"
+      },
+      "options": [
+        { "en": "To make the debt look smaller", "bs": "Da dug izgleda manji" },
+        {
+          "en": "To compare countries of different sizes",
+          "bs": "Da se mogu porediti zemlje različite veličine"
+        },
+        { "en": "Because it is required by banks", "bs": "Jer to traže banke" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Debt matters relative to the size of the economy that has to carry it.",
+        "bs": "Dug je važan u odnosu na veličinu ekonomije koja ga mora nositi."
+      }
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "slug": "money-and-central-banks",
+  "title": { "en": "Money & central banks", "bs": "Novac i centralne banke" },
+  "summary": {
+    "en": "Who controls money, how interest rates are set, and why exchange rates matter.",
+    "bs": "Ko kontroliše novac, kako se određuju kamatne stope i zašto su važni kursevi valuta."
+  },
+  "concepts": [
+    {
+      "slug": "central-bank",
+      "term": "Central bank",
+      "local": "centralna banka",
+      "minutes": 5,
+      "youtube": "xWPU0fkJils",
+      "youtubeQuery": "what does a central bank do explained",
+      "related": ["Policy interest rate", "Inflation", "Money supply"],
+      "en": {
+        "one": "A central bank manages a country's money: it tries to keep prices stable and the banking system safe.",
+        "explain": "It sets the key interest rate, supervises banks, and issues the currency. The European Central Bank (ECB) does this for euro countries, including Croatia since 2023. The Central Bank of Bosnia and Herzegovina works differently: it runs a currency board that keeps the KM fixed to the euro.",
+        "example": "When inflation in the euro area rose in 2022, the ECB raised its rates step by step to slow price increases.",
+        "why": "Central bank decisions change loan costs, savings rates and exchange rates, which touch every business.",
+        "mixup": "A central bank is not a normal bank. You cannot open an account there; it is the bank for banks and the state."
+      },
+      "bs": {
+        "one": "Central bank (centralna banka) upravlja novcem države: pokušava držati cijene stabilnim i bankarski sistem sigurnim.",
+        "explain": "Određuje ključnu kamatnu stopu, nadzire banke i izdaje valutu. Evropska centralna banka (ECB) to radi za zemlje eura, uključujući Hrvatsku od 2023. Centralna banka BiH radi drugačije: vodi valutni odbor koji drži KM fiksnom prema euru.",
+        "example": "Kad je inflacija u eurozoni porasla 2022., ECB je korak po korak dizala kamate da uspori rast cijena.",
+        "why": "Odluke centralne banke mijenjaju cijenu kredita, kamate na štednju i kurseve, a to dira svaku firmu.",
+        "mixup": "Centralna banka nije obična banka. Tu ne možeš otvoriti račun; ona je banka za banke i državu."
+      }
+    },
+    {
+      "slug": "policy-rate",
+      "term": "Policy interest rate",
+      "local": "referentna (ključna) kamatna stopa",
+      "minutes": 5,
+      "youtube": "0tVL5QPcRmk",
+      "youtubeQuery": "how central bank interest rates affect the economy",
+      "related": ["Central bank", "Interest rate", "Inflation"],
+      "en": {
+        "one": "The policy rate is the main interest rate a central bank sets. It steers the cost of money in the whole economy.",
+        "explain": "When the central bank raises it, banks pay more to borrow, so loans and mortgages get more expensive and saving pays more. People and firms borrow and spend less, which cools inflation. Cutting the rate does the opposite and supports growth.",
+        "example": "The ECB raises its rate by 0.5 percentage points. A few months later, a business loan offer in Zagreb goes from 5% to 5.5%.",
+        "why": "Rate changes tell you whether borrowing for expansion will get cheaper or more expensive soon.",
+        "mixup": "The policy rate is not the rate you pay. Your loan rate is higher, but it moves in the same direction."
+      },
+      "bs": {
+        "one": "Policy rate (referentna kamatna stopa) je glavna kamatna stopa koju određuje centralna banka. Usmjerava cijenu novca u cijeloj ekonomiji.",
+        "explain": "Kad je centralna banka podigne, bankama je skuplje posuđivati, pa krediti poskupe, a štednja donosi više. Ljudi i firme manje posuđuju i troše, što hladi inflaciju. Spuštanje stope radi suprotno i podržava rast.",
+        "example": "ECB podigne stopu za 0,5 procentnih poena. Nekoliko mjeseci kasnije ponuda za poslovni kredit u Zagrebu ide s 5% na 5,5%.",
+        "why": "Promjene stope ti govore da li će zaduživanje za širenje uskoro biti jeftinije ili skuplje.",
+        "mixup": "Referentna stopa nije stopa koju ti plaćaš. Tvoja kamata je viša, ali se kreće u istom smjeru."
+      }
+    },
+    {
+      "slug": "money-supply",
+      "term": "Money supply",
+      "local": "novčana masa",
+      "minutes": 5,
+      "youtube": "2FkoGzbX67s",
+      "youtubeQuery": "money supply and how banks create money explained",
+      "related": ["Central bank", "Inflation", "Loan"],
+      "en": {
+        "one": "Money supply is all the money in an economy: cash plus money in bank accounts.",
+        "explain": "Most money is not printed; it is created when banks give loans. When you take a €10,000 loan, €10,000 of new money appears in your account. If money grows much faster than the goods and services available, prices tend to rise.",
+        "example": "A boom in housing loans adds billions to bank deposits, and house prices climb.",
+        "why": "It helps you understand why easy credit often comes with rising prices, and why tight credit slows sales.",
+        "mixup": "Printing more money does not make a country richer. Without more goods to buy, it mostly creates inflation."
+      },
+      "bs": {
+        "one": "Money supply (novčana masa) je sav novac u ekonomiji: gotovina plus novac na bankovnim računima.",
+        "explain": "Većina novca se ne štampa; nastaje kad banke daju kredite. Kad uzmeš kredit od 10.000 €, na tvom računu se pojavi 10.000 € novog novca. Ako novac raste mnogo brže od robe i usluga, cijene obično rastu.",
+        "example": "Bum stambenih kredita doda milijarde na bankovne račune, a cijene stanova rastu.",
+        "why": "Pomaže ti da razumiješ zašto lak kredit često ide uz rast cijena, a težak kredit usporava prodaju.",
+        "mixup": "Štampanje novca ne čini državu bogatijom. Bez više robe za kupiti, uglavnom stvara inflaciju."
+      }
+    },
+    {
+      "slug": "exchange-rate",
+      "term": "Exchange rate",
+      "local": "devizni kurs",
+      "minutes": 5,
+      "youtube": "P1_ToB_79RU",
+      "youtubeQuery": "exchange rates explained simply",
+      "related": ["Imports & exports", "Currency board", "Central bank"],
+      "en": {
+        "one": "An exchange rate is the price of one currency in another, for example how many US dollars one euro buys.",
+        "explain": "Rates move with interest rates, trade, inflation and confidence. A stronger home currency makes imports cheaper and exports more expensive abroad; a weaker one does the opposite.",
+        "example": "A Croatian firm buys machines from the US for $50,000. At 1.05 dollars per euro it pays about €47,600; at 1.15 it pays about €43,500.",
+        "why": "If you buy or sell abroad, currency moves can wipe out your margin, so you need to plan for them.",
+        "mixup": "A 'strong' currency is not always good. It hurts exporters and tourism even as it helps importers."
+      },
+      "bs": {
+        "one": "Exchange rate (devizni kurs) je cijena jedne valute u drugoj, npr. koliko američkih dolara kupi jedan euro.",
+        "explain": "Kursevi se mijenjaju s kamatama, trgovinom, inflacijom i povjerenjem. Jača domaća valuta čini uvoz jeftinijim, a izvoz skupljim u inostranstvu; slabija radi suprotno.",
+        "example": "Hrvatska firma kupuje mašine iz SAD za 50.000 $. Po kursu 1,05 dolara za euro plaća oko 47.600 €; po 1,15 plaća oko 43.500 €.",
+        "why": "Ako kupuješ ili prodaješ u inostranstvu, promjene kursa mogu pojesti tvoju maržu, pa ih moraš planirati.",
+        "mixup": "'Jaka' valuta nije uvijek dobra. Šteti izvoznicima i turizmu, iako pomaže uvoznicima."
+      }
+    },
+    {
+      "slug": "currency-board",
+      "term": "Currency board & the euro",
+      "local": "valutni odbor i euro",
+      "minutes": 5,
+      "youtube": "YCzvffx3Yrc",
+      "youtubeQuery": "currency board explained convertible mark euro peg",
+      "related": ["Exchange rate", "Central bank", "Policy interest rate"],
+      "en": {
+        "one": "A currency board fixes a country's currency to another one and backs every unit with reserves. Bosnia and Herzegovina's KM works this way with the euro.",
+        "explain": "Since 1997 the convertible mark has been fixed at 1.95583 KM for €1, and the central bank can only issue KM it can fully back with euro reserves. This gives stable prices and trust, but BiH cannot set its own interest rates. Croatia went further and replaced the kuna with the euro in 2023, so the ECB now sets its rates.",
+        "example": "A Sarajevo company signs a supply contract in euros. Because the rate is fixed, it knows exactly what that will cost in KM next year.",
+        "why": "For businesses in the region, trade with the euro area has almost no currency risk, which makes planning easier.",
+        "mixup": "Fixed does not mean free of risk forever. Moves of the euro against the dollar still affect BiH firms that trade in dollars."
+      },
+      "bs": {
+        "one": "Currency board (valutni odbor) veže valutu države za drugu valutu i svaku jedinicu pokriva rezervama. KM u BiH tako radi s eurom.",
+        "explain": "Od 1997. konvertibilna marka je fiksirana na 1,95583 KM za 1 €, a centralna banka može izdati samo onoliko KM koliko može potpuno pokriti eurima. To daje stabilne cijene i povjerenje, ali BiH ne može sama određivati kamatne stope. Hrvatska je otišla dalje i 2023. zamijenila kunu eurom, pa joj sada stope određuje ECB.",
+        "example": "Firma iz Sarajeva potpiše ugovor o nabavci u eurima. Pošto je kurs fiksan, tačno zna koliko će to koštati u KM iduće godine.",
+        "why": "Za firme u regiji, trgovina s eurozonom skoro nema valutni rizik, što olakšava planiranje.",
+        "mixup": "Fiksno ne znači bez rizika zauvijek. Kretanje eura prema dolaru i dalje utiče na firme iz BiH koje posluju u dolarima."
+      }
+    },
+    {
+      "slug": "deflation-hyperinflation",
+      "term": "Deflation & hyperinflation",
+      "local": "deflacija i hiperinflacija",
+      "minutes": 5,
+      "youtube": "9LoUBdNA6sI",
+      "youtubeQuery": "deflation and hyperinflation explained simply",
+      "related": ["Inflation", "Money supply", "Central bank"],
+      "en": {
+        "one": "Deflation is when prices fall across the economy. Hyperinflation is when prices rise extremely fast, often more than 50% a month.",
+        "explain": "Falling prices sound nice, but people delay buying while waiting for lower prices, sales drop and debts feel heavier. Hyperinflation destroys savings and makes planning impossible. Yugoslavia lived through it in the early 1990s, with prices changing daily.",
+        "example": "In hyperinflation, a worker paid on Friday rushes to spend the salary the same day, because by Monday it buys much less.",
+        "why": "Central banks aim for low, steady inflation, about 2%, to avoid both extremes.",
+        "mixup": "A price fall in one product, like TVs getting cheaper, is not deflation. Deflation is a fall in prices across the whole economy."
+      },
+      "bs": {
+        "one": "Deflation (deflacija) je kad cijene padaju u cijeloj ekonomiji. Hyperinflation (hiperinflacija) je kad cijene rastu izuzetno brzo, često više od 50% mjesečno.",
+        "explain": "Pad cijena zvuči lijepo, ali ljudi odgađaju kupovinu čekajući niže cijene, prodaja pada, a dugovi postaju teži. Hiperinflacija uništava ušteđevinu i onemogućava planiranje. Jugoslavija ju je proživjela početkom 1990-ih, s cijenama koje su se mijenjale svakodnevno.",
+        "example": "U hiperinflaciji radnik koji primi platu u petak žuri da je potroši isti dan, jer do ponedjeljka kupi mnogo manje.",
+        "why": "Centralne banke ciljaju nisku, stabilnu inflaciju od oko 2%, da izbjegnu obje krajnosti.",
+        "mixup": "Pad cijene jednog proizvoda, npr. televizora, nije deflacija. Deflacija je pad cijena u cijeloj ekonomiji."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "The central bank raises its policy rate. What usually happens next?",
+        "bs": "Centralna banka podigne referentnu stopu. Šta se obično desi poslije?"
+      },
+      "options": [
+        { "en": "Loans get cheaper", "bs": "Krediti pojeftine" },
+        { "en": "Nothing changes for businesses", "bs": "Za firme se ništa ne mijenja" },
+        { "en": "Loans get more expensive and spending slows", "bs": "Krediti poskupe i trošenje uspori" }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "Higher policy rates push up loan rates, which cools borrowing, spending and inflation.",
+        "bs": "Više referentne stope dižu kamate na kredite, što hladi zaduživanje, trošenje i inflaciju."
+      }
+    },
+    {
+      "q": {
+        "en": "The KM is fixed at 1.95583 to the euro. What does this mean for a BiH firm buying from Germany in euros?",
+        "bs": "KM je fiksirana na 1,95583 prema euru. Šta to znači za firmu iz BiH koja kupuje iz Njemačke u eurima?"
+      },
+      "options": [
+        { "en": "It pays more every month", "bs": "Plaća više svaki mjesec" },
+        { "en": "It must pay in dollars", "bs": "Mora plaćati u dolarima" },
+        { "en": "Its costs in KM are predictable", "bs": "Troškovi u KM su predvidivi" }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "With a fixed rate, euro prices convert to the same KM amount over time.",
+        "bs": "S fiksnim kursom, cijene u eurima se uvijek pretvaraju u isti iznos KM."
+      }
+    },
+    {
+      "q": {
+        "en": "Where does most money in the economy come from?",
+        "bs": "Odakle dolazi većina novca u ekonomiji?"
+      },
+      "options": [
+        { "en": "Gold reserves", "bs": "Rezerve zlata" },
+        { "en": "Bank loans that create new deposits", "bs": "Bankovni krediti koji stvaraju nove depozite" },
+        { "en": "Printed banknotes", "bs": "Štampane novčanice" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "When banks lend, new money appears in borrowers' accounts.",
+        "bs": "Kad banke daju kredit, novi novac se pojavi na računu dužnika."
+      }
+    },
+    {
+      "q": {
+        "en": "The euro gets weaker against the dollar. Who benefits most?",
+        "bs": "Euro oslabi prema dolaru. Ko ima najviše koristi?"
+      },
+      "options": [
+        { "en": "A Croatian firm exporting to the US", "bs": "Hrvatska firma koja izvozi u SAD" },
+        { "en": "A Croatian firm importing US machines", "bs": "Hrvatska firma koja uvozi američke mašine" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "A weaker euro makes Croatian goods cheaper for US buyers.",
+        "bs": "Slabiji euro čini hrvatsku robu jeftinijom za američke kupce."
+      }
+    }
+  ]
+}
