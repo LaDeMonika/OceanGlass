@@ -62,6 +62,15 @@
       }
     },
     {
+      "slug": "operations",
+      "icon": "gear",
+      "title": { "en": "Operations", "bs": "Operacije" },
+      "description": {
+        "en": "Processes, quality, stock and projects: how the work actually gets done.",
+        "bs": "Procesi, kvalitet, zalihe i projekti: kako se posao zapravo obavlja."
+      }
+    },
+    {
       "slug": "entrepreneurship",
       "icon": "rocket",
       "title": { "en": "Entrepreneurship", "bs": "Preduzetništvo" },

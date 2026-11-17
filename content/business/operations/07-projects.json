@@ -1,0 +1,214 @@
+{
+  "slug": "projects",
+  "title": { "en": "Running projects", "bs": "Vođenje projekata" },
+  "summary": {
+    "en": "Getting one-off work done on time, on budget and as agreed.",
+    "bs": "Završiti jednokratan posao na vrijeme, u budžetu i kako je dogovoreno."
+  },
+  "concepts": [
+    {
+      "slug": "project",
+      "term": "Project and the triple constraint",
+      "local": "projekat i trostruko ograničenje",
+      "minutes": 4,
+      "youtube": "VeYk2IeOLqU",
+      "youtubeQuery": "project management triple constraint explained",
+      "related": ["Scope creep", "Gantt chart", "Milestone"],
+      "en": {
+        "one": "A project is a one-off piece of work with a clear goal, a start and an end. Every project is a balance between scope, time and cost.",
+        "explain": "This balance is called the triple constraint. If you add scope, you need more time or money. If you cut the deadline, you need more money or less scope. Quality sits in the middle and suffers when the three are out of balance.",
+        "example": "Opening a second shop is a project: find the space, renovate, hire, stock up, open by 1 September, for 60,000 KM.",
+        "why": "It helps you have honest conversations: 'Yes, we can add that, but it moves the date or the budget.'",
+        "mixup": "'Fast, cheap and with everything' is rarely possible. Pick which one can flex."
+      },
+      "bs": {
+        "one": "Project (projekat) je jednokratan posao s jasnim ciljem, početkom i krajem. Svaki projekat je balans između obima, vremena i troška.",
+        "explain": "Taj balans se zove trostruko ograničenje. Ako dodaš obim, treba više vremena ili novca. Ako skratiš rok, treba više novca ili manji obim. Kvalitet je u sredini i trpi kad tri stvari nisu u ravnoteži.",
+        "example": "Otvaranje druge radnje je projekat: naći prostor, renovirati, zaposliti, nabaviti robu, otvoriti do 1. septembra, za 60.000 KM.",
+        "why": "Pomaže ti da vodiš iskrene razgovore: 'Da, možemo dodati to, ali pomjera datum ili budžet.'",
+        "mixup": "'Brzo, jeftino i sa svim' je rijetko moguće. Izaberi šta može popustiti."
+      }
+    },
+    {
+      "slug": "scope-creep",
+      "term": "Scope and scope creep",
+      "local": "obim i širenje obima",
+      "minutes": 4,
+      "youtube": "pTtt4Ui1OA4",
+      "youtubeQuery": "scope creep explained how to avoid",
+      "related": ["Project and the triple constraint", "Stakeholder management", "Change management"],
+      "en": {
+        "one": "Scope is the agreed list of what a project will deliver. Scope creep is when that list keeps growing without changing time or budget.",
+        "explain": "It usually happens through small 'can you just add…' requests. Each looks harmless, but together they cause delays, overspending and burnout. The fix is a written scope and a simple rule: any new request is assessed and agreed before work starts.",
+        "example": "A website project starts with 5 pages. After many small extras it has 12 pages and a booking system, but the same deadline and price. It ends 2 months late.",
+        "why": "Controlling scope is one of the main ways to deliver projects on time and keep client relationships healthy.",
+        "mixup": "Saying no to a change isn't the only option. You can say yes, with a new date or price."
+      },
+      "bs": {
+        "one": "Scope (obim) je dogovorena lista onoga što projekat isporučuje. Scope creep (širenje obima) je kad ta lista stalno raste, a vrijeme i budžet ostaju isti.",
+        "explain": "Obično se desi kroz male zahtjeve 'možeš li samo dodati…'. Svaki izgleda bezopasno, ali zajedno izazivaju kašnjenja, prekoračenja i izgaranje. Rješenje je pisani obim i jednostavno pravilo: svaki novi zahtjev se procijeni i dogovori prije početka rada.",
+        "example": "Projekat web stranice počne s 5 stranica. Nakon mnogo malih dodataka ima 12 stranica i sistem za rezervacije, ali isti rok i cijenu. Završi se 2 mjeseca kasnije.",
+        "why": "Kontrola obima je jedan od glavnih načina da se projekti završe na vrijeme i da odnosi s klijentima ostanu zdravi.",
+        "mixup": "Odbijanje promjene nije jedina opcija. Možeš reći da, uz novi datum ili cijenu."
+      }
+    },
+    {
+      "slug": "gantt-chart",
+      "term": "Gantt chart",
+      "local": "Gantov dijagram",
+      "minutes": 4,
+      "youtube": "tIxIfLfTCF0",
+      "youtubeQuery": "gantt chart explained for beginners",
+      "related": ["Critical path", "Milestone", "Project and the triple constraint"],
+      "en": {
+        "one": "A Gantt chart is a timeline that shows every project task as a bar, from its start date to its end date.",
+        "explain": "Tasks are listed down the left, time runs left to right. You can see what happens when, which tasks overlap and which must wait for others. Arrows show dependencies. Simple tools like Excel, Google Sheets or free apps can make one.",
+        "example": "A wedding planner's Gantt chart shows booking the venue in January, invitations in March, catering tasting in April and the big day in June.",
+        "why": "Everyone sees the whole plan at a glance and spots clashes early.",
+        "mixup": "A Gantt chart is a plan, not reality. Update it as things change, or it becomes a nice picture nobody trusts."
+      },
+      "bs": {
+        "one": "Gantt chart (Gantov dijagram) je vremenska linija koja svaki zadatak projekta prikazuje kao traku, od datuma početka do datuma kraja.",
+        "explain": "Zadaci su nabrojani lijevo, vrijeme teče slijeva nadesno. Vidiš šta se dešava kada, koji se zadaci preklapaju i koji moraju čekati druge. Strelice pokazuju zavisnosti. Jednostavni alati kao Excel, Google Sheets ili besplatne aplikacije ga mogu napraviti.",
+        "example": "Gantov dijagram organizatora vjenčanja pokazuje rezervaciju sale u januaru, pozivnice u martu, degustaciju hrane u aprilu i veliki dan u junu.",
+        "why": "Svi na prvi pogled vide cijeli plan i rano primijete sudare.",
+        "mixup": "Gantov dijagram je plan, a ne stvarnost. Ažuriraj ga kad se stvari promijene, inače postane lijepa slika kojoj niko ne vjeruje."
+      }
+    },
+    {
+      "slug": "critical-path",
+      "term": "Critical path",
+      "local": "kritični put",
+      "minutes": 5,
+      "youtube": "5tIol9zxans",
+      "youtubeQuery": "critical path method explained simply",
+      "related": ["Gantt chart", "Milestone", "Bottleneck"],
+      "en": {
+        "one": "The critical path is the longest chain of tasks that depend on each other. It sets the shortest possible project length.",
+        "explain": "If any task on the critical path is late, the whole project is late. Tasks off the critical path have some slack: they can slip a bit without moving the end date. So that's where managers focus their attention.",
+        "example": "Renovating a shop: the floor must be done before shelves go in, and shelves before stock arrives (critical path, 6 weeks). Designing the logo can happen anytime in those 6 weeks (slack).",
+        "why": "It tells you which delays really matter and where extra people or money will shorten the project.",
+        "mixup": "Adding people to a task with slack doesn't speed up the project. Only shortening critical tasks does."
+      },
+      "bs": {
+        "one": "Critical path (kritični put) je najduži lanac zadataka koji zavise jedan od drugog. On određuje najkraće moguće trajanje projekta.",
+        "explain": "Ako bilo koji zadatak na kritičnom putu kasni, cijeli projekat kasni. Zadaci van kritičnog puta imaju rezervu: mogu malo kasniti bez pomjeranja krajnjeg datuma. Zato se menadžeri fokusiraju na kritični put.",
+        "example": "Renoviranje radnje: pod mora biti gotov prije polica, a police prije dolaska robe (kritični put, 6 sedmica). Dizajn logotipa se može raditi bilo kad u tih 6 sedmica (rezerva).",
+        "why": "Govori ti koja kašnjenja su stvarno bitna i gdje će dodatni ljudi ili novac skratiti projekat.",
+        "mixup": "Dodavanje ljudi zadatku s rezervom ne ubrzava projekat. Samo skraćivanje kritičnih zadataka to radi."
+      }
+    },
+    {
+      "slug": "milestone",
+      "term": "Milestone",
+      "local": "prekretnica, ključna tačka",
+      "minutes": 3,
+      "youtube": "c4ni2qseCIc",
+      "youtubeQuery": "project milestones explained",
+      "related": ["Gantt chart", "Project and the triple constraint", "OKRs"],
+      "en": {
+        "one": "A milestone is an important checkpoint in a project, like a finished phase or a key decision.",
+        "explain": "Milestones have no duration, they're moments: 'design approved', 'building permit received', 'shop opened'. They break a long project into clear stages and are good times to check progress, budget and risks.",
+        "example": "An app project has milestones: designs approved (week 4), test version ready (week 10), launch in app stores (week 14).",
+        "why": "They give the team clear short-term targets and show early if a project is falling behind.",
+        "mixup": "A milestone isn't a task. 'Write the content' is a task; 'all content approved' is a milestone."
+      },
+      "bs": {
+        "one": "Milestone (prekretnica) je važna kontrolna tačka u projektu, npr. završena faza ili ključna odluka.",
+        "explain": "Prekretnice nemaju trajanje, to su trenuci: 'dizajn odobren', 'dobijena građevinska dozvola', 'radnja otvorena'. Dijele dug projekat na jasne faze i dobro su vrijeme za provjeru napretka, budžeta i rizika.",
+        "example": "Projekat aplikacije ima prekretnice: dizajn odobren (4. sedmica), test verzija spremna (10. sedmica), objava u app storeovima (14. sedmica).",
+        "why": "Daju timu jasne kratkoročne ciljeve i rano pokazuju ako projekat zaostaje.",
+        "mixup": "Prekretnica nije zadatak. 'Napisati sadržaj' je zadatak; 'sav sadržaj odobren' je prekretnica."
+      }
+    },
+    {
+      "slug": "agile-scrum",
+      "term": "Agile and Scrum",
+      "local": "agilni pristup i Scrum",
+      "minutes": 5,
+      "youtube": "Y__4iXoUNH4",
+      "youtubeQuery": "agile vs waterfall scrum explained simply",
+      "related": ["Kanban board", "Project and the triple constraint", "Minimum viable product"],
+      "en": {
+        "one": "Agile is a way of running projects in short cycles, delivering small working pieces and adjusting as you learn. Scrum is the most popular agile method.",
+        "explain": "The traditional 'waterfall' way plans everything up front and delivers at the end. Agile works in sprints of 1–4 weeks: plan a small chunk, build it, show it to users, learn, repeat. Scrum adds roles (product owner, team, scrum master) and short daily meetings.",
+        "example": "Instead of building a full online shop in 6 months, a team launches a simple version in 4 weeks, sees what customers use, and adds features every 2 weeks.",
+        "why": "It cuts the risk of spending months building the wrong thing, especially when needs are unclear.",
+        "mixup": "Agile isn't 'no planning' or 'no deadlines'. It's planning in smaller steps. For a building, waterfall still makes more sense."
+      },
+      "bs": {
+        "one": "Agile (agilni pristup) je način vođenja projekata u kratkim ciklusima, uz isporuku malih dijelova koji rade i prilagođavanje kako učiš. Scrum je najpopularnija agilna metoda.",
+        "explain": "Tradicionalni 'waterfall' (vodopad) sve planira unaprijed i isporučuje na kraju. Agile radi u sprintovima od 1–4 sedmice: isplaniraj mali dio, napravi ga, pokaži korisnicima, nauči, ponovi. Scrum dodaje uloge (product owner, tim, scrum master) i kratke dnevne sastanke.",
+        "example": "Umjesto da 6 mjeseci gradi kompletnu online prodavnicu, tim za 4 sedmice pokrene jednostavnu verziju, vidi šta kupci koriste i dodaje funkcije svake 2 sedmice.",
+        "why": "Smanjuje rizik da se mjesecima gradi pogrešna stvar, naročito kad potrebe nisu jasne.",
+        "mixup": "Agile nije 'bez planiranja' ili 'bez rokova'. To je planiranje u manjim koracima. Za zgradu i dalje više ima smisla waterfall."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "A client wants extra features but the same deadline and budget. This is…",
+        "bs": "Klijent želi dodatne funkcije, ali isti rok i budžet. To je…"
+      },
+      "options": [
+        { "en": "The critical path", "bs": "Kritični put" },
+        { "en": "A milestone", "bs": "Prekretnica" },
+        { "en": "Scope creep", "bs": "Širenje obima" }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "Growing scope without changing time or cost is scope creep.",
+        "bs": "Rast obima bez promjene vremena ili troška je širenje obima."
+      }
+    },
+    {
+      "q": {
+        "en": "A task on the critical path is 1 week late. What happens to the project?",
+        "bs": "Zadatak na kritičnom putu kasni 1 sedmicu. Šta se dešava s projektom?"
+      },
+      "options": [
+        {
+          "en": "It ends 1 week late, unless something is sped up",
+          "bs": "Završi 1 sedmicu kasnije, osim ako se nešto ne ubrza"
+        },
+        { "en": "Nothing, there is slack", "bs": "Ništa, ima rezerve" },
+        { "en": "It ends earlier", "bs": "Završi ranije" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Critical tasks have no slack, so their delay moves the end date.",
+        "bs": "Kritični zadaci nemaju rezervu, pa njihovo kašnjenje pomjera krajnji datum."
+      }
+    },
+    {
+      "q": { "en": "Which one is a milestone?", "bs": "Šta od ovoga je prekretnica?" },
+      "options": [
+        { "en": "Ordering furniture", "bs": "Naručivanje namještaja" },
+        { "en": "Painting the walls", "bs": "Krečenje zidova" },
+        { "en": "Building permit received", "bs": "Dobijena građevinska dozvola" }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "A milestone is a moment or checkpoint, not a piece of work.",
+        "bs": "Prekretnica je trenutak ili kontrolna tačka, a ne dio posla."
+      }
+    },
+    {
+      "q": {
+        "en": "When does agile fit better than waterfall?",
+        "bs": "Kada agilni pristup odgovara bolje od waterfalla?"
+      },
+      "options": [
+        { "en": "When needs are unclear and will change", "bs": "Kad potrebe nisu jasne i mijenjat će se" },
+        { "en": "When nothing will ever change", "bs": "Kad se ništa nikad neće mijenjati" },
+        { "en": "When building a bridge", "bs": "Kad se gradi most" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Short cycles let you learn and adjust when you can't plan everything up front.",
+        "bs": "Kratki ciklusi omogućavaju učenje i prilagođavanje kad ne možeš sve isplanirati unaprijed."
+      }
+    }
+  ]
+}

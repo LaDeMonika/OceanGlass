@@ -1,0 +1,224 @@
+{
+  "slug": "quality",
+  "title": { "en": "Quality", "bs": "Kvalitet" },
+  "summary": {
+    "en": "Making things right the first time, and getting a little better every week.",
+    "bs": "Napraviti stvari ispravno iz prvog puta, i svake sedmice biti malo bolji."
+  },
+  "concepts": [
+    {
+      "slug": "quality-control",
+      "term": "Quality control vs. quality assurance",
+      "local": "kontrola kvaliteta i osiguranje kvaliteta",
+      "minutes": 4,
+      "youtube": "feLRlsPqIrw",
+      "youtubeQuery": "quality control vs quality assurance difference explained",
+      "related": ["Defect rate", "Standard operating procedure", "Six Sigma"],
+      "en": {
+        "one": "Quality control checks the finished product for mistakes. Quality assurance designs the process so mistakes don't happen.",
+        "explain": "QC is inspection at the end: test, measure, look. QA is prevention: good procedures, training, checklists and supplier checks. You need some of both, but QA is cheaper in the long run.",
+        "example": "A bakery weighs a sample of loaves every hour (QC). It also uses a fixed recipe, calibrated scales and trains every new baker (QA).",
+        "why": "Finding a mistake before it leaves the building is cheap. Finding it after the customer does is expensive.",
+        "mixup": "Inspection doesn't add quality, it only catches its absence. You can't inspect your way to a good product."
+      },
+      "bs": {
+        "one": "Quality control (kontrola kvaliteta) provjerava gotov proizvod da nađe greške. Quality assurance (osiguranje kvaliteta) dizajnira proces tako da do grešaka ne dođe.",
+        "explain": "QC je pregled na kraju: testiraj, izmjeri, pogledaj. QA je prevencija: dobre procedure, obuka, liste za provjeru i provjera dobavljača. Treba ti malo oboje, ali QA je dugoročno jeftiniji.",
+        "example": "Pekara svaki sat izmjeri uzorak hljebova (QC). Također koristi fiksni recept, baždarene vage i obučava svakog novog pekara (QA).",
+        "why": "Pronaći grešku prije nego izađe iz firme je jeftino. Kad je pronađe kupac, skupo je.",
+        "mixup": "Pregled ne dodaje kvalitet, samo hvata njegov nedostatak. Ne možeš do dobrog proizvoda doći samo pregledanjem."
+      }
+    },
+    {
+      "slug": "defect-rate",
+      "term": "Defect rate and cost of poor quality",
+      "local": "stopa grešaka i trošak lošeg kvaliteta",
+      "minutes": 4,
+      "youtube": "y8l7LtbykLU",
+      "youtubeQuery": "cost of poor quality explained",
+      "formula": {
+        "en": "Defect rate = Defective units ÷ Total units × 100%",
+        "bs": "Stopa grešaka = Neispravni komadi ÷ Ukupno komada × 100%"
+      },
+      "related": ["Quality control vs. quality assurance", "Six Sigma", "Returns and reverse logistics"],
+      "en": {
+        "one": "Defect rate is the share of products or jobs that come out wrong. Cost of poor quality is everything those mistakes cost you.",
+        "explain": "The obvious costs are scrap, rework and refunds. The hidden costs are bigger: extra support calls, lost customers, bad reviews and staff time spent fixing instead of doing.",
+        "example": "An online shop sends the wrong size in 3 of every 100 orders. Each mistake costs €12 in shipping and handling, plus some customers never return.",
+        "why": "Measuring defects turns 'we sometimes make mistakes' into a number you can track and improve.",
+        "mixup": "A low defect rate can still be costly if the defects are big ones. Look at the cost, not just the count."
+      },
+      "bs": {
+        "one": "Defect rate (stopa grešaka) je udio proizvoda ili poslova koji ispadnu pogrešno. Trošak lošeg kvaliteta je sve što te te greške koštaju.",
+        "explain": "Očigledni troškovi su otpad, ponovni rad i povrati novca. Skriveni troškovi su veći: dodatni pozivi podršci, izgubljeni kupci, loše recenzije i vrijeme radnika potrošeno na popravke umjesto na rad.",
+        "example": "Online prodavnica pošalje pogrešnu veličinu u 3 od svakih 100 narudžbi. Svaka greška košta 12 € dostave i rukovanja, a neki kupci se više ne vrate.",
+        "why": "Mjerenje grešaka pretvara 'ponekad pogriješimo' u broj koji možeš pratiti i poboljšavati.",
+        "mixup": "Niska stopa grešaka i dalje može biti skupa ako su greške velike. Gledaj trošak, ne samo broj."
+      }
+    },
+    {
+      "slug": "kaizen",
+      "term": "Kaizen (continuous improvement)",
+      "local": "kaizen, stalno poboljšanje",
+      "minutes": 4,
+      "youtube": "QAxhmDoNLIc",
+      "youtubeQuery": "kaizen continuous improvement explained",
+      "related": ["Lean", "PDCA cycle", "Five whys"],
+      "en": {
+        "one": "Kaizen is a Japanese idea: improve a little bit, every day, with everyone involved.",
+        "explain": "Instead of waiting for one big change, teams look for many small fixes: a better shelf layout, a shorter form, a clearer label. The people doing the work usually know best what slows them down.",
+        "example": "A warehouse worker suggests putting the 20 best-selling items next to the packing table. Picking time drops by 15% at almost no cost.",
+        "why": "Small improvements add up and they're cheap, quick and low-risk.",
+        "mixup": "Kaizen isn't a one-off workshop. It only works as a habit, with managers actually acting on ideas."
+      },
+      "bs": {
+        "one": "Kaizen je japanska ideja: poboljšavaj malo po malo, svaki dan, uz učešće svih.",
+        "explain": "Umjesto čekanja na jednu veliku promjenu, timovi traže mnogo malih popravki: bolji raspored polica, kraći obrazac, jasnija etiketa. Ljudi koji rade posao obično najbolje znaju šta ih usporava.",
+        "example": "Radnik u skladištu predloži da se 20 najprodavanijih artikala stavi pored stola za pakovanje. Vrijeme prikupljanja padne za 15% skoro bez troška.",
+        "why": "Mala poboljšanja se zbrajaju, a jeftina su, brza i niskog rizika.",
+        "mixup": "Kaizen nije jednokratna radionica. Radi samo kao navika, uz menadžere koji stvarno sprovode ideje."
+      }
+    },
+    {
+      "slug": "six-sigma",
+      "term": "Six Sigma",
+      "local": "Six Sigma",
+      "minutes": 5,
+      "youtube": "Kz_7njsDUMQ",
+      "youtubeQuery": "six sigma explained simply DMAIC",
+      "related": ["Defect rate and cost of poor quality", "Standard deviation", "Kaizen"],
+      "en": {
+        "one": "Six Sigma is a data-driven method for cutting mistakes and variation in a process.",
+        "explain": "The name comes from statistics: it aims for almost no defects, about 3 per million. Projects follow five steps called DMAIC: Define the problem, Measure it, Analyse the causes, Improve, Control so it stays fixed.",
+        "example": "A bank uses DMAIC to find why loan approvals take anywhere from 2 to 20 days. The cause is missing documents, so it adds a checklist at the start and approvals become a steady 3 days.",
+        "why": "It forces decisions based on measurements instead of opinions, and focuses on making results predictable.",
+        "mixup": "You don't need belts and certificates to use the idea. Define, measure, analyse, improve, control works in any small business."
+      },
+      "bs": {
+        "one": "Six Sigma je metoda zasnovana na podacima za smanjenje grešaka i varijacija u procesu.",
+        "explain": "Ime dolazi iz statistike: cilj je skoro nula grešaka, oko 3 na milion. Projekti prate pet koraka zvanih DMAIC: Definiši problem, Izmjeri ga, Analiziraj uzroke, Poboljšaj, Kontroliši da ostane riješen.",
+        "example": "Banka koristi DMAIC da otkrije zašto odobrenje kredita traje od 2 do 20 dana. Uzrok su dokumenti koji nedostaju, pa uvede listu za provjeru na početku i odobrenja postanu stabilnih 3 dana.",
+        "why": "Tjera na odluke zasnovane na mjerenjima umjesto mišljenja, i fokusira se na to da rezultati budu predvidivi.",
+        "mixup": "Ne trebaju ti pojasevi i certifikati da koristiš ideju. Definiši, izmjeri, analiziraj, poboljšaj, kontroliši radi u svakoj maloj firmi."
+      }
+    },
+    {
+      "slug": "iso-9001",
+      "term": "ISO 9001",
+      "local": "ISO 9001 standard",
+      "minutes": 4,
+      "youtube": "otnEiom_BJM",
+      "youtubeQuery": "ISO 9001 explained simply",
+      "related": ["Quality control vs. quality assurance", "Standard operating procedure", "Supplier selection"],
+      "en": {
+        "one": "ISO 9001 is an international standard for how a company manages quality. A company can be certified against it.",
+        "explain": "It doesn't tell you how good your product must be. It checks that you have clear processes, write them down, follow them, measure results, handle complaints and keep improving. An outside auditor checks this regularly.",
+        "example": "A metal parts maker in Zenica gets ISO 9001 certified because a German car supplier only buys from certified companies.",
+        "why": "Big customers and public tenders often require it, so it can open doors to new markets.",
+        "mixup": "A certificate doesn't guarantee a great product. It guarantees a managed process, and can turn into paperwork if done only for the badge."
+      },
+      "bs": {
+        "one": "ISO 9001 je međunarodni standard za to kako firma upravlja kvalitetom. Firma se može certificirati prema njemu.",
+        "explain": "Ne kaže ti koliko dobar proizvod mora biti. Provjerava da imaš jasne procese, da su zapisani, da ih poštuješ, mjeriš rezultate, rješavaš žalbe i stalno se poboljšavaš. Vanjski auditor to redovno provjerava.",
+        "example": "Proizvođač metalnih dijelova iz Zenice dobije ISO 9001 certifikat jer njemački dobavljač za auto-industriju kupuje samo od certificiranih firmi.",
+        "why": "Veliki kupci i javni tenderi ga često traže, pa može otvoriti vrata novim tržištima.",
+        "mixup": "Certifikat ne garantuje odličan proizvod. Garantuje upravljan proces, a može se pretvoriti u papirologiju ako se radi samo zbog značke."
+      }
+    },
+    {
+      "slug": "customer-complaints",
+      "term": "Handling complaints",
+      "local": "rješavanje reklamacija",
+      "minutes": 4,
+      "youtube": "5PUiyHSYoFY",
+      "youtubeQuery": "how to handle customer complaints well",
+      "related": ["Defect rate and cost of poor quality", "Five whys", "Retention and churn"],
+      "en": {
+        "one": "A complaint is free information about where your product or process fails.",
+        "explain": "Handle it in two parts. First, fix it for the customer quickly and kindly: listen, apologise, solve. Second, fix it for everyone: log it, find the cause and change the process so it doesn't repeat.",
+        "example": "Three customers in a week complain that their parcel arrived crushed. The shop refunds them, then switches to sturdier boxes. Complaints about damage stop.",
+        "why": "Most unhappy customers never complain, they just leave. The ones who do complain give you a chance to keep them and learn.",
+        "mixup": "Solving the single case isn't enough. If you never fix the cause, you'll handle the same complaint forever."
+      },
+      "bs": {
+        "one": "Reklamacija je besplatna informacija o tome gdje tvoj proizvod ili proces ne valja.",
+        "explain": "Riješi je u dva dijela. Prvo, popravi stvar za kupca brzo i ljubazno: saslušaj, izvini se, riješi. Drugo, popravi za sve: zapiši, pronađi uzrok i promijeni proces da se ne ponovi.",
+        "example": "Tri kupca u sedmici se žale da je paket stigao zgnječen. Prodavnica im vrati novac, pa pređe na čvršće kutije. Žalbe na oštećenja prestanu.",
+        "why": "Većina nezadovoljnih kupaca se nikad ne žali, samo odu. Oni koji se žale daju ti šansu da ih zadržiš i nešto naučiš.",
+        "mixup": "Rješavanje pojedinačnog slučaja nije dovoljno. Ako nikad ne popraviš uzrok, zauvijek ćeš rješavati istu žalbu."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "Training every new baker and using a fixed recipe is an example of…",
+        "bs": "Obuka svakog novog pekara i korištenje fiksnog recepta je primjer…"
+      },
+      "options": [
+        { "en": "Automation", "bs": "Automatizacije" },
+        { "en": "Quality assurance (prevention)", "bs": "Osiguranja kvaliteta (prevencija)" },
+        { "en": "Quality control (inspection)", "bs": "Kontrole kvaliteta (pregled)" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "It prevents mistakes in the process instead of catching them at the end.",
+        "bs": "Sprečava greške u procesu umjesto da ih hvata na kraju."
+      }
+    },
+    {
+      "q": {
+        "en": "A shop ships 2,000 orders and 40 are wrong. What is the defect rate?",
+        "bs": "Prodavnica pošalje 2.000 narudžbi, a 40 je pogrešno. Kolika je stopa grešaka?"
+      },
+      "options": [
+        { "en": "4%", "bs": "4%" },
+        { "en": "0.2%", "bs": "0,2%" },
+        { "en": "2%", "bs": "2%" }
+      ],
+      "answer": 2,
+      "explain": { "en": "40 ÷ 2,000 × 100% = 2%.", "bs": "40 ÷ 2.000 × 100% = 2%." }
+    },
+    {
+      "q": {
+        "en": "What are the five steps of a Six Sigma project?",
+        "bs": "Kojih je pet koraka Six Sigma projekta?"
+      },
+      "options": [
+        {
+          "en": "Sort, Set, Shine, Standardise, Sustain",
+          "bs": "Sortiraj, Složi, Očisti, Standardizuj, Održavaj"
+        },
+        { "en": "Plan, Do, Check, Act, Repeat", "bs": "Planiraj, Uradi, Provjeri, Djeluj, Ponovi" },
+        {
+          "en": "Define, Measure, Analyse, Improve, Control",
+          "bs": "Definiši, Izmjeri, Analiziraj, Poboljšaj, Kontroliši"
+        }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "That's DMAIC. PDCA is a different cycle, and the last option is 5S.",
+        "bs": "To je DMAIC. PDCA je drugi ciklus, a zadnja opcija je 5S."
+      }
+    },
+    {
+      "q": {
+        "en": "After refunding an unhappy customer, what should you do next?",
+        "bs": "Nakon što vratiš novac nezadovoljnom kupcu, šta trebaš uraditi dalje?"
+      },
+      "options": [
+        {
+          "en": "Find and fix the cause so it doesn't repeat",
+          "bs": "Pronaći i popraviti uzrok da se ne ponovi"
+        },
+        { "en": "Nothing, the case is closed", "bs": "Ništa, slučaj je zatvoren" },
+        { "en": "Ask the customer to delete their review", "bs": "Zamoliti kupca da obriše recenziju" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "A complaint is only fully handled when the process is fixed for everyone.",
+        "bs": "Reklamacija je potpuno riješena tek kad je proces popravljen za sve."
+      }
+    }
+  ]
+}

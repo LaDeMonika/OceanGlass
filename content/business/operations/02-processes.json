@@ -1,0 +1,217 @@
+{
+  "slug": "processes",
+  "title": { "en": "Processes and flow", "bs": "Procesi i tok rada" },
+  "summary": {
+    "en": "Drawing your processes, writing them down and finding what slows them.",
+    "bs": "Crtanje procesa, zapisivanje i pronalaženje onoga što ih usporava."
+  },
+  "concepts": [
+    {
+      "slug": "process-mapping",
+      "term": "Process mapping",
+      "local": "mapiranje procesa",
+      "minutes": 5,
+      "youtube": "rsY8HBs-L0c",
+      "youtubeQuery": "process mapping flowchart explained for beginners",
+      "related": ["Process", "Bottleneck", "Standard operating procedure"],
+      "en": {
+        "one": "A process map is a simple drawing of every step in a process, in order, and who does it.",
+        "explain": "Use boxes for steps, diamonds for decisions and arrows for the flow. Draw it as it really happens today, not as it should happen. Gaps, loops and waiting times become obvious once they're on paper.",
+        "example": "Mapping the invoicing process shows that every invoice waits two days for the owner's signature, which is why customers pay late.",
+        "why": "You can't improve a process you can't see. A map gets the whole team looking at the same picture.",
+        "mixup": "Mapping the ideal process first hides the real problems. Map the current state first, then design the better one."
+      },
+      "bs": {
+        "one": "Process map (mapa procesa) je jednostavan crtež svakog koraka u procesu, po redu, i ko ga radi.",
+        "explain": "Koristi pravougaonike za korake, rombove za odluke i strelice za tok. Nacrtaj kako se stvarno dešava danas, a ne kako bi trebalo. Praznine, petlje i čekanja postanu očigledni kad su na papiru.",
+        "example": "Mapiranje procesa fakturisanja pokaže da svaka faktura čeka dva dana na potpis vlasnika, i zato kupci kasno plaćaju.",
+        "why": "Ne možeš poboljšati proces koji ne vidiš. Mapa natjera cijeli tim da gleda istu sliku.",
+        "mixup": "Ako prvo mapiraš idealan proces, sakriješ stvarne probleme. Prvo mapiraj trenutno stanje, pa onda dizajniraj bolje."
+      }
+    },
+    {
+      "slug": "sop",
+      "term": "Standard operating procedure (SOP)",
+      "local": "standardna operativna procedura",
+      "minutes": 4,
+      "youtube": "drdsSugvhkA",
+      "youtubeQuery": "standard operating procedure SOP explained",
+      "related": ["Process", "Onboarding", "Quality control"],
+      "en": {
+        "one": "An SOP is a written, step-by-step guide for doing a task the same right way every time.",
+        "explain": "It says what to do, in what order, with what tools, and what 'done' looks like. Short checklists, photos and screenshots work better than long text. Update it when the process changes.",
+        "example": "A café's SOP for closing: clean the machine, count the cash, switch off the oven, lock the back door, set the alarm. New staff can close on their first week.",
+        "why": "SOPs make quality consistent, speed up training and let the business run when a key person is away.",
+        "mixup": "An SOP isn't a rulebook to punish people. It's a tool to make the job easier and safer."
+      },
+      "bs": {
+        "one": "SOP (standardna operativna procedura) je pisani vodič korak po korak za obavljanje zadatka na isti ispravan način svaki put.",
+        "explain": "Kaže šta raditi, kojim redom, kojim alatima i kako izgleda 'gotovo'. Kratke liste za provjeru, slike i snimci ekrana rade bolje od dugog teksta. Ažuriraj ga kad se proces promijeni.",
+        "example": "SOP kafića za zatvaranje: očisti aparat, prebroji kasu, ugasi pećnicu, zaključaj zadnja vrata, uključi alarm. Novi radnici mogu zatvarati već prve sedmice.",
+        "why": "SOP-ovi čine kvalitet ujednačenim, ubrzavaju obuku i omogućavaju firmi da radi kad ključne osobe nema.",
+        "mixup": "SOP nije pravilnik za kažnjavanje ljudi. To je alat koji posao čini lakšim i sigurnijim."
+      }
+    },
+    {
+      "slug": "bottleneck",
+      "term": "Bottleneck",
+      "local": "usko grlo",
+      "minutes": 4,
+      "youtube": "lekRCY1LkLo",
+      "youtubeQuery": "bottleneck in a process explained",
+      "related": ["Capacity", "Throughput", "Theory of constraints"],
+      "en": {
+        "one": "A bottleneck is the slowest step in a process. It limits how much the whole process can produce.",
+        "explain": "Like the neck of a bottle, it doesn't matter how wide the rest is: everything flows only as fast as the narrowest point. Improving any other step doesn't help until you fix the bottleneck.",
+        "example": "A burger place has 3 cooks but only 1 cashier. Orders pile up at the till, so adding a 4th cook would change nothing.",
+        "why": "Finding the bottleneck tells you exactly where an improvement will pay off.",
+        "mixup": "Once you fix one bottleneck, another step becomes the new bottleneck. That's normal, keep going."
+      },
+      "bs": {
+        "one": "Bottleneck (usko grlo) je najsporiji korak u procesu. On ograničava koliko cijeli proces može proizvesti.",
+        "explain": "Kao grlo flaše: nije bitno koliko je ostatak širok, sve teče samo onoliko brzo koliko propušta najuža tačka. Poboljšanje bilo kojeg drugog koraka ne pomaže dok ne riješiš usko grlo.",
+        "example": "Burger restoran ima 3 kuhara, a samo 1 kasira. Narudžbe se gomilaju na kasi, pa 4. kuhar ne bi ništa promijenio.",
+        "why": "Pronalaženje uskog grla ti tačno kaže gdje će se poboljšanje isplatiti.",
+        "mixup": "Kad riješiš jedno usko grlo, drugi korak postane novo usko grlo. To je normalno, nastavi dalje."
+      }
+    },
+    {
+      "slug": "lead-time",
+      "term": "Lead time and cycle time",
+      "local": "vrijeme isporuke i vrijeme ciklusa",
+      "minutes": 4,
+      "youtube": "Y8rAiJ8M0pk",
+      "youtubeQuery": "lead time vs cycle time explained",
+      "related": ["Throughput", "Bottleneck", "Just-in-time"],
+      "en": {
+        "one": "Lead time is how long the customer waits from order to delivery. Cycle time is how long the actual work takes.",
+        "explain": "The difference between them is mostly waiting: in queues, in inboxes, on shelves. In many businesses the real work is a small part of the lead time.",
+        "example": "Making a custom table takes 6 hours of work (cycle time), but the customer gets it after 3 weeks (lead time) because it waits for wood, for a free carpenter and for the van.",
+        "why": "Customers feel lead time, not cycle time. Cutting waiting is often the cheapest way to get faster.",
+        "mixup": "Making workers faster rarely fixes a long lead time. Remove the waiting instead."
+      },
+      "bs": {
+        "one": "Lead time (vrijeme isporuke) je koliko kupac čeka od narudžbe do isporuke. Cycle time (vrijeme ciklusa) je koliko traje sam rad.",
+        "explain": "Razlika između njih je uglavnom čekanje: u redovima, u inboxima, na policama. U mnogim firmama stvarni rad je mali dio vremena isporuke.",
+        "example": "Izrada stola po mjeri traje 6 sati rada (vrijeme ciklusa), ali kupac ga dobije nakon 3 sedmice (vrijeme isporuke) jer se čeka drvo, slobodan stolar i kombi.",
+        "why": "Kupci osjećaju vrijeme isporuke, ne vrijeme ciklusa. Smanjenje čekanja je često najjeftiniji način da budeš brži.",
+        "mixup": "Ubrzavanje radnika rijetko rješava dugo vrijeme isporuke. Umjesto toga ukloni čekanje."
+      }
+    },
+    {
+      "slug": "throughput",
+      "term": "Throughput",
+      "local": "propusnost",
+      "minutes": 3,
+      "youtube": "ylS52gOO5sg",
+      "youtubeQuery": "throughput in operations explained",
+      "related": ["Bottleneck", "Capacity", "Lead time and cycle time"],
+      "en": {
+        "one": "Throughput is how many finished units actually come out of a process in a period of time.",
+        "explain": "Capacity is what you could do; throughput is what you really deliver. It's set by the bottleneck, and lowered by breakdowns, errors and rework.",
+        "example": "A print shop's machines could print 500 posters a day, but because of setup time and misprints it actually delivers 350. Throughput is 350 a day.",
+        "why": "Throughput is what turns into revenue. More finished, sold units means more money in.",
+        "mixup": "Starting more work doesn't raise throughput. Lots of half-finished work usually lowers it."
+      },
+      "bs": {
+        "one": "Throughput (propusnost) je koliko gotovih jedinica stvarno izađe iz procesa u nekom periodu.",
+        "explain": "Kapacitet je ono što bi mogao; propusnost je ono što stvarno isporučiš. Određuje je usko grlo, a smanjuju je kvarovi, greške i ponovni rad.",
+        "example": "Mašine u štampariji bi mogle odštampati 500 postera dnevno, ali zbog pripreme i loših otisaka stvarno isporučuje 350. Propusnost je 350 dnevno.",
+        "why": "Propusnost je ono što se pretvara u prihod. Više gotovih, prodatih komada znači više novca.",
+        "mixup": "Započinjanje više posla ne povećava propusnost. Mnogo napola završenog posla je obično smanjuje."
+      }
+    },
+    {
+      "slug": "automation",
+      "term": "Automation",
+      "local": "automatizacija",
+      "minutes": 4,
+      "youtube": "O6GOCseZFH4",
+      "youtubeQuery": "business process automation explained for small business",
+      "related": ["Productivity", "Standard operating procedure", "Process"],
+      "en": {
+        "one": "Automation means letting machines or software do repetitive steps that people used to do by hand.",
+        "explain": "It ranges from simple things like automatic invoice reminders and online booking to robots in a warehouse. The best candidates are steps that are frequent, rule-based and boring.",
+        "example": "A dentist's office switches to online booking with SMS reminders. No-shows drop and the receptionist saves two hours a day.",
+        "why": "Automation cuts errors and frees people for work that needs judgement and a human touch.",
+        "mixup": "Don't automate a broken process. Fix and simplify it first, or you'll just make mistakes faster."
+      },
+      "bs": {
+        "one": "Automation (automatizacija) znači pustiti mašine ili softver da rade ponavljajuće korake koje su ljudi ranije radili ručno.",
+        "explain": "Kreće se od jednostavnih stvari kao što su automatski podsjetnici za fakture i online rezervacije, do robota u skladištu. Najbolji kandidati su koraci koji su česti, rade se po pravilima i dosadni su.",
+        "example": "Stomatološka ordinacija pređe na online zakazivanje sa SMS podsjetnicima. Propušteni termini se smanje, a recepcionerka uštedi dva sata dnevno.",
+        "why": "Automatizacija smanjuje greške i oslobađa ljude za posao koji traži procjenu i ljudski pristup.",
+        "mixup": "Ne automatizuj pokvaren proces. Prvo ga popravi i pojednostavi, inače ćeš samo brže praviti greške."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "A burger place has 3 cooks and 1 cashier, and orders pile up at the till. What should it improve first?",
+        "bs": "Burger restoran ima 3 kuhara i 1 kasira, a narudžbe se gomilaju na kasi. Šta prvo treba poboljšati?"
+      },
+      "options": [
+        { "en": "Hire another cook", "bs": "Zaposliti još jednog kuhara" },
+        { "en": "The till, because it's the bottleneck", "bs": "Kasu, jer je to usko grlo" },
+        { "en": "Buy a bigger grill", "bs": "Kupiti veći roštilj" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "The slowest step limits the whole flow. Extra cooks won't help until the till is faster.",
+        "bs": "Najsporiji korak ograničava cijeli tok. Dodatni kuhari neće pomoći dok kasa ne bude brža."
+      }
+    },
+    {
+      "q": {
+        "en": "A job takes 2 hours of work but the customer waits 10 days. What is the best first fix?",
+        "bs": "Posao traje 2 sata rada, a kupac čeka 10 dana. Šta je najbolji prvi korak?"
+      },
+      "options": [
+        { "en": "Cut the waiting between steps", "bs": "Smanjiti čekanje između koraka" },
+        { "en": "Make the 2 hours of work faster", "bs": "Ubrzati ta 2 sata rada" },
+        { "en": "Raise the price", "bs": "Povećati cijenu" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Almost all of the lead time is waiting, so that's where the time is.",
+        "bs": "Skoro cijelo vrijeme isporuke je čekanje, pa je tu i vrijeme."
+      }
+    },
+    {
+      "q": {
+        "en": "When should you draw a process map of the current process?",
+        "bs": "Kada trebaš nacrtati mapu trenutnog procesa?"
+      },
+      "options": [
+        { "en": "Before designing the improved version", "bs": "Prije nego dizajniraš poboljšanu verziju" },
+        { "en": "Never, only the ideal process matters", "bs": "Nikad, bitan je samo idealan proces" },
+        { "en": "Only after automating it", "bs": "Tek nakon što ga automatizuješ" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Map how it really works today to see the real problems, then improve it.",
+        "bs": "Mapiraj kako stvarno radi danas da vidiš stvarne probleme, pa ga onda poboljšaj."
+      }
+    },
+    {
+      "q": {
+        "en": "Which task is the best candidate for automation?",
+        "bs": "Koji zadatak je najbolji kandidat za automatizaciju?"
+      },
+      "options": [
+        { "en": "Handling an angry key customer", "bs": "Rješavanje ljutog ključnog kupca" },
+        { "en": "Choosing next year's strategy", "bs": "Biranje strategije za iduću godinu" },
+        {
+          "en": "Sending payment reminders for overdue invoices",
+          "bs": "Slanje podsjetnika za neplaćene fakture"
+        }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "It's frequent, rule-based and repetitive. The others need human judgement.",
+        "bs": "Čest je, radi se po pravilima i ponavlja se. Ostali traže ljudsku procjenu."
+      }
+    }
+  ]
+}

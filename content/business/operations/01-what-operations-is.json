@@ -1,0 +1,215 @@
+{
+  "slug": "what-operations-is",
+  "title": { "en": "What operations is", "bs": "Šta su operacije" },
+  "summary": {
+    "en": "The part of a business that actually makes the product or delivers the service.",
+    "bs": "Dio firme koji zapravo pravi proizvod ili pruža uslugu."
+  },
+  "concepts": [
+    {
+      "slug": "operations-management",
+      "term": "Operations management",
+      "local": "upravljanje operacijama",
+      "minutes": 4,
+      "youtube": "DkNvozKuuys",
+      "youtubeQuery": "what is operations management explained",
+      "related": ["Process", "Capacity", "Productivity"],
+      "en": {
+        "one": "Operations management is running the day-to-day work that turns resources into products or services.",
+        "explain": "Marketing brings customers in and finance counts the money. Operations is everything in between: buying materials, making or preparing things, keeping quality up and getting the result to the customer on time and at a sensible cost.",
+        "example": "In a pizzeria, operations is ordering flour, organising the kitchen, baking pizzas fast and making sure the delivery driver leaves on time.",
+        "why": "Most of a company's costs and most customer complaints come from operations, so small improvements here pay off quickly.",
+        "mixup": "Operations isn't only factories. Banks, hospitals, shops and software companies all have operations."
+      },
+      "bs": {
+        "one": "Operations management (upravljanje operacijama) je vođenje svakodnevnog rada koji resurse pretvara u proizvode ili usluge.",
+        "explain": "Marketing dovodi kupce, a finansije broje novac. Operacije su sve između: nabavka materijala, pravljenje ili priprema, održavanje kvaliteta i isporuka kupcu na vrijeme i po razumnom trošku.",
+        "example": "U piceriji, operacije su naručivanje brašna, organizacija kuhinje, brzo pečenje pica i briga da dostavljač krene na vrijeme.",
+        "why": "Većina troškova firme i većina žalbi kupaca dolazi iz operacija, pa se mala poboljšanja ovdje brzo isplate.",
+        "mixup": "Operacije nisu samo fabrike. Banke, bolnice, prodavnice i softverske firme svi imaju operacije."
+      }
+    },
+    {
+      "slug": "transformation-process",
+      "term": "Input → process → output",
+      "local": "ulaz → proces → izlaz",
+      "minutes": 4,
+      "youtube": "4-RB5vpZUJg",
+      "youtubeQuery": "input transformation output model operations explained",
+      "related": ["Operations management", "Process", "Value chain"],
+      "en": {
+        "one": "Every business takes inputs, transforms them, and produces outputs that customers pay for.",
+        "explain": "Inputs are materials, people, machines, energy, information and money. The transformation is the work you do with them. Outputs are the finished products or services. If the output is worth more to customers than the inputs cost, you create value.",
+        "example": "A hair salon: inputs are the stylist, scissors, shampoo and the customer's time. The process is the haircut. The output is a customer who looks and feels better.",
+        "why": "Thinking this way helps you see where cost and waste enter, and where value is really added.",
+        "mixup": "The customer can be an input too. In services like a haircut or a class, the customer is part of the process."
+      },
+      "bs": {
+        "one": "Svaka firma uzima ulaze (inputs), pretvara ih i proizvodi izlaze (outputs) koje kupci plaćaju.",
+        "explain": "Ulazi su materijal, ljudi, mašine, energija, informacije i novac. Transformacija je rad koji s njima obaviš. Izlazi su gotovi proizvodi ili usluge. Ako izlaz kupcima vrijedi više nego što ulazi koštaju, stvaraš vrijednost.",
+        "example": "Frizerski salon: ulazi su frizer, makaze, šampon i vrijeme kupca. Proces je šišanje. Izlaz je kupac koji izgleda i osjeća se bolje.",
+        "why": "Ovakvo razmišljanje ti pomaže da vidiš gdje ulaze troškovi i otpad, i gdje se stvarno dodaje vrijednost.",
+        "mixup": "I kupac može biti ulaz. U uslugama kao što su šišanje ili čas, kupac je dio procesa."
+      }
+    },
+    {
+      "slug": "process",
+      "term": "Process",
+      "local": "proces",
+      "minutes": 4,
+      "youtube": "Tp3ysZpi_TE",
+      "youtubeQuery": "what is a business process explained",
+      "related": ["Process mapping", "Standard operating procedure", "Bottleneck"],
+      "en": {
+        "one": "A process is a repeatable set of steps that turns a starting point into a result.",
+        "explain": "Taking an order, paying a supplier, onboarding a customer: each is a process. A good process is clear, gives the same result every time, and doesn't depend on one person remembering how it's done.",
+        "example": "A webshop's order process: customer pays → order appears in the system → item is picked and packed → courier collects → customer gets a tracking email.",
+        "why": "When something goes wrong again and again, the fix is usually in the process, not in blaming people.",
+        "mixup": "A process isn't the same as a project. A process repeats forever; a project happens once and ends."
+      },
+      "bs": {
+        "one": "Proces je ponovljiv niz koraka koji početnu tačku pretvara u rezultat.",
+        "explain": "Primanje narudžbe, plaćanje dobavljaču, uvođenje novog klijenta: svako je proces. Dobar proces je jasan, svaki put daje isti rezultat i ne zavisi od toga da li se jedna osoba sjeća kako se radi.",
+        "example": "Proces narudžbe u webshopu: kupac plati → narudžba se pojavi u sistemu → artikal se uzme i spakuje → kurir preuzme → kupac dobije email za praćenje.",
+        "why": "Kad nešto stalno ide naopako, rješenje je obično u procesu, a ne u okrivljavanju ljudi.",
+        "mixup": "Proces nije isto što i projekat. Proces se ponavlja stalno; projekat se desi jednom i završi."
+      }
+    },
+    {
+      "slug": "capacity",
+      "term": "Capacity",
+      "local": "kapacitet",
+      "minutes": 4,
+      "youtube": "Qf-UzEQ9CM4",
+      "youtubeQuery": "capacity in operations management explained",
+      "related": ["Bottleneck", "Utilisation", "Capacity planning"],
+      "en": {
+        "one": "Capacity is the most a business can produce or serve in a given time.",
+        "explain": "It is limited by people, machines, space and hours. Using capacity well means not having idle workers half the day, but also not running at 100% all the time, because then any delay creates a long queue.",
+        "example": "A café with 20 seats and one coffee machine can serve about 60 customers an hour at lunch. Beyond that, people wait or leave.",
+        "why": "If demand is bigger than capacity, you lose sales. If capacity is much bigger than demand, you pay for things you don't use.",
+        "mixup": "Running at full capacity sounds efficient, but systems near 100% become slow and fragile. A small buffer helps."
+      },
+      "bs": {
+        "one": "Capacity (kapacitet) je najviše što firma može proizvesti ili uslužiti u određenom vremenu.",
+        "explain": "Ograničen je ljudima, mašinama, prostorom i satima. Dobro korištenje kapaciteta znači da radnici ne stoje besposleni pola dana, ali ni da se stalno radi na 100%, jer onda svako kašnjenje pravi dug red.",
+        "example": "Kafić sa 20 mjesta i jednim aparatom za kafu može za ručak uslužiti oko 60 gostiju na sat. Preko toga ljudi čekaju ili odu.",
+        "why": "Ako je potražnja veća od kapaciteta, gubiš prodaju. Ako je kapacitet mnogo veći od potražnje, plaćaš ono što ne koristiš.",
+        "mixup": "Rad na punom kapacitetu zvuči efikasno, ali sistemi blizu 100% postaju spori i krhki. Mala rezerva pomaže."
+      }
+    },
+    {
+      "slug": "utilisation",
+      "term": "Capacity utilisation",
+      "local": "iskorištenost kapaciteta",
+      "minutes": 4,
+      "youtube": "qkDjQm5xZH0",
+      "youtubeQuery": "capacity utilization explained",
+      "formula": {
+        "en": "Utilisation = Capacity used ÷ Capacity available × 100%",
+        "bs": "Iskorištenost = Iskorišteni kapacitet ÷ Raspoloživi kapacitet × 100%"
+      },
+      "related": ["Capacity", "Bottleneck", "Fixed and variable costs"],
+      "en": {
+        "one": "Capacity utilisation is how much of your available capacity you actually use, as a percentage.",
+        "explain": "If a hotel has 50 rooms and 40 are booked, utilisation is 80%. Low utilisation means you're paying for idle people, machines or space. Very high utilisation means no room for surprises, so queues and delays grow fast.",
+        "example": "A gym is 95% full from 17–20h and 20% full in the morning. It offers cheaper morning memberships to spread the load.",
+        "why": "Fixed costs are paid whether you use capacity or not, so better utilisation means lower cost per customer.",
+        "mixup": "100% isn't the target. Most service businesses work best around 75–85%, leaving a buffer for peaks."
+      },
+      "bs": {
+        "one": "Capacity utilisation (iskorištenost kapaciteta) je koliko od raspoloživog kapaciteta stvarno koristiš, u procentima.",
+        "explain": "Ako hotel ima 50 soba, a 40 je zauzeto, iskorištenost je 80%. Niska iskorištenost znači da plaćaš ljude, mašine ili prostor koji stoje. Vrlo visoka znači da nema mjesta za iznenađenja, pa redovi i kašnjenja brzo rastu.",
+        "example": "Teretana je 95% puna od 17–20h, a ujutro 20%. Ponudi jeftinije jutarnje članarine da rasporedi opterećenje.",
+        "why": "Fiksni troškovi se plaćaju koristio kapacitet ili ne, pa bolja iskorištenost znači manji trošak po kupcu.",
+        "mixup": "Cilj nije 100%. Većina uslužnih firmi najbolje radi oko 75–85%, uz rezervu za špice."
+      }
+    },
+    {
+      "slug": "efficiency-vs-effectiveness",
+      "term": "Efficiency vs. effectiveness",
+      "local": "efikasnost i efektivnost",
+      "minutes": 3,
+      "youtube": "_yKlIlvIfb8",
+      "youtubeQuery": "efficiency vs effectiveness difference explained",
+      "related": ["Productivity", "Process", "SMART goals"],
+      "en": {
+        "one": "Efficiency is doing things right. Effectiveness is doing the right things.",
+        "explain": "Efficiency means using as little time, money and material as possible. Effectiveness means reaching the goal that actually matters. You want both, but effectiveness comes first: being very efficient at the wrong task is pure waste.",
+        "example": "A sales team sends 1,000 cold emails a day very cheaply (efficient), but nobody buys because they're the wrong customers (not effective).",
+        "why": "It stops you from optimising work that shouldn't be done at all.",
+        "mixup": "In Bosnian both words sound similar and are often mixed up. Efikasno = bez rasipanja; efektivno = postiže cilj."
+      },
+      "bs": {
+        "one": "Efficiency (efikasnost) je raditi stvari na pravi način. Effectiveness (efektivnost) je raditi prave stvari.",
+        "explain": "Efikasnost znači trošiti što manje vremena, novca i materijala. Efektivnost znači postići cilj koji je stvarno bitan. Želiš oboje, ali efektivnost je na prvom mjestu: biti vrlo efikasan u pogrešnom zadatku je čisto rasipanje.",
+        "example": "Prodajni tim šalje 1.000 hladnih emailova dnevno vrlo jeftino (efikasno), ali niko ne kupuje jer su to pogrešni kupci (nije efektivno).",
+        "why": "Sprečava te da optimizuješ posao koji uopšte ne bi trebalo raditi.",
+        "mixup": "Na našem jeziku ove dvije riječi zvuče slično i često se miješaju. Efikasno = bez rasipanja; efektivno = postiže cilj."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "In a hair salon, which of these is an output?",
+        "bs": "U frizerskom salonu, šta od ovoga je izlaz?"
+      },
+      "options": [
+        { "en": "Shampoo", "bs": "Šampon" },
+        { "en": "A finished haircut", "bs": "Gotova frizura" },
+        { "en": "The stylist's working hours", "bs": "Radni sati frizera" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "The haircut is the result the customer pays for. Shampoo and hours are inputs.",
+        "bs": "Frizura je rezultat koji kupac plaća. Šampon i sati su ulazi."
+      }
+    },
+    {
+      "q": {
+        "en": "A café can serve 60 customers an hour, but 90 want coffee at lunch. What is the problem?",
+        "bs": "Kafić može uslužiti 60 gostiju na sat, ali u vrijeme ručka 90 ih želi kafu. U čemu je problem?"
+      },
+      "options": [
+        { "en": "The process has no inputs", "bs": "Proces nema ulaza" },
+        { "en": "Productivity is too high", "bs": "Produktivnost je previsoka" },
+        { "en": "Demand is higher than capacity", "bs": "Potražnja je veća od kapaciteta" }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "30 people an hour can't be served, so they wait or leave.",
+        "bs": "30 ljudi na sat ne može biti usluženo, pa čekaju ili odu."
+      }
+    },
+    {
+      "q": {
+        "en": "A hotel has 50 rooms and 40 are booked. What is its capacity utilisation?",
+        "bs": "Hotel ima 50 soba, a 40 je zauzeto. Kolika je iskorištenost kapaciteta?"
+      },
+      "options": [
+        { "en": "40%", "bs": "40%" },
+        { "en": "80%", "bs": "80%" },
+        { "en": "125%", "bs": "125%" }
+      ],
+      "answer": 1,
+      "explain": { "en": "40 ÷ 50 × 100% = 80%.", "bs": "40 ÷ 50 × 100% = 80%." }
+    },
+    {
+      "q": {
+        "en": "Very cheaply producing a report nobody reads is…",
+        "bs": "Vrlo jeftino pravljenje izvještaja koji niko ne čita je…"
+      },
+      "options": [
+        { "en": "Both", "bs": "Oboje" },
+        { "en": "Effective but not efficient", "bs": "Efektivno ali nije efikasno" },
+        { "en": "Efficient but not effective", "bs": "Efikasno ali nije efektivno" }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "It uses few resources (efficient) but reaches no useful goal (not effective).",
+        "bs": "Troši malo resursa (efikasno), ali ne postiže koristan cilj (nije efektivno)."
+      }
+    }
+  ]
+}
