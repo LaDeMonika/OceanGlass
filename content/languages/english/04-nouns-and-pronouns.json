@@ -1,0 +1,224 @@
+{
+  "slug": "nouns-and-pronouns",
+  "title": {
+    "en": "Nouns, pronouns and English 'cases'",
+    "bs": "Imenice, zamjenice i engleski 'padeži'"
+  },
+  "summary": {
+    "en": "Plurals, countable and uncountable nouns, possessive 's, and the only place English still has cases: pronouns.",
+    "bs": "Množina, brojive i nebrojive imenice, prisvojni 's i jedino mjesto gdje engleski još ima padeže: zamjenice."
+  },
+  "concepts": [
+    {
+      "slug": "plural-nouns",
+      "term": "Plural nouns",
+      "local": "množina imenica",
+      "minutes": 6,
+      "youtube": "UJNsuNMTvgE",
+      "youtubeQuery": "english plural nouns rules s es ies irregular",
+      "related": [
+        "Noun",
+        "Countable and uncountable"
+      ],
+      "bs": {
+        "one": "Množinu (plural) većine imenica praviš dodavanjem -s: book → books.",
+        "explain": "Pravila: poslije s, sh, ch, x dodaješ -es (bus → buses, box → boxes). Suglasnik + y postaje -ies (city → cities), ali samoglasnik + y samo -s (day → days). Neke imenice su nepravilne: man → men, woman → women, child → children, person → people, foot → feet, tooth → teeth, mouse → mice.",
+        "example": "'one child, two children', 'one person, many people', 'one baby, three babies'.",
+        "why": "Množina se čuje u svakoj rečenici, a nepravilne imenice su među najčešćim riječima.",
+        "mixup": "'People' je već množina: 'People are nice', ne 'Peoples are nice'. Isto 'police': 'The police are here.'"
+      }
+    },
+    {
+      "slug": "countable-uncountable",
+      "term": "Countable and uncountable",
+      "local": "brojive i nebrojive imenice",
+      "minutes": 5,
+      "youtube": "xEznhRnmR30",
+      "youtubeQuery": "countable and uncountable nouns english much many",
+      "related": [
+        "Some and any",
+        "Article",
+        "Plural nouns"
+      ],
+      "bs": {
+        "one": "Brojive imenice (countable) možeš brojati: one apple, two apples. Nebrojive (uncountable) ne možeš: water, money, information, advice.",
+        "explain": "Nebrojive nemaju množinu i ne idu uz 'a/an'. Uz njih koristiš 'much' (puno), a uz brojive 'many': 'much money', 'many coins'. Da ih ipak izbrojiš, koristiš mjeru: a glass of water, a piece of advice, a bottle of milk.",
+        "example": "'How many apples?' ali 'How much water?' 'Can you give me some advice?' (ne 'an advice').",
+        "why": "Neke riječi su brojive u bosanskom, a nebrojive u engleskom: information, advice, furniture, news, luggage. Tu ljudi najčešće griješe.",
+        "mixup": "'News' završava na -s, ali je jednina i nebrojiva: 'The news is good', ne 'The news are good'."
+      }
+    },
+    {
+      "slug": "possessive-s",
+      "term": "Possessive 's",
+      "local": "prisvojni 's",
+      "minutes": 13,
+      "youtube": "gItYElYA_1s",
+      "youtubeQuery": "possessive apostrophe s english grammar",
+      "related": [
+        "Possessive adjectives and pronouns",
+        "Noun"
+      ],
+      "bs": {
+        "one": "Prisvojni 's (apostrof + s) pokazuje kome nešto pripada: Ana's car = Anino auto.",
+        "explain": "Jednina: dodaj 's (my brother's house). Množina koja završava na -s: dodaj samo apostrof (my parents' house). Nepravilna množina: dodaj 's (the children's room). Za stvari engleski češće koristi 'of': the end of the film.",
+        "example": "'This is Amra's phone.' 'The students' books are on the desk.' (knjige više studenata)",
+        "why": "Ovo je engleska zamjena za bosanski genitiv i prisvojne pridjeve (Amrin, bratov).",
+        "mixup": "Ne miješaj 's (pripadanje) i 's kao skraćenicu za 'is': 'Ana's here' = Ana is here, a 'Ana's bag' = Anina torba. Gledaj šta slijedi."
+      }
+    },
+    {
+      "slug": "english-cases",
+      "term": "Cases in English: I, me, my, mine",
+      "local": "padeži u engleskom",
+      "minutes": 17,
+      "youtube": "kmI_2wCewpU",
+      "youtubeQuery": "subject object possessive pronouns english I me my mine",
+      "related": [
+        "Subject and object",
+        "Pronoun",
+        "Possessive adjectives and pronouns"
+      ],
+      "bs": {
+        "one": "Engleske imenice nemaju padeže, ali zamjenice ih još imaju: subjektni oblik (I), objektni (me) i prisvojni (my, mine).",
+        "explain": "Subjektni (kao nominativ, pitanje 'Ko?'): I, you, he, she, it, we, they. Objektni (kao akuzativ i dativ, 'Koga? Kome?'): me, you, him, her, it, us, them. Prisvojni ispred imenice ('Čiji?'): my, your, his, her, its, our, their. Prisvojni sami: mine, yours, his, hers, ours, theirs. Kako prepoznati: ispred glagola = subjektni, iza glagola ili prijedloga = objektni.",
+        "example": "'She loves him, and he loves her.' 'Give it to me.' 'This is my book. It's mine.'",
+        "why": "Ovo je jedino mjesto gdje engleski traži padež. Ako znaš bosanski 'ja – mene – moj', ovo ćeš brzo naučiti.",
+        "mixup": "Poslije prijedloga uvijek objektni oblik: 'for me', 'with them', 'between you and me' (ne 'between you and I')."
+      }
+    },
+    {
+      "slug": "this-that",
+      "term": "This, that, these, those",
+      "local": "ovaj, taj/onaj, ovi, oni",
+      "minutes": 3,
+      "youtube": "rfeeceyOwC4",
+      "youtubeQuery": "this that these those english grammar",
+      "related": [
+        "Determiner",
+        "Plural nouns"
+      ],
+      "bs": {
+        "one": "Pokazne riječi pokazuju na nešto blizu ili daleko: this (ovaj, blizu, jednina), these (ovi, blizu, množina), that (taj/onaj, daleko, jednina), those (oni, daleko, množina).",
+        "explain": "Mogu stajati ispred imenice (this car) ili same (I like this). Slažu se u broju s imenicom: this book, these books. Engleski nema razliku između 'taj' i 'onaj', obje su 'that'.",
+        "example": "'This coffee is hot, but that one over there is cold.' 'These shoes are new. Those are old.'",
+        "why": "Svakodnevno ih koristiš za kupovinu, pokazivanje i biranje.",
+        "mixup": "Pazi na izgovor: 'this' (kratko i) i 'these' (dugo ii). Kad se pomiješa, mijenja se broj."
+      }
+    },
+    {
+      "slug": "some-any",
+      "term": "Some and any",
+      "local": "nešto, malo, ikakav",
+      "minutes": 9,
+      "youtube": "rRk9EhDcQp4",
+      "youtubeQuery": "some and any english grammar rules",
+      "related": [
+        "Countable and uncountable",
+        "Questions",
+        "Negatives"
+      ],
+      "bs": {
+        "one": "'Some' i 'any' znače 'nešto, malo, nekoliko' kad tačna količina nije važna.",
+        "explain": "Osnovno pravilo: 'some' u potvrdnim rečenicama (I have some money), 'any' u negativnim i pitanjima (I don't have any money. Do you have any money?). Idu i uz brojive u množini i uz nebrojive. Izuzetak: kad nešto nudiš ili tražiš, koristiš 'some' i u pitanju: 'Would you like some tea?'",
+        "example": "'There are some eggs, but there isn't any milk.' 'Can I have some water, please?'",
+        "why": "Bez njih ne možeš lijepo reći količinu u kuhinji, prodavnici ili na poslu.",
+        "mixup": "'I don't have no time' je pogrešno. Treba 'I don't have any time' ili 'I have no time'."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "bs": "Množina od 'child' je:"
+      },
+      "options": [
+        {
+          "bs": "childs"
+        },
+        {
+          "bs": "childes"
+        },
+        {
+          "bs": "children"
+        },
+        {
+          "bs": "childrens"
+        }
+      ],
+      "answer": 2,
+      "explain": {
+        "bs": "'Child' je nepravilna imenica: children."
+      }
+    },
+    {
+      "q": {
+        "bs": "Šta je tačno?"
+      },
+      "options": [
+        {
+          "bs": "Can you give me an advice?"
+        },
+        {
+          "bs": "Can you give me advices?"
+        },
+        {
+          "bs": "Can you give me some advice?"
+        },
+        {
+          "bs": "Can you give me many advice?"
+        }
+      ],
+      "answer": 2,
+      "explain": {
+        "bs": "'Advice' je nebrojiva, pa bez 'an' i bez množine."
+      }
+    },
+    {
+      "q": {
+        "bs": "Kako se kaže 'Ovo je za mene'?"
+      },
+      "options": [
+        {
+          "bs": "This is for I."
+        },
+        {
+          "bs": "This is for me."
+        },
+        {
+          "bs": "This is for my."
+        },
+        {
+          "bs": "This is for mine."
+        }
+      ],
+      "answer": 1,
+      "explain": {
+        "bs": "Poslije prijedloga ide objektni oblik: me."
+      }
+    },
+    {
+      "q": {
+        "bs": "Gdje je 's skraćenica od 'is'?"
+      },
+      "options": [
+        {
+          "bs": "Emir's car is new."
+        },
+        {
+          "bs": "Emir's at home."
+        },
+        {
+          "bs": "the children's toys"
+        },
+        {
+          "bs": "my mother's job"
+        }
+      ],
+      "answer": 1,
+      "explain": {
+        "bs": "Iza 's slijedi mjesto, ne stvar koja pripada: Emir is at home."
+      }
+    }
+  ]
+}

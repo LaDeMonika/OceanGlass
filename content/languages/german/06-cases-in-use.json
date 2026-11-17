@@ -1,0 +1,288 @@
+{
+  "slug": "cases-in-use",
+  "title": {
+    "en": "Cases in everyday use",
+    "bs": "Padeži u svakodnevnoj upotrebi"
+  },
+  "summary": {
+    "en": "Prepositions that fix the case, the two-way prepositions, pronouns and possessives in each case, and verbs that take the Dativ.",
+    "bs": "Prijedlozi koji određuju padež, dvosmjerni prijedlozi, zamjenice i prisvojni članovi u svakom padežu, i glagoli s dativom."
+  },
+  "concepts": [
+    {
+      "slug": "praep-akkusativ",
+      "term": "Präpositionen mit Akkusativ",
+      "local": "prijedlozi s akuzativom",
+      "minutes": 10,
+      "youtube": "nZduxD7nEU8",
+      "youtubeQuery": "German accusative prepositions durch für gegen ohne um",
+      "related": [
+        "der Akkusativ",
+        "Präpositionen mit Dativ"
+      ],
+      "en": {
+        "one": "Five common prepositions always take the Akkusativ: durch, für, gegen, ohne, um. Memory trick: 'DOGFU'.",
+        "explain": "durch (through), für (for), gegen (against / around a time), ohne (without), um (around / at a time). Whatever the context, the noun after them is Akkusativ: für den Chef, ohne meinen Mann.",
+        "example": "'Das Geschenk ist für dich.' 'Wir gehen durch den Park.' 'Ich komme um 8 Uhr.' 'Kaffee ohne Zucker, bitte.'",
+        "why": "These come up all day, so learning the list gives you quick, certain wins.",
+        "mixup": "'für mich', not 'für mir'. After für, use the Akkusativ pronoun."
+      },
+      "bs": {
+        "one": "Pet čestih prijedloga uvijek traži akuzativ: durch, für, gegen, ohne, um. Trik za pamćenje: 'DOGFU'.",
+        "explain": "durch (kroz), für (za), gegen (protiv / oko nekog vremena), ohne (bez), um (oko / u neko vrijeme). Bez obzira na kontekst, imenica iza njih je u akuzativu: für den Chef, ohne meinen Mann.",
+        "example": "'Das Geschenk ist für dich.' 'Wir gehen durch den Park.' 'Ich komme um 8 Uhr.' 'Kaffee ohne Zucker, bitte.'",
+        "why": "Pojavljuju se cijeli dan, pa ti ova lista daje brze i sigurne pogotke.",
+        "mixup": "'für mich', ne 'für mir'. Iza für ide akuzativ zamjenice. Pazi: bosansko 'bez' traži genitiv, a njemačko 'ohne' akuzativ."
+      }
+    },
+    {
+      "slug": "praep-dativ",
+      "term": "Präpositionen mit Dativ",
+      "local": "prijedlozi s dativom",
+      "minutes": 14,
+      "youtube": "X6db08GLuHw",
+      "youtubeQuery": "German dative prepositions aus bei mit nach seit von zu",
+      "related": [
+        "der Dativ",
+        "Präpositionen mit Akkusativ"
+      ],
+      "en": {
+        "one": "Nine common prepositions always take the Dativ: aus, außer, bei, gegenüber, mit, nach, seit, von, zu.",
+        "explain": "aus (from/out of), bei (at someone's place / near), mit (with / by), nach (after / to a city or country), seit (since / for), von (from / of), zu (to a person or place). Short forms: zum = zu dem, zur = zu der, beim = bei dem, vom = von dem.",
+        "example": "'Ich komme aus Bosnien.' 'Ich fahre mit dem Zug zum Bahnhof.' 'Ich wohne seit einem Jahr hier.' 'Nach der Arbeit gehe ich zu meiner Freundin.'",
+        "why": "Together with the Akkusativ list, this covers most prepositions you'll use at A1–A2.",
+        "mixup": "'seit' is for something that started in the past and is still going, and it uses the present: 'Ich lerne seit zwei Jahren Deutsch.'"
+      },
+      "bs": {
+        "one": "Devet čestih prijedloga uvijek traži dativ: aus, außer, bei, gegenüber, mit, nach, seit, von, zu.",
+        "explain": "aus (iz), bei (kod / blizu), mit (s/sa / prevozom), nach (poslije / u grad ili zemlju), seit (od / već), von (od), zu (kod osobe / do mjesta). Kratki oblici: zum = zu dem, zur = zu der, beim = bei dem, vom = von dem.",
+        "example": "'Ich komme aus Bosnien.' 'Ich fahre mit dem Zug zum Bahnhof.' 'Ich wohne seit einem Jahr hier.' 'Nach der Arbeit gehe ich zu meiner Freundin.'",
+        "why": "Zajedno s listom za akuzativ, ovo pokriva većinu prijedloga na nivoima A1–A2.",
+        "mixup": "'seit' je za nešto što je počelo u prošlosti i još traje, i ide uz prezent: 'Ich lerne seit zwei Jahren Deutsch' (učim već dvije godine)."
+      }
+    },
+    {
+      "slug": "wechselpraepositionen",
+      "term": "Wechselpräpositionen",
+      "local": "dvosmjerni prijedlozi",
+      "minutes": 3,
+      "youtube": "cPJ1Es1rF1g",
+      "youtubeQuery": "German two way prepositions wechselpräpositionen",
+      "related": [
+        "Präpositionen mit Dativ",
+        "Präpositionen mit Akkusativ"
+      ],
+      "en": {
+        "one": "Nine prepositions can take Akkusativ OR Dativ: an, auf, hinter, in, neben, über, unter, vor, zwischen. The question decides.",
+        "explain": "Wohin? (where to, movement towards a goal) → Akkusativ. Wo? (where, location, no change of place) → Dativ. Typical pairs of verbs: legen/liegen, stellen/stehen, hängen/hängen, setzen/sitzen.",
+        "example": "'Ich lege das Buch auf den Tisch.' (Wohin? → Akk.) 'Das Buch liegt auf dem Tisch.' (Wo? → Dat.) 'Ich gehe in die Stadt' vs. 'Ich bin in der Stadt'.",
+        "why": "This is the same logic Bosnian uses with 'u' and 'na': 'idem u grad' (akuzativ) vs. 'u gradu sam' (lokativ).",
+        "mixup": "Movement inside a place is still Wo?: 'Ich laufe im Park' (I'm running around in the park) is Dativ."
+      },
+      "bs": {
+        "one": "Devet prijedloga može tražiti akuzativ ILI dativ: an, auf, hinter, in, neben, über, unter, vor, zwischen. Pitanje odlučuje.",
+        "explain": "Wohin? (kuda, kretanje prema cilju) → akuzativ. Wo? (gdje, mjesto, bez promjene mjesta) → dativ. Tipični parovi glagola: legen/liegen, stellen/stehen, hängen/hängen, setzen/sitzen.",
+        "example": "'Ich lege das Buch auf den Tisch.' (Wohin? → akuz.) 'Das Buch liegt auf dem Tisch.' (Wo? → dat.) 'Ich gehe in die Stadt' i 'Ich bin in der Stadt'.",
+        "why": "Ovo je ista logika kao u bosanskom s 'u' i 'na': 'idem u grad' (akuzativ) i 'u gradu sam' (lokativ).",
+        "mixup": "Kretanje unutar mjesta je i dalje Wo?: 'Ich laufe im Park' (trčim po parku) je dativ."
+      }
+    },
+    {
+      "slug": "personalpronomen-faelle",
+      "term": "Personal pronouns in the cases",
+      "local": "lične zamjenice po padežima",
+      "minutes": 8,
+      "youtube": "uoEwlH9XgZ0",
+      "youtubeQuery": "German personal pronouns accusative dative mich mir",
+      "related": [
+        "das Pronomen",
+        "der Dativ",
+        "der Akkusativ"
+      ],
+      "en": {
+        "one": "Pronouns change with the case: ich – mich – mir, du – dich – dir, er – ihn – ihm.",
+        "explain": "Nominativ / Akkusativ / Dativ: ich / mich / mir; du / dich / dir; er / ihn / ihm; sie / sie / ihr; es / es / ihm; wir / uns / uns; ihr / euch / euch; sie / sie / ihnen; Sie / Sie / Ihnen. How to spot: same questions as for nouns: Wer? Wen? Wem?",
+        "example": "'Kannst du mir helfen?' (Wem? → mir) 'Ich liebe dich.' (Wen? → dich) 'Wie geht es Ihnen?' (Dativ)",
+        "why": "Pronouns are the fastest way to practise cases, because the forms are short and very frequent.",
+        "mixup": "'mir' and 'mich' both mean 'me'. 'Er sieht mich' (Wen?) but 'Er hilft mir' (Wem?)."
+      },
+      "bs": {
+        "one": "Zamjenice se mijenjaju po padežu: ich – mich – mir, du – dich – dir, er – ihn – ihm. Kao bosanski: ja – mene – meni.",
+        "explain": "Nominativ / akuzativ / dativ: ich / mich / mir; du / dich / dir; er / ihn / ihm; sie / sie / ihr; es / es / ihm; wir / uns / uns; ihr / euch / euch; sie / sie / ihnen; Sie / Sie / Ihnen. Kako prepoznati: ista pitanja kao za imenice: Wer? Wen? Wem?",
+        "example": "'Kannst du mir helfen?' (Wem? → mir) 'Ich liebe dich.' (Wen? → dich) 'Wie geht es Ihnen?' (dativ)",
+        "why": "Zamjenice su najbrži način da vježbaš padeže, jer su oblici kratki i vrlo česti.",
+        "mixup": "'mir' i 'mich' oba znače 'mene/meni'. 'Er sieht mich' (Wen? – vidi mene) ali 'Er hilft mir' (Wem? – pomaže meni)."
+      }
+    },
+    {
+      "slug": "possessivartikel",
+      "term": "Possessive articles",
+      "local": "prisvojni članovi",
+      "minutes": 10,
+      "youtube": "CY4UhFttoog",
+      "youtubeQuery": "German possessive articles mein dein",
+      "related": [
+        "der Artikel",
+        "What is a case?"
+      ],
+      "en": {
+        "one": "Possessive articles say whose: mein (my), dein (your), sein (his/its), ihr (her/their), unser (our), euer (your, plural), Ihr (your, polite).",
+        "explain": "They take the same endings as ein/kein, matching the noun that FOLLOWS, not the owner: mein Bruder, meine Schwester, meinen Bruder (Akk.), meinem Bruder (Dat.). 'sein' = his, 'ihr' = her.",
+        "example": "'Das ist meine Mutter und das ist mein Vater.' 'Ich besuche meinen Onkel.' 'Anna ruft ihren Bruder an.'",
+        "why": "You talk about your family, home and work all the time. These words need the right case ending every time.",
+        "mixup": "The ending follows the noun, not the owner. A man talks about 'meine Frau' (feminine, because Frau is feminine)."
+      },
+      "bs": {
+        "one": "Prisvojni članovi kažu čije je nešto: mein (moj), dein (tvoj), sein (njegov), ihr (njen / njihov), unser (naš), euer (vaš), Ihr (Vaš, ljubazno).",
+        "explain": "Dobijaju iste nastavke kao ein/kein, prema imenici koja SLIJEDI, ne prema vlasniku: mein Bruder, meine Schwester, meinen Bruder (akuz.), meinem Bruder (dat.). 'sein' = njegov, 'ihr' = njen.",
+        "example": "'Das ist meine Mutter und das ist mein Vater.' 'Ich besuche meinen Onkel.' 'Anna ruft ihren Bruder an.'",
+        "why": "Stalno pričaš o porodici (obitelji), kući i poslu. Ove riječi svaki put trebaju pravi padežni nastavak.",
+        "mixup": "Bosanski 'svoj' ne postoji: 'Anna ruft ihren Bruder an' (Ana zove svog brata). Za nju je 'ihr', za njega 'sein'."
+      }
+    },
+    {
+      "slug": "verben-mit-dativ",
+      "term": "Verbs with the Dativ",
+      "local": "glagoli s dativom",
+      "minutes": 9,
+      "youtube": "YWn2kAjbhrA",
+      "youtubeQuery": "German dative verbs helfen gefallen",
+      "related": [
+        "der Dativ",
+        "Personal pronouns in the cases"
+      ],
+      "en": {
+        "one": "A small group of verbs takes a Dativ object instead of Akkusativ: helfen, danken, gefallen, gehören, antworten, gratulieren, schmecken, passen.",
+        "explain": "There's no logic you can rely on; just learn the list. 'gefallen' and 'schmecken' turn the sentence around: the thing you like is the subject and you are in the Dativ. 'Das Kleid gefällt mir' = I like the dress (literally: the dress pleases me).",
+        "example": "'Ich danke dir.' 'Das Auto gehört meinem Vater.' 'Schmeckt dir die Suppe?' 'Kann ich Ihnen helfen?'",
+        "why": "These are high-frequency verbs, and the mistake 'Ich helfe dich' is one Germans notice immediately.",
+        "mixup": "Bosnian 'pomoći' also takes the dativ (pomažem tebi), but 'zahvaliti' differs. Don't translate cases, learn them per verb."
+      },
+      "bs": {
+        "one": "Mala grupa glagola traži dativ umjesto akuzativa: helfen, danken, gefallen, gehören, antworten, gratulieren, schmecken, passen.",
+        "explain": "Nema pouzdane logike; samo nauči listu. 'gefallen' i 'schmecken' okreću rečenicu: ono što ti se sviđa je subjekat, a ti si u dativu, kao u bosanskom 'sviđa mi se'. 'Das Kleid gefällt mir' = haljina mi se sviđa.",
+        "example": "'Ich danke dir.' 'Das Auto gehört meinem Vater.' 'Schmeckt dir die Suppe?' 'Kann ich Ihnen helfen?'",
+        "why": "Ovo su vrlo česti glagoli, a grešku 'Ich helfe dich' Nijemci odmah primijete.",
+        "mixup": "Bosanski 'pomoći' isto traži dativ (pomažem tebi), ali 'zahvaliti' se razlikuje. Ne prevodi padeže, uči ih uz svaki glagol."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "'Ich fahre ___ dem Bus.'",
+        "bs": "'Ich fahre ___ dem Bus.'"
+      },
+      "options": [
+        {
+          "en": "für",
+          "bs": "für"
+        },
+        {
+          "en": "mit",
+          "bs": "mit"
+        },
+        {
+          "en": "ohne",
+          "bs": "ohne"
+        },
+        {
+          "en": "durch",
+          "bs": "durch"
+        }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "'dem' is Dativ, and 'mit' takes the Dativ.",
+        "bs": "'dem' je dativ, a 'mit' traži dativ."
+      }
+    },
+    {
+      "q": {
+        "en": "'Ich hänge das Bild an ___ Wand.' (Wohin?)",
+        "bs": "'Ich hänge das Bild an ___ Wand.' (Wohin?)"
+      },
+      "options": [
+        {
+          "en": "die",
+          "bs": "die"
+        },
+        {
+          "en": "der",
+          "bs": "der"
+        },
+        {
+          "en": "dem",
+          "bs": "dem"
+        },
+        {
+          "en": "den",
+          "bs": "den"
+        }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Wohin? → Akkusativ. die Wand stays 'die'.",
+        "bs": "Wohin? → akuzativ. die Wand ostaje 'die'."
+      }
+    },
+    {
+      "q": {
+        "en": "Which is correct?",
+        "bs": "Šta je tačno?"
+      },
+      "options": [
+        {
+          "en": "Ich helfe dich.",
+          "bs": "Ich helfe dich."
+        },
+        {
+          "en": "Ich helfe du.",
+          "bs": "Ich helfe du."
+        },
+        {
+          "en": "Ich helfe deinen.",
+          "bs": "Ich helfe deinen."
+        },
+        {
+          "en": "Ich helfe dir.",
+          "bs": "Ich helfe dir."
+        }
+      ],
+      "answer": 3,
+      "explain": {
+        "en": "helfen takes the Dativ: dir.",
+        "bs": "helfen traži dativ: dir."
+      }
+    },
+    {
+      "q": {
+        "en": "A man says 'my wife':",
+        "bs": "Muškarac kaže 'moja žena':"
+      },
+      "options": [
+        {
+          "en": "meine Frau",
+          "bs": "meine Frau"
+        },
+        {
+          "en": "mein Frau",
+          "bs": "mein Frau"
+        },
+        {
+          "en": "meinen Frau",
+          "bs": "meinen Frau"
+        },
+        {
+          "en": "seine Frau",
+          "bs": "seine Frau"
+        }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "The ending follows the noun: die Frau → meine.",
+        "bs": "Nastavak prati imenicu: die Frau → meine."
+      }
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "slug": "past-future-aspect",
+  "title": {
+    "en": "Past, future and aspect",
+    "bs": "Prošlost, budućnost i glagolski vid"
+  },
+  "summary": {
+    "en": "The perfect tense, gender in the past, the future, verb aspect, the conditional and the imperative.",
+    "bs": "Perfekat, rod u prošlosti, futur, glagolski vid, kondicional i imperativ."
+  },
+  "concepts": [
+    {
+      "slug": "perfekat",
+      "term": "Perfekat (perfekt)",
+      "local": "past tense",
+      "minutes": 30,
+      "youtube": "OKBe7lGPFXc",
+      "youtubeQuery": "croatian past tense perfekt",
+      "related": [
+        "Biti",
+        "Rod u prošlosti",
+        "Glagolski vid"
+      ],
+      "en": {
+        "one": "The perfekat (Croatian: perfekt) is THE past tense in everyday speech: short form of biti + the verb's -o/-la form.",
+        "explain": "Form the participle from the infinitive: drop -ti and add -o (m), -la (f), -lo (n), -li (m pl), -le (f pl), -la (n pl): raditi → radio / radila. Then add sam, si, je, smo, ste, su. 'Radio sam' (I worked, male speaker). Negative: 'Nisam radio.' Question: 'Jesi li radio?' or 'Da li si radio?'",
+        "example": "'Jučer (juče) sam bila u gradu i kupila sam cipele.' (a woman speaking)",
+        "why": "One past tense covers 'I worked', 'I was working' and 'I have worked'. Simpler than English!",
+        "mixup": "Don't drop the helper verb: say 'On je došao' or 'Došao je', never just 'On došao'. The short form (sam, si, je…) follows the second-position rule (topic 8)."
+      }
+    },
+    {
+      "slug": "rod-proslost",
+      "term": "Rod u prošlosti",
+      "local": "gender in the past tense",
+      "minutes": 12,
+      "youtube": "OBJ-oTMgiGs",
+      "youtubeQuery": "croatian past tense masculine feminine",
+      "related": [
+        "Perfekat (perfekt)",
+        "Rod imenica"
+      ],
+      "en": {
+        "one": "In the past tense the verb shows the speaker's gender. Men and women say 'I was' differently.",
+        "explain": "A man: 'Bio sam umoran.' A woman: 'Bila sam umorna.' For a group of men or mixed: 'Bili smo.' Only women: 'Bile smo.' For things, it follows the noun's gender: 'Autobus je kasnio.' 'Kuća je bila prazna.' 'Dijete je spavalo.'",
+        "example": "'Ja sam rođena u Tuzli' (woman) vs 'Ja sam rođen u Tuzli' (man).",
+        "why": "Getting this wrong changes who you are in the sentence, and native speakers notice immediately.",
+        "mixup": "The adjective after biti also agrees: 'Bila sam sretna' (woman), 'Bio sam sretan' (man)."
+      }
+    },
+    {
+      "slug": "futur",
+      "term": "Futur I",
+      "local": "future tense",
+      "minutes": 21,
+      "youtube": "1vHF4IpRouA",
+      "youtubeQuery": "croatian future tense",
+      "related": [
+        "Infinitiv",
+        "Enklitike"
+      ],
+      "en": {
+        "one": "The future (futur I) is built with the short forms of htjeti (ću, ćeš, će, ćemo, ćete, će) + the infinitive.",
+        "explain": "If the pronoun comes first: 'Ja ću raditi.' If the verb comes first, drop the final -i of the infinitive and write separately: 'Radit ću.' Verbs in -ći stay whole: 'Ići ću.' Negative: neću, nećeš, neće… 'Neću raditi.' Question: 'Hoćeš li doći?' Note: Serbian writes 'radiću' in one word; Bosnian and Croatian write 'radit ću'.",
+        "example": "'Sutra ću ići kod doktora (liječnika).' 'Hoćeš li doći na rođendan?' – 'Hoću!' / 'Neću.'",
+        "why": "With present, past and future you can already talk about anything in time.",
+        "mixup": "'ću' can't start a sentence. 'Ću raditi' is wrong; say 'Radit ću' or 'Ja ću raditi'."
+      }
+    },
+    {
+      "slug": "glagolski-vid",
+      "term": "Glagolski vid",
+      "local": "verb aspect",
+      "minutes": 2,
+      "youtube": "eYqpib_w7aY",
+      "youtubeQuery": "croatian verb aspect perfective imperfective",
+      "related": [
+        "Perfekat (perfekt)",
+        "Glagol"
+      ],
+      "en": {
+        "one": "Most verbs come in pairs: imperfective (nesvršeni) for ongoing or repeated actions, perfective (svršeni) for one complete action.",
+        "explain": "pisati / napisati (to write / to write completely), čitati / pročitati, kupovati / kupiti, dolaziti / doći. Imperfective: process, habit, 'was doing'. Perfective: result, done once, finished. Perfective verbs can't express 'right now' in the present: you use them after 'da', 'ako', 'kad' or for the future.",
+        "example": "'Čitala sam knjigu cijelu večer.' (I was reading – process) vs 'Pročitala sam knjigu.' (I read it through – finished). 'Svaki dan kupujem hljeb (kruh)' vs 'Danas sam kupio hljeb (kruh).'",
+        "why": "Aspect is the Slavic way of saying what English does with tenses like 'was doing' and 'have done'. It's essential for sounding natural.",
+        "mixup": "Don't use a perfective verb for 'I'm doing it now': 'Sada napišem pismo' is wrong. Use 'Sada pišem pismo.'"
+      }
+    },
+    {
+      "slug": "kondicional",
+      "term": "Kondicional",
+      "local": "conditional",
+      "minutes": 4,
+      "youtube": "ytfrJ9DAaaw",
+      "youtubeQuery": "croatian conditional bih",
+      "related": [
+        "Perfekat (perfekt)",
+        "Zavisne rečenice"
+      ],
+      "en": {
+        "one": "The kondicional (would) is built with bih, bi, bi, bismo, biste, bi + the -o/-la participle.",
+        "explain": "'Ja bih išao (išla).' (I would go.) It's used for wishes, polite requests and hypotheses. The polite form is very common: 'Želio (željela) bih kafu (kavu).' 'Mogli biste mi pomoći?' With 'kad' or 'ako' it makes 'if' sentences: 'Kad bih imao vremena, putovao bih.'",
+        "example": "'Htjela bih platiti.' (I'd like to pay.) 'Šta (što) bi ti uradio (učinio)?'",
+        "why": "This is the polite form of every request in shops, restaurants and offices.",
+        "mixup": "The forms are fixed: 'ja bih', 'mi bismo'. In casual speech people say 'ja bi' or 'mi bi', but in writing use bih and bismo."
+      }
+    },
+    {
+      "slug": "imperativ",
+      "term": "Imperativ",
+      "local": "imperative",
+      "minutes": 3,
+      "youtube": "teaPebopnPE",
+      "youtubeQuery": "croatian imperative",
+      "related": [
+        "Prezent",
+        "Glagolski vid"
+      ],
+      "en": {
+        "one": "The imperative gives orders and requests. Take the 'oni' present form, drop the ending, and add -i/-ite or -j/-jte.",
+        "explain": "rade → radi! radite! čitaju → čitaj! čitajte! pišu → piši! pišite! Use the -te form for 'vi' (plural or polite). Negative: ne + imperative, usually with the imperfective verb: 'Ne pušite!' (Don't smoke!). For 'let's': hajde/hajdemo + present: 'Hajdemo kući.'",
+        "example": "'Dođi ovamo!' 'Izvolite, sjedite.' 'Molim vas, pričajte polako.'",
+        "why": "Instructions, signs, recipes and polite offers ('Izvolite!') all use the imperative.",
+        "mixup": "'Izvolite' doesn't mean 'please' in general. It's said when offering or handing something: 'Here you are / Go ahead.'"
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "A woman says 'I worked':"
+      },
+      "options": [
+        {
+          "en": "Radila sam."
+        },
+        {
+          "en": "Radio sam."
+        },
+        {
+          "en": "Radilo sam."
+        },
+        {
+          "en": "Radim sam."
+        }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Feminine participle -la: radila."
+      }
+    },
+    {
+      "q": {
+        "en": "'I will go' starting with the verb:"
+      },
+      "options": [
+        {
+          "en": "Ić ću."
+        },
+        {
+          "en": "Ići ću."
+        },
+        {
+          "en": "Ću ići."
+        },
+        {
+          "en": "Idem ću."
+        }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "-ći verbs stay whole: Ići ću."
+      }
+    },
+    {
+      "q": {
+        "en": "'I read the whole book (finished it)':"
+      },
+      "options": [
+        {
+          "en": "Čitao sam knjigu."
+        },
+        {
+          "en": "Čitam knjigu."
+        },
+        {
+          "en": "Pročitao sam knjigu."
+        },
+        {
+          "en": "Pročitam knjigu."
+        }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "A finished action uses the perfective verb: pročitati."
+      }
+    },
+    {
+      "q": {
+        "en": "Politely: 'I would like a coffee'"
+      },
+      "options": [
+        {
+          "en": "Želim kafu (kavu)!"
+        },
+        {
+          "en": "Daj kafu (kavu)."
+        },
+        {
+          "en": "Ću kafu (kavu)."
+        },
+        {
+          "en": "Želio bih kafu (kavu)."
+        }
+      ],
+      "answer": 3,
+      "explain": {
+        "en": "The conditional (bih) is the polite form."
+      }
+    }
+  ]
+}

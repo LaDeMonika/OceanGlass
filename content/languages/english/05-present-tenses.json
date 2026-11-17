@@ -1,0 +1,224 @@
+{
+  "slug": "present-tenses",
+  "title": {
+    "en": "Present tenses",
+    "bs": "Sadašnja vremena"
+  },
+  "summary": {
+    "en": "Present simple and present continuous: what each one is for, how to build them and how to choose.",
+    "bs": "Present simple i present continuous: za šta služi koje, kako se grade i kako birati."
+  },
+  "concepts": [
+    {
+      "slug": "present-simple",
+      "term": "Present simple",
+      "local": "sadašnje jednostavno vrijeme",
+      "minutes": 5,
+      "youtube": "nvVdIJ0las0",
+      "youtubeQuery": "present simple tense english grammar explained",
+      "related": [
+        "Third person -s",
+        "Adverbs of frequency",
+        "Present continuous"
+      ],
+      "bs": {
+        "one": "Present simple koristiš za navike, činjenice i stvari koje se stalno ponavljaju: I work, she lives, water boils.",
+        "explain": "Oblik: subjekat + osnovni glagol (I/you/we/they work), a za he/she/it dodaješ -s (he works). Pitanje s do/does, negacija s don't/doesn't. Često ide s riječima: always, usually, often, every day, on Mondays.",
+        "example": "'I get up at 7. My husband works in a bank. The shop opens at 9.'",
+        "why": "Ovo je najčešće englesko vrijeme. Njime pričaš o sebi, svom poslu i rasporedu.",
+        "mixup": "Present simple NIJE za ono što se dešava baš sada. 'I read a book now' je pogrešno; treba 'I'm reading a book now'."
+      }
+    },
+    {
+      "slug": "third-person-s",
+      "term": "Third person -s",
+      "local": "nastavak -s za on/ona/ono",
+      "minutes": 4,
+      "youtube": "nbGDg8Wmo0c",
+      "youtubeQuery": "third person singular s english present simple rules",
+      "related": [
+        "Present simple",
+        "Questions"
+      ],
+      "bs": {
+        "one": "U present simple, kad je subjekat he, she, it (ili jedna osoba/stvar), glagol dobija -s: she works.",
+        "explain": "Pravila pisanja su kao kod množine: poslije s, sh, ch, x, o dodaješ -es (watches, goes, does); suglasnik + y postaje -ies (study → studies). 'Have' postaje 'has'. U pitanjima i negaciji -s prelazi na does: 'Does he work?', 'He doesn't work'.",
+        "example": "'My son plays football. He goes to training on Fridays and has a match on Sunday.'",
+        "why": "Ovo je najčešća greška stranaca. Kad pamtiš -s, odmah zvučiš tačnije.",
+        "mixup": "'My friends lives' je pogrešno: 'friends' je množina (they), pa nema -s. -s ide samo uz jedninu."
+      }
+    },
+    {
+      "slug": "present-continuous",
+      "term": "Present continuous",
+      "local": "sadašnje trajno vrijeme",
+      "minutes": 8,
+      "youtube": "rFdhrR6Dpco",
+      "youtubeQuery": "present continuous tense english grammar",
+      "related": [
+        "Present simple",
+        "To be",
+        "Going to"
+      ],
+      "bs": {
+        "one": "Present continuous koristiš za radnju koja traje baš sada ili ovih dana: I am working.",
+        "explain": "Oblik: am/is/are + glagol s -ing. 'I am eating', 'She is sleeping', 'They are waiting'. Pitanje: 'Are you working?' Negacija: 'I'm not working.' Pravopis: make → making (otpada e), run → running (udvaja se suglasnik), lie → lying.",
+        "example": "'Don't call now, I'm driving.' 'This month I'm working from home.'",
+        "why": "Ovo je razlika koju bosanski nema: mi kažemo 'radim' za oboje. Engleski razlikuje 'I work' (inače) i 'I'm working' (sada).",
+        "mixup": "Neki glagoli stanja obično nemaju -ing: know, like, want, need, understand. 'I'm knowing' je pogrešno, treba 'I know'."
+      }
+    },
+    {
+      "slug": "simple-vs-continuous",
+      "term": "Simple or continuous?",
+      "local": "jednostavno ili trajno?",
+      "minutes": 5,
+      "youtube": "OsW5sV3GMDM",
+      "youtubeQuery": "present simple vs present continuous difference",
+      "related": [
+        "Present simple",
+        "Present continuous"
+      ],
+      "bs": {
+        "one": "Pitaj se: je li to navika ili nešto što se dešava sada? Navika = simple. Sada/privremeno = continuous.",
+        "explain": "Znakovi za simple: always, usually, every day, never, on Mondays. Znakovi za continuous: now, right now, at the moment, today, this week, Look!, Listen!. Ista radnja može ići u oba, zavisno od toga šta želiš reći.",
+        "example": "'I usually drink tea, but today I'm drinking coffee.' 'He works in Zagreb, but this month he's working in Split.'",
+        "why": "Kad pogodiš vrijeme, slušalac odmah zna je li nešto stalno ili privremeno.",
+        "mixup": "'What do you do?' pita za posao. 'What are you doing?' pita šta radiš upravo sada. Odgovori su potpuno različiti."
+      }
+    },
+    {
+      "slug": "have-got",
+      "term": "Have and have got",
+      "local": "imati",
+      "minutes": 5,
+      "youtube": "i6h36F50ezA",
+      "youtubeQuery": "have vs have got english grammar",
+      "related": [
+        "Present simple",
+        "Verb"
+      ],
+      "bs": {
+        "one": "Za posjedovanje engleski ima dva oblika istog značenja: 'I have a car' i 'I have got a car' (britanski, razgovorno).",
+        "explain": "S 'have': pitanje i negacija idu s do: 'Do you have a car?', 'I don't have a car'. S 'have got': 'Have you got a car?', 'I haven't got a car'. Za he/she/it: 'She has' ili 'She has got'. 'Have' se koristi i u izrazima gdje ne znači posjedovanje: have breakfast, have a shower, have fun.",
+        "example": "'I've got two brothers.' = 'I have two brothers.' 'We have lunch at 1.'",
+        "why": "Ovo je jedan od najčešćih glagola, a britanski i američki engleski ga koriste malo drugačije.",
+        "mixup": "'Have got' ne koristiš za radnje: 'I have breakfast at 8', ne 'I have got breakfast at 8'."
+      }
+    },
+    {
+      "slug": "there-is-are",
+      "term": "There is / there are",
+      "local": "ima / postoji",
+      "minutes": 2,
+      "youtube": "eUPOGjAEwqg",
+      "youtubeQuery": "there is there are english grammar",
+      "related": [
+        "Some and any",
+        "To be",
+        "Plural nouns"
+      ],
+      "bs": {
+        "one": "'There is' i 'there are' kažu da nešto postoji ili se nalazi negdje. Odgovara bosanskom 'ima' ili 'postoji'.",
+        "explain": "'There is' (there's) uz jedninu i nebrojive: There is a bank near here. There is some milk. 'There are' uz množinu: There are two banks. Pitanje: 'Is there…?', 'Are there…?' Negacija: 'There isn't…', 'There aren't any…'.",
+        "example": "'Is there a pharmacy near here?' 'There are five people in my family.'",
+        "why": "Potrebno ti je da opišeš mjesto, sobu ili grad, i da pitaš za pravac.",
+        "mixup": "Ne prevodi 'ima' kao 'it has': 'U sobi ima krevet' je 'There is a bed in the room', ne 'It has a bed in the room'."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "bs": "Koja rečenica je tačna?"
+      },
+      "options": [
+        {
+          "bs": "She work in a hospital."
+        },
+        {
+          "bs": "She works in a hospital."
+        },
+        {
+          "bs": "She working in a hospital."
+        },
+        {
+          "bs": "She is work in a hospital."
+        }
+      ],
+      "answer": 1,
+      "explain": {
+        "bs": "Navika, he/she/it → glagol s -s."
+      }
+    },
+    {
+      "q": {
+        "bs": "'Look! It ___.'"
+      },
+      "options": [
+        {
+          "bs": "is raining"
+        },
+        {
+          "bs": "rains"
+        },
+        {
+          "bs": "rain"
+        },
+        {
+          "bs": "raining"
+        }
+      ],
+      "answer": 0,
+      "explain": {
+        "bs": "Dešava se sada: present continuous."
+      }
+    },
+    {
+      "q": {
+        "bs": "Koja je tačna?"
+      },
+      "options": [
+        {
+          "bs": "I'm knowing the answer."
+        },
+        {
+          "bs": "I knows the answer."
+        },
+        {
+          "bs": "I know the answer."
+        },
+        {
+          "bs": "I am know the answer."
+        }
+      ],
+      "answer": 2,
+      "explain": {
+        "bs": "'Know' je glagol stanja i ne ide s -ing."
+      }
+    },
+    {
+      "q": {
+        "bs": "'___ two cafés on my street.'"
+      },
+      "options": [
+        {
+          "bs": "There is"
+        },
+        {
+          "bs": "It has"
+        },
+        {
+          "bs": "They are"
+        },
+        {
+          "bs": "There are"
+        }
+      ],
+      "answer": 3,
+      "explain": {
+        "bs": "Množina (two cafés) → there are."
+      }
+    }
+  ]
+}

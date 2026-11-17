@@ -1,0 +1,226 @@
+{
+  "slug": "word-types-small",
+  "title": {
+    "en": "Word types II: the small words",
+    "bs": "Vrste riječi II: male riječi"
+  },
+  "summary": {
+    "en": "Articles, prepositions, conjunctions, determiners and interjections: short words that hold sentences together.",
+    "bs": "Članovi, prijedlozi, veznici, determinatori i uzvici: kratke riječi koje drže rečenicu na okupu."
+  },
+  "concepts": [
+    {
+      "slug": "article",
+      "term": "Article",
+      "local": "član",
+      "minutes": 7,
+      "youtube": "RDkx4J__-QY",
+      "youtubeQuery": "a an the articles english grammar explained",
+      "related": [
+        "Noun",
+        "Determiner",
+        "Countable and uncountable"
+      ],
+      "bs": {
+        "one": "Član (article) stoji ispred imenice. Engleski ima tri: a, an (neodređeni) i the (određeni).",
+        "explain": "'A/an' koristiš kad nešto spominješ prvi put ili kad je bilo koje: 'I have a car.' 'An' ide ispred samoglasničkog zvuka: an apple, an hour (h se ne čuje). 'The' koristiš kad oboje znate o kojoj se stvari radi: 'The car is red' (tvoje auto o kome smo pričali). U bosanskom nema članova, pa ih je lako zaboraviti.",
+        "example": "'I saw a dog. The dog was very big.' Prvi put 'a dog', drugi put 'the dog' jer sada znamo o kojem psu je riječ.",
+        "why": "Članovi su među najčešćim greškama naših govornika. Kad ih ispravno koristiš, tvoj engleski odmah zvuči prirodnije.",
+        "mixup": "Ispred zanimanja engleski traži član: 'She is a doctor', ne 'She is doctor'. A uz opšte stvari u množini nema člana: 'I like dogs'."
+      }
+    },
+    {
+      "slug": "preposition",
+      "term": "Preposition",
+      "local": "prijedlog",
+      "minutes": 9,
+      "youtube": "8t4JKCvdLNE",
+      "youtubeQuery": "prepositions english grammar for beginners in on at",
+      "related": [
+        "Prepositions of time",
+        "Noun",
+        "Pronoun"
+      ],
+      "bs": {
+        "one": "Prijedlog (preposition) je kratka riječ ispred imenice ili zamjenice koja pokazuje mjesto, vrijeme ili odnos: in, on, at, under, with, for, from, to.",
+        "explain": "Kako ga prepoznati: uvijek ide uz imenicu ili zamjenicu iza sebe (in the box, with me, from Bosnia). Ta grupa se zove prijedložni izraz. Poslije prijedloga zamjenica je u objektnom obliku: 'with me', ne 'with I'.",
+        "example": "'The keys are on the table, next to the phone.' – on i next to su prijedlozi.",
+        "why": "Engleski koristi prijedloge tamo gdje bosanski koristi padeže. 'Pišem olovkom' = 'I write with a pen'.",
+        "mixup": "Prijedlozi se ne prevode uvijek doslovno. Bosanski 'na poslu' je engleski 'at work', a 'u autobusu' je 'on the bus'. Uči ih u kompletnim izrazima."
+      }
+    },
+    {
+      "slug": "conjunction",
+      "term": "Conjunction",
+      "local": "veznik",
+      "minutes": 6,
+      "youtube": "3qbfcHiUrcI",
+      "youtubeQuery": "conjunctions and but or because so english grammar",
+      "related": [
+        "Linking words",
+        "Relative clauses",
+        "Sentence"
+      ],
+      "bs": {
+        "one": "Veznik (conjunction) spaja riječi ili dijelove rečenice: and, but, or, so, because, when, if.",
+        "explain": "Postoje dvije grupe. Naporedni spajaju jednako važne dijelove: and (i), but (ali), or (ili), so (pa). Zavisni uvode dio rečenice koji zavisi od glavnog: because (jer), when (kad), if (ako), although (iako).",
+        "example": "'I was tired, but I finished the work because it was important.' – but i because su veznici.",
+        "why": "Bez veznika govoriš samo kratke, isjeckane rečenice. S njima možeš objasniti razlog, suprotnost i uslov.",
+        "mixup": "'Because' daje razlog, 'so' daje posljedicu: 'I was hungry, so I ate' = 'I ate because I was hungry'. Ne miješaj smjer."
+      }
+    },
+    {
+      "slug": "determiner",
+      "term": "Determiner",
+      "local": "determinator",
+      "minutes": 9,
+      "youtube": "pcYrmHrtLRY",
+      "youtubeQuery": "determiners english grammar this that some any my",
+      "related": [
+        "Article",
+        "Some and any",
+        "This, that, these, those"
+      ],
+      "bs": {
+        "one": "Determinator (determiner) stoji ispred imenice i kaže koja ili koliko: the, a, this, that, my, your, some, any, many, every.",
+        "explain": "Članovi su najpoznatiji determinatori, ali grupi pripadaju i pokazne riječi (this book), prisvojne (my book), količinske (some books, many books) i brojevi (two books). Obično ispred imenice stoji samo jedan: 'my book' ili 'the book', ali ne 'the my book'.",
+        "example": "'This is my car. Every morning I drive some colleagues to work.' – my, every i some su determinatori.",
+        "why": "Kad znaš ovu grupu, znaš i zašto 'the my friend' zvuči pogrešno: dva determinatora se ne slažu jedan do drugog.",
+        "mixup": "'My' je determinator (ide uz imenicu), a 'mine' je zamjenica (stoji sama): 'This is my bag' ali 'This bag is mine'."
+      }
+    },
+    {
+      "slug": "interjection",
+      "term": "Interjection",
+      "local": "uzvik",
+      "minutes": 4,
+      "youtube": "Wgik8IdwQxA",
+      "youtubeQuery": "interjections english grammar examples",
+      "related": [
+        "Parts of speech",
+        "Sentence"
+      ],
+      "bs": {
+        "one": "Uzvik (interjection) izražava osjećaj ili reakciju i ne zavisi od ostatka rečenice: oh, wow, ouch, hey, oops, well.",
+        "explain": "Uzvik često stoji na početku i odvojen je zarezom ili uzvičnikom. Ne mijenja oblik i ne utiče na gramatiku ostatka rečenice. U govoru su vrlo česti 'well' (pa...), 'oh' i 'hmm'.",
+        "example": "'Wow, that was fast!' 'Ouch! That hurts.' 'Well, I'm not sure.'",
+        "why": "Uzvici čine govor prirodnim i pomažu ti razumjeti emociju sagovornika.",
+        "mixup": "'Well' može biti uzvik ('Well, ...'), ali i prilog ('She sings well'). Opet: posao u rečenici određuje vrstu."
+      }
+    },
+    {
+      "slug": "one-word-many-types",
+      "term": "One word, many types",
+      "local": "jedna riječ, više vrsta",
+      "minutes": 5,
+      "youtube": "ywUDa5JvaOk",
+      "youtubeQuery": "same word different parts of speech english",
+      "related": [
+        "Parts of speech",
+        "Noun",
+        "Verb"
+      ],
+      "bs": {
+        "one": "U engleskom ista riječ često može biti imenica, glagol ili pridjev, zavisno od mjesta u rečenici.",
+        "explain": "Trik za prepoznavanje: gledaj susjede. Ako ispred stoji a/the/my, to je imenica (a run). Ako ispred stoji subjekat ili 'to', to je glagol (I run, to run). Ako stoji ispred imenice i opisuje je, to je pridjev (a light bag). U bosanskom riječ obično mijenja oblik (rad, raditi, radni), a u engleskom često ne.",
+        "example": "'I work at home. My work is interesting. These are work clothes.' – glagol, imenica, pa riječ koja opisuje imenicu.",
+        "why": "Ovo je najkorisnija vještina za čitanje: kad riječ ne razumiješ, prvo odredi njenu vrstu po susjedima.",
+        "mixup": "Ne pamti riječ kao 'imenicu zauvijek'. 'Water' je imenica u 'a glass of water', ali glagol u 'water the plants'."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "bs": "Koji član ide ispred 'hour'?"
+      },
+      "options": [
+        {
+          "bs": "an"
+        },
+        {
+          "bs": "a"
+        },
+        {
+          "bs": "the nikad"
+        },
+        {
+          "bs": "ništa"
+        }
+      ],
+      "answer": 0,
+      "explain": {
+        "bs": "'H' se ne čuje, pa riječ počinje samoglasničkim zvukom: an hour."
+      }
+    },
+    {
+      "q": {
+        "bs": "Šta je tačno?"
+      },
+      "options": [
+        {
+          "bs": "She is a teacher."
+        },
+        {
+          "bs": "She is teacher."
+        },
+        {
+          "bs": "She is the teachers."
+        },
+        {
+          "bs": "She a teacher is."
+        }
+      ],
+      "answer": 0,
+      "explain": {
+        "bs": "Ispred zanimanja u jednini stoji 'a'."
+      }
+    },
+    {
+      "q": {
+        "bs": "U 'I'm hungry, so I'm making lunch', šta je 'so'?"
+      },
+      "options": [
+        {
+          "bs": "Prijedlog"
+        },
+        {
+          "bs": "Veznik"
+        },
+        {
+          "bs": "Pridjev"
+        },
+        {
+          "bs": "Uzvik"
+        }
+      ],
+      "answer": 1,
+      "explain": {
+        "bs": "'So' spaja dva dijela i uvodi posljedicu: veznik."
+      }
+    },
+    {
+      "q": {
+        "bs": "Koja je vrsta riječi 'book' u 'Can you book a table?'"
+      },
+      "options": [
+        {
+          "bs": "Imenica"
+        },
+        {
+          "bs": "Pridjev"
+        },
+        {
+          "bs": "Član"
+        },
+        {
+          "bs": "Glagol"
+        }
+      ],
+      "answer": 3,
+      "explain": {
+        "bs": "Ovdje 'book' znači rezervisati, radnju, pa je glagol."
+      }
+    }
+  ]
+}

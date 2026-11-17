@@ -1,0 +1,225 @@
+{
+  "slug": "cases-part-2",
+  "title": {
+    "en": "The cases, part 2",
+    "bs": "Padeži, drugi dio"
+  },
+  "summary": {
+    "en": "Vocative, locative and instrumental, prepositions with u/na, pronouns in every case, and adjective agreement.",
+    "bs": "Vokativ, lokativ i instrumental, prijedlozi u/na, zamjenice u svim padežima i slaganje pridjeva."
+  },
+  "concepts": [
+    {
+      "slug": "vokativ",
+      "term": "Vokativ",
+      "local": "vocative",
+      "minutes": 12,
+      "youtube": "LlxJSHSTH74",
+      "youtubeQuery": "croatian vocative case",
+      "related": [
+        "Padeži",
+        "Nominativ"
+      ],
+      "en": {
+        "one": "The vokativ is the case for calling or addressing someone directly. It has no question; think 'hej!' (hey!).",
+        "explain": "Masculine: often -e or -u: Amir → Amire!, prijatelj → prijatelju!, gospodin → gospodine! Feminine in -a: -o, but many names stay the same: žena → ženo!, Amra → Amra! (or Amro!), mama → mama! Neuter: same as nominative. Commas separate it from the sentence.",
+        "example": "'Dobar dan, gospodine Hadžiću!' 'Dragi prijatelju, hvala ti.' 'Mama, gdje si?'",
+        "why": "Greetings, emails and letters all start with a vocative, and using it correctly sounds polite and native.",
+        "mixup": "In emails write 'Poštovani gospodine Kovačiću' (Dear Mr Kovačić), not 'Poštovani gospodin Kovačić'."
+      }
+    },
+    {
+      "slug": "lokativ",
+      "term": "Lokativ",
+      "local": "locative",
+      "minutes": 18,
+      "youtube": "saBsIdAU2uU",
+      "youtubeQuery": "croatian locative case",
+      "related": [
+        "Padeži",
+        "Dativ",
+        "Prijedlozi i padeži"
+      ],
+      "en": {
+        "one": "The lokativ shows location or topic, and it is ALWAYS used after a preposition. Questions: o kome? o čemu? (gdje?)",
+        "explain": "Endings are the same as the dative in the singular: masc./neut. -u (u gradu, na moru), fem. -i (u kući, o ženi). Plural: -ima/-ama (u gradovima, u kućama). Prepositions: u (in), na (on / at), o (about), po (around / according to), pri (at / during).",
+        "example": "'Živim u Sarajevu.' 'Knjiga je na stolu.' 'Pričamo o poslu.' 'Šetam po gradu.'",
+        "why": "Every time you say where you are or what you talk about, you need the locative.",
+        "mixup": "'u' and 'na' + locative = where something IS. For where something GOES, use the accusative: u grad, na more (next cards)."
+      }
+    },
+    {
+      "slug": "instrumental",
+      "term": "Instrumental",
+      "local": "instrumental",
+      "minutes": 8,
+      "youtube": "Xn4Gaq0UWb8",
+      "youtubeQuery": "croatian instrumental case",
+      "related": [
+        "Padeži",
+        "Prijedlog"
+      ],
+      "en": {
+        "one": "The instrumental shows company (with whom?) or the tool or way you do something (with what? by what?). Questions: s kim? čim?",
+        "explain": "Endings: masc./neut. -om/-em (autom, nožem, prijateljem), fem. -om (ženom, olovkom). Plural: -ima/-ama. With 'with' meaning company, use s/sa: 'sa sestrom'. For a tool or transport, use NO preposition: 'pišem olovkom' (I write with a pen), 'putujem vozom (vlakom)' (I travel by train).",
+        "example": "'Idem u kino s prijateljima.' 'Plaćam karticom.' 'Dolazim autobusom.'",
+        "why": "Transport, payments and company all use the instrumental, so it's essential for daily life.",
+        "mixup": "Don't add 's' for tools: 'Jedem viljuškom (vilicom)' (I eat with a fork), not 's viljuškom'. 's' is only for people and things that come along."
+      }
+    },
+    {
+      "slug": "prijedlozi-padezi",
+      "term": "Prijedlozi i padeži",
+      "local": "prepositions and cases",
+      "minutes": 2,
+      "youtube": "-QaLFPE5WLU",
+      "youtubeQuery": "croatian prepositions u na cases",
+      "related": [
+        "Lokativ",
+        "Akuzativ",
+        "Prijedlog"
+      ],
+      "en": {
+        "one": "'u' and 'na' can take two cases, and the question decides: gdje? (where?) → locative; kuda? / kamo? (where to?) → accusative.",
+        "explain": "Location (gdje?): 'Ja sam u gradu.' 'Knjiga je na stolu.' Movement (kuda/kamo?): 'Idem u grad.' 'Stavljam knjigu na sto (stol).' 'u' is for inside spaces and cities; 'na' for surfaces, open places, events and some fixed places: na poslu, na fakultetu, na moru, na koncertu.",
+        "example": "'Idem na posao' (A) → 'Ja sam na poslu' (L). 'Idem u Zagreb' (A) → 'Živim u Zagrebu' (L).",
+        "why": "This pair is in nearly every sentence about places, and German uses exactly the same logic (Wohin? / Wo?).",
+        "mixup": "Learn whether a place takes 'u' or 'na' together with the word: u školu, but na fakultet; u banku, but na poštu."
+      }
+    },
+    {
+      "slug": "zamjenice-padezi",
+      "term": "Lične zamjenice po padežima",
+      "local": "personal pronouns in the cases",
+      "minutes": 41,
+      "youtube": "b6RSurzpMtA",
+      "youtubeQuery": "croatian personal pronouns cases",
+      "related": [
+        "Zamjenica",
+        "Enklitike",
+        "Padeži"
+      ],
+      "en": {
+        "one": "Personal pronouns change with every case and most have a long (stressed) and a short (unstressed) form.",
+        "explain": "ja: mene/me (G, A), meni/mi (D), mnom (I). ti: tebe/te, tebi/ti, tobom. on: njega/ga, njemu/mu, njim. ona: nje/je (G), njoj/joj (D), nju/je (A), njom. mi: nas, nama, nama. vi: vas, vama. oni: njih/ih, njima/im. Short forms are normal; long forms are for emphasis or after prepositions: 'Voli me' vs 'Voli MENE, ne tebe'; 'za mene', 'sa mnom'.",
+        "example": "'Daj mi to.' 'Vidim ga svaki dan.' 'Ideš li sa mnom?' 'Ovo je za tebe.'",
+        "why": "Short pronouns are among the most frequent words. Without them your sentences sound heavy and over-stressed.",
+        "mixup": "After a preposition always use the long form: 'za tebe', not 'za te' (except in a few fixed phrases)."
+      }
+    },
+    {
+      "slug": "slaganje-pridjeva",
+      "term": "Slaganje pridjeva",
+      "local": "adjective agreement",
+      "minutes": 2,
+      "youtube": "Y3rIiNLV0gU",
+      "youtubeQuery": "croatian adjectives agreement",
+      "related": [
+        "Pridjev",
+        "Rod imenica",
+        "Padeži"
+      ],
+      "en": {
+        "one": "Adjectives agree with their noun in gender, number and case. The adjective ending often looks like the noun's ending.",
+        "explain": "Nominative: nov grad, nova kuća, novo selo, novi gradovi, nove kuće, nova sela. Accusative: vidim novi grad / novu kuću / novo selo. Genitive: novog(a) grada, nove kuće. Dative/locative: novom gradu, novoj kući. Instrumental: novim gradom, novom kućom. Short and long forms exist for masculine (nov / novi); the long form means 'the': 'novi grad' = the new town.",
+        "example": "'Živim u velikom gradu, u maloj kući s lijepim vrtom.'",
+        "why": "Agreement shows you which words belong together, even when word order is free.",
+        "mixup": "Croatian writes the masculine genitive often as -oga/-ega (novoga), Bosnian mostly -og (novog). Both are correct."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "Calling your friend Amir, you say:"
+      },
+      "options": [
+        {
+          "en": "Amire!"
+        },
+        {
+          "en": "Amir!"
+        },
+        {
+          "en": "Amiru!"
+        },
+        {
+          "en": "Amirom!"
+        }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Vocative of Amir: Amire!"
+      }
+    },
+    {
+      "q": {
+        "en": "'Ja sam ___.' (u + grad)"
+      },
+      "options": [
+        {
+          "en": "u grad"
+        },
+        {
+          "en": "u grada"
+        },
+        {
+          "en": "u gradom"
+        },
+        {
+          "en": "u gradu"
+        }
+      ],
+      "answer": 3,
+      "explain": {
+        "en": "Where? → locative: u gradu."
+      }
+    },
+    {
+      "q": {
+        "en": "'I travel by bus':"
+      },
+      "options": [
+        {
+          "en": "Putujem autobusom."
+        },
+        {
+          "en": "Putujem s autobusom."
+        },
+        {
+          "en": "Putujem autobus."
+        },
+        {
+          "en": "Putujem u autobusu s."
+        }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Means of transport: instrumental without 's'."
+      }
+    },
+    {
+      "q": {
+        "en": "'Come with me':"
+      },
+      "options": [
+        {
+          "en": "Dođi s ja."
+        },
+        {
+          "en": "Dođi sa mnom."
+        },
+        {
+          "en": "Dođi s mene."
+        },
+        {
+          "en": "Dođi sa mi."
+        }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "s(a) + instrumental of ja: mnom."
+      }
+    }
+  ]
+}

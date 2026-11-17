@@ -1,0 +1,221 @@
+{
+  "slug": "word-types-small",
+  "title": {
+    "en": "Word types II: the unchangeable words",
+    "bs": "Vrste riječi II: nepromjenjive riječi"
+  },
+  "summary": {
+    "en": "Adverbs, prepositions, conjunctions, particles and interjections, plus a method to identify any word.",
+    "bs": "Prilozi, prijedlozi, veznici, rječce i uzvici, i metod da prepoznaš bilo koju riječ."
+  },
+  "concepts": [
+    {
+      "slug": "prilog",
+      "term": "Prilog",
+      "local": "adverb",
+      "minutes": 3,
+      "youtube": "tub5KUKf-LY",
+      "youtubeQuery": "prilozi gramatika",
+      "related": [
+        "Pridjev",
+        "Glagol"
+      ],
+      "en": {
+        "one": "A prilog (adverb) tells how, when, where or how much something happens. It never changes form.",
+        "explain": "How to spot it: it answers kako? (how? – brzo, dobro, lijepo), kada? (when? – danas, sutra, sada), gdje? (where? – ovdje, tamo, gore) or koliko? (how much? – mnogo, malo, vrlo). Many adverbs look like the neuter adjective ending in -o: brz → brzo, dobar → dobro.",
+        "example": "'Danas sam brzo završila posao i sada sam ovdje.' Adverbs: danas, brzo, sada, ovdje.",
+        "why": "Adverbs make sentences precise without adding new endings to learn.",
+        "mixup": "'dobro' can be an adverb ('Radi dobro' – he works well) or the neuter adjective ('dobro dijete' – a good child). Check what it describes."
+      }
+    },
+    {
+      "slug": "prijedlog",
+      "term": "Prijedlog",
+      "local": "preposition",
+      "minutes": 9,
+      "youtube": "kxeiU_e6dRU",
+      "youtubeQuery": "prijedlozi gramatika",
+      "related": [
+        "Prijedlozi i padeži",
+        "Padeži"
+      ],
+      "en": {
+        "one": "A prijedlog (preposition) stands before a noun or pronoun and shows place, time, cause or relation: u, na, s(a), bez, od, do, za, prema.",
+        "explain": "How to spot it: it never changes, and the word after it is always in a specific case. That's the key rule: the preposition chooses the case. 'bez' always takes the genitive (bez šećera), 's/sa' meaning 'with' takes the instrumental (s prijateljem), 'u' and 'na' take the accusative for direction and the locative for location.",
+        "example": "'Idem na posao sa sestrom.' na + accusative (posao), sa + instrumental (sestrom).",
+        "why": "Prepositions are the main way you meet cases in daily speech.",
+        "mixup": "'s' becomes 'sa' before words starting with s, z, š, ž or for clarity: sa sestrom, sa mnom."
+      }
+    },
+    {
+      "slug": "veznik",
+      "term": "Veznik",
+      "local": "conjunction",
+      "minutes": 14,
+      "youtube": "taWPrhkj_J0",
+      "youtubeQuery": "veznici gramatika",
+      "related": [
+        "Zavisne rečenice",
+        "Red riječi"
+      ],
+      "en": {
+        "one": "A veznik (conjunction) links words or clauses: i, a, ali, ili, jer, da, kad, ako, iako.",
+        "explain": "Coordinating: i (and), a (and/while – a mild contrast), ali (but), ili (or), pa (so/and then). Subordinating: jer (because), da (that / to), kad (when), ako (if), iako (although), dok (while). 'a' has no English twin: 'Ja pijem čaj, a on kafu (kavu)' – I drink tea, and (while) he drinks coffee.",
+        "example": "'Ostala sam kod kuće jer sam bila bolesna, ali sutra dolazim.'",
+        "why": "Conjunctions turn short sentences into real explanations: reasons, conditions and contrasts.",
+        "mixup": "'i' joins similar things; 'a' contrasts two different ones. 'Ja sam iz Tuzle, a ona je iz Splita' sounds more natural than with 'i'."
+      }
+    },
+    {
+      "slug": "rjecca",
+      "term": "Rječca (čestica)",
+      "local": "particle",
+      "minutes": 16,
+      "youtube": "P030RSmpV28",
+      "youtubeQuery": "čestice gramatika hrvatski",
+      "related": [
+        "Pitanja",
+        "Negacija"
+      ],
+      "en": {
+        "one": "A rječca (Croatian: čestica) is a small word that adds meaning or tone: li, ne, zar, da, baš, čak, samo, još.",
+        "explain": "The most important ones: 'ne' (not) for negation, 'li' for questions (Dolaziš li?), 'da' and 'ne' as yes and no, 'zar' for surprised questions (Zar ne znaš? – You really don't know?), 'baš' (really, exactly), 'čak' (even).",
+        "example": "'Je li to baš tvoje auto?' 'Zar si već stigao?'",
+        "why": "Particles carry the tone of a conversation. Recognising them helps you hear surprise, doubt and emphasis.",
+        "mixup": "Bosnian school grammar says rječca, Croatian says čestica. Same idea, different name."
+      }
+    },
+    {
+      "slug": "uzvik",
+      "term": "Uzvik",
+      "local": "interjection",
+      "minutes": 14,
+      "youtube": "HlcF56s1_aw",
+      "youtubeQuery": "uzvici gramatika",
+      "related": [
+        "Vrste riječi"
+      ],
+      "en": {
+        "one": "An uzvik (interjection) expresses a feeling or a sound: joj, uh, au, eh, hej, bravo, ajme.",
+        "explain": "Interjections stand outside the sentence's grammar, often at the start, followed by a comma or exclamation mark. Some are very regional: 'joj' and 'ajme' (oh no / wow) are everywhere in Bosnia and Croatia.",
+        "example": "'Joj, zaboravio sam ključeve!' 'Bravo, uspjela si!' 'Hej, kako si?'",
+        "why": "They make your speech sound native and help you catch the emotion behind a sentence.",
+        "mixup": "Onomatopoeic words (sounds) also count: 'Pas laje: av-av.' 'Mačka: mjau.'"
+      }
+    },
+    {
+      "slug": "prepoznavanje",
+      "term": "Prepoznavanje vrste riječi",
+      "local": "spotting the word type",
+      "minutes": 12,
+      "youtube": "CNz1aWS4ksk",
+      "youtubeQuery": "vrste riječi vježba",
+      "related": [
+        "Vrste riječi",
+        "Imenica",
+        "Glagol"
+      ],
+      "en": {
+        "one": "A four-question method to identify any word.",
+        "explain": "1. Can you ask ko? (tko?) / šta? (što?) and does it have a gender? → imenica. 2. Does it show a person (-m, -š, -mo) or end in -ti/-ći in the dictionary? → glagol. 3. Does it answer kakav?/koji?/čiji? and agree with a noun? → pridjev. 4. Does it never change? → prilog (kako/kada/gdje), prijedlog (before a noun), veznik (links clauses), rječca or uzvik.",
+        "example": "'Sutra moja mlađa sestra putuje vozom (vlakom) u Zagreb.' sutra = prilog, moja = zamjenica, mlađa = pridjev, sestra = imenica, putuje = glagol, vozom (vlakom) = imenica, u = prijedlog, Zagreb = imenica.",
+        "why": "Once you can label words, the case and agreement rules become easy to apply.",
+        "mixup": "Endings change, so look at the word's job, not only its form: 'dobro' can be prilog or pridjev."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "In 'Bez šećera, molim', 'bez' is:"
+      },
+      "options": [
+        {
+          "en": "a preposition"
+        },
+        {
+          "en": "an adverb"
+        },
+        {
+          "en": "a particle"
+        },
+        {
+          "en": "a noun"
+        }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "It stands before a noun and puts it in the genitive."
+      }
+    },
+    {
+      "q": {
+        "en": "Which conjunction gives a reason?"
+      },
+      "options": [
+        {
+          "en": "jer"
+        },
+        {
+          "en": "ali"
+        },
+        {
+          "en": "ili"
+        },
+        {
+          "en": "a"
+        }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "'jer' = because."
+      }
+    },
+    {
+      "q": {
+        "en": "'Zar ne znaš?' expresses:"
+      },
+      "options": [
+        {
+          "en": "a command"
+        },
+        {
+          "en": "a plan"
+        },
+        {
+          "en": "surprise"
+        },
+        {
+          "en": "a number"
+        }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "'zar' adds surprise or disbelief to a question."
+      }
+    },
+    {
+      "q": {
+        "en": "In 'Ona pjeva lijepo', 'lijepo' is:"
+      },
+      "options": [
+        {
+          "en": "an adverb"
+        },
+        {
+          "en": "a noun"
+        },
+        {
+          "en": "an adjective"
+        },
+        {
+          "en": "a verb"
+        }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "It describes HOW she sings, so it's an adverb."
+      }
+    }
+  ]
+}

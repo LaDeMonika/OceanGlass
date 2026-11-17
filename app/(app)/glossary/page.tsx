@@ -1,5 +1,5 @@
 import { requireUser } from "@/lib/auth";
-import { allConcepts } from "@/lib/content";
+import { allConcepts, cardLang, conceptText } from "@/lib/content";
 import { dict, getLang } from "@/lib/i18n";
 import { PageHead } from "@/components/ui";
 import GlossaryList from "@/components/GlossaryList";
@@ -14,7 +14,7 @@ export default async function GlossaryPage() {
     .map((c) => ({
       term: c.concept.term,
       local: c.concept.local,
-      one: (c.concept[lang] ?? c.concept.en).one,
+      one: conceptText(c.concept, cardLang(c.degree, lang)).one,
       href: `/curriculums/${c.curriculum.slug}/${c.degree.slug}?topic=${c.topic.slug}&concept=${c.concept.slug}`,
     }))
     .sort((a, b) => a.term.localeCompare(b.term));

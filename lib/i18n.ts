@@ -11,8 +11,8 @@ export async function getLang(): Promise<Lang> {
 
 const en = {
   appName: "Ocean Glass",
-  tagline: "Learn business the simple way.",
-  taglineText: "Real business terms, explained in plain words, with a short video for every concept.",
+  tagline: "Learn business and languages the simple way.",
+  taglineText: "Business terms and language grammar, explained in plain words, with a short video for every concept.",
   welcome: "Welcome back",
   loginSub: "Sign in to continue learning.",
   username: "Username",
@@ -113,8 +113,8 @@ export type Dict = typeof en;
 
 const bs: Dict = {
   appName: "Ocean Glass",
-  tagline: "Uči biznis na jednostavan način.",
-  taglineText: "Pravi poslovni pojmovi, objašnjeni običnim riječima, uz kratak video za svaki koncept.",
+  tagline: "Uči biznis i jezike na jednostavan način.",
+  taglineText: "Poslovni pojmovi i gramatika jezika, objašnjeni običnim riječima, uz kratak video za svaki koncept.",
   welcome: "Dobro došao ponovo",
   loginSub: "Prijavi se da nastaviš učiti.",
   username: "Korisničko ime",

@@ -1,0 +1,287 @@
+{
+  "slug": "verbs-present",
+  "title": {
+    "en": "Verbs in the present",
+    "bs": "Glagoli u sadašnjem vremenu"
+  },
+  "summary": {
+    "en": "Infinitive and stem, regular endings, sein and haben, vowel-changing verbs, separable verbs and modal verbs.",
+    "bs": "Infinitiv i osnova, pravilni nastavci, sein i haben, glagoli s promjenom samoglasnika, odvojivi i modalni glagoli."
+  },
+  "concepts": [
+    {
+      "slug": "konjugation",
+      "term": "die Konjugation",
+      "local": "konjugacija",
+      "minutes": 4,
+      "youtube": "qdTEFPqjfkY",
+      "youtubeQuery": "German regular verb conjugation present tense",
+      "related": [
+        "das Verb",
+        "starke Verben"
+      ],
+      "en": {
+        "one": "Konjugation means changing the verb's ending to match the person: ich mache, du machst, er macht.",
+        "explain": "Take the infinitive (machen), remove -en to get the stem (mach-), and add: ich -e, du -st, er/sie/es -t, wir -en, ihr -t, sie/Sie -en. If the stem ends in -t or -d, add an extra e: du arbeitest, er findet.",
+        "example": "wohnen: ich wohne, du wohnst, er wohnt, wir wohnen, ihr wohnt, sie wohnen.",
+        "why": "Once you know these six endings, you can use hundreds of regular verbs correctly.",
+        "mixup": "wir, sie and Sie all use the infinitive form (-en). Only the context tells you who is meant."
+      },
+      "bs": {
+        "one": "Konjugacija znači mijenjati nastavak glagola prema osobi: ich mache, du machst, er macht. Isto kao u bosanskom: radim, radiš, radi.",
+        "explain": "Uzmi infinitiv (machen), skini -en da dobiješ osnovu (mach-) i dodaj: ich -e, du -st, er/sie/es -t, wir -en, ihr -t, sie/Sie -en. Ako osnova završava na -t ili -d, dodaj e: du arbeitest, er findet.",
+        "example": "wohnen: ich wohne, du wohnst, er wohnt, wir wohnen, ihr wohnt, sie wohnen.",
+        "why": "Kad znaš ovih šest nastavaka, možeš pravilno koristiti stotine pravilnih glagola.",
+        "mixup": "wir, sie i Sie koriste oblik infinitiva (-en). Samo kontekst kaže ko je mislio."
+      }
+    },
+    {
+      "slug": "sein-haben",
+      "term": "sein und haben",
+      "local": "biti i imati",
+      "minutes": 10,
+      "youtube": "xy4a1c7W7k0",
+      "youtubeQuery": "sein and haben German conjugation",
+      "related": [
+        "die Konjugation",
+        "das Perfekt mit haben",
+        "das Perfekt mit sein"
+      ],
+      "en": {
+        "one": "'sein' (to be) and 'haben' (to have) are irregular and the two most important German verbs.",
+        "explain": "sein: ich bin, du bist, er ist, wir sind, ihr seid, sie sind. haben: ich habe, du hast, er hat, wir haben, ihr habt, sie haben. Both are also helper verbs for the past (Perfekt): Ich habe gegessen. Ich bin gegangen.",
+        "example": "'Ich bin müde und habe Hunger.' (I'm tired and hungry.) German uses 'haben' for hunger, thirst and fear.",
+        "why": "You can't build the German past without them, so learn their forms by heart.",
+        "mixup": "Age uses 'sein': 'Ich bin 30 Jahre alt'. Hunger uses 'haben': 'Ich habe Hunger', not 'Ich bin hungrig' in daily speech."
+      },
+      "bs": {
+        "one": "'sein' (biti) i 'haben' (imati) su nepravilni i dva najvažnija njemačka glagola.",
+        "explain": "sein: ich bin, du bist, er ist, wir sind, ihr seid, sie sind. haben: ich habe, du hast, er hat, wir haben, ihr habt, sie haben. Oba su i pomoćni glagoli za prošlost (Perfekt): Ich habe gegessen. Ich bin gegangen.",
+        "example": "'Ich bin müde und habe Hunger.' (Umoran sam i gladan.) Njemački koristi 'haben' za glad, žeđ i strah, kao naše 'imam'.",
+        "why": "Bez njih ne možeš napraviti njemačku prošlost, pa njihove oblike nauči napamet.",
+        "mixup": "Godine idu sa 'sein': 'Ich bin 30 Jahre alt', ne 'Ich habe 30 Jahre'."
+      }
+    },
+    {
+      "slug": "starke-verben",
+      "term": "Vowel-changing verbs",
+      "local": "glagoli s promjenom samoglasnika",
+      "minutes": 16,
+      "youtube": "fVr8sZ9Q5nQ",
+      "youtubeQuery": "German stem changing verbs present tense",
+      "related": [
+        "die Konjugation"
+      ],
+      "en": {
+        "one": "Some verbs change their vowel in the du and er/sie/es forms: fahren → du fährst, essen → er isst.",
+        "explain": "Three patterns: a → ä (fahren: du fährst, er fährt; schlafen, tragen), e → i (essen: du isst; sprechen, helfen, geben, nehmen → du nimmst), e → ie (lesen: du liest; sehen). The ich, wir, ihr and sie forms stay normal.",
+        "example": "'Ich fahre nach Wien. Mein Bruder fährt nach Graz.' 'Was liest du?'",
+        "why": "These are very common verbs, so the change shows up in everyday conversation.",
+        "mixup": "The change happens only with du and er/sie/es. 'ich fähre' or 'wir fähren' don't exist."
+      },
+      "bs": {
+        "one": "Neki glagoli mijenjaju samoglasnik u oblicima za du i er/sie/es: fahren → du fährst, essen → er isst.",
+        "explain": "Tri obrasca: a → ä (fahren: du fährst, er fährt; schlafen, tragen), e → i (essen: du isst; sprechen, helfen, geben, nehmen → du nimmst), e → ie (lesen: du liest; sehen). Oblici za ich, wir, ihr i sie ostaju normalni.",
+        "example": "'Ich fahre nach Wien. Mein Bruder fährt nach Graz.' 'Was liest du?'",
+        "why": "To su vrlo česti glagoli, pa se promjena čuje u svakodnevnom razgovoru.",
+        "mixup": "Promjena je samo uz du i er/sie/es. 'ich fähre' ili 'wir fähren' ne postoje."
+      }
+    },
+    {
+      "slug": "trennbare-verben",
+      "term": "Separable verbs",
+      "local": "odvojivi glagoli",
+      "minutes": 5,
+      "youtube": "cEizjiqBrbI",
+      "youtubeQuery": "German separable verbs explained",
+      "related": [
+        "die Satzklammer",
+        "das Verb"
+      ],
+      "en": {
+        "one": "Separable verbs have a prefix that jumps to the end of the sentence: aufstehen → Ich stehe um 7 Uhr auf.",
+        "explain": "Common separable prefixes: an, auf, aus, ein, mit, zu, zurück, fern, vor. The verb part goes in position 2, the prefix at the end. In the infinitive and in subordinate clauses they stay together: Ich muss früh aufstehen. …, weil ich früh aufstehe. The stress is on the prefix: ANrufen.",
+        "example": "einkaufen: 'Ich kaufe heute ein.' fernsehen: 'Wir sehen abends fern.' anrufen: 'Rufst du mich an?'",
+        "why": "Many everyday verbs are separable. If you miss the little word at the end, you can misunderstand the whole sentence.",
+        "mixup": "Prefixes like be-, ver-, er-, ent-, zer- are never separated: 'Ich verstehe', not 'Ich stehe ver'."
+      },
+      "bs": {
+        "one": "Odvojivi glagoli imaju predmetak koji skoči na kraj rečenice: aufstehen → Ich stehe um 7 Uhr auf.",
+        "explain": "Česti odvojivi predmeci: an, auf, aus, ein, mit, zu, zurück, fern, vor. Glagolski dio ide na drugo mjesto, predmetak na kraj. U infinitivu i u zavisnim rečenicama ostaju zajedno: Ich muss früh aufstehen. …, weil ich früh aufstehe. Naglasak je na predmetku: ANrufen.",
+        "example": "einkaufen: 'Ich kaufe heute ein.' fernsehen: 'Wir sehen abends fern.' anrufen: 'Rufst du mich an?'",
+        "why": "Mnogi svakodnevni glagoli su odvojivi. Ako propustiš malu riječ na kraju, možeš pogrešno razumjeti cijelu rečenicu.",
+        "mixup": "Predmeci be-, ver-, er-, ent-, zer- se nikad ne odvajaju: 'Ich verstehe', ne 'Ich stehe ver'."
+      }
+    },
+    {
+      "slug": "modalverben",
+      "term": "Modal verbs",
+      "local": "modalni glagoli",
+      "minutes": 8,
+      "youtube": "QBBlMrj0lTw",
+      "youtubeQuery": "German modal verbs explained",
+      "related": [
+        "die Satzklammer",
+        "die Konjugation"
+      ],
+      "en": {
+        "one": "Modal verbs add ability, need, wish or permission: können (can), müssen (must), wollen (want), dürfen (may), sollen (should), mögen/möchten (like / would like).",
+        "explain": "The modal is conjugated in position 2, and the main verb goes to the END in the infinitive: Ich kann gut schwimmen. ich and er/sie/es have the same form with no ending: ich kann, er kann; ich muss, er muss. 'möchte' is the polite 'would like'.",
+        "example": "'Ich möchte einen Kaffee.' 'Du darfst hier nicht rauchen.' 'Wir müssen morgen früh arbeiten.'",
+        "why": "Modals are in nearly every request, rule and plan, and they train you for the verb-at-the-end pattern.",
+        "mixup": "'nicht müssen' means 'don't have to', not 'mustn't'. 'Du musst nicht kommen' = you don't have to come. 'Mustn't' is 'nicht dürfen'."
+      },
+      "bs": {
+        "one": "Modalni glagoli dodaju sposobnost, potrebu, želju ili dozvolu: können (moći/znati), müssen (morati), wollen (htjeti), dürfen (smjeti), sollen (trebati), mögen/möchten (voljeti / željeti).",
+        "explain": "Modalni glagol se konjugira na drugom mjestu, a glavni glagol ide na KRAJ u infinitivu: Ich kann gut schwimmen. ich i er/sie/es imaju isti oblik bez nastavka: ich kann, er kann; ich muss, er muss. 'möchte' je ljubazno 'želio bih'.",
+        "example": "'Ich möchte einen Kaffee.' 'Du darfst hier nicht rauchen.' 'Wir müssen morgen früh arbeiten.'",
+        "why": "Modalni glagoli su u skoro svakoj molbi, pravilu i planu, i uče te obrascu 'glagol na kraj'.",
+        "mixup": "'nicht müssen' znači 'ne moraš', a ne 'ne smiješ'. 'Du musst nicht kommen' = ne moraš doći. 'Ne smiješ' je 'nicht dürfen'."
+      }
+    },
+    {
+      "slug": "imperativ",
+      "term": "der Imperativ",
+      "local": "imperativ",
+      "minutes": 6,
+      "youtube": "_rIvRPaDH8o",
+      "youtubeQuery": "German imperative explained",
+      "related": [
+        "die Konjugation",
+        "die Satzstellung (V2)"
+      ],
+      "en": {
+        "one": "The Imperativ gives orders, instructions and requests: Komm! Kommt! Kommen Sie!",
+        "explain": "du form: take the du form and drop -st (du kommst → Komm!; du nimmst → Nimm!). ihr form: same as the present (Kommt!). Sie form: verb + Sie (Kommen Sie!). The verb is always first. Add 'bitte' and 'mal' to sound polite: Hilf mir bitte mal.",
+        "example": "'Mach das Fenster zu, bitte!' 'Nehmen Sie Platz.' 'Seid leise!'",
+        "why": "Instructions, recipes, signs and polite requests all use the imperative.",
+        "mixup": "Verbs with a → ä don't keep the umlaut: du fährst → Fahr!, not 'Fähr!'. And sein is irregular: Sei ruhig! Seien Sie…"
+      },
+      "bs": {
+        "one": "Imperativ daje naredbe, upute i molbe: Komm! Kommt! Kommen Sie!",
+        "explain": "Oblik za du: uzmi oblik za du i skini -st (du kommst → Komm!; du nimmst → Nimm!). Za ihr: isto kao prezent (Kommt!). Za Sie: glagol + Sie (Kommen Sie!). Glagol je uvijek prvi. Dodaj 'bitte' i 'mal' da zvučiš ljubazno: Hilf mir bitte mal.",
+        "example": "'Mach das Fenster zu, bitte!' 'Nehmen Sie Platz.' 'Seid leise!'",
+        "why": "Upute, recepti, natpisi i ljubazne molbe koriste imperativ.",
+        "mixup": "Glagoli s a → ä ne zadržavaju preglas: du fährst → Fahr!, ne 'Fähr!'. A sein je nepravilan: Sei ruhig! Seien Sie…"
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "'du ___ (arbeiten)'",
+        "bs": "'du ___ (arbeiten)'"
+      },
+      "options": [
+        {
+          "en": "arbeitst",
+          "bs": "arbeitst"
+        },
+        {
+          "en": "arbeiten",
+          "bs": "arbeiten"
+        },
+        {
+          "en": "arbeitest",
+          "bs": "arbeitest"
+        },
+        {
+          "en": "arbeitet",
+          "bs": "arbeitet"
+        }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "Stem ends in -t, so add an extra e: arbeitest.",
+        "bs": "Osnova završava na -t, pa se dodaje e: arbeitest."
+      }
+    },
+    {
+      "q": {
+        "en": "'Er ___ (lesen) ein Buch.'",
+        "bs": "'Er ___ (lesen) ein Buch.'"
+      },
+      "options": [
+        {
+          "en": "lest",
+          "bs": "lest"
+        },
+        {
+          "en": "lesst",
+          "bs": "lesst"
+        },
+        {
+          "en": "lesen",
+          "bs": "lesen"
+        },
+        {
+          "en": "liest",
+          "bs": "liest"
+        }
+      ],
+      "answer": 3,
+      "explain": {
+        "en": "e → ie with er/sie/es: liest.",
+        "bs": "e → ie uz er/sie/es: liest."
+      }
+    },
+    {
+      "q": {
+        "en": "Which is correct for 'aufstehen'?",
+        "bs": "Šta je tačno za 'aufstehen'?"
+      },
+      "options": [
+        {
+          "en": "Ich aufstehe um 7.",
+          "bs": "Ich aufstehe um 7."
+        },
+        {
+          "en": "Ich stehe auf um 7 Uhr auf.",
+          "bs": "Ich stehe auf um 7 Uhr auf."
+        },
+        {
+          "en": "Ich stehe um 7 auf.",
+          "bs": "Ich stehe um 7 auf."
+        },
+        {
+          "en": "Auf ich stehe um 7.",
+          "bs": "Auf ich stehe um 7."
+        }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "The prefix goes to the end.",
+        "bs": "Predmetak ide na kraj."
+      }
+    },
+    {
+      "q": {
+        "en": "'You mustn't park here' is:",
+        "bs": "'Ne smiješ ovdje parkirati' je:"
+      },
+      "options": [
+        {
+          "en": "Du musst hier nicht parken.",
+          "bs": "Du musst hier nicht parken."
+        },
+        {
+          "en": "Du kannst hier parken.",
+          "bs": "Du kannst hier parken."
+        },
+        {
+          "en": "Du sollst hier parken.",
+          "bs": "Du sollst hier parken."
+        },
+        {
+          "en": "Du darfst hier nicht parken.",
+          "bs": "Du darfst hier nicht parken."
+        }
+      ],
+      "answer": 3,
+      "explain": {
+        "en": "Forbidden = nicht dürfen.",
+        "bs": "Zabranjeno = nicht dürfen."
+      }
+    }
+  ]
+}

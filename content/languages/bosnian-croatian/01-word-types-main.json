@@ -1,0 +1,225 @@
+{
+  "slug": "word-types-main",
+  "title": {
+    "en": "Word types I: the changeable words",
+    "bs": "Vrste riječi I: promjenjive riječi"
+  },
+  "summary": {
+    "en": "Vrste riječi: the five word types that change their endings: nouns, verbs, adjectives, pronouns and numbers.",
+    "bs": "Vrste riječi: pet vrsta koje mijenjaju nastavke: imenice, glagoli, pridjevi, zamjenice i brojevi."
+  },
+  "concepts": [
+    {
+      "slug": "vrste-rijeci",
+      "term": "Vrste riječi",
+      "local": "word types",
+      "minutes": 7,
+      "youtube": "IMyRRkRJKQo",
+      "youtubeQuery": "vrste riječi",
+      "related": [
+        "Imenica",
+        "Glagol",
+        "Prilog"
+      ],
+      "en": {
+        "one": "Bosnian and Croatian grammar sorts words into ten types (vrste riječi). Five change their endings and five never do.",
+        "explain": "Changeable (promjenjive): imenica (noun), glagol (verb), pridjev (adjective), zamjenica (pronoun), broj (number). Unchangeable (nepromjenjive): prilog (adverb), prijedlog (preposition), veznik (conjunction), rječca (čestica) (particle), uzvik (interjection). There are no articles, so there's no 'the' or 'a'. The changeable words carry almost all the grammar: cases, gender, number, person and tense.",
+        "example": "'Moja mala sestra brzo čita dvije knjige.' moja = pronoun, mala = adjective, sestra = noun, brzo = adverb, čita = verb, dvije = number, knjige = noun.",
+        "why": "Every grammar rule you'll learn is about one of the changeable types. Knowing which type a word is tells you which endings to expect.",
+        "mixup": "Unlike English, a word rarely switches type without changing form: rad (work, noun), raditi (to work, verb), radni (working, adjective)."
+      }
+    },
+    {
+      "slug": "imenica",
+      "term": "Imenica",
+      "local": "noun",
+      "minutes": 16,
+      "youtube": "w90xgLN5S5E",
+      "youtubeQuery": "imenice gramatika",
+      "related": [
+        "Rod imenica",
+        "Padeži",
+        "Množina"
+      ],
+      "en": {
+        "one": "An imenica (noun) names a person, place, thing or idea: čovjek, Sarajevo, sto (stol), ljubav.",
+        "explain": "How to spot it: you can ask ko? (tko?) or šta? (što?) about it, and it has a gender (masculine, feminine or neuter), a number (singular or plural) and a case. Its ending changes with the case: grad, grada, gradu, gradom. Proper nouns are capitalised; days, months and languages are NOT: ponedjeljak, juli (srpanj), engleski.",
+        "example": "'Moja sestra živi u Mostaru i voli muziku (glazbu).' Nouns: sestra, Mostaru (Mostar in the locative), muziku (glazbu).",
+        "why": "Nouns decide the endings of the adjectives, pronouns and past-tense verbs around them.",
+        "mixup": "Don't look for 'a' or 'the'. 'Knjiga' can mean 'a book' or 'the book'; context decides."
+      }
+    },
+    {
+      "slug": "glagol",
+      "term": "Glagol",
+      "local": "verb",
+      "minutes": 21,
+      "youtube": "tpbOjNkRUfU",
+      "youtubeQuery": "glagoli gramatika",
+      "related": [
+        "Infinitiv",
+        "Prezent",
+        "Perfekat (perfekt)"
+      ],
+      "en": {
+        "one": "A glagol (verb) expresses an action or state: raditi (to work), spavati (to sleep), biti (to be).",
+        "explain": "How to spot it: in the dictionary (infinitive) it ends in -ti or -ći: čitati, pisati, ići, moći. In a sentence its ending shows the person, so the pronoun is usually dropped: radim (I work), radiš (you work), radi (he/she works). In the past it also shows gender: radio sam (male), radila sam (female).",
+        "example": "'Svako jutro pijem kafu (kavu) i čitam vijesti.' Verbs: pijem, čitam.",
+        "why": "Since the ending tells you who is acting, the verb alone is often a full sentence: 'Dolazim!' = I'm coming!",
+        "mixup": "Don't add 'ja' to every sentence. 'Ja radim' is correct but sounds emphatic (I'M the one who works). Normally just 'Radim'."
+      }
+    },
+    {
+      "slug": "pridjev",
+      "term": "Pridjev",
+      "local": "adjective",
+      "minutes": 4,
+      "youtube": "nc5blZhy4EM",
+      "youtubeQuery": "pridjevi gramatika",
+      "related": [
+        "Slaganje pridjeva",
+        "Komparacija pridjeva",
+        "Imenica"
+      ],
+      "en": {
+        "one": "A pridjev (adjective) describes a noun: velik, lijep, crven, skup.",
+        "explain": "How to spot it: it answers kakav? (what kind?), koji? (which?) or čiji? (whose?). It must agree with its noun in gender, number and case: nov grad (m), nova kuća (f), novo auto (n), novi gradovi (pl). Typical endings: -an, -ski/-čki, -ov/-ev, -in (dobar, bosanski, bratov, sestrin).",
+        "example": "'visok čovjek, visoka žena, visoko dijete'. In English 'tall' never changes; here it changes with every noun.",
+        "why": "Adjective agreement is everywhere. Getting it right makes you sound natural even with simple sentences.",
+        "mixup": "Possessive adjectives come from names and people: Amrin telefon (Amra's phone), bratov auto (brother's car). English uses 's, Bosnian/Croatian uses an adjective."
+      }
+    },
+    {
+      "slug": "zamjenica",
+      "term": "Zamjenica",
+      "local": "pronoun",
+      "minutes": 16,
+      "youtube": "M7YKRmBgDQM",
+      "youtubeQuery": "zamjenice gramatika lične",
+      "related": [
+        "Lične zamjenice po padežima",
+        "Imenica"
+      ],
+      "en": {
+        "one": "A zamjenica (pronoun) replaces a noun: ja, ti, on, ona, ono, mi, vi, oni, one, ona.",
+        "explain": "Types: personal (ja, ti, on), possessive (moj, tvoj, njegov, njen (njezin), svoj), demonstrative (ovaj, taj, onaj), interrogative (ko (tko), šta (što), koji, čiji), reflexive (sebe, se). Pronouns change with the case, often into short forms: mene / me, meni / mi. 'Vi' with a capital V is the polite 'you'.",
+        "example": "'Gdje je moj telefon? Ne mogu ga naći.' ga = it (him), the short accusative of 'on'.",
+        "why": "Pronouns are very common, and their short forms are what make spoken sentences feel natural.",
+        "mixup": "There are three demonstratives: ovaj (this, near me), taj (that, near you), onaj (that, far from both). English has only this/that."
+      }
+    },
+    {
+      "slug": "broj",
+      "term": "Broj",
+      "local": "number",
+      "minutes": 11,
+      "youtube": "qSEa4X2KAi0",
+      "youtubeQuery": "croatian numbers 1-100",
+      "related": [
+        "Brojevi i imenice",
+        "Imenica"
+      ],
+      "en": {
+        "one": "Brojevi (numbers) are main numbers (jedan, dva, tri) and ordinal numbers (prvi, drugi, treći).",
+        "explain": "Main numbers: jedan, dva, tri, četiri, pet, šest, sedam, osam, devet, deset, jedanaest… dvadeset, sto, hiljada (tisuća). 'jedan' agrees like an adjective: jedan grad, jedna kuća, jedno dijete. 'dva' has a feminine form 'dvije': dva grada, dvije kuće. Ordinals are adjectives: prvi dan, prva sedmica (tjedan), and in dates: prvog (prvoga) maja (svibnja).",
+        "example": "'Imam dva brata i jednu sestru.' 'Živim na trećem spratu (katu).'",
+        "why": "Numbers change the case of the noun after them (next topics), so they matter more than in English.",
+        "mixup": "'Hiljada' (Bosnian) and 'tisuća' (Croatian) both mean thousand. Months differ too: juli (srpanj), august (kolovoz)."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "Which word is a verb in 'Mi često idemo u kino'?"
+      },
+      "options": [
+        {
+          "en": "Mi"
+        },
+        {
+          "en": "često"
+        },
+        {
+          "en": "idemo"
+        },
+        {
+          "en": "kino"
+        }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "'idemo' (we go) shows an action and the person."
+      }
+    },
+    {
+      "q": {
+        "en": "Which form fits 'žena'? '___ žena'"
+      },
+      "options": [
+        {
+          "en": "visok"
+        },
+        {
+          "en": "visoka"
+        },
+        {
+          "en": "visoko"
+        },
+        {
+          "en": "visoki"
+        }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "žena is feminine singular, so the adjective is visoka."
+      }
+    },
+    {
+      "q": {
+        "en": "How do you normally say 'I am reading'?"
+      },
+      "options": [
+        {
+          "en": "Ja čitam ja."
+        },
+        {
+          "en": "Ja je čitati."
+        },
+        {
+          "en": "Čitati."
+        },
+        {
+          "en": "Čitam."
+        }
+      ],
+      "answer": 3,
+      "explain": {
+        "en": "The verb ending -m already shows 'I'."
+      }
+    },
+    {
+      "q": {
+        "en": "'Two houses' is:"
+      },
+      "options": [
+        {
+          "en": "dvije kuće"
+        },
+        {
+          "en": "dva kuće"
+        },
+        {
+          "en": "dvije kuća"
+        },
+        {
+          "en": "dva kuća"
+        }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Feminine nouns use 'dvije'."
+      }
+    }
+  ]
+}

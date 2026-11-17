@@ -1,0 +1,221 @@
+{
+  "slug": "future-and-modals",
+  "title": {
+    "en": "Future and modal verbs",
+    "bs": "Budućnost i modalni glagoli"
+  },
+  "summary": {
+    "en": "Will, going to, can, must, have to, should and would like.",
+    "bs": "Will, going to, can, must, have to, should i would like."
+  },
+  "concepts": [
+    {
+      "slug": "will",
+      "term": "Will",
+      "local": "budućnost s will",
+      "minutes": 5,
+      "youtube": "n14zCZAvSjI",
+      "youtubeQuery": "will future english grammar",
+      "related": [
+        "Going to",
+        "Modal verbs"
+      ],
+      "bs": {
+        "one": "'Will' + osnovni glagol pravi budućnost za odluke u trenutku, obećanja i predviđanja: I will help you.",
+        "explain": "Isti oblik za sve osobe: I/you/she/they will go. Skraćeno 'll (I'll). Negacija: will not = won't. Pitanje: 'Will you come?' Koristiš ga kad odlučiš sada ('I'll take this one'), obećaš ('I'll call you') ili misliš da će se nešto desiti ('It will be cold').",
+        "example": "'The phone is ringing.' – 'I'll get it!' 'Don't worry, I won't tell anyone.'",
+        "why": "Najjednostavniji način da govoriš o budućnosti.",
+        "mixup": "Poslije 'will' nema 'to' i nema -s: 'She will go', ne 'She will goes' ni 'She will to go'."
+      }
+    },
+    {
+      "slug": "going-to",
+      "term": "Going to",
+      "local": "namjeravati",
+      "minutes": 5,
+      "youtube": "IpmmTWcjVbM",
+      "youtubeQuery": "going to future english grammar plans",
+      "related": [
+        "Will",
+        "Present continuous"
+      ],
+      "bs": {
+        "one": "'Be going to' + glagol koristiš za planove koje si već napravio i za ono što očito slijedi: I'm going to study tonight.",
+        "explain": "Oblik: am/is/are + going to + osnovni glagol. 'We are going to move.' 'Is it going to rain?' Razlika: will = odluka sada; going to = odluka od prije. Kad vidiš dokaz (crni oblaci), koristiš going to: 'It's going to rain.'",
+        "example": "'I've bought paint. I'm going to paint the kitchen this weekend.'",
+        "why": "Kad pričaš o planovima za vikend, godišnji odmor ili posao, ovo je najprirodniji oblik.",
+        "mixup": "U razgovoru se često izgovara 'gonna' (I'm gonna go). Razumij to kad čuješ, ali tako ne piši."
+      }
+    },
+    {
+      "slug": "can-could",
+      "term": "Can and could",
+      "local": "moći, znati",
+      "minutes": 9,
+      "youtube": "TqES1mwxjpI",
+      "youtubeQuery": "can could english modal verbs ability permission",
+      "related": [
+        "Modal verbs",
+        "Questions"
+      ],
+      "bs": {
+        "one": "'Can' izražava sposobnost (I can swim), mogućnost i dozvolu (Can I sit here?). 'Could' je prošlost od can i ljubaznija molba.",
+        "explain": "Modalni glagoli imaju posebna pravila: isti oblik za sve osobe (she can, ne 'she cans'), poslije njih osnovni glagol bez 'to', pitanje zamjenom reda (Can you…?), negacija can't / couldn't. 'Could you help me?' je ljubaznije od 'Can you help me?'.",
+        "example": "'I can speak three languages.' 'When I was five, I couldn't read.' 'Could you open the window, please?'",
+        "why": "Svakodnevne molbe, ponude i opisi sposobnosti idu kroz can i could.",
+        "mixup": "Bosanski 'znam plivati' je 'I can swim', ne 'I know swim'. 'Know' je za znanje činjenica."
+      }
+    },
+    {
+      "slug": "must-have-to",
+      "term": "Must and have to",
+      "local": "morati",
+      "minutes": 6,
+      "youtube": "HUXXgVElADg",
+      "youtubeQuery": "must vs have to english grammar",
+      "related": [
+        "Should",
+        "Modal verbs"
+      ],
+      "bs": {
+        "one": "I 'must' i 'have to' znače 'morati'. 'Must' je obično lična obaveza ili pravilo, 'have to' vanjska obaveza.",
+        "explain": "'I must call my mum' (ja to osjećam). 'I have to wear a uniform' (pravilo na poslu). 'Have to' se mijenja po osobi i vremenu: she has to, I had to, will have to. Ali negacije su potpuno različite: 'mustn't' = ne smiješ, zabranjeno; 'don't have to' = ne moraš, nije potrebno.",
+        "example": "'You mustn't smoke here.' (zabranjeno) – 'You don't have to come.' (nije obavezno, ali možeš)",
+        "why": "Ovo je važno na poslu i s pravilima: razlika između 'zabranjeno' i 'nije potrebno' je velika.",
+        "mixup": "Za prošlost 'must' nema oblik, koristiš 'had to': 'Yesterday I had to work late'."
+      }
+    },
+    {
+      "slug": "should",
+      "term": "Should",
+      "local": "trebati (savjet)",
+      "minutes": 8,
+      "youtube": "-N9te6dUqjw",
+      "youtubeQuery": "should for advice english grammar",
+      "related": [
+        "Must and have to",
+        "Modal verbs"
+      ],
+      "bs": {
+        "one": "'Should' daje savjet ili mišljenje šta je dobro uraditi: You should rest.",
+        "explain": "Kao i ostali modalni: isti oblik za sve, poslije osnovni glagol, negacija shouldn't, pitanje 'Should I…?'. Slabiji je od must: savjet, ne obaveza.",
+        "example": "'You look tired. You should go to bed.' 'Should I bring something?' 'You shouldn't drink so much coffee.'",
+        "why": "Savjeti, preporuke i ljubazni prijedlozi na poslu svi koriste should.",
+        "mixup": "'You should to go' je pogrešno. Poslije should nema 'to'."
+      }
+    },
+    {
+      "slug": "would-like",
+      "term": "Would like",
+      "local": "želio/htio bih",
+      "minutes": 6,
+      "youtube": "h1gGk291Op4",
+      "youtubeQuery": "would like vs want english polite requests",
+      "related": [
+        "Can and could",
+        "Questions"
+      ],
+      "bs": {
+        "one": "'Would like' (I'd like) je ljubazan način da kažeš šta želiš. Mnogo je pristojnije od 'I want'.",
+        "explain": "'I would like a coffee.' 'I'd like to book a table.' Pitanje: 'Would you like some tea?' (ponuda). Uz imenicu ide direktno (I'd like a ticket), uz glagol ide 'to' (I'd like to pay).",
+        "example": "U kafiću: 'I'd like a cappuccino, please.' Domaćin: 'Would you like anything else?'",
+        "why": "U restoranima, prodavnicama i na poslu 'I want' zvuči grubo. 'I'd like' zvuči kulturno.",
+        "mixup": "'Do you like coffee?' pita voliš li kafu (kavu) uopšte. 'Would you like a coffee?' nudi ti kafu sada."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "bs": "Telefon zvoni. Kažeš:"
+      },
+      "options": [
+        {
+          "bs": "I'll answer it."
+        },
+        {
+          "bs": "I'm going to answer it."
+        },
+        {
+          "bs": "I answer it."
+        },
+        {
+          "bs": "I will to answer it."
+        }
+      ],
+      "answer": 0,
+      "explain": {
+        "bs": "Odluka u trenutku: will."
+      }
+    },
+    {
+      "q": {
+        "bs": "'You ___ wear a suit. It's optional.'"
+      },
+      "options": [
+        {
+          "bs": "mustn't"
+        },
+        {
+          "bs": "can't"
+        },
+        {
+          "bs": "shouldn't to"
+        },
+        {
+          "bs": "don't have to"
+        }
+      ],
+      "answer": 3,
+      "explain": {
+        "bs": "Nije potrebno, ali nije zabranjeno: don't have to."
+      }
+    },
+    {
+      "q": {
+        "bs": "Koja je tačna?"
+      },
+      "options": [
+        {
+          "bs": "She cans drive."
+        },
+        {
+          "bs": "She can drive."
+        },
+        {
+          "bs": "She can drives."
+        },
+        {
+          "bs": "She can to drive."
+        }
+      ],
+      "answer": 1,
+      "explain": {
+        "bs": "Modalni glagol ne dobija -s, a iza njega osnovni glagol bez 'to'."
+      }
+    },
+    {
+      "q": {
+        "bs": "Najljubazniji način u restoranu:"
+      },
+      "options": [
+        {
+          "bs": "I want the soup."
+        },
+        {
+          "bs": "Give me the soup."
+        },
+        {
+          "bs": "I'd like the soup, please."
+        },
+        {
+          "bs": "Soup."
+        }
+      ],
+      "answer": 2,
+      "explain": {
+        "bs": "'I'd like' je pristojan oblik."
+      }
+    }
+  ]
+}

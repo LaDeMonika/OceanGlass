@@ -1,5 +1,5 @@
 import Link from "next/link";
-import type { Concept } from "@/lib/content";
+import { conceptText, type Concept } from "@/lib/content";
 import type { Dict, Lang } from "@/lib/i18n";
 import Icon from "./Icon";
 import { StatusChip } from "./ui";
@@ -24,6 +24,8 @@ export default function ConceptPanel({
   videoId,
   readOnly = false,
   isAdmin = false,
+  fixedLang = false,
+  localLang = "bs",
 }: {
   id: string;
   concept: Concept;
@@ -41,8 +43,13 @@ export default function ConceptPanel({
   videoId?: string;
   readOnly?: boolean;
   isAdmin?: boolean;
+  /** The program is always explained in one language, so the toggle is hidden. */
+  fixedLang?: boolean;
+  /** Language of `concept.local`. */
+  localLang?: Lang;
 }) {
-  const L = concept[lang] ?? concept.en;
+  const L = conceptText(concept, lang);
+  const localPrefix = localLang === "bs" ? "BS/HR" : "EN";
   const searchUrl = `https://www.youtube.com/results?search_query=${encodeURIComponent(concept.youtubeQuery)}`;
   const block = (title: string, text: string | undefined, warn = false) =>
     text ? (
@@ -74,11 +81,11 @@ export default function ConceptPanel({
             </div>
             <h2 id="lessonTitle">{concept.term}</h2>
             <div className="term-local">
-              {lang === "bs" ? concept.local : `BS/HR: ${concept.local}`}
+              {lang === localLang ? concept.local : `${localPrefix}: ${concept.local}`}
             </div>
           </div>
           <div style={{ display: "flex", gap: 10, alignItems: "center" }}>
-            <LangToggle lang={lang} />
+            {!fixedLang && <LangToggle lang={lang} />}
             <Link href={closeHref} scroll={false} className="icon-btn" aria-label={t.close}>
               <Icon name="x" />
             </Link>
@@ -112,7 +119,7 @@ export default function ConceptPanel({
           )}
 
           <p className="oneliner">{L.one}</p>
-          {concept.formula && <div className="formula">{concept.formula[lang] ?? concept.formula.en}</div>}
+          {concept.formula && <div className="formula">{concept.formula[lang] ?? concept.formula.en ?? concept.formula.bs}</div>}
           <div className="blocks">
             {block(t.inSimpleWords, L.explain)}
             {block(t.example, L.example)}

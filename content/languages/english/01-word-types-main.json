@@ -1,0 +1,227 @@
+{
+  "slug": "word-types-main",
+  "title": {
+    "en": "Word types I: the main words",
+    "bs": "Vrste riječi I: glavne riječi"
+  },
+  "summary": {
+    "en": "Every English word has a job. Learn to spot the five big ones: nouns, verbs, adjectives, adverbs and pronouns.",
+    "bs": "Svaka engleska riječ ima svoj posao. Nauči prepoznati pet glavnih: imenice, glagole, pridjeve, priloge i zamjenice."
+  },
+  "concepts": [
+    {
+      "slug": "parts-of-speech",
+      "term": "Parts of speech",
+      "local": "vrste riječi",
+      "minutes": 15,
+      "youtube": "chjmnCSPnbw",
+      "youtubeQuery": "parts of speech english grammar explained for beginners",
+      "related": [
+        "Noun",
+        "Verb",
+        "Adjective"
+      ],
+      "bs": {
+        "one": "Vrste riječi (parts of speech) su grupe riječi prema poslu koji rade u rečenici: imenuju stvar, opisuju radnju, opisuju nešto drugo ili povezuju.",
+        "explain": "Engleski ima osam klasičnih vrsta: noun (imenica), verb (glagol), adjective (pridjev), adverb (prilog), pronoun (zamjenica), preposition (prijedlog), conjunction (veznik) i interjection (uzvik). Mnoge knjige dodaju i article (član) i determiner. Kad znaš vrstu riječi, znaš i pravila koja za nju važe: npr. samo glagoli imaju vremena, samo imenice imaju množinu.",
+        "example": "U rečenici 'The small dog runs quickly' imamo: The = član, small = pridjev, dog = imenica, runs = glagol, quickly = prilog.",
+        "why": "Svako gramatičko pravilo koje ćeš učiti govori o nekoj vrsti riječi. Bez toga gramatika izgleda kao hrpa izuzetaka.",
+        "mixup": "Vrsta riječi ne zavisi samo od riječi, nego i od mjesta u rečenici. 'Book' je imenica u 'a book', a glagol u 'book a table'."
+      }
+    },
+    {
+      "slug": "noun",
+      "term": "Noun",
+      "local": "imenica",
+      "minutes": 4,
+      "youtube": "oeksdmgw3W4",
+      "youtubeQuery": "what is a noun english grammar",
+      "related": [
+        "Article",
+        "Plural nouns",
+        "Pronoun"
+      ],
+      "bs": {
+        "one": "Imenica (noun) je riječ za osobu, mjesto, stvar ili ideju: teacher, Sarajevo, table, love.",
+        "explain": "Kako je prepoznati: ispred nje često stoji a, an ili the; može dobiti množinu (car → cars); i možeš pitati 'Ko?' ili 'Šta?'. Vlastite imenice (imena ljudi, gradova, dana, mjeseci, jezika) pišu se velikim slovom: Monday, English, Maria.",
+        "example": "'My sister lives in Mostar and loves music.' Imenice su: sister (osoba), Mostar (mjesto), music (stvar/ideja).",
+        "why": "Imenica je srce rečenice. Glagol i pridjevi se slažu s njom, a članovi i zamjenice stoje umjesto ili ispred nje.",
+        "mixup": "Za razliku od bosanskog, engleske imenice nemaju rod (muški/ženski/srednji) i ne mijenjaju nastavke po padežima. 'The table' je uvijek 'the table'."
+      }
+    },
+    {
+      "slug": "verb",
+      "term": "Verb",
+      "local": "glagol",
+      "minutes": 3,
+      "youtube": "DH5HzbObnOI",
+      "youtubeQuery": "what is a verb english grammar for beginners",
+      "related": [
+        "Subject",
+        "Present simple",
+        "To be"
+      ],
+      "bs": {
+        "one": "Glagol (verb) je riječ koja kaže šta neko radi ili u kakvom je stanju: run, eat, think, be, have.",
+        "explain": "Kako ga prepoznati: možeš ispred staviti 'to' (to run, to eat) i možeš ga staviti u prošlost (run → ran, work → worked). Svaka potpuna engleska rečenica mora imati glagol. Postoje i pomoćni glagoli (be, have, do, will, can) koji pomažu glavnom glagolu: 'I am working', 'She does not know'.",
+        "example": "'We often watch films and talk about them.' Glagoli su watch i talk.",
+        "why": "Glagol nosi vrijeme (sadašnje, prošlo, buduće). Većina engleske gramatike su zapravo pravila o glagolima.",
+        "mixup": "Neke riječi izgledaju kao imenice, a ovdje su glagoli: 'I email him', 'They text me'. Gledaj šta riječ radi u rečenici."
+      }
+    },
+    {
+      "slug": "adjective",
+      "term": "Adjective",
+      "local": "pridjev",
+      "minutes": 4,
+      "youtube": "LiYxv0vudmc",
+      "youtubeQuery": "what is an adjective english grammar",
+      "related": [
+        "Adverb",
+        "Comparatives",
+        "Noun"
+      ],
+      "bs": {
+        "one": "Pridjev (adjective) opisuje imenicu: kakav je neko ili nešto. Big, red, happy, expensive.",
+        "explain": "Kako ga prepoznati: odgovara na pitanje 'Kakav?' i stoji ispred imenice (a big house) ili poslije glagola be (the house is big). Engleski pridjev se nikad ne mijenja: isti je za muški, ženski i množinu. Mnogi završavaju na -ful, -less, -ous, -ive, -able, -al, -y (beautiful, useless, famous, active, comfortable, local, sunny).",
+        "example": "'a tall man, a tall woman, tall children' – 'tall' ostaje isti. U bosanskom: visok muškarac, visoka žena, visoka djeca.",
+        "why": "Pridjevi daju boju rečenici i trebaju ti za poređenje (bigger, the biggest).",
+        "mixup": "Pridjev ide ISPRED imenice: 'a red car', ne 'a car red'. I nikad ne dobija -s u množini: 'nice people', ne 'nices people'."
+      }
+    },
+    {
+      "slug": "adverb",
+      "term": "Adverb",
+      "local": "prilog",
+      "minutes": 17,
+      "youtube": "jXtHCBgbks0",
+      "youtubeQuery": "what is an adverb english grammar explained",
+      "related": [
+        "Adjective",
+        "Adverbs of frequency",
+        "Verb"
+      ],
+      "bs": {
+        "one": "Prilog (adverb) opisuje glagol, pridjev ili cijelu rečenicu: kako, kada, gdje ili koliko često se nešto dešava.",
+        "explain": "Kako ga prepoznati: odgovara na pitanja 'Kako?', 'Kada?', 'Gdje?', 'Koliko?'. Mnogi nastaju od pridjeva dodavanjem -ly: quick → quickly, careful → carefully. Ali ima i onih bez -ly: fast, hard, well, often, very, here, now, tomorrow.",
+        "example": "'She speaks English very well.' – well (kako govori?) i very (koliko dobro?) su prilozi.",
+        "why": "Pridjev opisuje stvar, prilog opisuje radnju. Ako pogriješiš, rečenica zvuči strano: 'He drives careful' je pogrešno, treba 'carefully'.",
+        "mixup": "'Good' je pridjev, 'well' je prilog: 'a good driver' ali 'he drives well'. I nisu sve riječi na -ly prilozi: friendly i lovely su pridjevi."
+      }
+    },
+    {
+      "slug": "pronoun",
+      "term": "Pronoun",
+      "local": "zamjenica",
+      "minutes": 4,
+      "youtube": "Dr8GIp94GgA",
+      "youtubeQuery": "what is a pronoun english grammar",
+      "related": [
+        "Subject and object pronouns",
+        "Noun",
+        "Possessive"
+      ],
+      "bs": {
+        "one": "Zamjenica (pronoun) stoji umjesto imenice da je ne ponavljamo: I, you, he, she, it, we, they.",
+        "explain": "Umjesto 'Ana is tired. Ana wants to sleep' kažemo 'Ana is tired. She wants to sleep.' Postoje lične (I, me), prisvojne (mine, yours), pokazne (this, that), upitne (who, what) i povratne (myself) zamjenice. 'It' se koristi za stvari i životinje, jer engleske stvari nemaju rod.",
+        "example": "'Where is my phone? I can't find it.' – it zamjenjuje 'my phone'.",
+        "why": "Zamjenice su među najčešćim riječima u engleskom. Bez njih bi svaka rečenica ponavljala iste imenice.",
+        "mixup": "U bosanskom često izostavimo zamjenicu ('Idem kući'), ali u engleskom je skoro uvijek moraš reći: 'I am going home', ne 'Am going home'."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "bs": "Koja riječ je glagol u rečenici 'The children play in the park'?"
+      },
+      "options": [
+        {
+          "bs": "play"
+        },
+        {
+          "bs": "children"
+        },
+        {
+          "bs": "park"
+        },
+        {
+          "bs": "the"
+        }
+      ],
+      "answer": 0,
+      "explain": {
+        "bs": "'Play' kaže šta djeca rade, pa je glagol."
+      }
+    },
+    {
+      "q": {
+        "bs": "Koja je vrsta riječi 'quickly'?"
+      },
+      "options": [
+        {
+          "bs": "Pridjev"
+        },
+        {
+          "bs": "Prilog"
+        },
+        {
+          "bs": "Imenica"
+        },
+        {
+          "bs": "Zamjenica"
+        }
+      ],
+      "answer": 1,
+      "explain": {
+        "bs": "Opisuje kako se radnja dešava i završava na -ly: prilog."
+      }
+    },
+    {
+      "q": {
+        "bs": "Šta je tačno?"
+      },
+      "options": [
+        {
+          "bs": "a tall women"
+        },
+        {
+          "bs": "a woman tall"
+        },
+        {
+          "bs": "tall women"
+        },
+        {
+          "bs": "talls women"
+        }
+      ],
+      "answer": 2,
+      "explain": {
+        "bs": "Pridjev stoji ispred imenice i ne dobija množinu."
+      }
+    },
+    {
+      "q": {
+        "bs": "Koja rečenica je tačna?"
+      },
+      "options": [
+        {
+          "bs": "He plays well."
+        },
+        {
+          "bs": "He plays good."
+        },
+        {
+          "bs": "He good plays."
+        },
+        {
+          "bs": "He plays goodly."
+        }
+      ],
+      "answer": 0,
+      "explain": {
+        "bs": "Radnju opisuje prilog 'well', a 'good' je pridjev."
+      }
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { requireUser } from "@/lib/auth";
-import { conceptId, findDegree, topicId, tr } from "@/lib/content";
+import { cardLang, conceptId, findDegree, topicId, tr } from "@/lib/content";
 import { db } from "@/lib/db";
 import { dict, getLang } from "@/lib/i18n";
 import { progressMap, quizScores, topicStat } from "@/lib/progress";
@@ -27,6 +27,10 @@ export default async function DegreePage({
   const { curriculum, degree } = found;
   const lang = await getLang();
   const t = dict(lang);
+  // Language programs explain their cards and quizzes in one fixed language.
+  const cLang = cardLang(degree, lang);
+  const ct = dict(cLang);
+  const fixedLang = !!degree.explainIn;
   const map = progressMap(user.id);
   const scores = quizScores(user.id);
 
@@ -158,33 +162,33 @@ export default async function DegreePage({
         <QuizPanel
           key={tId}
           topicId={tId}
-          topicTitle={tr(topic.title, lang)}
+          topicTitle={tr(topic.title, cLang)}
           closeHref={topicHref}
           items={quiz.map((q) => ({
-            q: tr(q.q, lang),
-            options: q.options.map((o) => tr(o, lang)),
+            q: tr(q.q, cLang),
+            options: q.options.map((o) => tr(o, cLang)),
             answer: q.answer,
-            explain: q.explain ? tr(q.explain, lang) : "",
+            explain: q.explain ? tr(q.explain, cLang) : "",
           }))}
           labels={{
-            quiz: t.quiz,
-            question: t.question,
-            of: t.of,
-            correct: t.correct,
-            wrong: t.wrong,
-            nextQuestion: t.nextQuestion,
-            seeResult: t.seeResult,
-            youGot: t.youGot,
-            quizPerfect: t.quizPerfect,
-            quizGood: t.quizGood,
-            quizLow: t.quizLow,
-            tryAgain: t.tryAgain,
-            backToTopic: t.backToTopic,
-            close: t.close,
-            bestScore: t.bestScore,
-            notSavedGuest: t.notSavedGuest,
+            quiz: ct.quiz,
+            question: ct.question,
+            of: ct.of,
+            correct: ct.correct,
+            wrong: ct.wrong,
+            nextQuestion: ct.nextQuestion,
+            seeResult: ct.seeResult,
+            youGot: ct.youGot,
+            quizPerfect: ct.quizPerfect,
+            quizGood: ct.quizGood,
+            quizLow: ct.quizLow,
+            tryAgain: ct.tryAgain,
+            backToTopic: ct.backToTopic,
+            close: ct.close,
+            bestScore: ct.bestScore,
+            notSavedGuest: ct.notSavedGuest,
           }}
-          langToggle={<LangToggle lang={lang} />}
+          langToggle={fixedLang ? null : <LangToggle lang={lang} />}
         />
       )}
 
@@ -192,12 +196,12 @@ export default async function DegreePage({
         <ConceptPanel
           id={conceptId(cur, deg, topic.slug, open.slug)}
           concept={open}
-          lang={lang}
-          t={t}
+          lang={cLang}
+          t={ct}
           status={(map.get(conceptId(cur, deg, topic.slug, open.slug)) as "started" | "done" | undefined) ?? "new"}
           index={cIdx}
           total={topic.concepts.length}
-          topicTitle={tr(topic.title, lang)}
+          topicTitle={tr(topic.title, cLang)}
           closeHref={topicHref}
           prevHref={cIdx > 0 ? `${topicHref}&concept=${topic.concepts[cIdx - 1].slug}` : undefined}
           nextHref={cIdx < topic.concepts.length - 1 ? `${topicHref}&concept=${topic.concepts[cIdx + 1].slug}` : undefined}
@@ -205,6 +209,8 @@ export default async function DegreePage({
           videoId={videoId}
           readOnly={user.role === "guest"}
           isAdmin={user.role === "admin"}
+          fixedLang={fixedLang}
+          localLang={degree.localLang ?? "bs"}
         />
       )}
     </>

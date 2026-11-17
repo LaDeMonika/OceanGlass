@@ -1,0 +1,291 @@
+{
+  "slug": "word-types-main",
+  "title": {
+    "en": "Word types I: the main words",
+    "bs": "Vrste riječi I: glavne riječi"
+  },
+  "summary": {
+    "en": "Wortarten: how to recognise German nouns, verbs, adjectives, adverbs and pronouns.",
+    "bs": "Wortarten: kako prepoznati njemačke imenice, glagole, pridjeve, priloge i zamjenice."
+  },
+  "concepts": [
+    {
+      "slug": "wortarten",
+      "term": "die Wortarten",
+      "local": "vrste riječi",
+      "minutes": 3,
+      "youtube": "eBEeFYQ6YIE",
+      "youtubeQuery": "German parts of speech word types explained",
+      "related": [
+        "das Nomen",
+        "das Verb",
+        "der Artikel"
+      ],
+      "en": {
+        "one": "Wortarten are word types: groups of words sorted by the job they do. German has about ten.",
+        "explain": "The changeable ones (they take endings): Nomen (noun), Verb, Adjektiv, Artikel and Pronomen. The unchangeable ones: Adverb, Präposition, Konjunktion, Partikel and Interjektion. Numbers (Numerale) sit in between. Knowing the type tells you which rules apply: only verbs are conjugated, only nouns have a gender.",
+        "example": "'Der kleine Hund läuft schnell.' Der = article, kleine = adjective, Hund = noun, läuft = verb, schnell = adverb.",
+        "why": "Almost every German grammar rule is about one word type, especially the changeable ones. Spotting the type is step one.",
+        "mixup": "German writes every noun with a capital letter. That's a free clue English and Bosnian don't give you."
+      },
+      "bs": {
+        "one": "Wortarten su vrste riječi: grupe riječi prema poslu koji rade. Njemački ih ima desetak.",
+        "explain": "Promjenjive (dobijaju nastavke): Nomen (imenica), Verb (glagol), Adjektiv (pridjev), Artikel (član) i Pronomen (zamjenica). Nepromjenjive: Adverb (prilog), Präposition (prijedlog), Konjunktion (veznik), Partikel (rječca) i Interjektion (uzvik). Brojevi (Numerale) su između. Kad znaš vrstu, znaš i pravila: samo se glagoli konjugiraju, samo imenice imaju rod.",
+        "example": "'Der kleine Hund läuft schnell.' Der = član, kleine = pridjev, Hund = imenica, läuft = glagol, schnell = prilog.",
+        "why": "Gotovo svako njemačko gramatičko pravilo govori o jednoj vrsti riječi, posebno o promjenjivim. Prepoznavanje je prvi korak.",
+        "mixup": "Njemački piše svaku imenicu velikim slovom. To je besplatan znak koji ni bosanski ni engleski nemaju."
+      }
+    },
+    {
+      "slug": "nomen",
+      "term": "das Nomen",
+      "local": "imenica",
+      "minutes": 3,
+      "youtube": "1l0edvr9Of4",
+      "youtubeQuery": "German nouns capitalization explained beginners",
+      "related": [
+        "der Artikel",
+        "das Genus",
+        "der Plural"
+      ],
+      "en": {
+        "one": "A Nomen (also called Substantiv) names a person, place, thing or idea: der Mann, die Stadt, das Buch, die Liebe.",
+        "explain": "How to spot it: it always starts with a capital letter, it usually has an article in front (der, die, das, ein), and it has a gender, a number and a case. Words ending in -ung, -heit, -keit, -schaft, -chen are always nouns.",
+        "example": "'Meine Schwester wohnt in Berlin und liebt Musik.' Nouns: Schwester, Berlin, Musik. All capitalised.",
+        "why": "Nouns carry gender and case, and articles, adjectives and pronouns all have to agree with them.",
+        "mixup": "Not every capitalised word is a noun: the first word of a sentence and the polite 'Sie' are capitalised too."
+      },
+      "bs": {
+        "one": "Nomen (ili Substantiv) je imenica: osoba, mjesto, stvar ili ideja: der Mann, die Stadt, das Buch, die Liebe.",
+        "explain": "Kako je prepoznati: uvijek počinje velikim slovom, obično ima član ispred (der, die, das, ein), i ima rod, broj i padež. Riječi na -ung, -heit, -keit, -schaft, -chen su uvijek imenice.",
+        "example": "'Meine Schwester wohnt in Berlin und liebt Musik.' Imenice: Schwester, Berlin, Musik. Sve velikim slovom.",
+        "why": "Imenice nose rod i padež, a članovi, pridjevi i zamjenice se moraju slagati s njima.",
+        "mixup": "Nije svaka riječ s velikim slovom imenica: prva riječ rečenice i ljubazno 'Sie' se isto pišu velikim."
+      }
+    },
+    {
+      "slug": "verb",
+      "term": "das Verb",
+      "local": "glagol",
+      "minutes": 7,
+      "youtube": "jZKXS5VAzPw",
+      "youtubeQuery": "German verbs conjugation explained beginners",
+      "related": [
+        "die Konjugation",
+        "die Satzstellung (V2)",
+        "sein und haben"
+      ],
+      "en": {
+        "one": "A Verb says what someone does or what state they are in: gehen, essen, denken, sein, haben.",
+        "explain": "How to spot it: the dictionary form (Infinitiv) almost always ends in -en or -n (machen, wandern). In a sentence it changes its ending to match the subject (ich mache, du machst) and it has a fixed place: second in a statement.",
+        "example": "'Wir trinken Kaffee und sprechen über die Arbeit.' Verbs: trinken, sprechen.",
+        "why": "The verb is the anchor of German word order. Find it first and the sentence becomes much easier to read.",
+        "mixup": "German verbs can split in two: 'Ich rufe dich an' comes from 'anrufen'. The little 'an' at the end is part of the verb."
+      },
+      "bs": {
+        "one": "Verb je glagol: kaže šta neko radi ili u kakvom je stanju: gehen, essen, denken, sein, haben.",
+        "explain": "Kako ga prepoznati: osnovni oblik (Infinitiv) skoro uvijek završava na -en ili -n (machen, wandern). U rečenici mijenja nastavak prema subjektu (ich mache, du machst) i ima stalno mjesto: drugo u izjavnoj rečenici.",
+        "example": "'Wir trinken Kaffee und sprechen über die Arbeit.' Glagoli: trinken, sprechen.",
+        "why": "Glagol je sidro njemačkog reda riječi. Nađi ga prvo i rečenica postaje mnogo lakša.",
+        "mixup": "Njemački glagoli se mogu podijeliti: 'Ich rufe dich an' dolazi od 'anrufen'. Malo 'an' na kraju je dio glagola."
+      }
+    },
+    {
+      "slug": "adjektiv",
+      "term": "das Adjektiv",
+      "local": "pridjev",
+      "minutes": 15,
+      "youtube": "CYwCXrUkUmE",
+      "youtubeQuery": "German adjectives explained beginners",
+      "related": [
+        "die Adjektivendungen",
+        "der Komparativ",
+        "das Adverb"
+      ],
+      "en": {
+        "one": "An Adjektiv describes a noun: what something is like. groß, rot, glücklich, teuer.",
+        "explain": "How to spot it: it answers 'Wie?' (what kind?) and stands either before a noun (das große Haus) or after sein/werden (das Haus ist groß). Before a noun it takes an ending (-e, -en, -er, -es); after 'sein' it takes none. Typical endings: -ig, -lich, -isch, -bar, -los, -sam.",
+        "example": "'Der Kaffee ist heiß.' (no ending) vs. 'Ich trinke einen heißen Kaffee.' (ending -en)",
+        "why": "Adjective endings are one of the trickiest parts of German. Recognising the adjective is the first step to getting them right.",
+        "mixup": "In German most adjectives can also work as adverbs without any change: 'Er fährt schnell' (fast). English adds -ly, German doesn't."
+      },
+      "bs": {
+        "one": "Adjektiv je pridjev: opisuje imenicu, kakvo je nešto. groß, rot, glücklich, teuer.",
+        "explain": "Kako ga prepoznati: odgovara na 'Wie?' (kakav?) i stoji ispred imenice (das große Haus) ili iza sein/werden (das Haus ist groß). Ispred imenice dobija nastavak (-e, -en, -er, -es), a iza 'sein' nema nastavka. Tipični završeci: -ig, -lich, -isch, -bar, -los, -sam.",
+        "example": "'Der Kaffee ist heiß.' (bez nastavka) i 'Ich trinke einen heißen Kaffee.' (nastavak -en)",
+        "why": "Nastavci pridjeva su jedan od najtežih dijelova njemačkog. Prepoznati pridjev je prvi korak.",
+        "mixup": "U njemačkom se većina pridjeva može koristiti i kao prilog bez promjene: 'Er fährt schnell' (brzo)."
+      }
+    },
+    {
+      "slug": "adverb",
+      "term": "das Adverb",
+      "local": "prilog",
+      "minutes": 11,
+      "youtube": "e341i0xDnBw",
+      "youtubeQuery": "German adverbs explained",
+      "related": [
+        "das Adjektiv",
+        "TeKaMoLo"
+      ],
+      "en": {
+        "one": "An Adverb tells you how, when, where or how often something happens. It never changes its form.",
+        "explain": "How to spot it: it answers Wann? (heute, morgen, jetzt), Wo? (hier, dort, oben), Wie? (gern, sehr, leider) or Wie oft? (oft, immer, nie). Unlike adjectives, adverbs never take endings.",
+        "example": "'Ich gehe heute gern ins Kino.' heute (when) and gern (how) are adverbs.",
+        "why": "Adverbs often start a sentence ('Heute gehe ich…'), and then the verb still has to come second. That's where many mistakes happen.",
+        "mixup": "'Gern' has no English twin. 'Ich schwimme gern' = I like swimming. Add it to a verb to say you enjoy it."
+      },
+      "bs": {
+        "one": "Adverb je prilog: kaže kako, kada, gdje ili koliko često se nešto dešava. Nikad ne mijenja oblik.",
+        "explain": "Kako ga prepoznati: odgovara na Wann? (heute, morgen, jetzt), Wo? (hier, dort, oben), Wie? (gern, sehr, leider) ili Wie oft? (oft, immer, nie). Za razliku od pridjeva, nikad nema nastavke.",
+        "example": "'Ich gehe heute gern ins Kino.' heute (kada) i gern (kako) su prilozi.",
+        "why": "Prilozi često počinju rečenicu ('Heute gehe ich…'), a glagol i dalje mora biti drugi. Tu se često griješi.",
+        "mixup": "'Gern' znači 'rado'. 'Ich schwimme gern' = rado plivam, volim plivati."
+      }
+    },
+    {
+      "slug": "pronomen",
+      "term": "das Pronomen",
+      "local": "zamjenica",
+      "minutes": 9,
+      "youtube": "_Hy9_tDhgtc",
+      "youtubeQuery": "German personal pronouns explained",
+      "related": [
+        "die Personalpronomen in den Fällen",
+        "das Nomen"
+      ],
+      "en": {
+        "one": "A Pronomen stands in for a noun: ich, du, er, sie, es, wir, ihr, sie, Sie.",
+        "explain": "German pronouns follow the noun's grammatical gender, not its meaning: der Tisch → er, die Lampe → sie, das Auto → es. 'Sie' with a capital S is the polite 'you'. Pronouns also change with the case: ich, mich, mir.",
+        "example": "'Wo ist der Schlüssel? Er liegt auf dem Tisch.' The key is 'he' because it is 'der Schlüssel'.",
+        "why": "Pronouns are short, but they are everywhere, and their case forms are your first practice with German cases.",
+        "mixup": "Don't call every thing 'es'. A table is 'er' and a lamp is 'sie', because the pronoun copies the article."
+      },
+      "bs": {
+        "one": "Pronomen je zamjenica: stoji umjesto imenice: ich, du, er, sie, es, wir, ihr, sie, Sie.",
+        "explain": "Njemačke zamjenice prate gramatički rod imenice: der Tisch → er, die Lampe → sie, das Auto → es. To je isto kao u bosanskom (stol/sto → on, lampa → ona). 'Sie' velikim slovom je ljubazno 'Vi'. Zamjenice se mijenjaju po padežima: ich, mich, mir.",
+        "example": "'Wo ist der Schlüssel? Er liegt auf dem Tisch.' Ključ je 'er' jer je 'der Schlüssel'.",
+        "why": "Zamjenice su kratke, ali su svuda, i njihovi padežni oblici su tvoj prvi trening padeža.",
+        "mixup": "Rod se ne poklapa uvijek s bosanskim: 'das Mädchen' (djevojčica) je srednji rod, pa je zamjenica 'es'."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "Which word is a noun in 'Wir kaufen heute Brot'?",
+        "bs": "Koja riječ je imenica u 'Wir kaufen heute Brot'?"
+      },
+      "options": [
+        {
+          "en": "Brot",
+          "bs": "Brot"
+        },
+        {
+          "en": "Wir",
+          "bs": "Wir"
+        },
+        {
+          "en": "kaufen",
+          "bs": "kaufen"
+        },
+        {
+          "en": "heute",
+          "bs": "heute"
+        }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Brot is capitalised and names a thing.",
+        "bs": "Brot je velikim slovom i imenuje stvar."
+      }
+    },
+    {
+      "q": {
+        "en": "What does 'Er' refer to in 'Der Tisch ist neu. Er ist schön.'?",
+        "bs": "Na šta se odnosi 'Er' u 'Der Tisch ist neu. Er ist schön.'?"
+      },
+      "options": [
+        {
+          "en": "a man",
+          "bs": "na muškarca"
+        },
+        {
+          "en": "the speaker",
+          "bs": "na govornika"
+        },
+        {
+          "en": "the table",
+          "bs": "na stol (sto)"
+        },
+        {
+          "en": "nothing",
+          "bs": "ni na šta"
+        }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "der Tisch → er. The pronoun copies the gender.",
+        "bs": "der Tisch → er. Zamjenica prati rod."
+      }
+    },
+    {
+      "q": {
+        "en": "Which word is an adverb?",
+        "bs": "Koja riječ je prilog?"
+      },
+      "options": [
+        {
+          "en": "schön",
+          "bs": "schön"
+        },
+        {
+          "en": "Morgen",
+          "bs": "Morgen"
+        },
+        {
+          "en": "morgen",
+          "bs": "morgen"
+        },
+        {
+          "en": "der",
+          "bs": "der"
+        }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "'morgen' (tomorrow) says when. 'Morgen' with a capital is the noun 'morning'.",
+        "bs": "'morgen' (sutra) kaže kada. 'Morgen' velikim slovom je imenica 'jutro'."
+      }
+    },
+    {
+      "q": {
+        "en": "Where does an adjective take no ending?",
+        "bs": "Gdje pridjev nema nastavak?"
+      },
+      "options": [
+        {
+          "en": "ein großes Haus",
+          "bs": "ein großes Haus"
+        },
+        {
+          "en": "das große Haus",
+          "bs": "das große Haus"
+        },
+        {
+          "en": "Das Haus ist groß.",
+          "bs": "Das Haus ist groß."
+        },
+        {
+          "en": "große Häuser",
+          "bs": "große Häuser"
+        }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "After 'sein' an adjective has no ending.",
+        "bs": "Iza 'sein' pridjev nema nastavak."
+      }
+    }
+  ]
+}

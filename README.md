@@ -1,6 +1,6 @@
 # Ocean Glass
 
-A private business learning app, built for one learner. It has curriculums, degree programs, topics and concept cards, each with plain-language explanations in **English** and **Bosnian/Croatian**, plus a YouTube video for each concept.
+A private learning app, built for one learner. It has curriculums (Business and Languages), degree programs, topics and concept cards, each with plain-language explanations in **English** and **Bosnian/Croatian**, plus a YouTube video for each concept.
 
 Only two accounts exist: `msimic` (student) and `admin`, plus an optional read-only `guest` account for showing the app to others. There is no sign-up page. Every page needs a login.
 
@@ -52,6 +52,15 @@ A program without a folder shows as "Coming soon". To add one, create the folder
 ```
 
 `youtube` can hold a video ID. Videos picked on the Admin page take priority over it.
+
+### Language programs
+
+The `languages` curriculum has three grammar programs: English, German and Bosnian/Croatian. Two optional fields on a program in `curriculum.json` control which language its cards are explained in:
+
+- `explainIn`: `"en"` or `"bs"`. Concept cards and quizzes always show that language, whatever the app language is, and the language switch is hidden on them. English is explained in Bosnian/Croatian (`"bs"`), Bosnian/Croatian in English (`"en"`). German leaves it out, so it follows the app language like Business does.
+- `localLang`: the language of each concept's `local` word (default `"bs"`). The Bosnian/Croatian program uses `"en"`, so `local` holds the English name.
+
+A program with `explainIn` only needs that one language in each concept (`"bs": {…}` or `"en": {…}`) and in its quiz. In the Bosnian/Croatian program, Croatian words that differ are written in brackets: hljeb (kruh).
 
 ### Topic quiz (optional)
 

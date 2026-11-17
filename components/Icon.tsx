@@ -108,6 +108,18 @@ const paths: Record<string, React.ReactNode> = {
       <path d="M9 7V5a2 2 0 012-2h2a2 2 0 012 2v2M3 13h18" />
     </>
   ),
+  speech: (
+    <>
+      <path d="M4 5h11a2 2 0 012 2v6a2 2 0 01-2 2H9l-4 3v-3H4a2 2 0 01-2-2V7a2 2 0 012-2z" />
+      <path d="M19 9h1a2 2 0 012 2v5a2 2 0 01-2 2h-1v3l-4-3h-3" />
+    </>
+  ),
+  flag: (
+    <>
+      <path d="M5 21V4" />
+      <path d="M5 4h11l-2 4 2 4H5" />
+    </>
+  ),
   plus: <path d="M12 5v14M5 12h14" />,
   external: (
     <>

@@ -1,0 +1,221 @@
+{
+  "slug": "sounds-and-nouns",
+  "title": {
+    "en": "Sounds, standards and nouns",
+    "bs": "Glasovi, standardi i imenice"
+  },
+  "summary": {
+    "en": "The alphabet and the tricky sounds, ijekavian, Bosnian vs Croatian words, and noun gender and plural.",
+    "bs": "Abeceda i teški glasovi, ijekavica, bosanske i hrvatske riječi, te rod i množina imenica."
+  },
+  "concepts": [
+    {
+      "slug": "abeceda",
+      "term": "Abeceda i izgovor",
+      "local": "alphabet and pronunciation",
+      "minutes": 19,
+      "youtube": "Sx0oa42vs4o",
+      "youtubeQuery": "croatian alphabet pronunciation",
+      "related": [
+        "Č, ć, dž, đ",
+        "Ijekavica"
+      ],
+      "en": {
+        "one": "Bosnian and Croatian use the Latin alphabet of 30 letters, and every letter is always pronounced the same way.",
+        "explain": "'Write as you speak, read as you write' – there are no silent letters. Special letters: č, ć, dž, đ, š, ž and the pairs lj and nj, which count as single letters. 'j' sounds like English y (ja = 'ya'), 'c' is always 'ts' (centar), 'r' is rolled and can even be a vowel (prst – finger, Trst – Trieste). Stress is never on the last syllable.",
+        "example": "šuma (forest, 'shoo-ma'), žaba (frog, like the s in 'pleasure'), ljubav (love, 'lyoo-bav'), njegov (his, 'nyeh-gov').",
+        "why": "Once you know the letter sounds, you can read any word aloud correctly, even if you don't know what it means.",
+        "mixup": "Bosnian also uses Cyrillic officially, but Latin is standard in daily life. Croatian uses only Latin."
+      }
+    },
+    {
+      "slug": "c-c-dz-dj",
+      "term": "Č, ć, dž, đ",
+      "local": "the four 'ch/j' sounds",
+      "minutes": 8,
+      "youtube": "iEYk9EwlWW4",
+      "youtubeQuery": "č ć dž đ pronunciation croatian bosnian",
+      "related": [
+        "Abeceda i izgovor"
+      ],
+      "en": {
+        "one": "Four letters that confuse learners: č and ć (both like 'ch'), dž and đ (both like 'j').",
+        "explain": "č is hard, with the tongue pulled back: like 'ch' in 'church' (čaj – tea). ć is soft, with the tongue forward, closer to 'tj' (kuća – house). dž is hard, like 'j' in 'jungle' (džep – pocket). đ is soft (đak – pupil, rođendan – birthday). Many speakers in Bosnia blur them, but in writing they must be right.",
+        "example": "čovjek (man), noć (night), sreća (luck / happiness), džamija (mosque), međunarodni (international).",
+        "why": "They change meaning: 'kuća' is house, but a 'kuča' doesn't exist. Spelling mistakes here are very visible.",
+        "mixup": "Verb infinitives ending in -ći always use ć: ići, moći, doći, reći."
+      }
+    },
+    {
+      "slug": "ijekavica",
+      "term": "Ijekavica",
+      "local": "ijekavian standard",
+      "minutes": 5,
+      "youtube": "sQSgvOOwNk4",
+      "youtubeQuery": "ijekavica ekavica",
+      "related": [
+        "Bosanski i hrvatski",
+        "Abeceda i izgovor"
+      ],
+      "en": {
+        "one": "Bosnian and Croatian are 'ijekavian': an old vowel is pronounced 'ije' (long) or 'je' (short). Serbian mostly uses 'e' (ekavian).",
+        "explain": "Long: mlijeko (milk), lijep (beautiful), rijeka (river), vrijeme (time / weather). Short: mjesto (place), djeca (children), vjera (faith), sjesti (sit down). In some words it becomes 'i' or 'e': htio (wanted), vidjeti → vidio.",
+        "example": "Bosnian/Croatian 'lijepo mlijeko' vs. Serbian 'lepo mleko'. Both are understood everywhere in the region.",
+        "why": "Using ijekavian forms is part of writing correct Bosnian and Croatian.",
+        "mixup": "Not every 'e' becomes 'ije': 'selo' (village) and 'zemlja' (land) have a normal e. Learn ijekavian words as they come."
+      }
+    },
+    {
+      "slug": "bosanski-hrvatski",
+      "term": "Bosanski i hrvatski",
+      "local": "Bosnian and Croatian",
+      "minutes": 28,
+      "youtube": "2UyClADIrDo",
+      "youtubeQuery": "bosnian vs croatian differences",
+      "related": [
+        "Ijekavica",
+        "Pitanja"
+      ],
+      "en": {
+        "one": "Bosnian and Croatian share the same grammar. They differ in some words and a few habits. In this program the Croatian word is shown in brackets: hljeb (kruh).",
+        "explain": "Common word pairs: hljeb (kruh) – bread, sedmica (tjedan) – week, hiljada (tisuća) – thousand, voz (vlak) – train, historija (povijest) – history, porodica (obitelj) – family, kafa (kava) – coffee, šta (što) – what, ko (tko) – who, tačka (točka) – full stop, juli (srpanj) – July. Grammar habits: Bosnian often says 'da li' and 'trebam da idem', Croatian prefers 'je li' and 'trebam ići'.",
+        "example": "Bosnian: 'Šta radiš ove sedmice?' Croatian: 'Što radiš ovaj tjedan?' Both mean 'What are you doing this week?'",
+        "why": "You'll be understood everywhere with either form. Knowing both helps you read Croatian media and talk with people from both countries.",
+        "mixup": "Croatian also uses its own month names (siječanj, veljača…), while Bosnian uses januar, februar… Don't mix them in one text."
+      }
+    },
+    {
+      "slug": "rod-imenica",
+      "term": "Rod imenica",
+      "local": "noun gender",
+      "minutes": 16,
+      "youtube": "gIpVJ27Oc_w",
+      "youtubeQuery": "croatian noun gender",
+      "related": [
+        "Imenica",
+        "Pridjev",
+        "Slaganje pridjeva"
+      ],
+      "en": {
+        "one": "Every noun has a gender: muški (masculine), ženski (feminine) or srednji (neuter). Unlike German, you can usually see it from the ending.",
+        "explain": "Masculine: ends in a consonant (grad, sto (stol), prozor). Feminine: ends in -a (kuća, žena, knjiga), plus some in a consonant (noć, ljubav, stvar). Neuter: ends in -o or -e (selo, more, dijete, srce). Male people ending in -a are still masculine in meaning: tata, sudija (sudac).",
+        "example": "'nov grad', 'nova kuća', 'novo selo'. The adjective shows the gender too.",
+        "why": "Gender decides adjective endings, pronouns and the past tense (radio / radila / radilo).",
+        "mixup": "Feminine nouns ending in a consonant are a trap: 'ta noć' (that night), not 'taj noć'."
+      }
+    },
+    {
+      "slug": "mnozina",
+      "term": "Množina",
+      "local": "plural",
+      "minutes": 3,
+      "youtube": "4mXH7SMiTis",
+      "youtubeQuery": "croatian plural nouns",
+      "related": [
+        "Rod imenica",
+        "Brojevi i imenice"
+      ],
+      "en": {
+        "one": "The plural (množina) depends on the gender of the noun.",
+        "explain": "Masculine: add -i, and short one-syllable nouns often add -ovi/-evi: student → studenti, grad → gradovi, muž → muževi. Feminine in -a: change to -e: žena → žene, kuća → kuće. Neuter: -o/-e becomes -a: selo → sela, more → mora. Irregular: čovjek → ljudi (people), dijete → djeca (children), oko → oči (eyes), uho → uši (ears).",
+        "example": "'jedan prozor, dva prozora, mnogo prozora' – the ending also changes after numbers (topic 8).",
+        "why": "You'll need plural forms all the time, and the irregular ones are some of the most common words.",
+        "mixup": "'Djeca' is a special case: its adjectives look feminine singular ('mala djeca'), but the verb is plural ('Djeca su se igrala'). A famous exception."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "How is 'c' pronounced in 'centar'?"
+      },
+      "options": [
+        {
+          "en": "like k"
+        },
+        {
+          "en": "like ts"
+        },
+        {
+          "en": "like s"
+        },
+        {
+          "en": "like ch"
+        }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "'c' is always 'ts'."
+      }
+    },
+    {
+      "q": {
+        "en": "Which is the Croatian word for 'hljeb'?"
+      },
+      "options": [
+        {
+          "en": "kruh"
+        },
+        {
+          "en": "kafa"
+        },
+        {
+          "en": "voz"
+        },
+        {
+          "en": "tjedan"
+        }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "hljeb (kruh) = bread."
+      }
+    },
+    {
+      "q": {
+        "en": "What gender is 'noć'?"
+      },
+      "options": [
+        {
+          "en": "feminine"
+        },
+        {
+          "en": "masculine"
+        },
+        {
+          "en": "neuter"
+        },
+        {
+          "en": "it has none"
+        }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Some feminine nouns end in a consonant: ta noć."
+      }
+    },
+    {
+      "q": {
+        "en": "The plural of 'dijete' is:"
+      },
+      "options": [
+        {
+          "en": "dijeti"
+        },
+        {
+          "en": "dijeta"
+        },
+        {
+          "en": "djetevi"
+        },
+        {
+          "en": "djeca"
+        }
+      ],
+      "answer": 3,
+      "explain": {
+        "en": "dijete → djeca is irregular."
+      }
+    }
+  ]
+}

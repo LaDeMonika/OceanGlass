@@ -1,0 +1,287 @@
+{
+  "slug": "word-order",
+  "title": {
+    "en": "German word order",
+    "bs": "Njemački red riječi"
+  },
+  "summary": {
+    "en": "Verb second, questions, where 'nicht' goes, the sentence bracket, TeKaMoLo and the verb-at-the-end rule.",
+    "bs": "Glagol na drugom mjestu, pitanja, gdje ide 'nicht', rečenični okvir, TeKaMoLo i pravilo 'glagol na kraj'."
+  },
+  "concepts": [
+    {
+      "slug": "v2",
+      "term": "die Satzstellung (V2)",
+      "local": "glagol na drugom mjestu",
+      "minutes": 8,
+      "youtube": "jR4XeQxwGHQ",
+      "youtubeQuery": "German word order verb second position",
+      "related": [
+        "das Verb",
+        "die Satzklammer"
+      ],
+      "en": {
+        "one": "In a German statement the conjugated verb is always in position 2. Position 1 can be the subject, a time, a place or an object.",
+        "explain": "Position 1 is one 'block' (it can be several words: 'Am Montag', 'Mein kleiner Bruder'). If something other than the subject comes first, the subject moves to just after the verb. Words like und, aber, oder, denn at the start don't count as a position.",
+        "example": "'Ich gehe morgen ins Kino.' → 'Morgen gehe ich ins Kino.' → 'Ins Kino gehe ich morgen.' The verb 'gehe' stays second every time.",
+        "why": "This is the single most important rule of German sentences. Get it right and you sound far more fluent.",
+        "mixup": "'Morgen ich gehe ins Kino' is wrong (that's English order). After 'Morgen' the verb must come next."
+      },
+      "bs": {
+        "one": "U njemačkoj izjavnoj rečenici konjugirani glagol je uvijek na 2. mjestu. Na 1. mjestu može biti subjekat, vrijeme, mjesto ili objekat.",
+        "explain": "Prvo mjesto je jedan 'blok' (može biti više riječi: 'Am Montag', 'Mein kleiner Bruder'). Ako nešto drugo osim subjekta dođe prvo, subjekat ide odmah iza glagola. Riječi und, aber, oder, denn na početku se ne broje kao mjesto.",
+        "example": "'Ich gehe morgen ins Kino.' → 'Morgen gehe ich ins Kino.' → 'Ins Kino gehe ich morgen.' Glagol 'gehe' je svaki put drugi.",
+        "why": "Ovo je najvažnije pravilo njemačke rečenice. Kad ga pogodiš, zvučiš mnogo tečnije.",
+        "mixup": "'Morgen ich gehe ins Kino' je pogrešno. Iza 'Morgen' odmah mora doći glagol."
+      }
+    },
+    {
+      "slug": "fragen",
+      "term": "Questions",
+      "local": "pitanja",
+      "minutes": 5,
+      "youtube": "1dBD8P9cCrA",
+      "youtubeQuery": "German questions W-Fragen yes no questions",
+      "related": [
+        "die Satzstellung (V2)"
+      ],
+      "en": {
+        "one": "German has two types of questions: yes/no questions start with the verb; W-questions start with a question word, then the verb.",
+        "explain": "Yes/no: verb first → 'Kommst du morgen?' W-questions: W-word + verb + subject → 'Wann kommst du?' Question words: wer (who), was (what), wo (where), wohin (where to), woher (where from), wann (when), warum (why), wie (how), welcher (which), wie viel (how much).",
+        "example": "'Sprechen Sie Englisch?' 'Woher kommst du?' – 'Aus Sarajevo.' 'Wie viel kostet das?'",
+        "why": "No helper verb like English 'do' is needed. You just move the verb.",
+        "mixup": "'wo' is where (place), 'wer' is who. 'Wer bist du?' vs 'Wo bist du?' – easy to mix up for English speakers."
+      },
+      "bs": {
+        "one": "Njemački ima dvije vrste pitanja: da/ne pitanja počinju glagolom; W-pitanja počinju upitnom riječju, pa glagolom.",
+        "explain": "Da/ne: glagol prvi → 'Kommst du morgen?' W-pitanja: W-riječ + glagol + subjekat → 'Wann kommst du?' Upitne riječi: wer (ko), was (šta), wo (gdje), wohin (kuda), woher (odakle), wann (kada), warum (zašto), wie (kako), welcher (koji), wie viel (koliko).",
+        "example": "'Sprechen Sie Englisch?' 'Woher kommst du?' – 'Aus Sarajevo.' 'Wie viel kostet das?'",
+        "why": "Ne treba pomoćni glagol kao englesko 'do' ni 'da li'. Samo pomjeriš glagol.",
+        "mixup": "'wo' je gdje, 'wer' je ko. 'Wer bist du?' (Ko si?) i 'Wo bist du?' (Gdje si?)."
+      }
+    },
+    {
+      "slug": "nicht",
+      "term": "nicht",
+      "local": "ne (negacija)",
+      "minutes": 8,
+      "youtube": "09HKlpu8Uyc",
+      "youtubeQuery": "German negation nicht position",
+      "related": [
+        "kein (negative article)",
+        "die Satzstellung (V2)"
+      ],
+      "en": {
+        "one": "'nicht' negates verbs, adjectives, adverbs and nouns with der/die/das. Its position follows a few clear rules.",
+        "explain": "To negate the whole sentence, 'nicht' goes near the end, after the object and time words: 'Ich kenne den Mann nicht.' But it goes BEFORE adjectives, places, prepositional phrases and the second verb part: 'Das ist nicht gut.' 'Ich wohne nicht in Berlin.' 'Ich kann nicht kommen.' To negate one specific word, put nicht right before it.",
+        "example": "'Ich komme heute nicht.' 'Er ist nicht müde.' 'Wir fahren nicht mit dem Auto, sondern mit dem Zug.'",
+        "why": "Negation is basic, and German's 'nicht' position is different from both English and Bosnian.",
+        "mixup": "Use 'kein' for nouns with ein or no article ('Ich habe kein Auto'), and 'nicht' for everything else."
+      },
+      "bs": {
+        "one": "'nicht' negira glagole, pridjeve, priloge i imenice s der/die/das. Njegovo mjesto prati nekoliko jasnih pravila.",
+        "explain": "Da negiraš cijelu rečenicu, 'nicht' ide pri kraju, iza objekta i riječi za vrijeme: 'Ich kenne den Mann nicht.' Ali ide ISPRED pridjeva, mjesta, prijedložnih izraza i drugog dijela glagola: 'Das ist nicht gut.' 'Ich wohne nicht in Berlin.' 'Ich kann nicht kommen.' Da negiraš jednu riječ, stavi nicht ispred nje.",
+        "example": "'Ich komme heute nicht.' 'Er ist nicht müde.' 'Wir fahren nicht mit dem Auto, sondern mit dem Zug.'",
+        "why": "Negacija je osnova, a mjesto riječi 'nicht' je drugačije i od engleskog i od bosanskog ('ne' ispred glagola).",
+        "mixup": "Koristi 'kein' za imenice s ein ili bez člana ('Ich habe kein Auto'), a 'nicht' za sve ostalo."
+      }
+    },
+    {
+      "slug": "satzklammer",
+      "term": "die Satzklammer",
+      "local": "rečenični okvir",
+      "minutes": 6,
+      "youtube": "95vcKWp1M6A",
+      "youtubeQuery": "German sentence bracket satzklammer",
+      "related": [
+        "Modal verbs",
+        "Separable verbs",
+        "das Perfekt mit haben"
+      ],
+      "en": {
+        "one": "When a verb has two parts, German puts the first part in position 2 and the second part at the very END. The rest of the sentence sits inside this 'bracket'.",
+        "explain": "It happens with modal verbs (Ich will heute Abend Pizza essen), separable verbs (Ich rufe dich morgen an), the Perfekt (Ich habe gestern Pizza gegessen) and the future (Ich werde morgen arbeiten). Everything else goes between the two parts.",
+        "example": "'Wir müssen am Samstag unsere Wohnung putzen.' – müssen … putzen. 'Der Zug kommt um 9 Uhr an.' – kommt … an.",
+        "why": "The bracket is why Germans sometimes say you must 'wait for the verb'. Once you expect it, long sentences get easier.",
+        "mixup": "Don't put the second part right after the first: 'Ich habe gegessen Pizza' is wrong. The participle goes last."
+      },
+      "bs": {
+        "one": "Kad glagol ima dva dijela, njemački stavlja prvi dio na 2. mjesto, a drugi dio na sam KRAJ. Ostatak rečenice stoji unutar tog 'okvira'.",
+        "explain": "Dešava se s modalnim glagolima (Ich will heute Abend Pizza essen), odvojivim glagolima (Ich rufe dich morgen an), perfektom (Ich habe gestern Pizza gegessen) i budućnošću (Ich werde morgen arbeiten). Sve ostalo ide između dva dijela.",
+        "example": "'Wir müssen am Samstag unsere Wohnung putzen.' – müssen … putzen. 'Der Zug kommt um 9 Uhr an.' – kommt … an.",
+        "why": "Zbog okvira se kaže da u njemačkom 'čekaš glagol'. Kad ga očekuješ, duge rečenice postaju lakše.",
+        "mixup": "Ne stavljaj drugi dio odmah iza prvog: 'Ich habe gegessen Pizza' je pogrešno. Particip ide zadnji."
+      }
+    },
+    {
+      "slug": "tekamolo",
+      "term": "TeKaMoLo",
+      "local": "red: vrijeme, razlog, način, mjesto",
+      "minutes": 11,
+      "youtube": "_DrHA0dLsyk",
+      "youtubeQuery": "TeKaMoLo German word order",
+      "related": [
+        "die Satzstellung (V2)",
+        "das Adverb"
+      ],
+      "en": {
+        "one": "TeKaMoLo is a memory trick for the order of extra information in the middle of a sentence: Temporal (when), Kausal (why), Modal (how), Lokal (where).",
+        "explain": "'Ich fahre morgen (Te) wegen der Arbeit (Ka) mit dem Zug (Mo) nach München (Lo).' You don't need all four, but the ones you use usually come in this order. It's a strong tendency, not an unbreakable law, and any one of them can move to position 1.",
+        "example": "'Wir gehen heute Abend zu Fuß ins Restaurant.' (Te – Mo – Lo)",
+        "why": "English usually puts place before time ('I'm going to Munich tomorrow'). German does the opposite, and TeKaMoLo helps you remember it.",
+        "mixup": "'Ich gehe ins Kino heute' sounds wrong. Time comes before place: 'Ich gehe heute ins Kino.'"
+      },
+      "bs": {
+        "one": "TeKaMoLo je trik za pamćenje reda dodatnih informacija u sredini rečenice: Temporal (kada), Kausal (zašto), Modal (kako), Lokal (gdje).",
+        "explain": "'Ich fahre morgen (Te) wegen der Arbeit (Ka) mit dem Zug (Mo) nach München (Lo).' Ne trebaju ti sva četiri, ali oni koje koristiš obično idu ovim redom. To je jaka tendencija, ne strogi zakon, i bilo koji može ići na 1. mjesto.",
+        "example": "'Wir gehen heute Abend zu Fuß ins Restaurant.' (Te – Mo – Lo)",
+        "why": "Engleski obično stavlja mjesto prije vremena. Njemački radi obrnuto, a TeKaMoLo ti pomaže to zapamtiti.",
+        "mixup": "'Ich gehe ins Kino heute' zvuči pogrešno. Vrijeme ide prije mjesta: 'Ich gehe heute ins Kino.'"
+      }
+    },
+    {
+      "slug": "nebensatz",
+      "term": "der Nebensatz",
+      "local": "zavisna rečenica",
+      "minutes": 9,
+      "youtube": "d9NvGXY2ASE",
+      "youtubeQuery": "German subordinate clauses weil dass verb at the end",
+      "related": [
+        "die Konjunktion",
+        "die Satzstellung (V2)"
+      ],
+      "en": {
+        "one": "A Nebensatz (subordinate clause) starts with a word like weil, dass, wenn, ob, als, obwohl, and its conjugated verb goes to the very END.",
+        "explain": "Main clause + comma + conjunction + … + verb. 'Ich bleibe zu Hause, weil ich krank bin.' With two verbs, the conjugated one is last: '…, weil ich arbeiten muss.' If the Nebensatz comes first, it takes position 1 and the main clause starts with the verb: 'Wenn es regnet, bleibe ich zu Hause.'",
+        "example": "'Ich weiß, dass du recht hast.' 'Ich weiß nicht, ob er kommt.' 'Als ich klein war, wohnte ich in Mostar.'",
+        "why": "This is the step from simple A1 sentences to B1: giving reasons, conditions and opinions.",
+        "mixup": "Always put a comma before weil, dass, wenn, ob. German punctuation requires it."
+      },
+      "bs": {
+        "one": "Nebensatz (zavisna rečenica) počinje riječju kao weil, dass, wenn, ob, als, obwohl, a njen konjugirani glagol ide na sam KRAJ.",
+        "explain": "Glavna rečenica + zarez + veznik + … + glagol. 'Ich bleibe zu Hause, weil ich krank bin.' S dva glagola, konjugirani je zadnji: '…, weil ich arbeiten muss.' Ako zavisna rečenica ide prva, ona zauzima 1. mjesto, a glavna počinje glagolom: 'Wenn es regnet, bleibe ich zu Hause.'",
+        "example": "'Ich weiß, dass du recht hast.' 'Ich weiß nicht, ob er kommt.' 'Als ich klein war, wohnte ich in Mostar.'",
+        "why": "Ovo je korak od jednostavnih A1 rečenica do B1: davanje razloga, uslova i mišljenja.",
+        "mixup": "Uvijek stavi zarez ispred weil, dass, wenn, ob. Njemački pravopis to traži."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "Which is correct?",
+        "bs": "Šta je tačno?"
+      },
+      "options": [
+        {
+          "en": "Heute ich arbeite lange.",
+          "bs": "Heute ich arbeite lange."
+        },
+        {
+          "en": "Heute arbeite ich lange.",
+          "bs": "Heute arbeite ich lange."
+        },
+        {
+          "en": "Heute lange ich arbeite.",
+          "bs": "Heute lange ich arbeite."
+        },
+        {
+          "en": "Ich heute arbeite lange.",
+          "bs": "Ich heute arbeite lange."
+        }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "The verb must be in position 2.",
+        "bs": "Glagol mora biti na 2. mjestu."
+      }
+    },
+    {
+      "q": {
+        "en": "Which is correct?",
+        "bs": "Šta je tačno?"
+      },
+      "options": [
+        {
+          "en": "Ich kann heute kommen nicht.",
+          "bs": "Ich kann heute kommen nicht."
+        },
+        {
+          "en": "Ich kann nicht heute kommen nicht.",
+          "bs": "Ich kann nicht heute kommen nicht."
+        },
+        {
+          "en": "Ich kann heute nicht kommen.",
+          "bs": "Ich kann heute nicht kommen."
+        },
+        {
+          "en": "Ich nicht kann heute kommen.",
+          "bs": "Ich nicht kann heute kommen."
+        }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "nicht goes before the infinitive at the end.",
+        "bs": "nicht ide ispred infinitiva na kraju."
+      }
+    },
+    {
+      "q": {
+        "en": "'Ich lerne Deutsch, weil ich in Wien ___.'",
+        "bs": "'Ich lerne Deutsch, weil ich in Wien ___.'"
+      },
+      "options": [
+        {
+          "en": "will arbeiten",
+          "bs": "will arbeiten"
+        },
+        {
+          "en": "arbeiten will",
+          "bs": "arbeiten will"
+        },
+        {
+          "en": "arbeite will",
+          "bs": "arbeite will"
+        },
+        {
+          "en": "will arbeite",
+          "bs": "will arbeite"
+        }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "In a weil-clause the conjugated verb goes last: arbeiten will.",
+        "bs": "U weil-rečenici konjugirani glagol ide zadnji: arbeiten will."
+      }
+    },
+    {
+      "q": {
+        "en": "Which order follows TeKaMoLo?",
+        "bs": "Koji red prati TeKaMoLo?"
+      },
+      "options": [
+        {
+          "en": "Ich fahre nach Graz morgen mit dem Auto.",
+          "bs": "Ich fahre nach Graz morgen mit dem Auto."
+        },
+        {
+          "en": "Ich fahre morgen mit dem Auto nach Graz.",
+          "bs": "Ich fahre morgen mit dem Auto nach Graz."
+        },
+        {
+          "en": "Ich fahre mit dem Auto nach Graz morgen.",
+          "bs": "Ich fahre mit dem Auto nach Graz morgen."
+        },
+        {
+          "en": "Ich fahre nach Graz mit dem Auto morgen.",
+          "bs": "Ich fahre nach Graz mit dem Auto morgen."
+        }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Time, then manner, then place.",
+        "bs": "Vrijeme, pa način, pa mjesto."
+      }
+    }
+  ]
+}
