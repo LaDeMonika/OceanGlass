@@ -53,6 +53,26 @@ A program without a folder shows as "Coming soon". To add one, create the folder
 
 `youtube` can hold a video ID. Videos picked on the Admin page take priority over it.
 
+### Topic quiz (optional)
+
+Add a `quiz` array to a topic file, next to `concepts`. The quiz then appears after the last concept card. Each answer gets instant right or wrong feedback with the explanation. The best score is saved for `msimic` but never for `guest`.
+
+```json
+"quiz": [
+  {
+    "q": { "en": "What is equity?", "bs": "Šta je kapital?" },
+    "options": [
+      { "en": "Cash in the bank", "bs": "Novac na računu" },
+      { "en": "Assets minus liabilities", "bs": "Imovina minus obaveze" }
+    ],
+    "answer": 1,
+    "explain": { "en": "Equity is what's left after debts.", "bs": "Kapital je ono što ostane nakon dugova." }
+  }
+]
+```
+
+`answer` is the position of the right option, counting from 0. A question with fewer than 2 options or an invalid `answer` is skipped, with a warning in the logs. Topics without `quiz` work as before.
+
 ## Run locally
 
 ```bash

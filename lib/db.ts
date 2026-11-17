@@ -50,6 +50,15 @@ function open(): Database.Database {
       updated_at TEXT NOT NULL DEFAULT (datetime('now')),
       PRIMARY KEY (user_id, concept_id)
     );
+    CREATE TABLE IF NOT EXISTS quiz_scores (
+      user_id INTEGER NOT NULL REFERENCES users(id) ON DELETE CASCADE,
+      topic_id TEXT NOT NULL,
+      best INTEGER NOT NULL,
+      total INTEGER NOT NULL,
+      attempts INTEGER NOT NULL DEFAULT 1,
+      updated_at TEXT NOT NULL DEFAULT (datetime('now')),
+      PRIMARY KEY (user_id, topic_id)
+    );
     CREATE TABLE IF NOT EXISTS videos (
       concept_id TEXT PRIMARY KEY,
       youtube_id TEXT NOT NULL,
