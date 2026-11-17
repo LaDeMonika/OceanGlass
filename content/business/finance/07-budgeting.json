@@ -99,5 +99,71 @@
         "mixup": "Loše odstupanje nije uvijek greška. Potrošiti više na nešto što radi može biti prava odluka."
       }
     }
+  ],
+  "quiz": [
+    {
+      "q": { "en": "Which cost is usually fixed?", "bs": "Koji trošak je obično fiksan?" },
+      "options": [
+        { "en": "Delivery packaging", "bs": "Ambalaža za dostavu" },
+        { "en": "Ingredients for each pizza", "bs": "Sastojci za svaku picu" },
+        { "en": "Monthly rent", "bs": "Mjesečna kirija" }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "Rent stays the same no matter how much you sell. Ingredients and packaging grow with sales.",
+        "bs": "Kirija ostaje ista koliko god prodaš. Sastojci i ambalaža rastu s prodajom."
+      }
+    },
+    {
+      "q": {
+        "en": "You budgeted €2,000 for marketing and spent €2,600. What is the variance?",
+        "bs": "Za marketing si planirao 2.000 €, a potrošio 2.600 €. Kolika je varijansa?"
+      },
+      "options": [
+        { "en": "€2,600", "bs": "2.600 €" },
+        { "en": "€600 favourable", "bs": "600 € povoljno" },
+        { "en": "€600 unfavourable", "bs": "600 € nepovoljno" }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "You spent €600 more than planned on a cost, so the variance is unfavourable.",
+        "bs": "Na trošak si potrošio 600 € više od plana, pa je varijansa nepovoljna."
+      }
+    },
+    {
+      "q": {
+        "en": "What is the difference between a budget and a forecast?",
+        "bs": "Koja je razlika između budžeta i prognoze?"
+      },
+      "options": [
+        {
+          "en": "A budget is the plan; a forecast is the updated best guess of what will happen",
+          "bs": "Budžet je plan; prognoza je ažurirana najbolja procjena onoga što će se desiti"
+        },
+        { "en": "A forecast is only for big companies", "bs": "Prognoza je samo za velike firme" },
+        { "en": "They are the same thing", "bs": "To je isto" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "The budget is set in advance as a target. Forecasts are updated during the year as reality changes.",
+        "bs": "Budžet se postavi unaprijed kao cilj. Prognoze se ažuriraju tokom godine kako se stvarnost mijenja."
+      }
+    },
+    {
+      "q": { "en": "Why does a budget help?", "bs": "Zašto budžet pomaže?" },
+      "options": [
+        { "en": "It guarantees profit", "bs": "Garantuje dobit" },
+        { "en": "It replaces accounting", "bs": "Zamjenjuje računovodstvo" },
+        {
+          "en": "It turns goals into numbers and sets limits before money is spent",
+          "bs": "Pretvara ciljeve u brojeve i postavlja granice prije trošenja"
+        }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "A budget is a plan to compare against; it does not guarantee results.",
+        "bs": "Budžet je plan s kojim se porediš; ne garantuje rezultate."
+      }
+    }
   ]
 }

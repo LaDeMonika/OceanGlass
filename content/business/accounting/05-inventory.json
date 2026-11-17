@@ -152,5 +152,67 @@
         "mixup": "Ne postoji jedan 'dobar' broj. Pekara obrne zalihe svaki dan; salon namještaja možda 4 puta godišnje."
       }
     }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "Start stock €4,000, purchases €16,000, end stock €5,000. What is COGS?",
+        "bs": "Početne zalihe 4.000 €, nabavke 16.000 €, krajnje zalihe 5.000 €. Koliki je COGS?"
+      },
+      "options": [
+        { "en": "€20,000", "bs": "20.000 €" },
+        { "en": "€25,000", "bs": "25.000 €" },
+        { "en": "€15,000", "bs": "15.000 €" }
+      ],
+      "answer": 2,
+      "explain": { "en": "4,000 + 16,000 − 5,000 = €15,000.", "bs": "4.000 + 16.000 − 5.000 = 15.000 €." }
+    },
+    {
+      "q": { "en": "Inventory is valued in the books at…", "bs": "Zalihe se u knjigama vrednuju po…" },
+      "options": [
+        { "en": "the price you hope to sell for", "bs": "cijeni po kojoj se nadaš prodati" },
+        {
+          "en": "what it cost you (or less if it can only sell below cost)",
+          "bs": "onome što su te koštale (ili manje ako se mogu prodati samo ispod toga)"
+        }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Stock is held at cost, and written down if it can only be sold for less.",
+        "bs": "Zalihe se drže po nabavnoj vrijednosti i smanjuju ako se mogu prodati samo jeftinije."
+      }
+    },
+    {
+      "q": {
+        "en": "COGS €90,000, average stock €15,000. What is inventory turnover?",
+        "bs": "COGS 90.000 €, prosječne zalihe 15.000 €. Koliki je obrt zaliha?"
+      },
+      "options": [
+        { "en": "0.17", "bs": "0,17" },
+        { "en": "6 times a year", "bs": "6 puta godišnje" },
+        { "en": "15 times a year", "bs": "15 puta godišnje" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "90,000 ÷ 15,000 = 6. Stock sells through about every 61 days.",
+        "bs": "90.000 ÷ 15.000 = 6. Roba se proda otprilike svakih 61 dan."
+      }
+    },
+    {
+      "q": {
+        "en": "Prices rise during the year. Which method shows lower COGS and higher profit?",
+        "bs": "Cijene rastu tokom godine. Koji metod pokazuje manji COGS i veću dobit?"
+      },
+      "options": [
+        { "en": "Average cost", "bs": "Prosječna cijena" },
+        { "en": "FIFO", "bs": "FIFO" },
+        { "en": "They are always equal", "bs": "Uvijek su jednaki" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "FIFO treats the older, cheaper units as sold first.",
+        "bs": "FIFO smatra da su stariji, jeftiniji komadi prodani prvi."
+      }
+    }
   ]
 }

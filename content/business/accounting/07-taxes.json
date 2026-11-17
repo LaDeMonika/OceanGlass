@@ -121,5 +121,71 @@
         "mixup": "Ulazni PDV možeš odbiti samo uz ispravnu fakturu dobavljača koji je u sistemu PDV-a. Bez ispravne fakture PDV je samo trošak."
       }
     }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "Output VAT this month is €4,000 and input VAT is €1,500. What do you pay the state?",
+        "bs": "Izlazni PDV ovaj mjesec je 4.000 €, a ulazni 1.500 €. Koliko plaćaš državi?"
+      },
+      "options": [
+        { "en": "€2,500", "bs": "2.500 €" },
+        { "en": "€5,500", "bs": "5.500 €" },
+        { "en": "€4,000", "bs": "4.000 €" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "You pay the difference: 4,000 − 1,500 = €2,500.",
+        "bs": "Plaćaš razliku: 4.000 − 1.500 = 2.500 €."
+      }
+    },
+    {
+      "q": { "en": "Profit tax is calculated on…", "bs": "Porez na dobit se računa na…" },
+      "options": [
+        { "en": "taxable profit", "bs": "oporezivu dobit" },
+        { "en": "revenue", "bs": "prihod" },
+        { "en": "cash in the bank", "bs": "novac u banci" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "It is a tax on profit after accepted costs, not on sales.",
+        "bs": "To je porez na dobit nakon priznatih troškova, a ne na prodaju."
+      }
+    },
+    {
+      "q": {
+        "en": "An offer says '€1,500 gross'. What will the worker receive?",
+        "bs": "Ponuda kaže '1.500 € bruto'. Šta će radnik dobiti?"
+      },
+      "options": [
+        {
+          "en": "Less than €1,500, after contributions and tax",
+          "bs": "Manje od 1.500 €, nakon doprinosa i poreza"
+        },
+        { "en": "Exactly €1,500", "bs": "Tačno 1.500 €" },
+        { "en": "More than €1,500", "bs": "Više od 1.500 €" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Gross is before deductions; net is what lands in the account.",
+        "bs": "Bruto je prije odbitaka; neto je ono što stigne na račun."
+      }
+    },
+    {
+      "q": {
+        "en": "A deductible cost of €1,000 at a 10% profit tax rate really costs you…",
+        "bs": "Priznati trošak od 1.000 € uz porez na dobit od 10% te stvarno košta…"
+      },
+      "options": [
+        { "en": "€0", "bs": "0 €" },
+        { "en": "€1,100", "bs": "1.100 €" },
+        { "en": "€900", "bs": "900 €" }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "It lowers your tax by €100, so the cost after tax is €900.",
+        "bs": "Smanji ti porez za 100 €, pa je trošak nakon poreza 900 €."
+      }
+    }
   ]
 }

@@ -171,5 +171,65 @@
         "mixup": "Negativan ciklus je moguć i odličan. Supermarketi često dobiju novac od kupaca prije nego što plate dobavljače."
       }
     }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "Stock sits 30 days, customers pay in 45 days, you pay suppliers in 25 days. What is the cash conversion cycle?",
+        "bs": "Roba stoji 30 dana, kupci plaćaju za 45, ti dobavljačima za 25. Koliki je ciklus konverzije gotovine?"
+      },
+      "options": [
+        { "en": "50 days", "bs": "50 dana" },
+        { "en": "100 days", "bs": "100 dana" },
+        { "en": "40 days", "bs": "40 dana" }
+      ],
+      "answer": 0,
+      "explain": { "en": "30 + 45 − 25 = 50 days of cash tied up.", "bs": "30 + 45 − 25 = 50 dana zarobljenog novca." }
+    },
+    {
+      "q": { "en": "Which is an asset?", "bs": "Šta je imovina?" },
+      "options": [
+        { "en": "Accounts payable", "bs": "Obaveze prema dobavljačima" },
+        { "en": "Deferred revenue", "bs": "Odgođeni prihod" },
+        { "en": "Accounts receivable", "bs": "Potraživanja od kupaca" }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "Receivables are money owed to you. Payables and deferred revenue are things you owe.",
+        "bs": "Potraživanja su novac koji tebi duguju. Obaveze i odgođeni prihod su ono što ti duguješ."
+      }
+    },
+    {
+      "q": {
+        "en": "Two firms own the same total assets. Firm A holds more cash; Firm B holds more stock. Which is more liquid?",
+        "bs": "Dvije firme imaju istu ukupnu imovinu. Firma A drži više novca, a firma B više robe. Koja je likvidnija?"
+      },
+      "options": [
+        { "en": "Firm A", "bs": "Firma A" },
+        { "en": "Firm B", "bs": "Firma B" },
+        { "en": "They are equally liquid", "bs": "Jednako su likvidne" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Cash can pay bills right away; stock must be sold first.",
+        "bs": "Novcem se računi mogu platiti odmah; roba se prvo mora prodati."
+      }
+    },
+    {
+      "q": {
+        "en": "A customer who owes you €2,000 goes bankrupt. What do you do in the books?",
+        "bs": "Kupac koji ti duguje 2.000 € bankrotira. Šta radiš u knjigama?"
+      },
+      "options": [
+        { "en": "Write it off as a bad debt cost", "bs": "Otpišeš ga kao trošak nenaplativog potraživanja" },
+        { "en": "Record it as revenue again", "bs": "Ponovo ga zabilježiš kao prihod" },
+        { "en": "Keep it as a receivable", "bs": "Zadržiš ga kao potraživanje" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "A receivable you will not collect is no longer an asset; it becomes a cost.",
+        "bs": "Potraživanje koje nećeš naplatiti više nije imovina; postaje trošak."
+      }
+    }
   ]
 }

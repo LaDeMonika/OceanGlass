@@ -121,5 +121,78 @@
         "mixup": "Indeksni fond i dalje pada kad padne cijelo tržište. Štiti te od propasti jedne firme, ne od loše godine za sve."
       }
     }
+  ],
+  "quiz": [
+    {
+      "q": { "en": "What do you own when you buy a bond?", "bs": "Šta posjeduješ kad kupiš obveznicu?" },
+      "options": [
+        { "en": "A small piece of a company", "bs": "Mali dio firme" },
+        { "en": "A share of the profits forever", "bs": "Udio u dobiti zauvijek" },
+        { "en": "A loan you gave to a company or government", "bs": "Kredit koji si dao firmi ili državi" }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "A bond is a loan: you get interest and your money back at the end. A stock is ownership.",
+        "bs": "Obveznica je kredit: dobijaš kamatu i novac nazad na kraju. Dionica je vlasništvo."
+      }
+    },
+    {
+      "q": {
+        "en": "Someone promises 30% a year with no risk. What is the most likely truth?",
+        "bs": "Neko obećava 30% godišnje bez rizika. Šta je najvjerovatnije istina?"
+      },
+      "options": [
+        { "en": "It is a great deal", "bs": "To je odlična prilika" },
+        { "en": "It is normal for index funds", "bs": "To je normalno za indeksne fondove" },
+        { "en": "It is almost certainly a scam", "bs": "To je skoro sigurno prevara" }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "Higher return always comes with higher risk. 'High return, no risk' does not exist.",
+        "bs": "Veći prinos uvijek dolazi s većim rizikom. 'Visok prinos bez rizika' ne postoji."
+      }
+    },
+    {
+      "q": { "en": "Which portfolio is best diversified?", "bs": "Koji portfolio je najbolje diverzifikovan?" },
+      "options": [
+        {
+          "en": "A world index fund with thousands of companies",
+          "bs": "Svjetski indeksni fond s hiljadama firmi"
+        },
+        { "en": "10 stocks from the same industry", "bs": "10 dionica iz iste industrije" },
+        { "en": "All money in one strong company", "bs": "Sav novac u jednoj jakoj firmi" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Spreading money over many different companies and countries lowers the damage of any one failing.",
+        "bs": "Raspodjela novca na mnogo različitih firmi i država smanjuje štetu ako jedna propadne."
+      }
+    },
+    {
+      "q": {
+        "en": "You own 200 shares and the company pays a €1.50 dividend per share. How much do you receive?",
+        "bs": "Imaš 200 dionica, a firma isplati dividendu od 1,50 € po dionici. Koliko dobiješ?"
+      },
+      "options": [
+        { "en": "€300", "bs": "300 €" },
+        { "en": "€1.50", "bs": "1,50 €" },
+        { "en": "€150", "bs": "150 €" }
+      ],
+      "answer": 0,
+      "explain": { "en": "200 × €1.50 = €300.", "bs": "200 × 1,50 € = 300 €." }
+    },
+    {
+      "q": { "en": "What does an index fund NOT protect you from?", "bs": "Od čega te indeksni fond NE štiti?" },
+      "options": [
+        { "en": "A bad year for the whole market", "bs": "Loše godine za cijelo tržište" },
+        { "en": "High fees from active stock picking", "bs": "Visokih naknada aktivnog biranja dionica" },
+        { "en": "One company going bankrupt", "bs": "Bankrota jedne firme" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "An index fund spreads risk across many companies, but if the whole market falls, it falls too.",
+        "bs": "Indeksni fond raspoređuje rizik na mnogo firmi, ali ako padne cijelo tržište, pada i on."
+      }
+    }
   ]
 }

@@ -144,5 +144,69 @@
         "mixup": "Uravnotežen bruto bilans ne dokazuje da su knjige tačne. 100 € na pogrešnom kontu je i dalje u ravnoteži."
       }
     }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "A customer pays you €500 into the bank. Which entry is right?",
+        "bs": "Kupac ti uplati 500 € na račun. Koje knjiženje je tačno?"
+      },
+      "options": [
+        { "en": "Debit bank, credit sales", "bs": "Duguje banka, potražuje prodaja" },
+        { "en": "Debit sales, credit bank", "bs": "Duguje prodaja, potražuje banka" },
+        { "en": "Debit bank, debit sales", "bs": "Duguje banka, duguje prodaja" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "The bank (an asset) goes up: debit. Sales (income) go up: credit.",
+        "bs": "Banka (imovina) raste: duguje. Prodaja (prihod) raste: potražuje."
+      }
+    },
+    {
+      "q": { "en": "Which side increases a cost account?", "bs": "Koja strana povećava konto troška?" },
+      "options": [
+        { "en": "Credit (right)", "bs": "Potražuje (desno)" },
+        { "en": "Debit (left)", "bs": "Duguje (lijevo)" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Assets and costs increase on the debit side.",
+        "bs": "Imovina i troškovi rastu na strani duguje."
+      }
+    },
+    {
+      "q": {
+        "en": "Total debits and credits in the trial balance match. Does that prove the books are correct?",
+        "bs": "Ukupno duguje i potražuje u bruto bilansu se slažu. Da li to dokazuje da su knjige tačne?"
+      },
+      "options": [
+        {
+          "en": "No, an amount in the wrong account still balances",
+          "bs": "Ne, iznos na pogrešnom kontu je i dalje u ravnoteži"
+        },
+        { "en": "Yes, always", "bs": "Da, uvijek" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "The trial balance only checks that both sides are equal, not that each entry is in the right place.",
+        "bs": "Bruto bilans provjerava samo da su obje strane jednake, a ne da je svako knjiženje na pravom mjestu."
+      }
+    },
+    {
+      "q": {
+        "en": "Where do you look to see the total balance of the 'Fuel' account?",
+        "bs": "Gdje gledaš ukupno stanje konta 'Gorivo'?"
+      },
+      "options": [
+        { "en": "The journal", "bs": "Dnevnik" },
+        { "en": "The invoice", "bs": "Faktura" },
+        { "en": "The general ledger", "bs": "Glavna knjiga" }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "The journal lists events by date; the ledger groups them by account with a balance.",
+        "bs": "Dnevnik nabraja događaje po datumu; glavna knjiga ih grupiše po kontima sa saldom."
+      }
+    }
   ]
 }

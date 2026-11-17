@@ -144,5 +144,69 @@
         "mixup": "Odgođeni prihod je obaveza, ne dobit. Ako ga sav rano potrošiš, može ti ponestati novca da isporučiš obećano."
       }
     }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "You finish a job in December; the client pays in January. Under accrual accounting, when is the revenue?",
+        "bs": "Završiš posao u decembru, klijent plati u januaru. Po obračunskom načelu, kada je prihod?"
+      },
+      "options": [
+        { "en": "January", "bs": "Januar" },
+        { "en": "December", "bs": "Decembar" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Accrual records revenue when it is earned, not when cash arrives.",
+        "bs": "Obračunsko načelo bilježi prihod kad je zarađen, a ne kad novac stigne."
+      }
+    },
+    {
+      "q": {
+        "en": "A gym sells a 12-month membership for €240 in January. How much revenue does it recognize in January?",
+        "bs": "Teretana u januaru proda godišnju članarinu za 240 €. Koliko prihoda priznaje u januaru?"
+      },
+      "options": [
+        { "en": "€20", "bs": "20 €" },
+        { "en": "€0", "bs": "0 €" },
+        { "en": "€240", "bs": "240 €" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Revenue is spread over the months the service is delivered: 240 ÷ 12 = €20.",
+        "bs": "Prihod se raspoređuje na mjesece u kojima se usluga pruža: 240 ÷ 12 = 20 €."
+      }
+    },
+    {
+      "q": {
+        "en": "Money a customer paid in advance, before you delivered, is…",
+        "bs": "Novac koji je kupac platio unaprijed, prije isporuke, je…"
+      },
+      "options": [
+        { "en": "profit", "bs": "dobit" },
+        { "en": "deferred revenue, a liability", "bs": "odgođeni prihod, obaveza" },
+        { "en": "an expense", "bs": "trošak" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Until you deliver, you owe the customer the service, so it is a liability.",
+        "bs": "Dok ne isporučiš, duguješ kupcu uslugu, pa je to obaveza."
+      }
+    },
+    {
+      "q": {
+        "en": "Staff worked the last week of March but are paid on 5 April. In which month is the wage cost?",
+        "bs": "Radnici su radili zadnju sedmicu marta, a plaćeni su 5. aprila. U kojem mjesecu je trošak plate?"
+      },
+      "options": [
+        { "en": "April, when paid", "bs": "April, kad je plaćeno" },
+        { "en": "March, as an accrued expense", "bs": "Mart, kao obračunati trošak" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "The matching principle puts the cost in the month the work was done.",
+        "bs": "Načelo uzročnosti stavlja trošak u mjesec kad je posao urađen."
+      }
+    }
   ]
 }

@@ -144,5 +144,76 @@
         "mixup": "Standardi nisu poreski zakon. Računovodstvena dobit po MSFI i oporeziva dobit su često različiti brojevi."
       }
     }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "Your books show €8,000 cash, the bank shows €7,950. A €50 bank fee was not recorded. What is this check called?",
+        "bs": "Knjige pokazuju 8.000 €, banka 7.950 €. Naknada banke od 50 € nije proknjižena. Kako se zove ova provjera?"
+      },
+      "options": [
+        { "en": "Bank reconciliation", "bs": "Usklađivanje s bankom" },
+        { "en": "Trial balance", "bs": "Bruto bilans" },
+        { "en": "Audit", "bs": "Revizija" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "A bank reconciliation explains each difference between the books and the bank.",
+        "bs": "Usklađivanje s bankom objašnjava svaku razliku između knjiga i banke."
+      }
+    },
+    {
+      "q": { "en": "Which is a good internal control?", "bs": "Šta je dobra interna kontrola?" },
+      "options": [
+        {
+          "en": "One person approves and sends all payments",
+          "bs": "Jedna osoba odobrava i šalje sva plaćanja"
+        },
+        {
+          "en": "The person who approves payments is not the one who sends them",
+          "bs": "Osoba koja odobrava plaćanja nije ista koja ih šalje"
+        }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Splitting duties makes errors and fraud much harder.",
+        "bs": "Podjela dužnosti mnogo otežava greške i prevare."
+      }
+    },
+    {
+      "q": { "en": "What does an audit give?", "bs": "Šta daje revizija?" },
+      "options": [
+        { "en": "A guarantee there is no fraud", "bs": "Garanciju da nema prevare" },
+        { "en": "A check of every single transaction", "bs": "Provjeru svake transakcije" },
+        {
+          "en": "An independent opinion that the statements give a true and fair picture",
+          "bs": "Nezavisno mišljenje da izvještaji daju istinitu i fer sliku"
+        }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "Auditors test samples and give reasonable, not total, confidence.",
+        "bs": "Revizori testiraju uzorke i daju razumno, a ne potpuno povjerenje."
+      }
+    },
+    {
+      "q": {
+        "en": "You prepaid €1,200 for a year of insurance in January. What is the monthly adjusting entry?",
+        "bs": "U januaru si unaprijed platio 1.200 € godišnjeg osiguranja. Koje je mjesečno korektivno knjiženje?"
+      },
+      "options": [
+        { "en": "Record €1,200 cost every month", "bs": "Knjižiti 1.200 € troška svaki mjesec" },
+        { "en": "Nothing until December", "bs": "Ništa do decembra" },
+        {
+          "en": "Move €100 from prepaid insurance to insurance cost",
+          "bs": "Prebaciti 100 € s unaprijed plaćenog osiguranja na trošak osiguranja"
+        }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "1,200 ÷ 12 = €100 of the prepayment is used up each month.",
+        "bs": "1.200 ÷ 12 = 100 € avansa se potroši svaki mjesec."
+      }
+    }
   ]
 }

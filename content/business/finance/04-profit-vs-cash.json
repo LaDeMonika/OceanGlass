@@ -13,7 +13,10 @@
       "minutes": 5,
       "youtube": "ahBYyfYNVCY",
       "youtubeQuery": "gross profit explained simply",
-      "formula": { "en": "Gross profit = Revenue − Cost of goods sold", "bs": "Bruto dobit = Prihod − Trošak prodane robe" },
+      "formula": {
+        "en": "Gross profit = Revenue − Cost of goods sold",
+        "bs": "Bruto dobit = Prihod − Trošak prodane robe"
+      },
       "related": ["Revenue", "Margin", "Net profit"],
       "en": {
         "one": "Gross profit is what is left from sales after paying for the products themselves.",
@@ -37,7 +40,10 @@
       "minutes": 5,
       "youtube": "9j8HQg7YxXw",
       "youtubeQuery": "net profit explained simply",
-      "formula": { "en": "Net profit = Revenue − All costs − Taxes", "bs": "Neto dobit = Prihod − Svi troškovi − Porezi" },
+      "formula": {
+        "en": "Net profit = Revenue − All costs − Taxes",
+        "bs": "Neto dobit = Prihod − Svi troškovi − Porezi"
+      },
       "related": ["Gross profit", "Revenue", "Income statement"],
       "en": {
         "one": "Net profit is what is left after every single cost and tax has been paid.",
@@ -99,6 +105,72 @@
         "example": "Stolar dobije veliku narudžbu od 50.000 € s plaćanjem za 90 dana. Da je napravi, mora odmah platiti 30.000 € za drvo i radnike. Na papiru je zaradio 20.000 €. U banci mu fali 30.000 €.",
         "why": "Ovo je jedan od najčešćih razloga zašto se mali biznisi zatvaraju. Kad pratiš novac, a ne samo dobit, štitiš se.",
         "mixup": "Kad ponestane novca, to ne znači uvijek da je ideja loša. Često je to samo problem vremena koji bolje planiranje može riješiti."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "Revenue €100,000, cost of goods sold €60,000, other costs and taxes €30,000. What is net profit?",
+        "bs": "Prihod 100.000 €, trošak prodane robe 60.000 €, ostali troškovi i porezi 30.000 €. Kolika je neto dobit?"
+      },
+      "options": [
+        { "en": "€40,000", "bs": "40.000 €" },
+        { "en": "€10,000", "bs": "10.000 €" },
+        { "en": "€70,000", "bs": "70.000 €" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Gross profit is €40,000. After the other €30,000, net profit is €10,000.",
+        "bs": "Bruto dobit je 40.000 €. Nakon ostalih 30.000 €, neto dobit je 10.000 €."
+      }
+    },
+    {
+      "q": {
+        "en": "You invoice €10,000 in March, but customers pay only €3,000. You pay €5,000 of bills. What is March's cash flow?",
+        "bs": "U martu fakturišeš 10.000 €, ali kupci plate samo 3.000 €. Ti platiš 5.000 € računa. Koliki je martovski novčani tok?"
+      },
+      "options": [
+        { "en": "+€5,000", "bs": "+5.000 €" },
+        { "en": "−€2,000", "bs": "−2.000 €" },
+        { "en": "+€7,000", "bs": "+7.000 €" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Cash flow counts real payments: €3,000 in − €5,000 out = −€2,000.",
+        "bs": "Novčani tok broji stvarne uplate: 3.000 € ulaz − 5.000 € izlaz = −2.000 €."
+      }
+    },
+    {
+      "q": {
+        "en": "How can a profitable company run out of cash?",
+        "bs": "Kako profitabilna firma može ostati bez novca?"
+      },
+      "options": [
+        {
+          "en": "Customers pay late while bills must be paid now",
+          "bs": "Kupci plaćaju kasno, a računi se moraju platiti sada"
+        },
+        { "en": "It pays too little tax", "bs": "Plaća premalo poreza" },
+        { "en": "It cannot; profit always means cash", "bs": "Ne može; dobit uvijek znači novac" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Profit counts sales when made; cash arrives only when customers pay. The gap can empty the bank account.",
+        "bs": "Dobit računa prodaju kad je napravljena; novac stiže tek kad kupci plate. Taj jaz može isprazniti račun."
+      }
+    },
+    {
+      "q": { "en": "Which is subtracted to get gross profit?", "bs": "Šta se oduzima da se dobije bruto dobit?" },
+      "options": [
+        { "en": "Only the cost of the products sold", "bs": "Samo trošak prodanih proizvoda" },
+        { "en": "Only rent and wages", "bs": "Samo kirija i plate" },
+        { "en": "All costs and taxes", "bs": "Svi troškovi i porezi" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Gross profit = revenue − cost of goods sold. Rent, wages and taxes come later, for net profit.",
+        "bs": "Bruto dobit = prihod − trošak prodane robe. Kirija, plate i porezi dolaze kasnije, za neto dobit."
       }
     }
   ]

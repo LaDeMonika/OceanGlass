@@ -152,5 +152,67 @@
         "mixup": "Knjigovodstvena vrijednost nije tržišna. Zgrada može vrijediti mnogo više od knjigovodstvene vrijednosti, a stari laptop mnogo manje."
       }
     }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "A €20,000 machine is used 5 years and then sold for €5,000. What is the yearly straight-line depreciation?",
+        "bs": "Mašina od 20.000 € koristi se 5 godina i onda proda za 5.000 €. Kolika je godišnja linearna amortizacija?"
+      },
+      "options": [
+        { "en": "€4,000", "bs": "4.000 €" },
+        { "en": "€3,000", "bs": "3.000 €" },
+        { "en": "€5,000", "bs": "5.000 €" }
+      ],
+      "answer": 1,
+      "explain": { "en": "(20,000 − 5,000) ÷ 5 = €3,000 a year.", "bs": "(20.000 − 5.000) ÷ 5 = 3.000 € godišnje." }
+    },
+    {
+      "q": {
+        "en": "Does cash leave the business when depreciation is recorded?",
+        "bs": "Da li novac izlazi iz firme kad se knjiži amortizacija?"
+      },
+      "options": [
+        {
+          "en": "No, the cash left when the asset was bought",
+          "bs": "Ne, novac je izašao kad je sredstvo kupljeno"
+        },
+        { "en": "Yes, every year", "bs": "Da, svake godine" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Depreciation spreads an earlier payment over the years of use; it is not a new payment.",
+        "bs": "Amortizacija raspoređuje raniju uplatu na godine korištenja; nije nova uplata."
+      }
+    },
+    {
+      "q": { "en": "Which is CapEx?", "bs": "Šta je CapEx?" },
+      "options": [
+        { "en": "Monthly fuel", "bs": "Mjesečno gorivo" },
+        { "en": "Staff wages", "bs": "Plate radnika" },
+        { "en": "Buying a delivery van", "bs": "Kupovina dostavnog kombija" }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "CapEx buys things that last for years; fuel and wages are everyday OpEx.",
+        "bs": "CapEx kupuje stvari koje traju godinama; gorivo i plate su svakodnevni OpEx."
+      }
+    },
+    {
+      "q": {
+        "en": "A van cost €30,000 with €18,000 depreciated so far. You sell it for €10,000. What happens?",
+        "bs": "Kombi je koštao 30.000 €, a do sada je amortizovano 18.000 €. Prodaš ga za 10.000 €. Šta se desi?"
+      },
+      "options": [
+        { "en": "No gain or loss", "bs": "Ni dobitak ni gubitak" },
+        { "en": "A €2,000 loss", "bs": "Gubitak od 2.000 €" },
+        { "en": "A €2,000 gain", "bs": "Dobitak od 2.000 €" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Book value is €12,000. Selling for €10,000 is €2,000 below book value: a loss.",
+        "bs": "Knjigovodstvena vrijednost je 12.000 €. Prodaja za 10.000 € je 2.000 € ispod nje: gubitak."
+      }
+    }
   ]
 }

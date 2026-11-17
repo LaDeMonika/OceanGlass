@@ -145,5 +145,77 @@
         "mixup": "Red s plaćanjem karticom na izvodu nije uvijek dovoljan. Za većinu poslovnih troškova i dalje trebaš pravu fakturu."
       }
     }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "Assets are €40,000 and equity is €15,000. What are the liabilities?",
+        "bs": "Imovina je 40.000 €, a kapital 15.000 €. Kolike su obaveze?"
+      },
+      "options": [
+        { "en": "€15,000", "bs": "15.000 €" },
+        { "en": "€55,000", "bs": "55.000 €" },
+        { "en": "€25,000", "bs": "25.000 €" }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "Assets = Liabilities + Equity, so liabilities = 40,000 − 15,000 = €25,000.",
+        "bs": "Imovina = Obaveze + Kapital, pa su obaveze = 40.000 − 15.000 = 25.000 €."
+      }
+    },
+    {
+      "q": {
+        "en": "Who usually prepares the yearly financial statements and explains what they mean?",
+        "bs": "Ko obično priprema godišnje finansijske izvještaje i objašnjava šta znače?"
+      },
+      "options": [
+        { "en": "The bank", "bs": "Banka" },
+        { "en": "The bookkeeper", "bs": "Knjigovođa" },
+        { "en": "The accountant", "bs": "Računovođa" }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "Bookkeepers record daily events; accountants turn them into reports and advice.",
+        "bs": "Knjigovođe bilježe svakodnevne događaje; računovođe ih pretvaraju u izvještaje i savjete."
+      }
+    },
+    {
+      "q": {
+        "en": "A weekly report of profit per menu item is an example of…",
+        "bs": "Sedmični izvještaj o dobiti po jelu je primjer…"
+      },
+      "options": [
+        { "en": "managerial accounting", "bs": "upravljačkog računovodstva" },
+        { "en": "an audit", "bs": "revizije" },
+        { "en": "financial accounting", "bs": "finansijskog računovodstva" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "It is made for the people running the business, with no fixed rules: managerial accounting.",
+        "bs": "Pravi se za one koji vode firmu, bez fiksnih pravila: upravljačko računovodstvo."
+      }
+    },
+    {
+      "q": {
+        "en": "Why do you need a source document for every cost?",
+        "bs": "Zašto trebaš ispravu za svaki trošak?"
+      },
+      "options": [
+        { "en": "It is only needed for costs over €10,000", "bs": "Treba samo za troškove preko 10.000 €" },
+        {
+          "en": "It proves the cost happened, so it can be recorded and deducted",
+          "bs": "Dokazuje da se trošak desio, pa se može proknjižiti i odbiti"
+        },
+        {
+          "en": "Banks require it for every card payment",
+          "bs": "Banke ga traže za svako plaćanje karticom"
+        }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Without proof, a cost can be refused by the tax office and cannot be checked by an auditor.",
+        "bs": "Bez dokaza poreska uprava može odbiti trošak, a revizor ga ne može provjeriti."
+      }
+    }
   ]
 }
