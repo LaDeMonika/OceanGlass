@@ -89,6 +89,15 @@
       }
     },
     {
+      "slug": "communication",
+      "icon": "mega",
+      "title": { "en": "Communication & Negotiation", "bs": "Komunikacija i pregovaranje" },
+      "description": {
+        "en": "Listening, writing, presenting, hard conversations and getting good deals.",
+        "bs": "Slušanje, pisanje, prezentovanje, teški razgovori i dobri dogovori."
+      }
+    },
+    {
       "slug": "entrepreneurship",
       "icon": "rocket",
       "title": { "en": "Entrepreneurship", "bs": "Preduzetništvo" },

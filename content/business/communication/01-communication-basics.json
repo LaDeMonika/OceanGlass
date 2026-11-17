@@ -1,0 +1,219 @@
+{
+  "slug": "communication-basics",
+  "title": { "en": "Communication basics", "bs": "Osnove komunikacije" },
+  "summary": {
+    "en": "How a message travels from one person to another, and the usual places where it goes wrong.",
+    "bs": "Kako poruka putuje od jedne osobe do druge i gdje obično zapne."
+  },
+  "concepts": [
+    {
+      "slug": "communication-process",
+      "term": "Communication process",
+      "local": "proces komunikacije",
+      "minutes": 3,
+      "youtube": "7F2C5Z49zCo",
+      "youtubeQuery": "communication process sender message receiver noise explained",
+      "related": ["Active listening", "Plain language", "Feedback"],
+      "en": {
+        "one": "Communication is a loop: a sender turns an idea into a message, sends it through a channel, and a receiver turns it back into an idea and responds.",
+        "explain": "Each step can go wrong. You may say it badly, pick the wrong channel (a long chat message instead of a call), or 'noise' gets in the way: a loud room, stress, different words for the same thing. The response (feedback) is how you find out what actually arrived.",
+        "example": "A manager writes 'Can you look at the report?' She means 'fix the numbers by Friday'. The colleague reads it as 'have a quick look when you can'. Nobody checked, so the deadline is missed.",
+        "why": "Most workplace problems that look like people problems are really communication problems. Knowing the loop helps you find where it broke.",
+        "mixup": "Sending a message isn't the same as communicating. It only counts when the other person understood what you meant."
+      },
+      "bs": {
+        "one": "Komunikacija je krug: pošiljalac pretvori ideju u poruku, pošalje je kroz kanal, a primalac je pretvori nazad u ideju i odgovori.",
+        "explain": "Svaki korak može zapeti. Možeš to loše reći, izabrati pogrešan kanal (dugu poruku u chatu umjesto poziva), ili 'šum' smeta: bučna prostorija, stres, različite riječi za istu stvar. Odgovor (povratna informacija) je način da saznaš šta je zaista stiglo.",
+        "example": "Menadžerka napiše 'Možeš li pogledati izvještaj?'. Misli 'ispravi brojeve do petka'. Kolega to pročita kao 'baci pogled kad stigneš'. Niko nije provjerio, pa rok prođe.",
+        "why": "Većina problema na poslu koji izgledaju kao problemi s ljudima zapravo su problemi komunikacije. Kad znaš krug, lakše nađeš gdje je pukao.",
+        "mixup": "Poslati poruku nije isto što i komunicirati. Računa se tek kad druga osoba razumije šta si mislio."
+      }
+    },
+    {
+      "slug": "verbal-nonverbal",
+      "term": "Verbal and non-verbal communication",
+      "local": "verbalna i neverbalna komunikacija",
+      "minutes": 3,
+      "youtube": "WZzFzOzlUA4",
+      "youtubeQuery": "verbal vs nonverbal communication at work",
+      "related": ["Communication process", "Building rapport", "Presentation delivery"],
+      "en": {
+        "one": "Verbal communication is your words. Non-verbal is everything else: tone of voice, face, posture, gestures, eye contact and timing.",
+        "explain": "When words and body say different things, people usually believe the body. Crossed arms, looking at your phone or a flat tone can cancel a friendly sentence. On video calls, camera on, a steady look at the lens and nodding do the same job.",
+        "example": "A team lead says 'I'm open to ideas' while sighing and checking the clock. Nobody speaks up.",
+        "why": "Your message lands better when your words and your body agree, especially in feedback, sales and negotiations.",
+        "mixup": "Body language isn't a lie detector. Crossed arms can just mean someone is cold. Read signals as clues, not proof."
+      },
+      "bs": {
+        "one": "Verbalna komunikacija su tvoje riječi. Neverbalna je sve ostalo: ton glasa, lice, držanje, gestovi, kontakt očima i tajming.",
+        "explain": "Kad riječi i tijelo kažu različito, ljudi obično vjeruju tijelu. Prekrštene ruke, gledanje u telefon ili ravan ton mogu poništiti ljubaznu rečenicu. Na video pozivima istu ulogu imaju uključena kamera, pogled u objektiv i klimanje glavom.",
+        "example": "Vođa tima kaže 'Otvoren sam za ideje' dok uzdiše i gleda na sat. Niko se ne javi.",
+        "why": "Poruka bolje prođe kad se riječi i tijelo slažu, posebno kod povratnih informacija, prodaje i pregovora.",
+        "mixup": "Govor tijela nije detektor laži. Prekrštene ruke mogu samo značiti da je nekome hladno. Signale čitaj kao naznake, ne kao dokaz."
+      }
+    },
+    {
+      "slug": "formal-informal-register",
+      "term": "Formal vs. informal tone",
+      "local": "formalni i neformalni ton",
+      "minutes": 3,
+      "youtube": "gYghqE5UB9I",
+      "youtubeQuery": "formal vs informal communication at work examples",
+      "related": ["Business email", "Tone in writing", "Cross-cultural communication"],
+      "en": {
+        "one": "Tone (register) is how formal your words are. You choose it based on who you talk to, the channel and the situation.",
+        "explain": "With a new client, a public authority or in a complaint, use full sentences, polite forms and no slang. With your team in chat, a relaxed tone is normal. In Bosnian and German, the choice between 'Vi' and 'ti' (Sie and du) carries this signal; in English it's carried by word choice and greetings. When unsure, start a bit more formal and follow the other person's lead.",
+        "example": "A junior writes to a new client: 'hey, sending the stuff u asked for'. The client wonders if the firm is professional. 'Dear Ms. Kovač, please find the requested offer attached' would have fit.",
+        "why": "The wrong tone can make you look careless or cold before anyone reads your actual point.",
+        "mixup": "Formal doesn't mean complicated. You can be polite and still use short, plain sentences."
+      },
+      "bs": {
+        "one": "Ton (registar) je koliko su tvoje riječi formalne. Biraš ga prema tome s kim pričaš, kroz koji kanal i u kojoj situaciji.",
+        "explain": "S novim klijentom, državnim organom ili u žalbi koristi pune rečenice, ljubazne oblike i bez slenga. S timom u chatu opušten ton je normalan. U bosanskom i njemačkom izbor između 'Vi' i 'ti' (Sie i du) nosi taj signal; u engleskom ga nose izbor riječi i pozdrav. Kad nisi siguran, počni malo formalnije i prati drugu osobu.",
+        "example": "Mlađi kolega napiše novom klijentu: 'ćao, šaljem ti to što si tražio'. Klijent se pita je li firma ozbiljna. 'Poštovana gospođo Kovač, u prilogu Vam šaljem traženu ponudu' bi bilo prikladno.",
+        "why": "Pogrešan ton može te prikazati nemarnim ili hladnim prije nego što iko pročita tvoju poentu.",
+        "mixup": "Formalno ne znači komplikovano. Možeš biti ljubazan i ipak pisati kratke, jasne rečenice."
+      }
+    },
+    {
+      "slug": "plain-language",
+      "term": "Plain language",
+      "local": "jasan, jednostavan jezik",
+      "minutes": 3,
+      "youtube": "GFu5iBEVrL8",
+      "youtubeQuery": "plain language writing tips",
+      "related": ["Bottom line up front", "Business email", "Executive summary"],
+      "en": {
+        "one": "Plain language means saying things so the reader understands them the first time: short sentences, everyday words, and the main point first.",
+        "explain": "Avoid jargon and abbreviations the reader may not know, and replace long phrases with short ones ('in order to' becomes 'to'). Use active verbs ('we will send' instead of 'it will be sent'). One idea per sentence, and lists for steps.",
+        "example": "Instead of 'Due to unforeseen circumstances, the implementation of the new system has been postponed', write 'We're starting the new system two weeks later, on 1 March, because the supplier is late.'",
+        "why": "Clear messages save time, prevent mistakes and make you look confident, not less smart.",
+        "mixup": "Plain doesn't mean childish. Experts also prefer clear text; it's simply faster to read."
+      },
+      "bs": {
+        "one": "Jasan jezik znači reći stvari tako da ih čitalac razumije iz prve: kratke rečenice, svakodnevne riječi i glavna poenta na početku.",
+        "explain": "Izbjegavaj žargon i skraćenice koje čitalac možda ne zna, a duge fraze zamijeni kratkim. Koristi aktivne glagole ('poslaćemo' umjesto 'biće poslano'). Jedna ideja po rečenici, a za korake liste.",
+        "example": "Umjesto 'Zbog nepredviđenih okolnosti, implementacija novog sistema je odgođena' napiši 'Novi sistem pokrećemo dvije sedmice kasnije, 1. marta, jer dobavljač kasni.'",
+        "why": "Jasne poruke štede vrijeme, sprečavaju greške i čine da izgledaš sigurno, a ne manje pametno.",
+        "mixup": "Jednostavno ne znači djetinjasto. I stručnjaci više vole jasan tekst; jednostavno se brže čita."
+      }
+    },
+    {
+      "slug": "ladder-of-inference",
+      "term": "Ladder of inference",
+      "local": "ljestve zaključivanja",
+      "minutes": 4,
+      "youtube": "HO_39vLpd68",
+      "youtubeQuery": "ladder of inference explained",
+      "related": ["Communication process", "Difficult conversations", "Probing questions"],
+      "en": {
+        "one": "The ladder of inference shows how we jump from a small fact to a big conclusion in seconds, often without noticing.",
+        "explain": "We see something (a colleague is late), pick some details, add a meaning ('he doesn't care'), draw a conclusion ('he's unreliable'), and act on it (stop giving him tasks). Each step feels obvious, but it's built on assumptions. To climb back down, ask: what did I actually see, and what else could explain it?",
+        "example": "A client doesn't reply for a week. The salesperson decides they chose a competitor and stops following up. In fact the client was on holiday.",
+        "why": "Many conflicts start because two people are acting on different conclusions from the same facts.",
+        "mixup": "It isn't about never drawing conclusions. It's about checking them before you act."
+      },
+      "bs": {
+        "one": "Ljestve zaključivanja pokazuju kako za par sekundi skočimo s malog podatka na veliki zaključak, često i ne primijetivši.",
+        "explain": "Vidimo nešto (kolega kasni), izaberemo neke detalje, dodamo značenje ('nije ga briga'), izvedemo zaključak ('nepouzdan je') i djelujemo (prestanemo mu davati zadatke). Svaki korak djeluje očito, ali je sagrađen na pretpostavkama. Da siđeš nazad, pitaj: šta sam zaista vidio i šta bi drugo moglo to objasniti?",
+        "example": "Klijent ne odgovara sedmicu dana. Prodavač zaključi da je izabrao konkurenciju i prestane se javljati. U stvari, klijent je bio na godišnjem.",
+        "why": "Mnogi sukobi počinju jer dvije osobe djeluju na osnovu različitih zaključaka iz istih činjenica.",
+        "mixup": "Nije poenta nikad ne zaključivati. Poenta je provjeriti zaključak prije nego djeluješ."
+      }
+    },
+    {
+      "slug": "cross-cultural-communication",
+      "term": "Cross-cultural communication",
+      "local": "međukulturalna komunikacija",
+      "minutes": 4,
+      "youtube": "5gn6ydjpR-0",
+      "youtubeQuery": "cross cultural communication in business high context low context",
+      "related": ["Formal vs. informal tone", "Ladder of inference", "International negotiation"],
+      "en": {
+        "one": "Cross-cultural communication is talking and working well with people whose culture shapes how they say things, show respect and make decisions.",
+        "explain": "Some cultures are 'low-context': people say exactly what they mean, as is common in Germany, the Netherlands or the US. Others are 'high-context': meaning is in tone, relationship and what isn't said, as is common in Japan or much of the Balkans and the Middle East. Cultures also differ in how they treat hierarchy, time and direct criticism.",
+        "example": "A Dutch manager tells a Bosnian colleague 'this part is wrong' in front of others. He thinks he's being efficient; she feels embarrassed. A private, softer word would have worked better for both.",
+        "why": "In international teams and deals, misunderstandings often come from style, not content.",
+        "mixup": "Culture describes tendencies, not individuals. Don't assume every German is direct; watch the actual person."
+      },
+      "bs": {
+        "one": "Međukulturalna komunikacija je dobro pričati i raditi s ljudima čija kultura oblikuje kako govore, pokazuju poštovanje i donose odluke.",
+        "explain": "Neke kulture su 'niskog konteksta': ljudi kažu tačno šta misle, kao često u Njemačkoj, Holandiji ili SAD-u. Druge su 'visokog konteksta': značenje je u tonu, odnosu i onome što se ne kaže, kao često u Japanu ili velikom dijelu Balkana i Bliskog istoka. Kulture se razlikuju i u odnosu prema hijerarhiji, vremenu i direktnoj kritici.",
+        "example": "Holandski menadžer kaže bosanskoj kolegici 'ovaj dio je pogrešan' pred drugima. On misli da je efikasan; ona se osjeća posramljeno. Privatna, blaža riječ bi bila bolja za oboje.",
+        "why": "U međunarodnim timovima i poslovima nesporazumi često dolaze iz stila, a ne iz sadržaja.",
+        "mixup": "Kultura opisuje sklonosti, ne pojedince. Ne pretpostavljaj da je svaki Nijemac direktan; posmatraj konkretnu osobu."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "A colleague says 'I sent the email, so they know.' What's missing?",
+        "bs": "Kolega kaže 'Poslao sam email, znači znaju.' Šta nedostaje?"
+      },
+      "options": [
+        { "en": "A more formal tone", "bs": "Formalniji ton" },
+        { "en": "A longer email", "bs": "Duži email" },
+        { "en": "A check that the message was understood", "bs": "Provjera da je poruka razumljena" }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "Communication only works when the receiver understood it. Feedback closes the loop.",
+        "bs": "Komunikacija radi tek kad je primalac razumio. Povratna informacija zatvara krug."
+      }
+    },
+    {
+      "q": {
+        "en": "Your words say 'I'm listening', but you keep checking your phone. What will people believe?",
+        "bs": "Riječi kažu 'Slušam', ali stalno gledaš u telefon. Čemu će ljudi vjerovati?"
+      },
+      "options": [
+        { "en": "Your body language", "bs": "Tvom govoru tijela" },
+        { "en": "Your words", "bs": "Tvojim riječima" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "When words and body disagree, people usually trust the body.",
+        "bs": "Kad se riječi i tijelo ne slažu, ljudi obično vjeruju tijelu."
+      }
+    },
+    {
+      "q": { "en": "Which sentence is plain language?", "bs": "Koja rečenica je jasan jezik?" },
+      "options": [
+        {
+          "en": "Offer transmission is scheduled pending approval processes.",
+          "bs": "Slanje ponude je planirano u zavisnosti od procesa odobravanja."
+        },
+        { "en": "We'll send the offer by Friday.", "bs": "Ponudu šaljemo do petka." },
+        {
+          "en": "The offer will be transmitted in due course.",
+          "bs": "Ponuda će biti proslijeđena u odgovarajućem roku."
+        }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Short, active and concrete: who, what and when.",
+        "bs": "Kratko, aktivno i konkretno: ko, šta i kada."
+      }
+    },
+    {
+      "q": {
+        "en": "A client hasn't replied for a week, and you're sure they've lost interest. What does the ladder of inference suggest?",
+        "bs": "Klijent ne odgovara sedmicu i siguran si da je izgubio interes. Šta predlažu ljestve zaključivanja?"
+      },
+      "options": [
+        { "en": "Stop contacting them", "bs": "Prestani ga kontaktirati" },
+        {
+          "en": "Check the facts before acting on the conclusion",
+          "bs": "Provjeri činjenice prije nego djeluješ na osnovu zaključka"
+        },
+        { "en": "Send a complaint", "bs": "Pošalji žalbu" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "'No reply' is the fact. 'Lost interest' is your conclusion. A short follow-up tests it.",
+        "bs": "'Nema odgovora' je činjenica. 'Izgubio interes' je tvoj zaključak. Kratka poruka to provjeri."
+      }
+    }
+  ]
+}

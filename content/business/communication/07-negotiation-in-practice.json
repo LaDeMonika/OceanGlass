@@ -1,0 +1,226 @@
+{
+  "slug": "negotiation-in-practice",
+  "title": { "en": "Negotiation in practice", "bs": "Pregovaranje u praksi" },
+  "summary": {
+    "en": "Preparing, making offers, trading and closing, including your own salary.",
+    "bs": "Priprema, ponude, razmjena i zaključivanje, uključujući tvoju platu."
+  },
+  "concepts": [
+    {
+      "slug": "negotiation-preparation",
+      "term": "Preparing to negotiate",
+      "local": "priprema za pregovore",
+      "minutes": 4,
+      "youtube": "HxpRSaIiTvI",
+      "youtubeQuery": "how to prepare for a negotiation checklist",
+      "related": ["BATNA", "Reservation price", "Positions vs. interests"],
+      "en": {
+        "one": "Preparing means working out, before you talk, what you want, what you'll accept, what you can trade, and what the other side probably needs.",
+        "explain": "A one-page plan is enough: your goal and walk-away point, your BATNA, your interests ranked, things you can give that cost you little, their likely interests and BATNA, and your opening offer. Find out market prices so your numbers are realistic. Most negotiations are won or lost in preparation.",
+        "example": "Before renewing a cleaning contract, an office manager checks three other quotes, lists what matters most (reliability, then price), and decides she can offer a 2-year deal in exchange for 8% off.",
+        "why": "Preparation gives you confidence and stops you from making big concessions on the spot.",
+        "mixup": "Preparing isn't writing a script. Plan your limits and options, then stay flexible in the actual conversation."
+      },
+      "bs": {
+        "one": "Priprema znači prije razgovora razraditi šta želiš, šta ćeš prihvatiti, šta možeš razmijeniti i šta drugoj strani vjerovatno treba.",
+        "explain": "Dovoljan je plan na jednoj stranici: cilj i tačka odlaska, BATNA, tvoji interesi po važnosti, stvari koje možeš dati a malo te koštaju, njihovi vjerovatni interesi i BATNA i tvoja početna ponuda. Saznaj tržišne cijene da ti brojke budu realne. Većina pregovora se dobije ili izgubi u pripremi.",
+        "example": "Prije obnove ugovora za čišćenje, upraviteljica kancelarije provjeri tri druge ponude, popiše šta je najvažnije (pouzdanost, pa cijena) i odluči da može ponuditi ugovor na 2 godine u zamjenu za 8% popusta.",
+        "why": "Priprema daje samopouzdanje i sprečava da napraviš velike ustupke na licu mjesta.",
+        "mixup": "Priprema nije pisanje scenarija. Isplaniraj granice i opcije, a u samom razgovoru ostani fleksibilan."
+      }
+    },
+    {
+      "slug": "first-offer",
+      "term": "First offer and anchoring",
+      "local": "prva ponuda i sidrenje",
+      "minutes": 4,
+      "youtube": "zP2RDRMcro4",
+      "youtubeQuery": "anchoring first offer negotiation should you make the first offer",
+      "related": ["Reservation price", "ZOPA", "Trading concessions"],
+      "en": {
+        "one": "The first number put on the table works as an 'anchor': the rest of the negotiation tends to move around it.",
+        "explain": "If you know the market well, making the first offer is often an advantage: start ambitious but defensible, with a reason ('Similar flats here rent for 900 €, so we're asking 950 €'). If you're unsure of the value, let the other side go first so you don't anchor too low. If they anchor extreme, don't argue about it; calmly put your own number on the table.",
+        "example": "A freelancer asked for a quote says '4,500 € for the website, based on 30 hours at 150 €.' The client counters at 3,800 €. They settle at 4,200 €, well above what she'd have got by starting at 3,500 €.",
+        "why": "The opening number has a surprisingly large effect on the final deal.",
+        "mixup": "Ambitious isn't absurd. An offer with no justification can insult the other side and end the talk."
+      },
+      "bs": {
+        "one": "Prvi broj stavljen na sto djeluje kao 'sidro': ostatak pregovora se uglavnom kreće oko njega.",
+        "explain": "Ako dobro poznaješ tržište, prva ponuda je često prednost: počni ambiciozno, ali odbranjivo, s razlogom ('Slični stanovi ovdje se iznajmljuju za 900 €, pa tražimo 950 €'). Ako nisi siguran u vrijednost, pusti drugu stranu da počne, da ne usidriš prenisko. Ako oni usidre ekstremno, ne raspravljaj o tome; mirno stavi svoj broj na sto.",
+        "example": "Frilenserka na pitanje za ponudu kaže '4.500 € za web stranicu, na osnovu 30 sati po 150 €.' Klijent ponudi 3.800 €. Dogovore se na 4.200 €, znatno iznad onoga što bi dobila da je počela s 3.500 €.",
+        "why": "Početni broj ima iznenađujuće velik uticaj na konačan dogovor.",
+        "mixup": "Ambiciozno nije apsurdno. Ponuda bez obrazloženja može uvrijediti drugu stranu i završiti razgovor."
+      }
+    },
+    {
+      "slug": "trading-concessions",
+      "term": "Trading concessions",
+      "local": "razmjena ustupaka",
+      "minutes": 3,
+      "youtube": "Yq7bA31s-4M",
+      "youtubeQuery": "how to make concessions in negotiation if then",
+      "related": ["Distributive vs. integrative negotiation", "First offer and anchoring", "Using silence"],
+      "en": {
+        "one": "A concession is something you give up during a negotiation. Trading means you never give one without getting something back.",
+        "explain": "Use 'if... then': 'If you order 500 units, then we can lower the price by 5%.' Make concessions smaller as you go, which signals you're near your limit. Give on things that cost you little but matter to them, like faster delivery, longer payment terms or extra training.",
+        "example": "A printing company is asked for a discount. Instead of just cutting 10%, it says: 'If you pay upfront and accept a 10-day delivery, then we can do 8% off.'",
+        "why": "Free concessions teach the other side to keep asking; traded ones keep the deal balanced.",
+        "mixup": "Splitting the difference isn't always fair. Meeting in the middle of a bad anchor still gives a bad deal."
+      },
+      "bs": {
+        "one": "Ustupak je nešto čega se odrekneš tokom pregovora. Razmjena znači da ga nikad ne daš bez da nešto dobiješ nazad.",
+        "explain": "Koristi 'ako... onda': 'Ako naručite 500 komada, onda možemo spustiti cijenu za 5%.' Ustupci neka budu sve manji kako idete, to pokazuje da si blizu granice. Popuštaj u stvarima koje tebe malo koštaju, a njima su važne, kao brža dostava, duži rok plaćanja ili dodatna obuka.",
+        "example": "Od štamparije traže popust. Umjesto da samo spusti 10%, kaže: 'Ako platite unaprijed i prihvatite isporuku za 10 dana, onda možemo dati 8% popusta.'",
+        "why": "Besplatni ustupci uče drugu stranu da stalno traži; razmijenjeni drže dogovor u ravnoteži.",
+        "mixup": "Dijeljenje razlike nije uvijek pošteno. Sastati se na pola puta od lošeg sidra i dalje daje loš dogovor."
+      }
+    },
+    {
+      "slug": "salary-negotiation",
+      "term": "Salary negotiation",
+      "local": "pregovaranje o plati",
+      "minutes": 4,
+      "youtube": "kTmvvT_0OvM",
+      "youtubeQuery": "how to negotiate salary job offer tips",
+      "related": ["BATNA", "First offer and anchoring", "Assertiveness"],
+      "en": {
+        "one": "Salary negotiation is agreeing on your pay and conditions when you get a job offer or ask for a raise.",
+        "explain": "Research the market range for your role and city (salary surveys, job ads, people in the field). Wait for an offer, then thank them and ask for a specific number at the upper end, with reasons tied to your value. If the salary can't move, negotiate other things: start date, remote days, training budget, title, or a pay review in 6 months. Get the final terms in writing.",
+        "example": "Offered 2,800 €, Dino says: 'Thank you, I'm excited about the role. Based on my experience with SAP and the market range of 2,900–3,300 €, I'd like 3,200 €.' They agree on 3,000 € plus a review after six months.",
+        "why": "Your starting salary is the base for every later raise, so a small gain now adds up over years.",
+        "mixup": "Negotiating rarely makes an employer withdraw an offer if you're polite and reasonable. Not asking is the bigger risk."
+      },
+      "bs": {
+        "one": "Pregovaranje o plati je dogovaranje plate i uslova kad dobiješ ponudu za posao ili tražiš povišicu.",
+        "explain": "Istraži tržišni raspon za svoju poziciju i grad (ankete o platama, oglasi, ljudi iz struke). Sačekaj ponudu, zahvali i traži konkretan broj u gornjem dijelu raspona, s razlozima vezanim za svoju vrijednost. Ako se plata ne može pomjeriti, pregovaraj o drugom: datum početka, dani rada od kuće, budžet za obuku, zvanje ili revizija plate za 6 mjeseci. Konačne uslove traži pismeno.",
+        "example": "Uz ponudu od 2.800 €, Dino kaže: 'Hvala, radujem se ovoj poziciji. Na osnovu mog iskustva sa SAP-om i tržišnog raspona od 2.900–3.300 €, volio bih 3.200 €.' Dogovore 3.000 € i reviziju nakon šest mjeseci.",
+        "why": "Početna plata je osnova za svaku kasniju povišicu, pa mali dobitak sada raste kroz godine.",
+        "mixup": "Pregovaranje rijetko natjera poslodavca da povuče ponudu ako si ljubazan i razuman. Veći rizik je ne pitati."
+      }
+    },
+    {
+      "slug": "hardball-tactics",
+      "term": "Hardball tactics",
+      "local": "tvrde taktike",
+      "minutes": 4,
+      "youtube": "p5Mx5m6FepU",
+      "youtubeQuery": "hardball negotiation tactics and how to counter them",
+      "related": ["Reservation price", "Using silence", "De-escalation"],
+      "en": {
+        "one": "Hardball tactics are pressure moves used to push you into a worse deal, like fake deadlines, extreme offers, 'good cop, bad cop' or last-minute extra demands.",
+        "explain": "Recognising them takes away most of their power. Name the tactic calmly or ignore it, slow down ('I'll need a day to think'), go back to your preparation and walk-away point, and be ready to leave. Watch for the 'nibble': after the deal is agreed, a small extra request ('...and you'll include delivery, right?'). Answer it with 'if... then' too.",
+        "example": "A car seller says: 'This price is only valid today, and my manager is already angry I offered it.' The buyer replies: 'I understand. If it's gone tomorrow, I'll buy elsewhere,' and leaves. The seller calls back the next day.",
+        "why": "Knowing the tricks protects you from decisions you'd regret.",
+        "mixup": "Using hardball yourself can win one deal and lose the relationship and your reputation."
+      },
+      "bs": {
+        "one": "Tvrde taktike su potezi pritiska kojima te guraju u lošiji dogovor, kao lažni rokovi, ekstremne ponude, 'dobar i loš policajac' ili zahtjevi u zadnji čas.",
+        "explain": "Kad ih prepoznaš, gube većinu moći. Mirno imenuj taktiku ili je ignoriši, uspori ('Treba mi dan da razmislim'), vrati se svojoj pripremi i tački odlaska i budi spreman otići. Pazi na 'grickanje': nakon dogovora mali dodatni zahtjev ('...i uključićete dostavu, zar ne?'). I na to odgovori s 'ako... onda'.",
+        "example": "Prodavac auta kaže: 'Ova cijena važi samo danas, a šef je već ljut što sam je ponudio.' Kupac odgovori: 'Razumijem. Ako sutra nestane, kupiću drugdje' i ode. Prodavac sutradan nazove.",
+        "why": "Kad znaš trikove, zaštićen si od odluka zbog kojih bi se kajao.",
+        "mixup": "Kad sam koristiš tvrde taktike, možeš dobiti jedan dogovor, a izgubiti odnos i ugled."
+      }
+    },
+    {
+      "slug": "closing-the-deal",
+      "term": "Closing the deal",
+      "local": "zaključivanje dogovora",
+      "minutes": 3,
+      "youtube": "m0Z_XwZD4Kk",
+      "youtubeQuery": "how to close a negotiation and confirm agreement in writing",
+      "related": ["Meeting notes and action items", "Contract", "Trading concessions"],
+      "en": {
+        "one": "Closing means turning a verbal 'yes' into a clear, complete agreement that both sides confirm, usually in writing.",
+        "explain": "Summarise every point agreed: price, quantities, dates, who does what, what happens if something goes wrong. Check that nothing is left 'for later'. Send a written summary the same day and get it confirmed or signed. End on a positive note; you'll probably work together again.",
+        "example": "After a long call, a supplier emails: 'Thanks for today. Agreed: 1,000 units at 4.20 € each, delivery in two lots (1 and 15 March), payment within 45 days. Please confirm by reply.'",
+        "why": "Many deals fall apart after the handshake because each side remembers something different.",
+        "mixup": "A deal isn't closed when people say 'sounds good'. It's closed when the details are confirmed."
+      },
+      "bs": {
+        "one": "Zaključivanje znači pretvoriti usmeno 'da' u jasan, potpun dogovor koji obje strane potvrde, obično pismeno.",
+        "explain": "Sažmi svaku dogovorenu tačku: cijena, količine, datumi, ko radi šta i šta se desi ako nešto pođe po zlu. Provjeri da ništa nije ostavljeno 'za kasnije'. Pošalji pisani sažetak isti dan i traži potvrdu ili potpis. Završi pozitivno; vjerovatno ćete opet sarađivati.",
+        "example": "Nakon dugog poziva, dobavljač pošalje email: 'Hvala za danas. Dogovoreno: 1.000 komada po 4,20 €, isporuka u dva dijela (1. i 15. mart), plaćanje u roku od 45 dana. Molim potvrdite odgovorom.'",
+        "why": "Mnogi dogovori propadnu nakon rukovanja jer svaka strana pamti nešto drugo.",
+        "mixup": "Dogovor nije zaključen kad ljudi kažu 'zvuči dobro'. Zaključen je kad su detalji potvrđeni."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "The client asks for 10% off. Which reply trades the concession?",
+        "bs": "Klijent traži 10% popusta. Koji odgovor razmjenjuje ustupak?"
+      },
+      "options": [
+        { "en": "OK, 10% is fine.", "bs": "Dobro, 10% je u redu." },
+        {
+          "en": "If you sign for two years, then we can do 7%.",
+          "bs": "Ako potpišete na dvije godine, onda možemo 7%."
+        },
+        { "en": "We never give discounts.", "bs": "Nikad ne dajemo popuste." }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Use 'if... then' so you get something back for what you give.",
+        "bs": "Koristi 'ako... onda' da dobiješ nešto za ono što daješ."
+      }
+    },
+    {
+      "q": {
+        "en": "You know the market value well. What does anchoring suggest?",
+        "bs": "Dobro znaš tržišnu vrijednost. Šta predlaže sidrenje?"
+      },
+      "options": [
+        {
+          "en": "Make an ambitious first offer with a reason",
+          "bs": "Daj ambicioznu prvu ponudu s razlogom"
+        },
+        { "en": "Start with your walk-away price", "bs": "Počni sa svojom graničnom cijenom" },
+        { "en": "Wait and accept their first number", "bs": "Sačekaj i prihvati njihov prvi broj" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "The first number pulls the deal towards it, as long as you can justify it.",
+        "bs": "Prvi broj vuče dogovor prema sebi, dok god ga možeš obrazložiti."
+      }
+    },
+    {
+      "q": {
+        "en": "The employer can't raise the salary. What could you still negotiate?",
+        "bs": "Poslodavac ne može povećati platu. O čemu još možeš pregovarati?"
+      },
+      "options": [
+        {
+          "en": "Remote days, training budget or an earlier pay review",
+          "bs": "Dani rada od kuće, budžet za obuku ili ranija revizija plate"
+        },
+        { "en": "Only the job title", "bs": "Samo zvanje" },
+        { "en": "Nothing, the deal is fixed", "bs": "Ništa, dogovor je fiksan" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Other terms can add real value when the number can't move.",
+        "bs": "Drugi uslovi mogu dodati stvarnu vrijednost kad se broj ne može pomjeriti."
+      }
+    },
+    {
+      "q": {
+        "en": "A seller says 'This price is only good today.' What's a calm response?",
+        "bs": "Prodavac kaže 'Ova cijena važi samo danas.' Koji je miran odgovor?"
+      },
+      "options": [
+        {
+          "en": "Take time and check it against your walk-away point",
+          "bs": "Uzmi vremena i provjeri u odnosu na svoju tačku odlaska"
+        },
+        { "en": "Get angry and accuse them", "bs": "Naljuti se i optuži ih" },
+        { "en": "Buy immediately", "bs": "Kupi odmah" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Pressure deadlines lose their power when you slow down and know your limits.",
+        "bs": "Rokovi za pritisak gube moć kad usporiš i znaš svoje granice."
+      }
+    }
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "slug": "negotiation-basics",
+  "title": { "en": "Negotiation basics", "bs": "Osnove pregovaranja" },
+  "summary": {
+    "en": "The core ideas behind every negotiation, from salary to suppliers.",
+    "bs": "Osnovne ideje iza svakog pregovora, od plate do dobavljača."
+  },
+  "concepts": [
+    {
+      "slug": "negotiation",
+      "term": "Negotiation",
+      "local": "pregovaranje",
+      "minutes": 3,
+      "youtube": "0BtcMXLtUr8",
+      "youtubeQuery": "what is negotiation explained basics",
+      "related": ["BATNA", "Positions vs. interests", "Negotiation preparation"],
+      "en": {
+        "one": "Negotiation is a conversation where two or more sides with different wants try to reach an agreement that's better for each than no deal.",
+        "explain": "It's part of daily business: prices with suppliers, salaries, deadlines, rent, even who does which task in a team. A good negotiation ends with a deal both sides can live with and a relationship that still works.",
+        "example": "A small shop owner asks a supplier for a lower price. The supplier can't lower it, but offers 60 days to pay instead of 30. The shop gets cash flow, the supplier keeps its price.",
+        "why": "Small improvements in negotiation add up: a few percent on every purchase or contract is real money.",
+        "mixup": "Negotiation isn't a fight to beat the other side. If they feel cheated, they may not deliver well or come back."
+      },
+      "bs": {
+        "one": "Pregovaranje je razgovor u kojem dvije ili više strana s različitim željama pokušavaju postići dogovor koji je za svaku bolji od nikakvog dogovora.",
+        "explain": "To je dio svakodnevnog posla: cijene s dobavljačima, plate, rokovi, kirija, čak i ko radi koji zadatak u timu. Dobar pregovor završi dogovorom s kojim obje strane mogu živjeti i odnosom koji i dalje funkcioniše.",
+        "example": "Vlasnik male radnje traži od dobavljača nižu cijenu. Dobavljač je ne može spustiti, ali ponudi plaćanje za 60 dana umjesto 30. Radnja dobije novčani tok, dobavljač zadrži cijenu.",
+        "why": "Mala poboljšanja u pregovorima se zbrajaju: par posto na svakoj kupovini ili ugovoru je pravi novac.",
+        "mixup": "Pregovaranje nije borba da pobijediš drugu stranu. Ako se osjeća prevareno, možda neće dobro isporučiti ili se vratiti."
+      }
+    },
+    {
+      "slug": "batna",
+      "term": "BATNA",
+      "local": "najbolja alternativa dogovoru",
+      "minutes": 4,
+      "youtube": "mVeMk5J3n6Q",
+      "youtubeQuery": "BATNA best alternative to negotiated agreement explained",
+      "related": ["Reservation price", "ZOPA", "Negotiation preparation"],
+      "en": {
+        "one": "BATNA stands for 'Best Alternative To a Negotiated Agreement': what you will do if this deal doesn't happen.",
+        "explain": "It's your real walk-away option, like another job offer, another supplier, or keeping things as they are. The stronger your BATNA, the more power you have, because you don't need this deal. Before negotiating, improve your BATNA and try to guess theirs.",
+        "example": "Lana negotiates salary with a new employer. She already has an offer of 3,200 € from another firm. That's her BATNA, so she can calmly turn down anything clearly worse.",
+        "why": "Knowing your BATNA stops you from accepting a bad deal out of fear, or rejecting a good one out of pride.",
+        "mixup": "Your BATNA isn't your wish or your bottom price. It's a real alternative you could actually take tomorrow."
+      },
+      "bs": {
+        "one": "BATNA znači 'Best Alternative To a Negotiated Agreement' (najbolja alternativa dogovoru): šta ćeš uraditi ako ovaj dogovor ne uspije.",
+        "explain": "To je tvoja stvarna opcija za odlazak, kao druga ponuda za posao, drugi dobavljač ili zadržati sve kako jeste. Što je BATNA jača, imaš više moći, jer ti ovaj dogovor ne treba. Prije pregovora poboljšaj svoju BATNA-u i pokušaj pogoditi njihovu.",
+        "example": "Lana pregovara o plati s novim poslodavcem. Već ima ponudu od 3.200 € od druge firme. To je njena BATNA, pa može mirno odbiti sve što je jasno lošije.",
+        "why": "Kad znaš svoju BATNA-u, ne prihvatiš loš dogovor iz straha niti odbiješ dobar iz ponosa.",
+        "mixup": "BATNA nije tvoja želja ni najniža cijena. To je stvarna alternativa koju bi zaista mogao uzeti sutra."
+      }
+    },
+    {
+      "slug": "reservation-price",
+      "term": "Reservation price",
+      "local": "granična cijena, tačka odlaska",
+      "minutes": 3,
+      "youtube": "lR5CUZrEysQ",
+      "youtubeQuery": "reservation price walk away point negotiation",
+      "related": ["BATNA", "ZOPA", "First offer and anchoring"],
+      "en": {
+        "one": "Your reservation price (walk-away point) is the worst deal you will still accept. Beyond it, you'd rather take your BATNA.",
+        "explain": "For a buyer, it's the highest price you'd pay; for a seller, the lowest you'd accept. Work it out from your BATNA before you start, write it down, and don't reveal it. It protects you from being talked into a bad deal in the heat of the moment.",
+        "example": "A café owner selling her coffee machine has a dealer offer of 1,500 €. Her reservation price for a private buyer is 1,500 €; anything less, she sells to the dealer.",
+        "why": "Without a walk-away point, you may keep giving in, little by little, until the deal is worse than no deal.",
+        "mixup": "It's not your target. Aim high, but know your floor."
+      },
+      "bs": {
+        "one": "Granična cijena (tačka odlaska) je najlošiji dogovor koji ćeš još prihvatiti. Iza nje radije uzimaš svoju BATNA-u.",
+        "explain": "Za kupca je to najviša cijena koju bi platio; za prodavca najniža koju bi prihvatio. Izračunaj je iz svoje BATNA-e prije nego počneš, zapiši je i ne otkrivaj je. Štiti te da te u žaru razgovora ne nagovore na loš dogovor.",
+        "example": "Vlasnica kafića prodaje aparat za kafu i ima ponudu trgovca od 1.500 €. Njena granična cijena za privatnog kupca je 1.500 €; za manje prodaje trgovcu.",
+        "why": "Bez tačke odlaska možeš popuštati malo po malo, dok dogovor ne postane gori od nikakvog.",
+        "mixup": "To nije tvoj cilj. Ciljaj visoko, ali znaj svoje dno."
+      }
+    },
+    {
+      "slug": "zopa",
+      "term": "ZOPA",
+      "local": "zona mogućeg dogovora",
+      "minutes": 3,
+      "youtube": "JEoFHePrp6k",
+      "youtubeQuery": "ZOPA zone of possible agreement explained",
+      "related": ["Reservation price", "BATNA", "Distributive vs. integrative negotiation"],
+      "en": {
+        "one": "ZOPA (Zone Of Possible Agreement) is the range where both sides' walk-away points overlap, so a deal is possible.",
+        "explain": "If a buyer would pay up to 10,000 € and the seller would accept 8,000 € or more, the ZOPA is 8,000–10,000 €. Any price in there beats both BATNAs; the negotiation decides where in the range you land. If there's no overlap, no deal makes sense, unless you add other things to trade.",
+        "example": "An employer can pay at most 3,000 € for a role; the candidate needs at least 3,300 €. There's no ZOPA on salary, but adding a 4-day week makes 3,000 € acceptable to the candidate.",
+        "why": "Knowing whether a ZOPA exists tells you if it's worth continuing, and where the fight really is.",
+        "mixup": "You usually don't know the other side's limit. The ZOPA is something you estimate and test, not something you see."
+      },
+      "bs": {
+        "one": "ZOPA (Zone Of Possible Agreement) je raspon u kojem se tačke odlaska obje strane preklapaju, pa je dogovor moguć.",
+        "explain": "Ako bi kupac platio do 10.000 €, a prodavac prihvatio 8.000 € ili više, ZOPA je 8.000–10.000 €. Svaka cijena u tom rasponu je bolja od obje BATNA-e; pregovor odlučuje gdje ćete završiti. Ako nema preklapanja, nijedan dogovor nema smisla, osim ako dodaš druge stvari za razmjenu.",
+        "example": "Poslodavac može platiti najviše 3.000 € za poziciju; kandidatu treba najmanje 3.300 €. Na plati nema ZOPA-e, ali dodavanje četverodnevne sedmice učini 3.000 € prihvatljivim za kandidata.",
+        "why": "Kad znaš postoji li ZOPA, znaš isplati li se nastaviti i gdje je prava borba.",
+        "mixup": "Granicu druge strane obično ne znaš. ZOPA je nešto što procjenjuješ i testiraš, ne nešto što vidiš."
+      }
+    },
+    {
+      "slug": "positions-vs-interests",
+      "term": "Positions vs. interests",
+      "local": "stavovi i interesi",
+      "minutes": 4,
+      "youtube": "MuJyDRgONls",
+      "youtubeQuery": "positions vs interests negotiation example",
+      "related": ["Probing questions", "Distributive vs. integrative negotiation", "Negotiation"],
+      "en": {
+        "one": "A position is what someone says they want. An interest is why they want it.",
+        "explain": "Two sides with opposite positions can share or have compatible interests. Ask 'why?' and 'what would that give you?' to find them. Solutions that meet interests are often better than splitting the difference between positions.",
+        "example": "A landlord insists on a 10% rent increase (position). The real interest: covering higher building costs and keeping a reliable tenant. The tenant offers a 5% increase plus a 3-year contract. The landlord agrees.",
+        "why": "Focusing on interests turns a tug-of-war into problem-solving and creates deals neither side saw at first.",
+        "mixup": "Interests aren't secrets to exploit. Sharing some of yours helps the other side find solutions for you."
+      },
+      "bs": {
+        "one": "Stav je ono što neko kaže da želi. Interes je zašto to želi.",
+        "explain": "Dvije strane sa suprotnim stavovima mogu imati zajedničke ili spojive interese. Pitaj 'zašto?' i 'šta bi ti to dalo?' da ih nađeš. Rješenja koja zadovoljavaju interese često su bolja od dijeljenja razlike između stavova.",
+        "example": "Stanodavac insistira na povećanju kirije od 10% (stav). Pravi interes: pokriti veće troškove zgrade i zadržati pouzdanog stanara. Stanar ponudi povećanje od 5% i ugovor na 3 godine. Stanodavac pristane.",
+        "why": "Fokus na interese pretvara natezanje u rješavanje problema i stvara dogovore koje nijedna strana nije vidjela na početku.",
+        "mixup": "Interesi nisu tajne za iskorištavanje. Kad podijeliš neke svoje, pomažeš drugoj strani da nađe rješenja za tebe."
+      }
+    },
+    {
+      "slug": "distributive-integrative",
+      "term": "Distributive vs. integrative negotiation",
+      "local": "raspodjelno i integrativno pregovaranje",
+      "minutes": 4,
+      "youtube": "bW2n9PIsEXI",
+      "youtubeQuery": "distributive vs integrative negotiation win-win",
+      "related": ["Positions vs. interests", "ZOPA", "Trading concessions"],
+      "en": {
+        "one": "Distributive negotiation is about splitting a fixed pie: more for you means less for them. Integrative negotiation makes the pie bigger first by finding trades that help both.",
+        "explain": "Buying a used car from a stranger, where only price matters, is mostly distributive. A long supplier contract, with price, volume, payment terms, delivery and quality to discuss, can be integrative: each side gives on what matters less to it and gains on what matters more. Most real deals have both parts.",
+        "example": "A hotel and a tour operator: the hotel wants guaranteed bookings in the low season; the operator wants a lower price in summer. They agree on both, and each is better off.",
+        "why": "Spotting integrative options lets you get more without taking it from the other side.",
+        "mixup": "Win-win doesn't mean being soft. You still claim value; you just create more of it first."
+      },
+      "bs": {
+        "one": "Raspodjelno pregovaranje je dijeljenje fiksnog kolača: više za tebe znači manje za njih. Integrativno pregovaranje prvo povećava kolač, nalazeći razmjene koje pomažu objema stranama.",
+        "explain": "Kupovina polovnog auta od stranca, gdje je bitna samo cijena, uglavnom je raspodjelna. Dugi ugovor s dobavljačem, gdje se priča o cijeni, količini, uslovima plaćanja, dostavi i kvalitetu, može biti integrativan: svaka strana popušta u onome što joj je manje važno i dobija u onome što joj je važnije. Većina stvarnih dogovora ima oba dijela.",
+        "example": "Hotel i turoperator: hotel želi garantovane rezervacije u niskoj sezoni; turoperator želi nižu cijenu ljeti. Dogovore oboje i oba su na dobitku.",
+        "why": "Kad uočiš integrativne opcije, dobiješ više bez da uzmeš od druge strane.",
+        "mixup": "Win-win ne znači biti mekan. I dalje uzimaš vrijednost; samo je prvo stvoriš više."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "You have a firm job offer of 3,000 € elsewhere. In your next negotiation, what is it?",
+        "bs": "Imaš čvrstu ponudu za posao od 3.000 € na drugom mjestu. Šta je to u sljedećem pregovoru?"
+      },
+      "options": [
+        { "en": "Your ZOPA", "bs": "Tvoja ZOPA" },
+        { "en": "Your BATNA", "bs": "Tvoja BATNA" },
+        { "en": "Your anchor", "bs": "Tvoje sidro" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "It's the real alternative you'd take if this deal fails.",
+        "bs": "To je stvarna alternativa koju bi uzeo ako ovaj dogovor ne uspije."
+      }
+    },
+    {
+      "q": {
+        "en": "A seller will accept 8,000 € or more; a buyer will pay up to 9,000 €. What's the ZOPA?",
+        "bs": "Prodavac prihvata 8.000 € ili više; kupac plaća do 9.000 €. Kolika je ZOPA?"
+      },
+      "options": [
+        { "en": "0–8,000 €", "bs": "0–8.000 €" },
+        { "en": "8,000–9,000 €", "bs": "8.000–9.000 €" },
+        { "en": "There is none", "bs": "Ne postoji" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "The ZOPA is where the two walk-away points overlap.",
+        "bs": "ZOPA je tamo gdje se dvije tačke odlaska preklapaju."
+      }
+    },
+    {
+      "q": {
+        "en": "A client demands delivery in 3 days. Asking 'what happens on day 4?' reveals that...",
+        "bs": "Klijent traži isporuku za 3 dana. Pitanje 'šta se desi 4. dana?' otkriva..."
+      },
+      "options": [
+        { "en": "Their reservation price", "bs": "Njihovu graničnu cijenu" },
+        { "en": "Your BATNA", "bs": "Tvoju BATNA-u" },
+        { "en": "Their interest behind the position", "bs": "Njihov interes iza stava" }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "The 3 days is the position; the reason behind it is the interest.",
+        "bs": "3 dana su stav; razlog iza toga je interes."
+      }
+    },
+    {
+      "q": {
+        "en": "Which deal is most likely integrative?",
+        "bs": "Koji dogovor je najvjerovatnije integrativan?"
+      },
+      "options": [
+        {
+          "en": "Haggling over a souvenir with a tourist seller",
+          "bs": "Cjenkanje za suvenir s uličnim prodavcem"
+        },
+        {
+          "en": "A supply contract covering price, volume and payment terms",
+          "bs": "Ugovor o snabdijevanju koji pokriva cijenu, količinu i uslove plaćanja"
+        },
+        { "en": "A one-off price for a used bike", "bs": "Jednokratna cijena za polovni bicikl" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Several issues that matter differently to each side create room for trades.",
+        "bs": "Više pitanja koja su stranama različito važna stvaraju prostor za razmjenu."
+      }
+    }
+  ]
+}

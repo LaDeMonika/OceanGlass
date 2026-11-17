@@ -1,0 +1,220 @@
+{
+  "slug": "presenting",
+  "title": { "en": "Presenting", "bs": "Prezentovanje" },
+  "summary": {
+    "en": "Building and giving a talk that people follow and remember.",
+    "bs": "Kako napraviti i održati prezentaciju koju ljudi prate i pamte."
+  },
+  "concepts": [
+    {
+      "slug": "presentation-structure",
+      "term": "Presentation structure",
+      "local": "struktura prezentacije",
+      "minutes": 3,
+      "youtube": "3NtHUdZqw-8",
+      "youtubeQuery": "how to structure a presentation",
+      "related": ["Executive summary", "Slide design", "Bottom line up front"],
+      "en": {
+        "one": "A presentation structure is the order of your talk: what you open with, the few points in the middle, and how you close.",
+        "explain": "A simple, reliable shape: open with why it matters to the audience, give your main message in one sentence, support it with three points at most, and close with what you want them to do. Tell them what's coming, tell them, then remind them.",
+        "example": "A sales manager presenting to the board: 'We lost 8% of customers last quarter (why it matters). Main point: faster delivery will win them back. Three reasons... Request: approve two more drivers today.'",
+        "why": "Clear structure makes it easy for listeners to follow and remember, even if they drift off for a minute.",
+        "mixup": "More information isn't more convincing. Ten points are forgotten; three are remembered."
+      },
+      "bs": {
+        "one": "Struktura prezentacije je redoslijed tvog izlaganja: čime otvaraš, par tačaka u sredini i kako zatvaraš.",
+        "explain": "Jednostavan, pouzdan oblik: otvori s tim zašto je to važno publici, daj glavnu poruku u jednoj rečenici, podrži je s najviše tri tačke i zatvori s onim što želiš da urade. Reci im šta dolazi, reci im, pa ih podsjeti.",
+        "example": "Prodajni menadžer pred upravom: 'Prošlog kvartala izgubili smo 8% kupaca (zašto je važno). Glavna poenta: brža dostava će ih vratiti. Tri razloga... Molba: odobrite danas još dva vozača.'",
+        "why": "Jasna struktura olakšava slušaocima da prate i zapamte, čak i ako na minut odlutaju.",
+        "mixup": "Više informacija nije uvjerljivije. Deset tačaka se zaboravi; tri se zapamte."
+      }
+    },
+    {
+      "slug": "slide-design",
+      "term": "Slide design",
+      "local": "izgled slajdova",
+      "minutes": 3,
+      "youtube": "pt5Y3_bz76E",
+      "youtubeQuery": "slide design tips less text presentation",
+      "related": ["Presentation structure", "Data visualisation", "Plain language"],
+      "en": {
+        "one": "Good slides support what you say instead of repeating it. One idea per slide, few words, and visuals that make the point clearer.",
+        "explain": "Use a headline that states the message ('Delivery time doubled in March'), not just a topic ('Delivery'). Replace bullet walls with one chart, picture or number. Big fonts, plenty of space, and the same colours throughout. If people are reading your slides, they aren't listening to you.",
+        "example": "Instead of a slide with 12 lines about costs, a speaker shows one bar chart with the biggest cost highlighted in red and the headline 'Rent is now 40% of our costs'.",
+        "why": "Clean slides keep attention on your message and make you look prepared.",
+        "mixup": "Slides aren't your script. Keep your notes separate; the audience should see only what helps them."
+      },
+      "bs": {
+        "one": "Dobri slajdovi podržavaju ono što govoriš umjesto da to ponavljaju. Jedna ideja po slajdu, malo riječi i vizuali koji poentu čine jasnijom.",
+        "explain": "Koristi naslov koji iznosi poruku ('Vrijeme dostave se udvostručilo u martu'), a ne samo temu ('Dostava'). Zidove natuknica zamijeni jednim grafikonom, slikom ili brojem. Veliki fontovi, dosta prostora i iste boje kroz cijelu prezentaciju. Ako ljudi čitaju slajdove, ne slušaju tebe.",
+        "example": "Umjesto slajda s 12 redova o troškovima, govornica pokaže jedan stupčasti grafikon s najvećim troškom istaknutim crveno i naslovom 'Kirija je sada 40% naših troškova'.",
+        "why": "Čisti slajdovi drže pažnju na tvojoj poruci i pokazuju da si pripremljen.",
+        "mixup": "Slajdovi nisu tvoj scenarij. Bilješke drži odvojeno; publika treba vidjeti samo ono što joj pomaže."
+      }
+    },
+    {
+      "slug": "presentation-delivery",
+      "term": "Presentation delivery",
+      "local": "način izlaganja",
+      "minutes": 3,
+      "youtube": "tXzkpIrmhQw",
+      "youtubeQuery": "presentation delivery body language voice tips",
+      "related": ["Verbal and non-verbal communication", "Stage nerves", "Using silence"],
+      "en": {
+        "one": "Delivery is how you present: your voice, pace, pauses, eye contact and movement.",
+        "explain": "Speak a little slower than feels natural, pause after key points, and look at different people for a full sentence each. Stand still when you make an important point; move when you change topic. Practise out loud at least twice, ideally once in front of someone.",
+        "example": "Two people give the same talk. One reads from the slides quickly in a flat voice. The other speaks to the room, pauses after 'this cost us 50,000 €', and lets it sink in. Only the second gets remembered.",
+        "why": "The same content can convince or bore people depending on how it's delivered.",
+        "mixup": "Confidence isn't the absence of nerves. It's mostly preparation and practice that you can see."
+      },
+      "bs": {
+        "one": "Način izlaganja je kako prezentuješ: glas, tempo, pauze, kontakt očima i pokreti.",
+        "explain": "Pričaj malo sporije nego što ti djeluje prirodno, napravi pauzu nakon ključnih tačaka i gledaj u različite ljude po jednu cijelu rečenicu. Stoj mirno kad iznosiš važnu poentu; pomjeri se kad mijenjaš temu. Vježbaj naglas bar dvaput, najbolje jednom pred nekim.",
+        "example": "Dvoje drže isto izlaganje. Jedan brzo čita sa slajdova ravnim glasom. Druga priča prostoriji, napravi pauzu nakon 'ovo nas je koštalo 50.000 €' i pusti da se slegne. Pamti se samo druga.",
+        "why": "Isti sadržaj može uvjeriti ili dosaditi, zavisno od toga kako se izloži.",
+        "mixup": "Samopouzdanje nije odsustvo treme. To je uglavnom priprema i vježba koja se vidi."
+      }
+    },
+    {
+      "slug": "handling-questions",
+      "term": "Handling questions",
+      "local": "odgovaranje na pitanja",
+      "minutes": 3,
+      "youtube": "phP4iIqE5VA",
+      "youtubeQuery": "how to handle questions after a presentation",
+      "related": ["Paraphrasing and summarising", "Presentation structure", "De-escalation"],
+      "en": {
+        "one": "Handling questions means answering the audience clearly and calmly, including the hard or hostile ones.",
+        "explain": "Listen to the whole question, repeat or rephrase it so everyone heard it, answer briefly, and check: 'Does that answer it?' If you don't know, say so and promise to follow up by a date. Prepare for the three questions you fear most before you present.",
+        "example": "A board member asks sharply: 'Why should we believe these numbers?' The presenter says: 'Fair question. They come from our sales system for the last 12 months; I'll send the raw data today.'",
+        "why": "Q&A is often where decisions are really made. Good answers build trust; bluffing destroys it.",
+        "mixup": "You don't need to know everything. 'I'll check and get back to you by Friday' is a strong answer if you then do it."
+      },
+      "bs": {
+        "one": "Odgovaranje na pitanja znači odgovoriti publici jasno i mirno, uključujući teška ili neprijateljska pitanja.",
+        "explain": "Saslušaj cijelo pitanje, ponovi ga ili preformuliši da svi čuju, odgovori kratko i provjeri: 'Je li to odgovor?'. Ako ne znaš, reci to i obećaj da ćeš se javiti do određenog datuma. Prije prezentacije pripremi se za tri pitanja kojih se najviše bojiš.",
+        "example": "Član uprave oštro pita: 'Zašto bismo vjerovali ovim brojkama?' Prezenter kaže: 'Fer pitanje. Dolaze iz našeg prodajnog sistema za zadnjih 12 mjeseci; danas ću poslati sirove podatke.'",
+        "why": "Pitanja i odgovori su često mjesto gdje se odluke zaista donose. Dobri odgovori grade povjerenje; blefiranje ga ruši.",
+        "mixup": "Ne moraš sve znati. 'Provjeriću i javiću do petka' je jak odgovor ako to onda i uradiš."
+      }
+    },
+    {
+      "slug": "presentation-nerves",
+      "term": "Stage nerves",
+      "local": "trema",
+      "minutes": 3,
+      "youtube": "mbDipVRt5aE",
+      "youtubeQuery": "how to deal with presentation anxiety nerves",
+      "related": ["Presentation delivery", "Presentation structure", "Assertiveness"],
+      "en": {
+        "one": "Stage nerves (presentation anxiety) are the fast heartbeat, shaky voice and blank mind many people feel before speaking in front of others.",
+        "explain": "It's normal and even useful: some tension keeps you sharp. What helps most: know your first two minutes by heart, practise out loud, arrive early to check the room and tech, and breathe slowly out for longer than in. Focus on helping the audience, not on how you look.",
+        "example": "Before her first client pitch, a junior consultant rehearses the opening five times and does slow breathing in the corridor. Her voice shakes for 30 seconds, then settles.",
+        "why": "Most people have to present at some point. Handling nerves lets your content shine.",
+        "mixup": "The audience notices your nerves far less than you think, and most of them want you to do well."
+      },
+      "bs": {
+        "one": "Trema (strah od izlaganja) je ubrzan rad srca, drhtav glas i prazna glava koje mnogi osjete prije nego što govore pred drugima.",
+        "explain": "To je normalno i čak korisno: malo napetosti te drži budnim. Najviše pomaže: znaj prve dvije minute napamet, vježbaj naglas, dođi ranije da provjeriš prostoriju i tehniku i diši polako, s dužim izdahom nego udahom. Fokusiraj se na to da pomogneš publici, a ne na to kako izgledaš.",
+        "example": "Prije prve prezentacije klijentu, mlada konsultantica pet puta uvježba uvod i polako diše u hodniku. Glas joj drhti 30 sekundi, a onda se smiri.",
+        "why": "Većina ljudi mora nekad prezentovati. Kad savladaš tremu, sadržaj dođe do izražaja.",
+        "mixup": "Publika primijeti tvoju tremu mnogo manje nego što misliš, a većina želi da ti uspije."
+      }
+    },
+    {
+      "slug": "executive-summary",
+      "term": "Executive summary",
+      "local": "izvršni sažetak",
+      "minutes": 3,
+      "youtube": "MjdouyDnW5s",
+      "youtubeQuery": "how to write an executive summary",
+      "related": ["Bottom line up front", "Presentation structure", "Plain language"],
+      "en": {
+        "one": "An executive summary is a short opening section, often half a page, that gives a busy decision-maker the whole story: problem, solution, cost and what you need from them.",
+        "explain": "Write it last but put it first. Someone who reads only this part should know what you propose and why. Use numbers and plain language, and end with the decision you're asking for.",
+        "example": "A 20-page plan for a new shop starts: 'We propose a second shop in Graz. It costs 80,000 €, breaks even in 18 months, and uses our existing supplier. We ask the owners to approve the lease by 30 June.'",
+        "why": "Senior people often decide based on the summary alone.",
+        "mixup": "It isn't an introduction or a table of contents. It contains the actual conclusions."
+      },
+      "bs": {
+        "one": "Izvršni sažetak je kratak uvodni dio, često pola stranice, koji zauzetom donosiocu odluke daje cijelu priču: problem, rješenje, trošak i šta ti od njega treba.",
+        "explain": "Napiši ga zadnji, ali stavi ga prvi. Ko pročita samo taj dio, treba znati šta predlažeš i zašto. Koristi brojeve i jasan jezik i završi s odlukom koju tražiš.",
+        "example": "Plan od 20 strana za novu radnju počinje: 'Predlažemo drugu radnju u Grazu. Košta 80.000 €, dolazi do tačke pokrića za 18 mjeseci i koristi našeg postojećeg dobavljača. Tražimo od vlasnika da odobre zakup do 30. juna.'",
+        "why": "Rukovodioci često odlučuju samo na osnovu sažetka.",
+        "mixup": "To nije uvod ni sadržaj. Sadrži stvarne zaključke."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "How many main points should a short presentation have?",
+        "bs": "Koliko glavnih tačaka treba imati kratka prezentacija?"
+      },
+      "options": [
+        { "en": "At least ten", "bs": "Najmanje deset" },
+        { "en": "About three", "bs": "Oko tri" },
+        { "en": "As many as possible", "bs": "Što više" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "People remember a few points; long lists are forgotten.",
+        "bs": "Ljudi pamte par tačaka; duge liste se zaborave."
+      }
+    },
+    {
+      "q": { "en": "Which slide headline is best?", "bs": "Koji naslov slajda je najbolji?" },
+      "options": [
+        {
+          "en": "Returns fell by half after the new packaging",
+          "bs": "Povrati su pali na pola nakon novog pakovanja"
+        },
+        {
+          "en": "Q2 returns data overview and analysis",
+          "bs": "Pregled i analiza podataka o povratima za Q2"
+        },
+        { "en": "Returns", "bs": "Povrati" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "A headline that states the message tells the audience what to take away.",
+        "bs": "Naslov koji iznosi poruku kaže publici šta da zapamti."
+      }
+    },
+    {
+      "q": {
+        "en": "Someone asks a question you can't answer. What do you do?",
+        "bs": "Neko postavi pitanje na koje ne znaš odgovor. Šta radiš?"
+      },
+      "options": [
+        {
+          "en": "Say you'll check and reply by a set date",
+          "bs": "Kažeš da ćeš provjeriti i odgovoriti do određenog datuma"
+        },
+        { "en": "Ignore it and move on", "bs": "Ignorišeš i nastaviš" },
+        { "en": "Guess confidently", "bs": "Samouvjereno pogodiš" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Honesty plus a follow-up builds trust; a wrong guess destroys it.",
+        "bs": "Iskrenost i naknadni odgovor grade povjerenje; pogrešno nagađanje ga ruši."
+      }
+    },
+    {
+      "q": { "en": "What belongs in an executive summary?", "bs": "Šta ide u izvršni sažetak?" },
+      "options": [
+        { "en": "A list of chapters", "bs": "Lista poglavlja" },
+        {
+          "en": "The proposal, cost and the decision you need",
+          "bs": "Prijedlog, trošak i odluka koja ti treba"
+        },
+        { "en": "The history of the company", "bs": "Historija firme" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "A reader of the summary alone should know what you want and why.",
+        "bs": "Ko pročita samo sažetak treba znati šta želiš i zašto."
+      }
+    }
+  ]
+}
