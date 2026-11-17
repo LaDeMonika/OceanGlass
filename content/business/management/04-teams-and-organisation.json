@@ -1,0 +1,209 @@
+{
+  "slug": "teams-and-organisation",
+  "title": { "en": "Teams & organisation", "bs": "Timovi i organizacija" },
+  "summary": {
+    "en": "How work and people are arranged: structure, roles, culture and communication.",
+    "bs": "Kako su raspoređeni posao i ljudi: struktura, uloge, kultura i komunikacija."
+  },
+  "concepts": [
+    {
+      "slug": "org-structure",
+      "term": "Organisational structure",
+      "local": "organizaciona struktura",
+      "minutes": 5,
+      "youtube": "LCAAivdxVTU",
+      "youtubeQuery": "organizational structure types explained",
+      "related": ["Span of control", "Roles & responsibilities (RACI)", "Company culture"],
+      "en": {
+        "one": "Organisational structure is how a company groups people and who reports to whom. It's often drawn as an org chart.",
+        "explain": "Small firms are usually flat: everyone reports to the owner. As they grow, they group people by function (sales, production, finance), by product, or by region. Each choice affects how fast decisions are made and how well teams work together.",
+        "example": "A bakery with 25 staff splits into production, two shops and a delivery team, each with its own lead reporting to the owner.",
+        "why": "A clear structure means people know who decides what and who to ask.",
+        "mixup": "An org chart isn't how work really flows. Real work crosses boxes, so teams must cooperate across them."
+      },
+      "bs": {
+        "one": "Organisational structure (organizaciona struktura) je kako firma grupiše ljude i ko kome odgovara. Često se crta kao organigram.",
+        "explain": "Male firme su obično ravne: svi odgovaraju vlasniku. Kako rastu, grupišu ljude po funkciji (prodaja, proizvodnja, finansije), po proizvodu ili po regiji. Svaki izbor utiče na brzinu odluka i koliko dobro timovi sarađuju.",
+        "example": "Pekara s 25 radnika podijeli se na proizvodnju, dvije radnje i dostavu, svaki s vlastitim voditeljem koji odgovara vlasniku.",
+        "why": "Jasna struktura znači da ljudi znaju ko o čemu odlučuje i koga da pitaju.",
+        "mixup": "Organigram nije način na koji posao stvarno teče. Stvarni posao prelazi preko kutija, pa timovi moraju sarađivati preko njih."
+      }
+    },
+    {
+      "slug": "raci",
+      "term": "Roles & responsibilities (RACI)",
+      "local": "uloge i odgovornosti (RACI)",
+      "minutes": 4,
+      "youtube": "3xsfuDXEfd0",
+      "youtubeQuery": "RACI matrix explained",
+      "related": ["Accountability", "Delegation", "Organisational structure"],
+      "en": {
+        "one": "A RACI chart shows, for each task, who is Responsible (does it), Accountable (owns it), Consulted (gives input) and Informed (kept updated).",
+        "explain": "It's a simple table: tasks down the side, people across the top, letters in the boxes. There should be exactly one 'A' per task. It clears up the classic confusion of 'I thought you were doing that'.",
+        "example": "Launching a new menu: chef is Responsible, manager Accountable, supplier Consulted, waiters Informed.",
+        "why": "Clear roles prevent dropped tasks, duplicate work and blame games.",
+        "mixup": "Consulting everyone on everything isn't teamwork. Too many C's slow decisions down."
+      },
+      "bs": {
+        "one": "RACI tabela pokazuje, za svaki zadatak, ko je Izvršilac (Responsible: radi ga), Odgovoran (Accountable: posjeduje ga), Konsultovan (Consulted: daje mišljenje) i Informisan (Informed: obavještava se).",
+        "explain": "To je jednostavna tabela: zadaci niz stranu, ljudi preko vrha, slova u poljima. Za svaki zadatak treba postojati tačno jedno 'A'. Rješava klasičnu zabunu 'mislio sam da ti to radiš'.",
+        "example": "Uvođenje novog menija: kuhar je Izvršilac, menadžer Odgovoran, dobavljač Konsultovan, konobari Informisani.",
+        "why": "Jasne uloge sprečavaju zaboravljene zadatke, dupli posao i prebacivanje krivice.",
+        "mixup": "Konsultovanje svih o svemu nije timski rad. Previše C-ova usporava odluke."
+      }
+    },
+    {
+      "slug": "span-of-control",
+      "term": "Span of control",
+      "local": "raspon kontrole",
+      "minutes": 4,
+      "youtube": "HQhwbYju11c",
+      "youtubeQuery": "span of control explained",
+      "related": ["Organisational structure", "Delegation", "Manager vs. leader"],
+      "en": {
+        "one": "Span of control is how many people report directly to one manager.",
+        "explain": "A narrow span (3–5 people) allows close support but adds layers of bosses. A wide span (10–15) is cheaper and faster but only works if people are experienced and the work is clear. When a manager has too many direct reports, nobody gets real attention.",
+        "example": "An owner managing 18 people alone is always firefighting. Naming two team leads cuts that to 2 direct reports plus a few specialists.",
+        "why": "It helps you see when it's time to add a management layer, or remove one.",
+        "mixup": "Fewer managers isn't always more efficient. Overloaded managers become the bottleneck."
+      },
+      "bs": {
+        "one": "Span of control (raspon kontrole) je koliko ljudi direktno odgovara jednom menadžeru.",
+        "explain": "Uzak raspon (3–5 ljudi) omogućava blisku podršku, ali dodaje nivoe šefova. Širok raspon (10–15) je jeftiniji i brži, ali radi samo ako su ljudi iskusni, a posao jasan. Kad menadžer ima previše direktnih podređenih, niko ne dobije stvarnu pažnju.",
+        "example": "Vlasnik koji sam vodi 18 ljudi stalno gasi požare. Imenovanje dva voditelja tima smanji to na 2 direktna podređena plus par stručnjaka.",
+        "why": "Pomaže ti da vidiš kad je vrijeme dodati nivo menadžmenta, ili ga ukloniti.",
+        "mixup": "Manje menadžera nije uvijek efikasnije. Preopterećeni menadžeri postanu usko grlo."
+      }
+    },
+    {
+      "slug": "company-culture",
+      "term": "Company culture",
+      "local": "organizaciona kultura",
+      "minutes": 5,
+      "youtube": "v0_OY8G2AZg",
+      "youtubeQuery": "company culture explained",
+      "related": ["Values", "Psychological safety", "Employer branding"],
+      "en": {
+        "one": "Company culture is 'how we really do things here': the shared habits, values and unwritten rules.",
+        "explain": "It shows in what gets praised, what gets tolerated, how decisions are made, and how people treat each other under pressure. Culture is set mostly by what leaders do and reward, not by what's written in a handbook.",
+        "example": "In one shop, staff help each other when it's busy without being asked; in another, everyone guards their own tasks. Same pay, very different culture.",
+        "why": "Culture decides how people act when no one is watching, which is most of the time.",
+        "mixup": "Free snacks and a table-football table aren't culture. Culture is behaviour, not perks."
+      },
+      "bs": {
+        "one": "Company culture (organizaciona kultura) je 'kako mi ovdje stvarno radimo stvari': zajedničke navike, vrijednosti i nepisana pravila.",
+        "explain": "Vidi se u tome šta se hvali, šta se toleriše, kako se donose odluke i kako se ljudi ponašaju jedni prema drugima pod pritiskom. Kulturu uglavnom određuje ono što lideri rade i nagrađuju, a ne ono što piše u pravilniku.",
+        "example": "U jednoj radnji radnici pomažu jedni drugima kad je gužva bez da ih neko traži; u drugoj svako čuva samo svoje zadatke. Ista plata, sasvim druga kultura.",
+        "why": "Kultura odlučuje kako se ljudi ponašaju kad ih niko ne gleda, a to je većinu vremena.",
+        "mixup": "Besplatne grickalice i stoni fudbal nisu kultura. Kultura je ponašanje, ne pogodnosti."
+      }
+    },
+    {
+      "slug": "team-communication",
+      "term": "Team communication",
+      "local": "komunikacija u timu",
+      "minutes": 4,
+      "youtube": "vfLYEs_cHYs",
+      "youtubeQuery": "effective team communication at work",
+      "related": ["One-on-one meetings", "Effective meetings", "Remote & hybrid work"],
+      "en": {
+        "one": "Team communication is how information moves between people so everyone knows what's happening and what's expected.",
+        "explain": "Pick the right channel: urgent and simple goes to chat or a call, decisions and details go in writing, sensitive topics are face to face. Over-communicate goals and changes. Short regular check-ins beat rare long meetings.",
+        "example": "A café team has a 5-minute huddle at the start of each shift: today's specials, stock issues and any big bookings.",
+        "why": "Most workplace mistakes come from people not knowing something someone else knew.",
+        "mixup": "Sending a message isn't the same as being understood. Check that the key point landed."
+      },
+      "bs": {
+        "one": "Team communication (komunikacija u timu) je kako informacije putuju između ljudi da svi znaju šta se dešava i šta se očekuje.",
+        "explain": "Izaberi pravi kanal: hitno i jednostavno ide u chat ili poziv, odluke i detalji idu pismeno, osjetljive teme licem u lice. Ciljeve i promjene komuniciraj i više nego što misliš da treba. Kratke redovne provjere su bolje od rijetkih dugih sastanaka.",
+        "example": "Tim kafića ima 5-minutni sastanak na početku svake smjene: današnji specijaliteti, problemi sa zalihama i velike rezervacije.",
+        "why": "Većina grešaka na poslu dolazi otud što neko nije znao nešto što je neko drugi znao.",
+        "mixup": "Poslati poruku nije isto što i biti shvaćen. Provjeri da je glavna poenta stigla."
+      }
+    },
+    {
+      "slug": "remote-work",
+      "term": "Remote & hybrid work",
+      "local": "rad na daljinu i hibridni rad",
+      "minutes": 4,
+      "youtube": "GJfiz-NYRYo",
+      "youtubeQuery": "managing remote and hybrid teams explained",
+      "related": ["Team communication", "Trust", "KPI (Key performance indicator)"],
+      "en": {
+        "one": "Remote work means working away from the office, usually from home. Hybrid mixes office days and remote days.",
+        "explain": "It can widen your hiring pool and cut costs, but needs clear goals, written communication, good tools and trust. Manage by results, not by how many hours someone is online. Some roles, like serving customers in a shop, can't be remote.",
+        "example": "A Sarajevo marketing agency hires a designer in Mostar who works fully remote, with a video check-in every morning and shared project boards.",
+        "why": "Done well, flexible work helps you hire and keep good people.",
+        "mixup": "Remote doesn't mean always available. Agree response times and working hours, or people burn out."
+      },
+      "bs": {
+        "one": "Remote work (rad na daljinu) znači rad izvan kancelarije, obično od kuće. Hibridni rad kombinuje dane u kancelariji i dane od kuće.",
+        "explain": "Može proširiti krug ljudi koje možeš zaposliti i smanjiti troškove, ali traži jasne ciljeve, pisanu komunikaciju, dobre alate i povjerenje. Upravljaj rezultatima, ne brojem sati koliko je neko online. Neke uloge, kao usluživanje kupaca u radnji, ne mogu na daljinu.",
+        "example": "Marketinška agencija iz Sarajeva zaposli dizajnera iz Mostara koji radi potpuno na daljinu, uz video provjeru svako jutro i zajedničke table projekata.",
+        "why": "Kad se dobro radi, fleksibilan rad pomaže da zaposliš i zadržiš dobre ljude.",
+        "mixup": "Na daljinu ne znači uvijek dostupan. Dogovorite vrijeme za odgovor i radne sate, inače ljudi izgore."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "In a RACI chart, how many people should be 'Accountable' for one task?",
+        "bs": "U RACI tabeli, koliko ljudi treba biti 'Odgovorno' za jedan zadatak?"
+      },
+      "options": [
+        { "en": "At least three", "bs": "Bar tri" },
+        { "en": "Exactly one", "bs": "Tačno jedan" },
+        { "en": "Everyone involved", "bs": "Svi uključeni" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "One owner per task avoids confusion and blame.",
+        "bs": "Jedan vlasnik po zadatku izbjegava zabunu i prebacivanje krivice."
+      }
+    },
+    {
+      "q": {
+        "en": "An owner has 18 direct reports and is always firefighting. What helps most?",
+        "bs": "Vlasnik ima 18 direktnih podređenih i stalno gasi požare. Šta najviše pomaže?"
+      },
+      "options": [
+        {
+          "en": "Naming team leads to narrow the span of control",
+          "bs": "Imenovati voditelje timova da suzi raspon kontrole"
+        },
+        { "en": "Working longer hours", "bs": "Raditi duže" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Too wide a span overloads the manager; leads share the load.",
+        "bs": "Preširok raspon preoptereti menadžera; voditelji dijele teret."
+      }
+    },
+    {
+      "q": { "en": "What mainly shapes company culture?", "bs": "Šta uglavnom oblikuje organizacionu kulturu?" },
+      "options": [
+        { "en": "The handbook text", "bs": "Tekst pravilnika" },
+        { "en": "Office perks", "bs": "Pogodnosti u kancelariji" },
+        { "en": "What leaders do and reward", "bs": "Ono što lideri rade i nagrađuju" }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "People copy what's actually praised and tolerated.",
+        "bs": "Ljudi kopiraju ono što se stvarno hvali i toleriše."
+      }
+    },
+    {
+      "q": { "en": "How should you manage a remote team?", "bs": "Kako upravljati timom na daljinu?" },
+      "options": [
+        { "en": "By hours spent online", "bs": "Po satima provedenim online" },
+        { "en": "By results and clear goals", "bs": "Po rezultatima i jasnim ciljevima" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Online time doesn't show output; clear goals and results do.",
+        "bs": "Vrijeme online ne pokazuje učinak; jasni ciljevi i rezultati da."
+      }
+    }
+  ]
+}

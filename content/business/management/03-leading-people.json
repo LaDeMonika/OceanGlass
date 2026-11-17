@@ -1,0 +1,209 @@
+{
+  "slug": "leading-people",
+  "title": { "en": "Leading people", "bs": "Vođenje ljudi" },
+  "summary": {
+    "en": "How to motivate people, give feedback, build trust and handle conflict.",
+    "bs": "Kako motivisati ljude, davati povratne informacije, graditi povjerenje i rješavati sukobe."
+  },
+  "concepts": [
+    {
+      "slug": "leadership-styles",
+      "term": "Leadership styles",
+      "local": "stilovi liderstva",
+      "minutes": 5,
+      "youtube": "tPvAAFhYPoY",
+      "youtubeQuery": "leadership styles explained",
+      "related": ["Manager vs. leader", "Motivation", "Delegation"],
+      "en": {
+        "one": "Leadership styles are the typical ways a boss directs people, from giving orders to letting the team decide.",
+        "explain": "Common styles: directive (tell people what to do), coaching (help them grow), democratic (decide together), and hands-off (trust them to run it). No style fits every case: a crisis needs clear direction, an expert team needs freedom. Good leaders switch style to fit the person and the moment.",
+        "example": "A new waiter gets step-by-step instructions on day one. A head chef with ten years' experience gets a goal and a budget and is left to run the kitchen.",
+        "why": "Using the wrong style frustrates people: micromanaging experts or abandoning beginners.",
+        "mixup": "Being nice is not a style. Kind leaders can still be clear and demanding."
+      },
+      "bs": {
+        "one": "Leadership styles (stilovi liderstva) su tipični načini na koje šef usmjerava ljude, od davanja naredbi do prepuštanja timu da odluči.",
+        "explain": "Česti stilovi: direktivni (reci ljudima šta da rade), coaching (pomozi im da rastu), demokratski (odlučujte zajedno) i 'pusti ih' (vjeruj im da sami vode). Nijedan stil ne odgovara svakoj situaciji: kriza traži jasan smjer, stručni tim treba slobodu. Dobri lideri mijenjaju stil prema osobi i trenutku.",
+        "example": "Novi konobar prvi dan dobije upute korak po korak. Glavni kuhar s deset godina iskustva dobije cilj i budžet i sam vodi kuhinju.",
+        "why": "Pogrešan stil frustrira ljude: mikromenadžment stručnjaka ili ostavljanje početnika same sebi.",
+        "mixup": "Biti fin nije stil. Ljubazni lideri i dalje mogu biti jasni i zahtjevni."
+      }
+    },
+    {
+      "slug": "motivation",
+      "term": "Motivation",
+      "local": "motivacija",
+      "minutes": 5,
+      "youtube": "gKn_fV6PGGA",
+      "youtubeQuery": "intrinsic vs extrinsic motivation at work explained",
+      "related": ["Incentives", "Leadership styles", "Feedback"],
+      "en": {
+        "one": "Motivation is what makes people want to put in effort. It comes from outside (pay, bonuses) and from inside (meaning, growth, pride).",
+        "explain": "Fair pay matters: if people feel underpaid, little else works. But beyond that, people are driven most by autonomy (some control over how they work), mastery (getting better) and purpose (knowing why it matters).",
+        "example": "A delivery firm pays fairly, lets drivers plan their own routes, and shares customer thank-you notes every week. Staff turnover falls.",
+        "why": "Motivated teams work better, stay longer and need less supervision.",
+        "mixup": "Money isn't everything, but it isn't nothing either. Purpose talk can't replace a fair salary."
+      },
+      "bs": {
+        "one": "Motivation (motivacija) je ono što tjera ljude da žele uložiti trud. Dolazi spolja (plata, bonusi) i iznutra (smisao, rast, ponos).",
+        "explain": "Fer plata je važna: ako se ljudi osjećaju potplaćeno, malo šta drugo radi. Ali iznad toga, ljude najviše pokreću autonomija (neka kontrola nad načinom rada), majstorstvo (napredovanje) i svrha (znati zašto je važno).",
+        "example": "Dostavna firma plaća fer, pušta vozače da sami planiraju rute i svake sedmice podijeli zahvalnice kupaca. Odlazak radnika opadne.",
+        "why": "Motivisani timovi rade bolje, ostaju duže i trebaju manje nadzora.",
+        "mixup": "Novac nije sve, ali nije ni ništa. Priča o svrsi ne može zamijeniti fer platu."
+      }
+    },
+    {
+      "slug": "feedback",
+      "term": "Feedback",
+      "local": "povratna informacija",
+      "minutes": 5,
+      "youtube": "utAkRRefAqM",
+      "youtubeQuery": "how to give constructive feedback at work",
+      "related": ["One-on-one meetings", "Performance review", "Psychological safety"],
+      "en": {
+        "one": "Feedback is telling someone how their work is landing, so they can keep doing what works and fix what doesn't.",
+        "explain": "Good feedback is specific, timely and about behaviour, not personality. A simple pattern: describe the situation, the behaviour, and its impact, then ask for their view. Give positive feedback often and sincerely, not only criticism.",
+        "example": "Not 'You're careless', but: 'In yesterday's offer to the hotel (situation), the prices were from last year (behaviour), so we had to send a correction (impact). What happened?'",
+        "why": "Regular feedback stops small problems from growing and helps people improve fast.",
+        "mixup": "Feedback once a year isn't feedback. If the annual review holds surprises, something went wrong earlier."
+      },
+      "bs": {
+        "one": "Feedback (povratna informacija) je kad nekome kažeš kako njegov rad djeluje, da nastavi raditi ono što valja i popravi ono što ne valja.",
+        "explain": "Dobar feedback je konkretan, pravovremen i o ponašanju, a ne o ličnosti. Jednostavan obrazac: opiši situaciju, ponašanje i posljedicu, pa pitaj za njihov pogled. Pozitivan feedback daj često i iskreno, ne samo kritiku.",
+        "example": "Ne 'Nemaran si', nego: 'U jučerašnjoj ponudi hotelu (situacija) cijene su bile od prošle godine (ponašanje), pa smo morali slati ispravku (posljedica). Šta se desilo?'",
+        "why": "Redovan feedback sprečava da mali problemi narastu i pomaže ljudima da brzo napreduju.",
+        "mixup": "Feedback jednom godišnje nije feedback. Ako godišnja ocjena donosi iznenađenja, nešto je ranije pošlo naopako."
+      }
+    },
+    {
+      "slug": "one-on-one",
+      "term": "One-on-one meetings",
+      "local": "sastanci jedan na jedan",
+      "minutes": 4,
+      "youtube": "0O9siQr4IMQ",
+      "youtubeQuery": "one on one meetings with employees explained",
+      "related": ["Feedback", "Trust", "Coaching"],
+      "en": {
+        "one": "A one-on-one is a short, regular private meeting between a manager and one team member.",
+        "explain": "It's mainly the employee's time: their progress, problems, ideas and growth, not just a status update. Keep it regular (weekly or every two weeks, 20–30 minutes), and protect it from being cancelled. Write down what you agree.",
+        "example": "Every second Thursday a shop manager has 20 minutes with each staff member. One mentions a customer complaint pattern that nobody had raised in team meetings.",
+        "why": "It builds trust and surfaces problems early, before they become resignations.",
+        "mixup": "A one-on-one isn't a mini performance review. If every meeting feels like an exam, people stop being honest."
+      },
+      "bs": {
+        "one": "One-on-one (sastanak jedan na jedan) je kratak, redovan privatni sastanak menadžera i jednog člana tima.",
+        "explain": "To je uglavnom vrijeme zaposlenog: njegov napredak, problemi, ideje i razvoj, ne samo izvještaj o statusu. Neka bude redovan (sedmično ili svake dvije sedmice, 20–30 minuta) i čuvaj ga od otkazivanja. Zapiši šta ste dogovorili.",
+        "example": "Svakog drugog četvrtka menadžer radnje ima 20 minuta sa svakim radnikom. Jedan spomene obrazac žalbi kupaca koji niko nije iznio na timskim sastancima.",
+        "why": "Gradi povjerenje i rano otkriva probleme, prije nego postanu otkazi.",
+        "mixup": "One-on-one nije mini ocjenjivanje. Ako je svaki sastanak kao ispit, ljudi prestanu biti iskreni."
+      }
+    },
+    {
+      "slug": "psychological-safety",
+      "term": "Trust & psychological safety",
+      "local": "povjerenje i psihološka sigurnost",
+      "minutes": 5,
+      "youtube": "LhoLuui9gX8",
+      "youtubeQuery": "psychological safety at work explained",
+      "related": ["Feedback", "Company culture", "Accountability"],
+      "en": {
+        "one": "Psychological safety means people feel safe to speak up, ask questions and admit mistakes without being punished or mocked.",
+        "explain": "Google's research on its own teams found it was the biggest difference between strong and weak teams. Leaders build it by listening, thanking people for bad news, admitting their own mistakes, and reacting to errors with 'what can we learn?'",
+        "example": "A junior employee notices an error in a big invoice and tells the boss right away, because last time someone did, they were thanked, not shouted at.",
+        "why": "When people hide problems, they grow. Safety brings them to the surface while they're cheap to fix.",
+        "mixup": "Psychological safety isn't comfort or low standards. It's high standards plus honesty."
+      },
+      "bs": {
+        "one": "Psychological safety (psihološka sigurnost) znači da se ljudi osjećaju sigurno da progovore, pitaju i priznaju greške a da ne budu kažnjeni ili ismijani.",
+        "explain": "Googleovo istraživanje vlastitih timova pokazalo je da je to najveća razlika između jakih i slabih timova. Lideri je grade slušanjem, zahvaljivanjem na lošim vijestima, priznavanjem svojih grešaka i reagovanjem na greške s 'šta možemo naučiti?'",
+        "example": "Mlađi radnik primijeti grešku u velikoj fakturi i odmah kaže šefu, jer je prošli put neko to uradio i dobio zahvalu, a ne viku.",
+        "why": "Kad ljudi sakrivaju probleme, oni rastu. Sigurnost ih iznosi na površinu dok su jeftini za popravku.",
+        "mixup": "Psihološka sigurnost nije udobnost ni niski standardi. To su visoki standardi plus iskrenost."
+      }
+    },
+    {
+      "slug": "conflict-resolution",
+      "term": "Conflict resolution",
+      "local": "rješavanje sukoba",
+      "minutes": 5,
+      "youtube": "3WHN4cNwL2k",
+      "youtubeQuery": "conflict resolution in the workplace explained",
+      "related": ["Feedback", "Psychological safety", "Negotiation"],
+      "en": {
+        "one": "Conflict resolution is dealing with disagreements so they lead to better decisions instead of damaged relationships.",
+        "explain": "Some conflict about ideas is healthy. Problems start when it turns personal or is avoided. Steps: talk early and privately, let each side explain, focus on interests (what each really needs) rather than positions, find options, and agree next steps.",
+        "example": "Two shift leads argue over who gets Saturdays off. The manager learns one needs time for a sick parent and the other for a weekend course, and they agree a rotating schedule.",
+        "why": "Unresolved conflict drains energy, slows work and pushes good people out.",
+        "mixup": "Avoiding conflict isn't keeping the peace. Silent tension usually explodes later, bigger."
+      },
+      "bs": {
+        "one": "Conflict resolution (rješavanje sukoba) je bavljenje neslaganjima tako da vode boljim odlukama, a ne narušenim odnosima.",
+        "explain": "Nešto sukoba oko ideja je zdravo. Problemi počinju kad postane lično ili se izbjegava. Koraci: razgovaraj rano i nasamo, pusti svaku stranu da objasni, fokusiraj se na interese (šta svako stvarno treba), a ne na pozicije, nađi opcije i dogovori sljedeće korake.",
+        "example": "Dva voditelja smjene se svađaju ko dobija slobodne subote. Menadžer sazna da jednom treba vrijeme za bolesnog roditelja, a drugom za vikend kurs, pa dogovore rotirajući raspored.",
+        "why": "Neriješen sukob crpi energiju, usporava rad i tjera dobre ljude.",
+        "mixup": "Izbjegavanje sukoba nije čuvanje mira. Tiha napetost obično eksplodira kasnije, veća."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": { "en": "Which feedback is better?", "bs": "Koji feedback je bolji?" },
+      "options": [
+        { "en": "'You're careless.'", "bs": "'Nemaran si.'" },
+        {
+          "en": "'Yesterday's offer used last year's prices, so we had to correct it. What happened?'",
+          "bs": "'Jučerašnja ponuda imala je prošlogodišnje cijene, pa smo morali ispravljati. Šta se desilo?'"
+        }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Good feedback names the situation, behaviour and impact, not the person's character.",
+        "bs": "Dobar feedback imenuje situaciju, ponašanje i posljedicu, ne karakter osobe."
+      }
+    },
+    {
+      "q": {
+        "en": "Beyond fair pay, what motivates most people at work?",
+        "bs": "Iznad fer plate, šta najviše motiviše ljude na poslu?"
+      },
+      "options": [
+        { "en": "Autonomy, mastery and purpose", "bs": "Autonomija, majstorstvo i svrha" },
+        { "en": "More meetings", "bs": "Više sastanaka" },
+        { "en": "Stricter rules", "bs": "Stroža pravila" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "People want some control, a chance to get better, and a reason why it matters.",
+        "bs": "Ljudi žele malo kontrole, priliku da napreduju i razlog zašto je važno."
+      }
+    },
+    {
+      "q": {
+        "en": "A new waiter on day one probably needs which style?",
+        "bs": "Novom konobaru prvi dan vjerovatno treba koji stil?"
+      },
+      "options": [
+        { "en": "Directive, step by step", "bs": "Direktivni, korak po korak" },
+        { "en": "Hands-off", "bs": "'Pusti ih'" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Beginners need clear direction; experienced people need more freedom.",
+        "bs": "Početnicima treba jasan smjer; iskusnima više slobode."
+      }
+    },
+    {
+      "q": { "en": "In a conflict, what should you focus on?", "bs": "U sukobu, na šta se treba fokusirati?" },
+      "options": [
+        { "en": "Avoiding the topic", "bs": "Izbjegavanje teme" },
+        { "en": "Each side's real interests", "bs": "Stvarne interese svake strane" },
+        { "en": "Who is right", "bs": "Ko je u pravu" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Interests reveal options both sides can accept.",
+        "bs": "Interesi otkrivaju opcije koje obje strane mogu prihvatiti."
+      }
+    }
+  ]
+}

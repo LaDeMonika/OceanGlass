@@ -1,0 +1,211 @@
+{
+  "slug": "change-and-problem-solving",
+  "title": { "en": "Change & problem-solving", "bs": "Promjene i rješavanje problema" },
+  "summary": {
+    "en": "Leading people through change, solving problems at the root, and using time well.",
+    "bs": "Kako voditi ljude kroz promjene, rješavati probleme u korijenu i dobro koristiti vrijeme."
+  },
+  "concepts": [
+    {
+      "slug": "change-management",
+      "term": "Change management",
+      "local": "upravljanje promjenama",
+      "minutes": 5,
+      "youtube": "NXbqTag2HWc",
+      "youtubeQuery": "change management explained simply",
+      "related": ["Team communication", "Leadership styles", "Resistance to change"],
+      "en": {
+        "one": "Change management is helping people move from the old way of working to a new one, so the change actually sticks.",
+        "explain": "People resist change when they don't understand why, fear losing something, or weren't involved. Explain the reason, involve people early, show quick wins, train and support them, and keep communicating. Expect a dip in performance before things improve.",
+        "example": "A firm switches from paper orders to a tablet system. The manager explains why, lets two staff test it first, trains everyone, and keeps paper as backup for two weeks.",
+        "why": "Most changes fail because of people, not technology.",
+        "mixup": "Announcing a change isn't the same as making it happen. One email rarely changes habits."
+      },
+      "bs": {
+        "one": "Change management (upravljanje promjenama) je pomaganje ljudima da pređu sa starog načina rada na novi, tako da se promjena stvarno zadrži.",
+        "explain": "Ljudi se opiru promjeni kad ne razumiju zašto, boje se da će nešto izgubiti ili nisu bili uključeni. Objasni razlog, uključi ljude rano, pokaži brze uspjehe, obuči ih i podrži i nastavi komunicirati. Očekuj pad učinka prije poboljšanja.",
+        "example": "Firma prelazi s papirnih narudžbi na sistem na tabletima. Menadžer objasni zašto, pusti dvoje radnika da ga prvo testiraju, obuči sve i dvije sedmice drži papir kao rezervu.",
+        "why": "Većina promjena propadne zbog ljudi, a ne tehnologije.",
+        "mixup": "Najava promjene nije isto što i njeno sprovođenje. Jedan mejl rijetko mijenja navike."
+      }
+    },
+    {
+      "slug": "five-whys",
+      "term": "Root cause analysis (5 Whys)",
+      "local": "analiza uzroka (5 zašto)",
+      "minutes": 4,
+      "youtube": "JLDKPj1TG1k",
+      "youtubeQuery": "5 whys root cause analysis explained",
+      "related": ["PDCA cycle (Plan-Do-Check-Act)", "Problem-solving", "Continuous improvement"],
+      "en": {
+        "one": "Root cause analysis means finding the real reason a problem happens, not just fixing the symptom. The '5 Whys' does this by asking 'why?' again and again.",
+        "explain": "Each answer becomes the next question, usually about five times, until you reach something you can fix for good. Focus on processes, not on blaming people.",
+        "example": "Deliveries are late. Why? Drivers leave late. Why? Orders are packed late. Why? Packing starts at 9. Why? Stock arrives at 8:45. Why? The supplier delivery window was never moved after opening hours changed. Fix: move the supplier window.",
+        "why": "Fixing root causes stops the same problem coming back every week.",
+        "mixup": "The answer is rarely 'someone was careless'. If a mistake is easy to make, the process is the problem."
+      },
+      "bs": {
+        "one": "Root cause analysis (analiza uzroka) znači pronaći pravi razlog zašto se problem dešava, a ne samo popraviti simptom. Metoda '5 zašto' to radi ponovljenim pitanjem 'zašto?'.",
+        "explain": "Svaki odgovor postaje sljedeće pitanje, obično oko pet puta, dok ne dođeš do nečega što možeš trajno popraviti. Fokusiraj se na procese, ne na okrivljavanje ljudi.",
+        "example": "Dostave kasne. Zašto? Vozači kreću kasno. Zašto? Narudžbe se kasno spakuju. Zašto? Pakovanje počinje u 9. Zašto? Roba stiže u 8:45. Zašto? Termin isporuke dobavljača nikad nije pomjeren nakon promjene radnog vremena. Rješenje: pomjeriti termin dobavljača.",
+        "why": "Popravka uzroka sprečava da se isti problem vraća svake sedmice.",
+        "mixup": "Odgovor je rijetko 'neko je bio nemaran'. Ako je grešku lako napraviti, problem je proces."
+      }
+    },
+    {
+      "slug": "effective-meetings",
+      "term": "Effective meetings",
+      "local": "efikasni sastanci",
+      "minutes": 4,
+      "youtube": "4O-48Mhsw7M",
+      "youtubeQuery": "how to run effective meetings",
+      "related": ["Team communication", "Accountability", "Time management"],
+      "en": {
+        "one": "An effective meeting has a clear purpose, the right people, and ends with decisions and owners.",
+        "explain": "Before: is a meeting needed, or would a message do? Share an agenda. During: start and end on time, stick to the agenda, let everyone speak. After: write down decisions, who does what, by when. Keep them short; stand-ups of 10–15 minutes work well for daily coordination.",
+        "example": "A weekly 30-minute team meeting with three fixed points: last week's numbers, problems needing help, next week's priorities, then a 3-line summary in the team chat.",
+        "why": "Bad meetings waste hours of everyone's time each week; good ones replace dozens of messages.",
+        "mixup": "A meeting without decisions or next steps is just a conversation."
+      },
+      "bs": {
+        "one": "Efikasan sastanak ima jasnu svrhu, prave ljude i završava odlukama i vlasnicima zadataka.",
+        "explain": "Prije: treba li uopšte sastanak ili bi poruka bila dovoljna? Pošalji dnevni red. Tokom: počni i završi na vrijeme, drži se dnevnog reda, pusti sve da govore. Poslije: zapiši odluke, ko radi šta i do kada. Neka budu kratki; stojeći sastanci od 10–15 minuta dobro rade za dnevnu koordinaciju.",
+        "example": "Sedmični timski sastanak od 30 minuta s tri stalne tačke: brojevi prošle sedmice, problemi kojima treba pomoć, prioriteti iduće sedmice, pa sažetak u 3 reda u timskom chatu.",
+        "why": "Loši sastanci troše sate svačijeg vremena svake sedmice; dobri zamjenjuju desetine poruka.",
+        "mixup": "Sastanak bez odluka ili sljedećih koraka je samo razgovor."
+      }
+    },
+    {
+      "slug": "time-management",
+      "term": "Time management",
+      "local": "upravljanje vremenom",
+      "minutes": 4,
+      "youtube": "0GXyRNi0Hsw",
+      "youtubeQuery": "time management techniques explained",
+      "related": ["Prioritisation", "Delegation", "Effective meetings"],
+      "en": {
+        "one": "Time management is planning and controlling how you spend your hours so the important work gets done.",
+        "explain": "Useful habits: plan the week ahead, block focused time for important tasks, batch small tasks like email, say no to low-value requests, and delegate. Track where your time actually goes for a week; it's usually a surprise.",
+        "example": "An owner blocks 8–10 am every day for planning and key clients, with phone notifications off, and answers email only at 11 and 4.",
+        "why": "Your time is a limited resource, and as the business grows it's often the scarcest one.",
+        "mixup": "Time management isn't squeezing in more tasks. It's doing fewer, more valuable ones."
+      },
+      "bs": {
+        "one": "Time management (upravljanje vremenom) je planiranje i kontrola kako trošiš sate da se važan posao uradi.",
+        "explain": "Korisne navike: planiraj sedmicu unaprijed, rezerviši fokusirano vrijeme za važne zadatke, grupiši sitne zadatke kao mejlove, reci ne zahtjevima male vrijednosti i delegiraj. Sedmicu dana prati gdje ti vrijeme stvarno odlazi; obično iznenadi.",
+        "example": "Vlasnik svaki dan rezerviše 8–10 sati za planiranje i ključne klijente, s ugašenim obavještenjima, a mejlove odgovara samo u 11 i 16 sati.",
+        "why": "Tvoje vrijeme je ograničen resurs, a kako posao raste, često je najoskudniji.",
+        "mixup": "Upravljanje vremenom nije uguravanje više zadataka. To je raditi manje, a vrednijih."
+      }
+    },
+    {
+      "slug": "stakeholder-management",
+      "term": "Stakeholder management",
+      "local": "upravljanje interesnim stranama",
+      "minutes": 4,
+      "youtube": "G3R4TO1l6LY",
+      "youtubeQuery": "stakeholder management explained",
+      "related": ["Team communication", "Change management", "Negotiation"],
+      "en": {
+        "one": "Stakeholders are everyone affected by or able to affect your work: staff, customers, owners, suppliers, banks, the local community, regulators.",
+        "explain": "Stakeholder management means knowing who they are, what they care about, how much influence they have, and keeping them appropriately involved. Key people get close attention; others get regular updates.",
+        "example": "Before expanding a café's terrace, the owner talks to neighbours, checks with the municipality and tells regular customers about the building works.",
+        "why": "Surprised stakeholders can block or delay plans; involved ones can help.",
+        "mixup": "Not every stakeholder needs a say in every decision. Match involvement to their interest and influence."
+      },
+      "bs": {
+        "one": "Stakeholders (interesne strane) su svi na koje tvoj rad utiče ili koji mogu uticati na njega: radnici, kupci, vlasnici, dobavljači, banke, lokalna zajednica, regulatori.",
+        "explain": "Upravljanje interesnim stranama znači znati ko su, do čega im je stalo, koliko uticaja imaju i uključivati ih na odgovarajući način. Ključni ljudi dobiju blisku pažnju; ostali redovne informacije.",
+        "example": "Prije širenja terase kafića, vlasnik razgovara s komšijama, provjeri s općinom i obavijesti stalne goste o radovima.",
+        "why": "Iznenađene interesne strane mogu blokirati ili odgoditi planove; uključene mogu pomoći.",
+        "mixup": "Nije svakoj interesnoj strani potrebna riječ u svakoj odluci. Prilagodi uključenost njihovom interesu i uticaju."
+      }
+    },
+    {
+      "slug": "crisis-management",
+      "term": "Crisis management",
+      "local": "upravljanje kriznim situacijama",
+      "minutes": 5,
+      "youtube": "xwYoJbsvlE4",
+      "youtubeQuery": "crisis management for small business explained",
+      "related": ["Risk vs. uncertainty", "Stakeholder management", "Business continuity"],
+      "en": {
+        "one": "Crisis management is preparing for and handling sudden events that threaten the business: a fire, a data leak, a product recall, a key person leaving, a pandemic.",
+        "explain": "Prepare before: list the main risks, keep backups and cash reserves, know who decides and who speaks. During: protect people first, act fast, communicate honestly and often. After: review what happened and update the plan.",
+        "example": "A food producer finds a contaminated batch. It recalls it within hours, tells customers and the inspection openly, and fixes the process. Trust recovers within months.",
+        "why": "How you handle a crisis can damage or strengthen your reputation for years.",
+        "mixup": "Staying silent isn't safe. In a crisis, silence lets others tell the story for you."
+      },
+      "bs": {
+        "one": "Crisis management (upravljanje kriznim situacijama) je priprema za iznenadne događaje koji prijete poslu i njihovo rješavanje: požar, curenje podataka, povlačenje proizvoda, odlazak ključne osobe, pandemija.",
+        "explain": "Pripremi se prije: navedi glavne rizike, čuvaj rezervne kopije i novčanu rezervu, znaj ko odlučuje, a ko govori. Tokom: prvo zaštiti ljude, djeluj brzo, komuniciraj iskreno i često. Poslije: pregledaj šta se desilo i ažuriraj plan.",
+        "example": "Proizvođač hrane otkrije kontaminiranu seriju. Povuče je za par sati, otvoreno obavijesti kupce i inspekciju i popravi proces. Povjerenje se vrati za nekoliko mjeseci.",
+        "why": "Način na koji vodiš krizu može oštetiti ili ojačati tvoj ugled godinama.",
+        "mixup": "Šutnja nije sigurna. U krizi, šutnja pušta druge da pričaju priču umjesto tebe."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "Deliveries are late again and again. What does '5 Whys' help you find?",
+        "bs": "Dostave stalno kasne. Šta ti '5 zašto' pomaže pronaći?"
+      },
+      "options": [
+        { "en": "A faster courier", "bs": "Bržeg kurira" },
+        { "en": "Who to blame", "bs": "Koga okriviti" },
+        { "en": "The root cause in the process", "bs": "Uzrok u korijenu procesa" }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "Asking why repeatedly leads to a cause you can fix for good.",
+        "bs": "Ponovljeno pitanje zašto vodi do uzroka koji možeš trajno popraviti."
+      }
+    },
+    {
+      "q": { "en": "Why do people resist change most often?", "bs": "Zašto se ljudi najčešće opiru promjeni?" },
+      "options": [
+        { "en": "They are lazy", "bs": "Lijeni su" },
+        {
+          "en": "They don't understand why or weren't involved",
+          "bs": "Ne razumiju zašto ili nisu bili uključeni"
+        }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Explaining the reason and involving people early reduces resistance.",
+        "bs": "Objašnjenje razloga i rano uključivanje smanjuju otpor."
+      }
+    },
+    {
+      "q": { "en": "What should every meeting end with?", "bs": "Čime bi svaki sastanak trebao završiti?" },
+      "options": [
+        { "en": "A date for the next meeting only", "bs": "Samo datumom idućeg sastanka" },
+        { "en": "Decisions, owners and deadlines", "bs": "Odlukama, vlasnicima zadataka i rokovima" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Without next steps, the meeting changes nothing.",
+        "bs": "Bez sljedećih koraka, sastanak ništa ne mijenja."
+      }
+    },
+    {
+      "q": {
+        "en": "A batch of your product is unsafe. What's the best first move?",
+        "bs": "Serija tvog proizvoda nije sigurna. Koji je najbolji prvi potez?"
+      },
+      "options": [
+        { "en": "Stay quiet and hope nobody notices", "bs": "Šutjeti i nadati se da niko neće primijetiti" },
+        {
+          "en": "Recall it fast and tell customers openly",
+          "bs": "Brzo je povući i otvoreno obavijestiti kupce"
+        }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Protect people first; honest, fast action protects trust too.",
+        "bs": "Prvo zaštiti ljude; iskreno i brzo djelovanje štiti i povjerenje."
+      }
+    }
+  ]
+}

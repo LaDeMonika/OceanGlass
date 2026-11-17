@@ -1,0 +1,209 @@
+{
+  "slug": "what-managers-do",
+  "title": { "en": "What managers do", "bs": "Šta rade menadžeri" },
+  "summary": {
+    "en": "The core jobs of a manager: plan, organise, lead, check, and decide.",
+    "bs": "Osnovni poslovi menadžera: planirati, organizovati, voditi, provjeravati i odlučivati."
+  },
+  "concepts": [
+    {
+      "slug": "management-functions",
+      "term": "Four functions of management",
+      "local": "četiri funkcije menadžmenta",
+      "minutes": 5,
+      "youtube": "cX9FAQOgtwQ",
+      "youtubeQuery": "four functions of management explained",
+      "related": ["Planning", "Leadership", "Control"],
+      "en": {
+        "one": "Management is getting things done through other people. Its four classic jobs are planning, organising, leading and controlling.",
+        "explain": "Planning: decide what to achieve and how. Organising: split the work, assign people and resources. Leading: motivate and guide the team. Controlling: check results against the plan and fix what's off. Good managers move through these in a loop, again and again.",
+        "example": "A restaurant manager plans the summer menu, organises shifts and suppliers, leads the staff briefing, and checks food costs every week.",
+        "why": "It gives you a simple map of what your job is when you start managing others.",
+        "mixup": "Controlling isn't about micromanaging people. It's about checking results and correcting course early."
+      },
+      "bs": {
+        "one": "Management (menadžment) je postizanje rezultata kroz druge ljude. Njegova četiri klasična posla su planiranje, organizovanje, vođenje i kontrola.",
+        "explain": "Planiranje: odluči šta postići i kako. Organizovanje: podijeli posao, dodijeli ljude i resurse. Vođenje: motiviši i usmjeravaj tim. Kontrola: provjeri rezultate u odnosu na plan i popravi ono što odstupa. Dobri menadžeri idu kroz ovo u krug, iznova i iznova.",
+        "example": "Menadžer restorana planira ljetni meni, organizuje smjene i dobavljače, vodi sastanak osoblja i svake sedmice provjerava troškove hrane.",
+        "why": "Daje ti jednostavnu mapu tvog posla kad počneš upravljati drugima.",
+        "mixup": "Kontrola nije mikromenadžment. Radi se o provjeri rezultata i ranom ispravljanju kursa."
+      }
+    },
+    {
+      "slug": "manager-vs-leader",
+      "term": "Manager vs. leader",
+      "local": "menadžer i lider",
+      "minutes": 4,
+      "youtube": "Ru13cBJ_Kpk",
+      "youtubeQuery": "manager vs leader difference explained",
+      "related": ["Leadership styles", "Four functions of management", "Motivation"],
+      "en": {
+        "one": "A manager makes sure the work gets done well. A leader gives people a direction they want to follow.",
+        "explain": "Managing is about plans, processes, budgets and deadlines. Leading is about vision, trust and inspiring people, especially through change. Good bosses do both: they keep things running and give people a reason to care.",
+        "example": "A shop manager who sets clear schedules is managing. When sales fall and she gathers the team, explains the new plan and gets everyone behind it, she's leading.",
+        "why": "Knowing the difference helps you see which side you're neglecting.",
+        "mixup": "Leadership is not a job title. Anyone on a team can lead; a manager can also fail to lead."
+      },
+      "bs": {
+        "one": "Menadžer se brine da posao bude dobro urađen. Lider daje ljudima smjer koji žele slijediti.",
+        "explain": "Upravljanje je o planovima, procesima, budžetima i rokovima. Liderstvo je o viziji, povjerenju i inspirisanju ljudi, posebno kroz promjene. Dobri šefovi rade oboje: drže stvari da rade i daju ljudima razlog da im bude stalo.",
+        "example": "Menadžerica radnje koja pravi jasne rasporede upravlja. Kad prodaja padne, a ona okupi tim, objasni novi plan i pridobije sve, ona vodi.",
+        "why": "Kad znaš razliku, vidiš koju stranu zanemaruješ.",
+        "mixup": "Liderstvo nije titula. Bilo ko u timu može voditi; i menadžer može ne uspjeti da vodi."
+      }
+    },
+    {
+      "slug": "delegation",
+      "term": "Delegation",
+      "local": "delegiranje",
+      "minutes": 5,
+      "youtube": "GYgnvr-FraM",
+      "youtubeQuery": "how to delegate effectively explained",
+      "related": ["Accountability", "Trust", "Time management"],
+      "en": {
+        "one": "Delegation is handing a task, and the authority to do it, to someone else, while you stay responsible for the result.",
+        "explain": "Explain the goal and why it matters, agree the deadline and how much freedom they have, give them what they need, then check in without taking it back. Delegate whole outcomes when you can, not just tiny steps.",
+        "example": "A café owner stops doing the weekly ordering herself. She shows the shift lead how, agrees a budget, and reviews the order on Monday for the first month.",
+        "why": "You can't grow a business if every decision waits for you; delegation multiplies what the team can do.",
+        "mixup": "Delegation isn't dumping. Handing over only the boring jobs, with no authority or support, just frustrates people."
+      },
+      "bs": {
+        "one": "Delegation (delegiranje) je predaja zadatka, i ovlasti da se uradi, nekom drugom, dok ti ostaješ odgovoran za rezultat.",
+        "explain": "Objasni cilj i zašto je važan, dogovori rok i koliko slobode imaju, daj im šta trebaju, pa provjeravaj bez preuzimanja nazad. Delegiraj cijele ishode kad možeš, ne samo sitne korake.",
+        "example": "Vlasnica kafića prestane sama raditi sedmičnu narudžbu. Pokaže voditelju smjene kako, dogovore budžet, i prvi mjesec ponedjeljkom pregleda narudžbu.",
+        "why": "Ne možeš razviti posao ako svaka odluka čeka tebe; delegiranje umnožava ono što tim može.",
+        "mixup": "Delegiranje nije istovar. Predaja samo dosadnih poslova, bez ovlasti i podrške, samo frustrira ljude."
+      }
+    },
+    {
+      "slug": "decision-making",
+      "term": "Decision-making",
+      "local": "donošenje odluka",
+      "minutes": 5,
+      "youtube": "d53AFjxT5hQ",
+      "youtubeQuery": "decision making process explained simply",
+      "related": ["Expected value", "Data-driven decisions", "Sunk cost fallacy"],
+      "en": {
+        "one": "Decision-making is choosing between options in a clear, deliberate way instead of by habit or mood.",
+        "explain": "A simple process: define the problem, list real options (including 'do nothing'), weigh pros, cons and risks, decide, then review the result. Match the effort to the stakes: decisions that are easy to undo can be made fast; ones that are hard to reverse deserve more care.",
+        "example": "Choosing between two suppliers, a manager compares price, quality, delivery reliability and payment terms in a small table, then picks one for a 3-month trial.",
+        "why": "Slow or messy decisions waste time and money; rushed big ones can sink a business.",
+        "mixup": "Waiting for perfect information is also a decision, usually a costly one."
+      },
+      "bs": {
+        "one": "Decision-making (donošenje odluka) je biranje između opcija na jasan, promišljen način, a ne po navici ili raspoloženju.",
+        "explain": "Jednostavan proces: definiši problem, navedi stvarne opcije (uključujući 'ne raditi ništa'), odvagni prednosti, mane i rizike, odluči, pa pregledaj rezultat. Prilagodi trud ulogu: odluke koje se lako ponište mogu brzo; one koje se teško vrate zaslužuju više pažnje.",
+        "example": "Birajući između dva dobavljača, menadžer u maloj tabeli uporedi cijenu, kvalitet, pouzdanost isporuke i uslove plaćanja, pa jednog izabere za probu od 3 mjeseca.",
+        "why": "Spore ili haotične odluke troše vrijeme i novac; ishitrene velike mogu potopiti firmu.",
+        "mixup": "Čekanje savršenih informacija je takođe odluka, obično skupa."
+      }
+    },
+    {
+      "slug": "prioritisation",
+      "term": "Prioritisation",
+      "local": "određivanje prioriteta",
+      "minutes": 4,
+      "youtube": "tT89OZ7TNwc",
+      "youtubeQuery": "Eisenhower matrix explained",
+      "related": ["Time management", "Delegation", "Goals"],
+      "en": {
+        "one": "Prioritisation is deciding what to do first, what later, and what not at all.",
+        "explain": "A popular tool is the Eisenhower matrix: sort tasks by urgent vs. not urgent and important vs. not important. Do important-and-urgent now, schedule important-but-not-urgent, delegate urgent-but-unimportant, and drop the rest. Most growth comes from the 'important, not urgent' box.",
+        "example": "A manager's week: a broken till (urgent, important: fix now), training a new hire (important: schedule), a supplier's sales call (delegate), sorting old emails (drop).",
+        "why": "Without priorities, the loudest problem wins, not the most valuable one.",
+        "mixup": "Busy is not productive. A full day of urgent small tasks can leave every important thing undone."
+      },
+      "bs": {
+        "one": "Prioritisation (određivanje prioriteta) je odluka šta raditi prvo, šta kasnije, a šta nikako.",
+        "explain": "Popularan alat je Eisenhowerova matrica: razvrstaj zadatke na hitne i nehitne te važne i nevažne. Važno i hitno uradi odmah, važno a nehitno zakaži, hitno a nevažno delegiraj, ostalo izbaci. Većina rasta dolazi iz polja 'važno, nije hitno'.",
+        "example": "Sedmica menadžera: pokvarena kasa (hitno, važno: popravi odmah), obuka novog radnika (važno: zakaži), prodajni poziv dobavljača (delegiraj), sređivanje starih mejlova (izbaci).",
+        "why": "Bez prioriteta pobijedi najglasniji problem, a ne najvredniji.",
+        "mixup": "Zauzet nije isto što i produktivan. Dan pun hitnih sitnica može ostaviti sve važno neurađeno."
+      }
+    },
+    {
+      "slug": "accountability",
+      "term": "Accountability",
+      "local": "odgovornost",
+      "minutes": 4,
+      "youtube": "-w94NHsDZfg",
+      "youtubeQuery": "accountability in the workplace explained",
+      "related": ["Delegation", "RACI", "Feedback"],
+      "en": {
+        "one": "Accountability means one clear person owns a result and answers for it, good or bad.",
+        "explain": "When 'everyone' is responsible, nobody is. Name an owner for each goal or task, agree what success looks like and when, and follow up. Accountability works best with support, not blame: the aim is learning and fixing, not punishing.",
+        "example": "In a weekly meeting, each open issue has a name and a date next to it: 'Website fix: Emir, Friday.'",
+        "why": "Clear ownership is what turns plans into results.",
+        "mixup": "Accountability isn't blame. If people are punished for honest mistakes, they start hiding problems."
+      },
+      "bs": {
+        "one": "Accountability (odgovornost) znači da jedna jasna osoba posjeduje rezultat i odgovara za njega, dobar ili loš.",
+        "explain": "Kad su 'svi' odgovorni, niko nije. Imenuj vlasnika za svaki cilj ili zadatak, dogovori kako izgleda uspjeh i do kada, pa prati. Odgovornost najbolje radi uz podršku, ne krivicu: cilj je učiti i popraviti, ne kažnjavati.",
+        "example": "Na sedmičnom sastanku svaka otvorena stavka ima ime i datum: 'Popravka sajta: Emir, petak.'",
+        "why": "Jasno vlasništvo pretvara planove u rezultate.",
+        "mixup": "Odgovornost nije okrivljavanje. Ako se ljudi kažnjavaju za iskrene greške, počnu sakrivati probleme."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "Checking weekly food costs against the budget is which management function?",
+        "bs": "Sedmična provjera troškova hrane u odnosu na budžet je koja funkcija menadžmenta?"
+      },
+      "options": [
+        { "en": "Planning", "bs": "Planiranje" },
+        { "en": "Leading", "bs": "Vođenje" },
+        { "en": "Controlling", "bs": "Kontrola" }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "Comparing results with the plan and correcting is controlling.",
+        "bs": "Poređenje rezultata s planom i ispravljanje je kontrola."
+      }
+    },
+    {
+      "q": { "en": "Training a new hire next week is…", "bs": "Obuka novog radnika iduće sedmice je…" },
+      "options": [
+        { "en": "Important but not urgent: schedule it", "bs": "Važno ali nije hitno: zakaži" },
+        { "en": "Neither: drop it", "bs": "Ni jedno: izbaci" },
+        { "en": "Urgent and unimportant: delegate it", "bs": "Hitno i nevažno: delegiraj" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "It matters a lot but can be planned, so it goes in the calendar.",
+        "bs": "Jako je važno, ali se može planirati, pa ide u kalendar."
+      }
+    },
+    {
+      "q": {
+        "en": "When you delegate a task, who is still responsible for the final result?",
+        "bs": "Kad delegiraš zadatak, ko je i dalje odgovoran za konačni rezultat?"
+      },
+      "options": [
+        { "en": "You, the manager", "bs": "Ti, menadžer" },
+        { "en": "Only the person doing it", "bs": "Samo osoba koja ga radi" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "You hand over the work and authority, but stay accountable for the outcome.",
+        "bs": "Predaješ posao i ovlasti, ali ostaješ odgovoran za ishod."
+      }
+    },
+    {
+      "q": {
+        "en": "A task is 'everyone's responsibility'. What usually happens?",
+        "bs": "Zadatak je 'odgovornost svih'. Šta se obično desi?"
+      },
+      "options": [
+        { "en": "Nobody does it", "bs": "Niko ga ne uradi" },
+        { "en": "It gets done faster", "bs": "Uradi se brže" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Without one clear owner, everyone assumes someone else will act.",
+        "bs": "Bez jednog jasnog vlasnika, svi pretpostave da će neko drugi."
+      }
+    }
+  ]
+}

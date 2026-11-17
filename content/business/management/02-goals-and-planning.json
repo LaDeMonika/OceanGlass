@@ -1,0 +1,208 @@
+{
+  "slug": "goals-and-planning",
+  "title": { "en": "Goals & planning", "bs": "Ciljevi i planiranje" },
+  "summary": {
+    "en": "Setting goals people understand, and turning them into plans that actually happen.",
+    "bs": "Kako postaviti ciljeve koje ljudi razumiju i pretvoriti ih u planove koji se stvarno ostvare."
+  },
+  "concepts": [
+    {
+      "slug": "mission-vision",
+      "term": "Mission & vision",
+      "local": "misija i vizija",
+      "minutes": 4,
+      "youtube": "rwW1kn3UjuE",
+      "youtubeQuery": "mission vs vision statement explained",
+      "related": ["Values", "Strategy", "Goals"],
+      "en": {
+        "one": "A vision is where you want to be in the long run. A mission is what you do every day, for whom, to get there.",
+        "explain": "Vision: the big picture ('Every family in the region eats fresh local food'). Mission: the practical purpose ('We deliver farm vegetables to homes in Sarajevo within 24 hours of harvest'). Together they help people make decisions without asking the boss every time.",
+        "example": "A small software firm's mission: 'Simple bookkeeping tools for craftspeople.' When a big bank asks for a custom system, the team sees it doesn't fit and says no.",
+        "why": "A clear purpose keeps the team pulling in the same direction and helps you say no to distractions.",
+        "mixup": "A mission statement on the wall means nothing if decisions ignore it. It only matters when it guides real choices."
+      },
+      "bs": {
+        "one": "Vision (vizija) je gdje želiš biti dugoročno. Mission (misija) je šta radiš svaki dan, za koga, da stigneš tamo.",
+        "explain": "Vizija: velika slika ('Svaka porodica u regiji jede svježu lokalnu hranu'). Misija: praktična svrha ('Dostavljamo povrće s farmi domaćinstvima u Sarajevu u roku od 24 sata od berbe'). Zajedno pomažu ljudima da odlučuju bez pitanja šefa svaki put.",
+        "example": "Misija male softverske firme: 'Jednostavni alati za knjigovodstvo za zanatlije.' Kad velika banka traži sistem po mjeri, tim vidi da se ne uklapa i kaže ne.",
+        "why": "Jasna svrha drži tim da vuče u istom smjeru i pomaže ti da odbiješ ometanja.",
+        "mixup": "Izjava o misiji na zidu ne znači ništa ako je odluke ignorišu. Važna je samo kad vodi stvarne izbore."
+      }
+    },
+    {
+      "slug": "smart-goals",
+      "term": "SMART goals",
+      "local": "SMART ciljevi",
+      "minutes": 4,
+      "youtube": "1-SvuFIQjK8",
+      "youtubeQuery": "SMART goals explained",
+      "related": ["OKR", "KPI (Key performance indicator)", "Accountability"],
+      "en": {
+        "one": "SMART goals are Specific, Measurable, Achievable, Relevant and Time-bound.",
+        "explain": "'Grow sales' is vague. 'Increase online sales from €8,000 to €10,000 a month by June' is SMART: you know exactly what, how much, by when, and whether you made it. It makes progress visible and stops endless debate about what 'success' means.",
+        "example": "Instead of 'improve customer service', a hotel sets: 'Raise the average review score from 8.4 to 8.8 by the end of the season.'",
+        "why": "Clear goals make planning, delegating and checking progress much easier.",
+        "mixup": "SMART doesn't mean small. A goal can be ambitious and still be specific and measurable."
+      },
+      "bs": {
+        "one": "SMART ciljevi su Specifični, Mjerljivi, Ostvarivi, Relevantni i Vremenski određeni (Specific, Measurable, Achievable, Relevant, Time-bound).",
+        "explain": "'Povećati prodaju' je nejasno. 'Povećati online prodaju s 8.000 € na 10.000 € mjesečno do juna' je SMART: tačno znaš šta, koliko, do kada i da li si uspio. Čini napredak vidljivim i zaustavlja beskrajne rasprave o tome šta je 'uspjeh'.",
+        "example": "Umjesto 'poboljšati uslugu', hotel postavi: 'Podići prosječnu ocjenu recenzija s 8,4 na 8,8 do kraja sezone.'",
+        "why": "Jasni ciljevi znatno olakšavaju planiranje, delegiranje i praćenje napretka.",
+        "mixup": "SMART ne znači mali. Cilj može biti ambiciozan, a i dalje konkretan i mjerljiv."
+      }
+    },
+    {
+      "slug": "okr",
+      "term": "OKR (Objectives & key results)",
+      "local": "OKR (ciljevi i ključni rezultati)",
+      "minutes": 5,
+      "youtube": "D5vNhEJFtUA",
+      "youtubeQuery": "OKRs explained simply",
+      "related": ["SMART goals", "KPI (Key performance indicator)", "Strategy"],
+      "en": {
+        "one": "OKRs pair an inspiring Objective (what you want) with 2–4 measurable Key Results (how you'll know you got there).",
+        "explain": "Objectives are qualitative and motivating; key results are numbers. They're usually set each quarter, shared openly, and reviewed often. Hitting about 70% of an ambitious OKR is often seen as good.",
+        "example": "Objective: 'Become the go-to bakery for office breakfasts.' Key results: 15 office clients, €6,000 monthly B2B revenue, 90% on-time deliveries.",
+        "why": "OKRs connect daily work to the bigger direction and make priorities visible to everyone.",
+        "mixup": "OKRs aren't a to-do list. 'Launch a newsletter' is a task; 'Get 500 subscribers' is a key result."
+      },
+      "bs": {
+        "one": "OKR spaja inspirativan Cilj (Objective: šta želiš) s 2–4 mjerljiva Ključna rezultata (Key Results: kako ćeš znati da si stigao).",
+        "explain": "Ciljevi su opisni i motivišući; ključni rezultati su brojevi. Obično se postavljaju svaki kvartal, dijele otvoreno i često pregledaju. Ostvarenje oko 70% ambicioznog OKR-a često se smatra dobrim.",
+        "example": "Cilj: 'Postati prva pekara za doručke u kancelarijama.' Ključni rezultati: 15 kancelarijskih klijenata, 6.000 € mjesečnog B2B prihoda, 90% isporuka na vrijeme.",
+        "why": "OKR povezuju svakodnevni rad s većim smjerom i čine prioritete vidljivim svima.",
+        "mixup": "OKR nisu spisak zadataka. 'Pokrenuti newsletter' je zadatak; 'Dobiti 500 pretplatnika' je ključni rezultat."
+      }
+    },
+    {
+      "slug": "action-plan",
+      "term": "Action plan & milestones",
+      "local": "akcioni plan i prekretnice",
+      "minutes": 4,
+      "youtube": "xGrllYH25jo",
+      "youtubeQuery": "how to make an action plan with milestones",
+      "related": ["SMART goals", "Gantt chart", "Accountability"],
+      "en": {
+        "one": "An action plan breaks a goal into concrete steps, each with an owner and a deadline. Milestones are the key checkpoints along the way.",
+        "explain": "List what needs to happen, in what order, who does it and by when. Mark a few milestones (e.g. 'supplier signed', 'website live') to check you're on track. A simple table or a Gantt chart is enough for most projects.",
+        "example": "Goal: open a second shop by September. Milestones: lease signed (April), renovation done (July), staff hired (August), opening (1 September).",
+        "why": "Goals without plans stay wishes; plans make the work visible and shareable.",
+        "mixup": "A plan isn't fixed forever. Update it when reality changes; the milestones show you early when it has."
+      },
+      "bs": {
+        "one": "Action plan (akcioni plan) razbija cilj na konkretne korake, svaki s vlasnikom i rokom. Milestones (prekretnice) su ključne kontrolne tačke na putu.",
+        "explain": "Navedi šta se mora desiti, kojim redom, ko to radi i do kada. Označi par prekretnica (npr. 'potpisan dobavljač', 'sajt objavljen') da provjeriš jesi li na putu. Jednostavna tabela ili Gantt dijagram je dovoljan za većinu projekata.",
+        "example": "Cilj: otvoriti drugu radnju do septembra. Prekretnice: potpisan zakup (april), završeno renoviranje (juli), zaposleni ljudi (august), otvaranje (1. septembar).",
+        "why": "Ciljevi bez planova ostaju želje; planovi čine posao vidljivim i djeljivim.",
+        "mixup": "Plan nije fiksan zauvijek. Ažuriraj ga kad se stvarnost promijeni; prekretnice ti rano pokažu kad se to desilo."
+      }
+    },
+    {
+      "slug": "pdca",
+      "term": "PDCA cycle (Plan-Do-Check-Act)",
+      "local": "PDCA ciklus",
+      "minutes": 4,
+      "youtube": "i2B4wAMjCP8",
+      "youtubeQuery": "PDCA cycle explained",
+      "related": ["Continuous improvement", "Four functions of management", "A/B testing"],
+      "en": {
+        "one": "PDCA is a simple loop for improving anything: Plan a change, Do it on a small scale, Check the results, Act on what you learned.",
+        "explain": "If it worked, make it standard; if not, adjust and go round again. It turns improvement into a habit of small, tested steps instead of big risky bets.",
+        "example": "A pizzeria wants faster delivery. Plan: new route grouping. Do: try it for one week. Check: average time dropped from 42 to 35 minutes. Act: use it every evening.",
+        "why": "It reduces the risk of changes and builds a culture that learns from evidence.",
+        "mixup": "Skipping 'Check' is the most common mistake. Without measuring, you're just changing things and hoping."
+      },
+      "bs": {
+        "one": "PDCA je jednostavan krug za poboljšanje bilo čega: Planiraj promjenu, Uradi je u malom, Provjeri rezultate, Djeluj na osnovu naučenog (Plan, Do, Check, Act).",
+        "explain": "Ako je uspjelo, napravi to standardom; ako nije, prilagodi i idi opet u krug. Pretvara poboljšanje u naviku malih, testiranih koraka umjesto velikih rizičnih opklada.",
+        "example": "Picerija želi bržu dostavu. Planiraj: novo grupisanje ruta. Uradi: probaj sedmicu dana. Provjeri: prosječno vrijeme palo s 42 na 35 minuta. Djeluj: koristi to svake večeri.",
+        "why": "Smanjuje rizik promjena i gradi kulturu koja uči iz dokaza.",
+        "mixup": "Preskakanje 'Provjere' je najčešća greška. Bez mjerenja samo mijenjaš stvari i nadaš se."
+      }
+    },
+    {
+      "slug": "planning-horizons",
+      "term": "Planning horizons",
+      "local": "planski horizonti",
+      "minutes": 4,
+      "youtube": "OYw4L0l5lTU",
+      "youtubeQuery": "strategic tactical operational planning explained",
+      "related": ["Strategy", "Budget", "Action plan & milestones"],
+      "en": {
+        "one": "Planning happens at three levels: strategic (years), tactical (months) and operational (days and weeks).",
+        "explain": "Strategic plans set the direction: which markets, which products. Tactical plans turn that into yearly or quarterly projects and budgets. Operational plans are the schedules, rotas and to-do lists that run each day. Each level should support the one above.",
+        "example": "A hotel's strategy is to become a year-round business. Tactically, it adds a conference room this year. Operationally, it schedules staff for the first conference next Tuesday.",
+        "why": "It keeps daily work connected to long-term goals, so busy days still move you forward.",
+        "mixup": "Long-term plans don't need daily detail. Too much detail far ahead is wasted when things change."
+      },
+      "bs": {
+        "one": "Planiranje se dešava na tri nivoa: strateški (godine), taktički (mjeseci) i operativni (dani i sedmice).",
+        "explain": "Strateški planovi postavljaju smjer: koja tržišta, koji proizvodi. Taktički to pretvaraju u godišnje ili kvartalne projekte i budžete. Operativni su rasporedi, smjene i spiskovi zadataka koji vode svaki dan. Svaki nivo treba podržavati onaj iznad.",
+        "example": "Strategija hotela je da radi cijelu godinu. Taktički, ove godine dodaje konferencijsku salu. Operativno, raspoređuje osoblje za prvu konferenciju idućeg utorka.",
+        "why": "Drži svakodnevni rad povezanim s dugoročnim ciljevima, pa te i zauzeti dani pomjeraju naprijed.",
+        "mixup": "Dugoročni planovi ne trebaju dnevne detalje. Previše detalja daleko unaprijed propadne kad se stvari promijene."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": { "en": "Which goal is SMART?", "bs": "Koji cilj je SMART?" },
+      "options": [
+        { "en": "'Be the best'", "bs": "'Biti najbolji'" },
+        { "en": "'Grow sales'", "bs": "'Povećati prodaju'" },
+        {
+          "en": "'Increase online sales from €8,000 to €10,000 a month by June'",
+          "bs": "'Povećati online prodaju s 8.000 € na 10.000 € mjesečno do juna'"
+        }
+      ],
+      "answer": 2,
+      "explain": { "en": "It's specific, measurable, and has a deadline.", "bs": "Konkretan je, mjerljiv i ima rok." }
+    },
+    {
+      "q": { "en": "In an OKR, which is a key result?", "bs": "U OKR-u, šta je ključni rezultat?" },
+      "options": [
+        { "en": "'Launch a newsletter'", "bs": "'Pokrenuti newsletter'" },
+        { "en": "'Be loved by customers'", "bs": "'Biti voljen od kupaca'" },
+        { "en": "'Get 500 newsletter subscribers'", "bs": "'Dobiti 500 pretplatnika na newsletter'" }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "Key results are measurable outcomes, not tasks or wishes.",
+        "bs": "Ključni rezultati su mjerljivi ishodi, ne zadaci ili želje."
+      }
+    },
+    {
+      "q": {
+        "en": "What is the most commonly skipped step of PDCA?",
+        "bs": "Koji korak PDCA se najčešće preskače?"
+      },
+      "options": [
+        { "en": "Do", "bs": "Uradi" },
+        { "en": "Plan", "bs": "Planiraj" },
+        { "en": "Check", "bs": "Provjeri" }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "Without checking results, you can't know whether the change worked.",
+        "bs": "Bez provjere rezultata ne možeš znati je li promjena uspjela."
+      }
+    },
+    {
+      "q": {
+        "en": "Scheduling staff for next Tuesday is which kind of planning?",
+        "bs": "Raspoređivanje osoblja za idući utorak je koja vrsta planiranja?"
+      },
+      "options": [
+        { "en": "Tactical", "bs": "Taktičko" },
+        { "en": "Operational", "bs": "Operativno" },
+        { "en": "Strategic", "bs": "Strateško" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Day-to-day schedules are operational planning.",
+        "bs": "Svakodnevni rasporedi su operativno planiranje."
+      }
+    }
+  ]
+}

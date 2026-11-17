@@ -1,0 +1,214 @@
+{
+  "slug": "employment-basics",
+  "title": { "en": "Employment basics", "bs": "Osnove radnog odnosa" },
+  "summary": {
+    "en": "Contracts, pay, working time and ending a job: the basics every employer needs.",
+    "bs": "Ugovori, plata, radno vrijeme i prestanak radnog odnosa: osnove koje treba svaki poslodavac."
+  },
+  "concepts": [
+    {
+      "slug": "employment-contract",
+      "term": "Employment contract",
+      "local": "ugovor o radu",
+      "minutes": 5,
+      "youtube": "cIBiYUZZPaY",
+      "youtubeQuery": "types of employment contracts explained permanent fixed term",
+      "related": ["Probation period", "Notice period", "Labour law"],
+      "en": {
+        "one": "An employment contract is the written agreement between employer and employee about the job, pay, hours and rights.",
+        "explain": "The main types are indefinite (permanent, 'na neodređeno') and fixed-term ('na određeno'), which the law limits in length and number of renewals. Both BiH entities and Croatia require written contracts with basics like start date, role, place of work, pay and working time. Freelance or service contracts are not employment and don't give the same protections.",
+        "example": "A shop hires a seasonal assistant on a fixed-term contract from June to September, and a store manager on an indefinite one.",
+        "why": "The contract type decides costs, flexibility and the employee's security, so choose it on purpose.",
+        "mixup": "Calling someone a 'freelancer' doesn't make them one. If they work like an employee (fixed hours, your orders, your tools), the law may treat them as one."
+      },
+      "bs": {
+        "one": "Employment contract (ugovor o radu) je pisani dogovor poslodavca i radnika o poslu, plati, radnom vremenu i pravima.",
+        "explain": "Glavne vrste su na neodređeno (stalni) i na određeno vrijeme, koje zakon ograničava u trajanju i broju produženja. Oba entiteta u BiH i Hrvatska traže pisani ugovor s osnovama kao što su datum početka, radno mjesto, mjesto rada, plata i radno vrijeme. Ugovori o djelu ili uslugama nisu radni odnos i ne daju istu zaštitu.",
+        "example": "Radnja zaposli sezonskog prodavača na određeno od juna do septembra, a poslovođu na neodređeno.",
+        "why": "Vrsta ugovora određuje troškove, fleksibilnost i sigurnost radnika, pa je biraj namjerno.",
+        "mixup": "Ako nekoga nazoveš 'honorarcem', to ga ne čini honorarcem. Ako radi kao zaposleni (fiksno vrijeme, tvoje naredbe, tvoji alati), zakon ga može tako tretirati."
+      }
+    },
+    {
+      "slug": "gross-net-salary",
+      "term": "Gross vs. net salary",
+      "local": "bruto i neto plata",
+      "minutes": 5,
+      "youtube": "_UepVi5bfhM",
+      "youtubeQuery": "gross vs net salary explained",
+      "related": ["Payroll taxes & contributions", "Total cost of employment", "Budget"],
+      "en": {
+        "one": "Gross salary is the full agreed pay before deductions. Net salary is what lands in the employee's bank account.",
+        "explain": "From gross, the employer withholds the employee's social contributions (pension, health, unemployment) and income tax. In the Federation of BiH, employee contributions are about 31% of gross plus 10% income tax on the rest (after a personal allowance); Croatia and Republika Srpska use different rates. On top of gross, some systems add employer contributions, so the total cost is higher still.",
+        "example": "A job offer says 2,000 KM gross. The employee should expect roughly 1,270 KM net in FBiH, with the basic personal allowance.",
+        "why": "Mixing up gross and net leads to bad budgets and disappointed hires.",
+        "mixup": "Net is not what the employee 'costs' you. The real cost includes gross plus any employer contributions and benefits."
+      },
+      "bs": {
+        "one": "Gross salary (bruto plata) je puna dogovorena plata prije odbitaka. Net salary (neto plata) je ono što stigne na račun radnika.",
+        "explain": "Od bruta poslodavac obustavlja doprinose radnika (penzijsko, zdravstveno, nezaposlenost) i porez na dohodak. U Federaciji BiH doprinosi iz plate su oko 31% bruta plus 10% poreza na ostatak (nakon ličnog odbitka); Hrvatska i Republika Srpska imaju druge stope. Iznad bruta neki sistemi dodaju doprinose na platu koje plaća poslodavac, pa je ukupni trošak još veći.",
+        "example": "Ponuda za posao kaže 2.000 KM bruto. Radnik u FBiH može očekivati otprilike 1.270 KM neto, uz osnovni lični odbitak.",
+        "why": "Miješanje bruta i neta vodi u loše budžete i razočarane radnike.",
+        "mixup": "Neto nije ono što te radnik 'košta'. Stvarni trošak uključuje bruto plus doprinose poslodavca i pogodnosti."
+      }
+    },
+    {
+      "slug": "working-time",
+      "term": "Working time & overtime",
+      "local": "radno vrijeme i prekovremeni rad",
+      "minutes": 4,
+      "youtube": "d9vpH7Cr1sc",
+      "youtubeQuery": "working time and overtime rules explained",
+      "related": ["Employment contract", "Labour law", "Burnout"],
+      "en": {
+        "one": "Working time is the hours an employee must work. Full-time is usually 40 hours a week in BiH and Croatia. Overtime is work beyond that.",
+        "explain": "The law caps overtime (for example per week and per year), requires daily and weekly rest, paid annual leave (at least 20 working days in FBiH and 4 weeks in Croatia), and extra pay or time off for overtime, night work and holidays. Keep records of hours.",
+        "example": "During the tourist season a hotel asks staff to work extra shifts. It pays the overtime supplement, stays within the legal limit and gives a free day after each long week.",
+        "why": "Breaking working-time rules brings inspections, fines and exhausted staff who leave.",
+        "mixup": "'Salary includes everything' doesn't remove overtime rights. The law applies whatever the contract says."
+      },
+      "bs": {
+        "one": "Working time (radno vrijeme) su sati koje radnik mora raditi. Puno radno vrijeme je obično 40 sati sedmično u BiH i Hrvatskoj. Prekovremeni rad je rad preko toga.",
+        "explain": "Zakon ograničava prekovremeni rad (npr. sedmično i godišnje), traži dnevni i sedmični odmor, plaćeni godišnji odmor (najmanje 20 radnih dana u FBiH i 4 sedmice u Hrvatskoj) i dodatak ili slobodno vrijeme za prekovremeni, noćni rad i praznike. Vodi evidenciju sati.",
+        "example": "Tokom turističke sezone hotel traži od osoblja dodatne smjene. Plaća dodatak za prekovremeni rad, ostaje u zakonskoj granici i daje slobodan dan nakon svake duge sedmice.",
+        "why": "Kršenje pravila o radnom vremenu donosi inspekcije, kazne i iscrpljene radnike koji odlaze.",
+        "mixup": "'Plata pokriva sve' ne briše prava na prekovremeni rad. Zakon važi bez obzira šta piše u ugovoru."
+      }
+    },
+    {
+      "slug": "employee-benefits",
+      "term": "Employee benefits",
+      "local": "beneficije za zaposlene",
+      "minutes": 4,
+      "youtube": "Ze96qlgDp3A",
+      "youtubeQuery": "employee benefits explained",
+      "related": ["Gross vs. net salary", "Motivation", "Employer branding"],
+      "en": {
+        "one": "Benefits are what employees get on top of their salary: meal allowance, transport, extra leave, training, health checks, phones, bonuses.",
+        "explain": "Some, like meal and transport allowances, have special tax rules up to certain limits in BiH and Croatia, so they can be cheaper ways to raise take-home pay. Flexible hours and training cost little but are valued highly.",
+        "example": "A software firm pays a meal allowance, covers a yearly health check, and gives everyone a €500 training budget.",
+        "why": "Smart benefits help you compete for people without only raising salaries.",
+        "mixup": "Benefits nobody uses are wasted money. Ask your team what they actually value."
+      },
+      "bs": {
+        "one": "Benefits (beneficije) su ono što radnici dobiju povrh plate: topli obrok, prevoz, dodatni odmor, obuke, sistematski pregledi, telefoni, bonusi.",
+        "explain": "Neke, kao topli obrok i prevoz, imaju posebna porezna pravila do određenih iznosa u BiH i Hrvatskoj, pa mogu biti jeftiniji način da se poveća ono što radnik dobije. Fleksibilno radno vrijeme i obuke malo koštaju, a jako se cijene.",
+        "example": "Softverska firma plaća topli obrok, pokriva godišnji sistematski pregled i daje svakome 500 € budžeta za obuku.",
+        "why": "Pametne beneficije ti pomažu da se boriš za ljude bez samo dizanja plata.",
+        "mixup": "Beneficije koje niko ne koristi su bačen novac. Pitaj tim šta stvarno cijeni."
+      }
+    },
+    {
+      "slug": "performance-review",
+      "term": "Performance review",
+      "local": "ocjena učinka",
+      "minutes": 4,
+      "youtube": "zoExsgCLnXw",
+      "youtubeQuery": "performance review explained how to do",
+      "related": ["Feedback", "SMART goals", "One-on-one meetings"],
+      "en": {
+        "one": "A performance review is a regular, structured conversation about how someone has done and what comes next.",
+        "explain": "Look back at goals and results, discuss strengths and areas to improve, agree new goals and development steps, and connect it to pay decisions where relevant. Use examples, not impressions. Nothing in it should be a surprise if you give feedback during the year.",
+        "example": "Once a year, a team lead and a sales rep review the rep's targets, two client wins, one lost deal, and agree a goal and a course for next year.",
+        "why": "Fair, regular reviews help people grow and make pay and promotion decisions defensible.",
+        "mixup": "A review isn't a list of everything that went wrong. Balance and forward focus matter more."
+      },
+      "bs": {
+        "one": "Performance review (ocjena učinka) je redovan, strukturiran razgovor o tome kako je neko radio i šta slijedi.",
+        "explain": "Pogledaj unazad ciljeve i rezultate, razgovaraj o snagama i stvarima za poboljšanje, dogovori nove ciljeve i korake razvoja i, gdje treba, poveži to s odlukama o plati. Koristi primjere, ne utiske. Ništa ne bi trebalo biti iznenađenje ako daješ feedback tokom godine.",
+        "example": "Jednom godišnje voditelj tima i prodavač pregledaju prodajne ciljeve, dva dobijena klijenta i jedan izgubljen posao, pa dogovore cilj i kurs za iduću godinu.",
+        "why": "Fer, redovne ocjene pomažu ljudima da rastu i čine odluke o plati i napredovanju opravdanim.",
+        "mixup": "Ocjena nije spisak svega što je pošlo naopako. Ravnoteža i fokus na budućnost su važniji."
+      }
+    },
+    {
+      "slug": "ending-employment",
+      "term": "Ending employment & notice period",
+      "local": "prestanak radnog odnosa i otkazni rok",
+      "minutes": 5,
+      "youtube": "oWhXd2cNsoo",
+      "youtubeQuery": "how to dismiss an employee fairly notice period",
+      "related": ["Employment contract", "Labour law", "Performance review"],
+      "en": {
+        "one": "Employment can end by agreement, resignation, the end of a fixed term, or dismissal. A notice period is the time between giving notice and the last working day.",
+        "explain": "Labour laws in BiH and Croatia set minimum notice periods, valid reasons for dismissal (business, personal or misconduct), and steps to follow, like written notice and, in some cases, a warning and a chance to respond first. Severance may be owed after a certain length of service. When unsure, get legal advice before acting.",
+        "example": "After repeated warnings in writing, a firm dismisses an employee for coming late, gives the notice the law requires, and pays what's owed on the last day.",
+        "why": "Doing it badly brings lawsuits, back-pay and a damaged reputation.",
+        "mixup": "Dismissing someone isn't just saying 'you're fired'. Without a valid reason and the right procedure, it can be overturned."
+      },
+      "bs": {
+        "one": "Radni odnos može prestati sporazumom, otkazom radnika, istekom ugovora na određeno ili otkazom poslodavca. Otkazni rok je vrijeme od davanja otkaza do zadnjeg radnog dana.",
+        "explain": "Zakoni o radu u BiH i Hrvatskoj propisuju minimalne otkazne rokove, opravdane razloge za otkaz (poslovni, lični ili skrivljeno ponašanje) i korake, kao pisani otkaz i, u nekim slučajevima, upozorenje i priliku da se radnik prvo izjasni. Nakon određenog staža može pripadati otpremnina. Kad nisi siguran, traži pravni savjet prije poteza.",
+        "example": "Nakon ponovljenih pisanih upozorenja, firma otpusti radnika zbog kašnjenja, ispoštuje zakonski otkazni rok i isplati sve dugovano zadnji dan.",
+        "why": "Loše urađeno donosi tužbe, isplate unazad i narušen ugled.",
+        "mixup": "Otkaz nije samo reći 'otpušten si'. Bez opravdanog razloga i pravog postupka može biti poništen."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "A job offers 2,000 KM gross in FBiH. Roughly what will the employee receive?",
+        "bs": "Posao nudi 2.000 KM bruto u FBiH. Otprilike koliko će radnik dobiti?"
+      },
+      "options": [
+        { "en": "2,000 KM", "bs": "2.000 KM" },
+        { "en": "About 1,900 KM", "bs": "Oko 1.900 KM" },
+        { "en": "About 1,270 KM net", "bs": "Oko 1.270 KM neto" }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "Contributions (~31%) and income tax come out of gross before payment.",
+        "bs": "Doprinosi (~31%) i porez na dohodak odbijaju se od bruta prije isplate."
+      }
+    },
+    {
+      "q": {
+        "en": "A worker has fixed hours, takes your orders and uses your tools, but has a 'service contract'. What's the risk?",
+        "bs": "Radnik ima fiksno vrijeme, prima tvoje naredbe i koristi tvoje alate, ali ima 'ugovor o djelu'. Koji je rizik?"
+      },
+      "options": [
+        { "en": "None, the contract decides", "bs": "Nikakav, ugovor odlučuje" },
+        { "en": "The law may treat it as employment", "bs": "Zakon to može tretirati kao radni odnos" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "What counts is how the work really happens, not the label.",
+        "bs": "Važno je kako se posao stvarno odvija, a ne naziv."
+      }
+    },
+    {
+      "q": {
+        "en": "Your contracts say 'salary covers all hours'. Do overtime rules still apply?",
+        "bs": "Ugovori kažu 'plata pokriva sve sate'. Da li pravila o prekovremenom radu i dalje važe?"
+      },
+      "options": [
+        { "en": "Yes, the law applies anyway", "bs": "Da, zakon važi svejedno" },
+        { "en": "No, the contract overrides them", "bs": "Ne, ugovor ih poništava" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Contracts can't take away rights the labour law guarantees.",
+        "bs": "Ugovori ne mogu oduzeti prava koja garantuje zakon o radu."
+      }
+    },
+    {
+      "q": {
+        "en": "What should happen before dismissing someone for poor behaviour?",
+        "bs": "Šta treba uraditi prije otkaza zbog lošeg ponašanja?"
+      },
+      "options": [
+        {
+          "en": "Written warnings and a chance to respond, as the law requires",
+          "bs": "Pisana upozorenja i prilika da se izjasni, kako zakon traži"
+        },
+        { "en": "Nothing, just tell them", "bs": "Ništa, samo im reci" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Following the procedure protects both sides and keeps the dismissal valid.",
+        "bs": "Poštovanje postupka štiti obje strane i drži otkaz valjanim."
+      }
+    }
+  ]
+}
