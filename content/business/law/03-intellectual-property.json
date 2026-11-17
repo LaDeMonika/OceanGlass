@@ -39,14 +39,14 @@
       "related": ["Brand", "Intellectual property", "Brand identity"],
       "en": {
         "one": "A trademark is a registered name, logo or slogan that only you may use for your type of products or services.",
-        "explain": "You register it with the national IP office (in BiH, the Institute for Intellectual Property) or for the whole EU. It covers specific classes of goods, can be renewed forever, and lets you stop others from using a confusingly similar name.",
+        "explain": "You register it with a national IP office, with the EUIPO for one EU trade mark covering all EU countries, or with the USPTO in the US. It covers specific classes of goods, can be renewed forever, and lets you stop others from using a confusingly similar name. EU vs. US: in the EU, registering first usually wins. In the US, simply using a mark in business already gives some rights, but registration gives much stronger protection.",
         "example": "A Mostar coffee roaster registers its brand name. A year later, a competitor opens a café with almost the same name and must change it.",
         "why": "Without registration, someone else can register your name first and force you to rebrand.",
         "mixup": "Registering a company name or buying a domain isn't the same as a trademark. They don't give you the same protection."
       },
       "bs": {
         "one": "Trademark (žig, zaštitni znak) je registrovan naziv, logo ili slogan koji samo ti smiješ koristiti za svoju vrstu proizvoda ili usluga.",
-        "explain": "Registruješ ga kod nacionalnog zavoda (u BiH, Institut za intelektualno vlasništvo) ili za cijelu EU. Pokriva određene klase robe, može se obnavljati zauvijek i omogućava ti da zabraniš drugima korištenje naziva koji zbunjujuće liči.",
+        "explain": "Registruješ ga kod nacionalnog zavoda, kod EUIPO-a za jedan žig EU koji pokriva sve zemlje EU, ili kod USPTO-a u SAD-u. Pokriva određene klase robe, može se obnavljati zauvijek i omogućava ti da zabraniš drugima korištenje naziva koji zbunjujuće liči. EU i SAD: u EU obično pobjeđuje onaj ko prvi registruje. U SAD-u već samo korištenje znaka u poslu daje neka prava, ali registracija daje mnogo jaču zaštitu.",
         "example": "Pržionica kafe iz Mostara registruje naziv brenda. Godinu kasnije konkurent otvori kafić skoro istog naziva i mora ga promijeniti.",
         "why": "Bez registracije, neko drugi može prvi registrovati tvoj naziv i natjerati te na rebranding.",
         "mixup": "Registracija naziva firme ili kupovina domene nije isto što i žig. Ne daju istu zaštitu."
@@ -62,14 +62,14 @@
       "related": ["Intellectual property", "Licensing", "Content marketing"],
       "en": {
         "one": "Copyright protects original creative work, like text, photos, music, videos, designs and software, automatically from the moment it's created.",
-        "explain": "No registration is needed. The creator decides who may copy, change or share the work, usually for their life plus 70 years. Using someone else's photo or music in your marketing without permission is infringement, even if you found it online.",
+        "explain": "No registration is needed. The creator decides who may copy, change or share the work, usually for their life plus 70 years. Using someone else's photo or music in your marketing without permission is infringement, even if you found it online. EU vs. US: both protect for life plus 70 years. In the US you must register the work with the Copyright Office before you can sue, and 'fair use' allows somewhat more free use than the narrower EU exceptions.",
         "example": "A shop copies a photo from Google for its Instagram ad. The photographer finds it and demands a licence fee.",
         "why": "It protects your content, and it keeps you from expensive mistakes with other people's.",
         "mixup": "If you pay a freelancer to create something, you don't automatically own all rights. Put the transfer of rights in the contract."
       },
       "bs": {
         "one": "Copyright (autorsko pravo) štiti originalno kreativno djelo, kao što su tekst, fotografije, muzika, video, dizajn i softver, automatski od trenutka nastanka.",
-        "explain": "Registracija nije potrebna. Autor odlučuje ko smije kopirati, mijenjati ili dijeliti djelo, obično dok je živ plus 70 godina. Korištenje tuđe slike ili muzike u marketingu bez dozvole je povreda prava, čak i ako si je našao na internetu.",
+        "explain": "Registracija nije potrebna. Autor odlučuje ko smije kopirati, mijenjati ili dijeliti djelo, obično dok je živ plus 70 godina. Korištenje tuđe slike ili muzike u marketingu bez dozvole je povreda prava, čak i ako si je našao na internetu. EU i SAD: oboje štite za života plus 70 godina. U SAD-u djelo moraš registrovati u Copyright Officeu prije tužbe, a 'fair use' dozvoljava nešto više slobodnog korištenja od užih izuzetaka u EU.",
         "example": "Prodavnica kopira sliku s Googlea za Instagram oglas. Fotograf je pronađe i traži naknadu za licencu.",
         "why": "Štiti tvoj sadržaj i čuva te od skupih grešaka s tuđim.",
         "mixup": "Ako platiš frilensera da nešto napravi, ne posjeduješ automatski sva prava. Prenos prava stavi u ugovor."
@@ -85,14 +85,14 @@
       "related": ["Intellectual property", "Trade secret", "Licensing"],
       "en": {
         "one": "A patent gives you the exclusive right to use and sell a new invention for up to 20 years.",
-        "explain": "The invention must be new, not obvious, and useful in industry. To get it, you publish a detailed description, so after it expires, anyone can use it. Patents are expensive and slow, and protect you only in the countries where you file.",
+        "explain": "The invention must be new, not obvious, and useful in industry. To get it, you publish a detailed description, so after it expires, anyone can use it. Patents are expensive and slow, and protect you only in the countries where you file. EU vs. US: patents last 20 years in both. In Europe you file with the European Patent Office (one Unitary Patent can cover most EU countries); in the US with the USPTO. The US gives inventors a 1-year grace period after their own public disclosure; Europe gives none.",
         "example": "A small engineering firm invents a new valve, patents it in the EU, and licenses it to a bigger manufacturer for a fee per unit sold.",
         "why": "A patent can make an invention much more valuable and attract investors.",
         "mixup": "Telling people about your invention before filing can destroy its 'newness'. Use an NDA and file first."
       },
       "bs": {
         "one": "Patent ti daje isključivo pravo da koristiš i prodaješ novi izum do 20 godina.",
-        "explain": "Izum mora biti nov, ne smije biti očigledan i mora biti primjenjiv u industriji. Da ga dobiješ, objaviš detaljan opis, pa nakon isteka svako ga može koristiti. Patenti su skupi i spori, i štite te samo u zemljama gdje ih prijaviš.",
+        "explain": "Izum mora biti nov, ne smije biti očigledan i mora biti primjenjiv u industriji. Da ga dobiješ, objaviš detaljan opis, pa nakon isteka svako ga može koristiti. Patenti su skupi i spori, i štite te samo u zemljama gdje ih prijaviš. EU i SAD: patenti traju 20 godina u oba. U Evropi prijavljuješ kod Evropskog zavoda za patente (jedan jedinstveni patent može pokriti većinu zemalja EU); u SAD-u kod USPTO-a. SAD daje pronalazaču 1 godinu nakon vlastitog javnog objavljivanja; Evropa ne daje nikakav rok.",
         "example": "Mala inženjerska firma izumi novi ventil, patentira ga u EU i licencira većem proizvođaču uz naknadu po prodatom komadu.",
         "why": "Patent može izum učiniti mnogo vrijednijim i privući investitore.",
         "mixup": "Ako pričaš o izumu prije prijave, možeš uništiti njegovu 'novost'. Koristi NDA i prvo prijavi."
@@ -108,14 +108,14 @@
       "related": ["Patent", "Intellectual property", "Contract"],
       "en": {
         "one": "A trade secret is valuable business information you keep confidential. An NDA (non-disclosure agreement) is a contract that obliges someone to keep it secret.",
-        "explain": "Recipes, customer lists, pricing models and processes can all be trade secrets, as long as you actively protect them: limit access, mark documents as confidential and use NDAs with staff and partners.",
+        "explain": "Recipes, customer lists, pricing models and processes can all be trade secrets, as long as you actively protect them: limit access, mark documents as confidential and use NDAs with staff and partners. EU vs. US: the EU Trade Secrets Directive and the US Defend Trade Secrets Act both protect secrets only if you took reasonable steps to keep them secret.",
         "example": "Before showing a potential investor its supplier list and margins, a start-up asks them to sign an NDA.",
         "why": "Trade secrets can last forever and cost nothing to register, but only if you guard them.",
         "mixup": "Many investors won't sign NDAs for a first pitch. Share the big picture, keep the real secrets for later."
       },
       "bs": {
         "one": "Trade secret (poslovna tajna) je vrijedna poslovna informacija koju čuvaš u tajnosti. NDA (ugovor o povjerljivosti) je ugovor koji nekoga obavezuje da je čuva.",
-        "explain": "Recepti, liste kupaca, modeli cijena i procesi mogu biti poslovne tajne, dok god ih aktivno štitiš: ograniči pristup, označi dokumente kao povjerljive i koristi NDA s radnicima i partnerima.",
+        "explain": "Recepti, liste kupaca, modeli cijena i procesi mogu biti poslovne tajne, dok god ih aktivno štitiš: ograniči pristup, označi dokumente kao povjerljive i koristi NDA s radnicima i partnerima. EU i SAD: Direktiva EU o poslovnim tajnama i američki Defend Trade Secrets Act štite tajne samo ako si preduzeo razumne korake da ih čuvaš.",
         "example": "Prije nego potencijalnom investitoru pokaže listu dobavljača i marže, start-up traži da potpiše NDA.",
         "why": "Poslovne tajne mogu trajati zauvijek i ne koštaju ništa za registraciju, ali samo ako ih čuvaš.",
         "mixup": "Mnogi investitori neće potpisati NDA za prvu prezentaciju. Podijeli širu sliku, a prave tajne čuvaj za kasnije."

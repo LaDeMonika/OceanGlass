@@ -16,14 +16,14 @@
       "related": ["Market structures", "Abuse of dominance", "Monopoly"],
       "en": {
         "one": "Competition law stops businesses from agreeing among themselves to avoid competing, for example by fixing prices or splitting customers.",
-        "explain": "Such deals between competitors are called cartels and are illegal almost everywhere, including in BiH and the EU. Even an informal chat about 'not going below a certain price' can count. Fines can be up to 10% of a company's yearly turnover.",
+        "explain": "Such deals between competitors are called cartels and are illegal almost everywhere, including in the EU and the US. Even an informal chat about 'not going below a certain price' can count. Fines can be up to 10% of a company's yearly turnover. EU vs. US: in the EU, cartels bring big fines for companies. In the US (Sherman Act), price fixing is also a crime, and managers can go to prison.",
         "example": "Three bakeries in a town agree over coffee to all raise bread prices by 10 cents on the same day. That's price fixing.",
         "why": "Fines are huge and managers can face personal consequences. Fair competition also keeps businesses sharp.",
         "mixup": "Charging the same price as competitors isn't illegal if you each decided it alone. Agreeing on it together is."
       },
       "bs": {
         "one": "Competition law (pravo konkurencije) sprečava firme da se međusobno dogovore kako se ne bi takmičile, npr. dogovaranjem cijena ili dijeljenjem kupaca.",
-        "explain": "Takvi dogovori između konkurenata zovu se karteli i nezakoniti su skoro svuda, uključujući BiH i EU. I neformalan razgovor o tome da se 'ne ide ispod neke cijene' može se računati. Kazne mogu biti do 10% godišnjeg prometa firme.",
+        "explain": "Takvi dogovori između konkurenata zovu se karteli i nezakoniti su skoro svuda, uključujući EU i SAD. I neformalan razgovor o tome da se 'ne ide ispod neke cijene' može se računati. Kazne mogu biti do 10% godišnjeg prometa firme. EU i SAD: u EU karteli donose velike kazne firmama. U SAD-u (Sherman Act) dogovaranje cijena je i krivično djelo, pa menadžeri mogu ići u zatvor.",
         "example": "Tri pekare u gradu se uz kafu dogovore da sve istog dana podignu cijenu hljeba za 10 feninga. To je dogovaranje cijena.",
         "why": "Kazne su ogromne, a menadžeri mogu snositi lične posljedice. Poštena konkurencija također drži firme u formi.",
         "mixup": "Ista cijena kao kod konkurencije nije nezakonita ako je svako sam odlučio. Zajednički dogovor jeste."
@@ -39,14 +39,14 @@
       "related": ["Competition law and cartels", "Monopoly", "Market structures"],
       "en": {
         "one": "Being big is legal, but a company that dominates a market isn't allowed to use that power to push out competitors or exploit customers.",
-        "explain": "Examples of abuse: selling below cost to kill a smaller rival, forcing customers to buy one product to get another, refusing to supply without a good reason, or charging unfairly high prices. Regulators look at market share and how easily others can enter.",
+        "explain": "Examples of abuse: selling below cost to kill a smaller rival, forcing customers to buy one product to get another, refusing to supply without a good reason, or charging unfairly high prices. Regulators look at market share and how easily others can enter. EU vs. US: EU law can punish a dominant firm for unfair behaviour, including unfairly high prices. US law (Sherman Act, section 2) targets 'monopolisation': gaining or keeping a monopoly by excluding rivals. Simply charging high prices isn't illegal there.",
         "example": "A dominant distributor tells shops they can only stock its drinks if they don't sell a new local brand. That can be abuse of dominance.",
         "why": "If you're small, these rules protect you. If you grow big, they limit what you may do.",
         "mixup": "Winning a big market share with a better product isn't abuse. Abuse is how the power is used."
       },
       "bs": {
         "one": "Biti velik je legalno, ali firma koja dominira tržištem ne smije tu moć koristiti da istjera konkurente ili iskorištava kupce.",
-        "explain": "Primjeri zloupotrebe: prodaja ispod troška da se uništi manji konkurent, uslovljavanje kupovine jednog proizvoda drugim, odbijanje isporuke bez dobrog razloga ili nepravedno visoke cijene. Regulatori gledaju tržišni udio i koliko lako drugi mogu ući.",
+        "explain": "Primjeri zloupotrebe: prodaja ispod troška da se uništi manji konkurent, uslovljavanje kupovine jednog proizvoda drugim, odbijanje isporuke bez dobrog razloga ili nepravedno visoke cijene. Regulatori gledaju tržišni udio i koliko lako drugi mogu ući. EU i SAD: pravo EU može kazniti dominantnu firmu za nepošteno ponašanje, uključujući nepošteno visoke cijene. Američko pravo (Sherman Act, član 2) cilja 'monopolizaciju': sticanje ili zadržavanje monopola isključivanjem rivala. Same visoke cijene tamo nisu nezakonite.",
         "example": "Dominantni distributer kaže prodavnicama da mogu držati njegova pića samo ako ne prodaju novi lokalni brend. To može biti zloupotreba dominantnog položaja.",
         "why": "Ako si mali, ova pravila te štite. Ako narasteš, ograničavaju šta smiješ raditi.",
         "mixup": "Osvojiti veliki tržišni udio boljim proizvodom nije zloupotreba. Zloupotreba je način na koji se moć koristi."
@@ -84,16 +84,16 @@
       "youtubeQuery": "fiscal cash register receipts explained",
       "related": ["Tax planning vs. tax evasion", "Invoice", "VAT"],
       "en": {
-        "one": "Many countries, including BiH, require shops and restaurants to issue every cash sale through a registered fiscal device that reports to the tax authority.",
-        "explain": "Each sale must get a fiscal receipt. The device records the sale so it can't be hidden later. Not issuing receipts can bring fines and even temporary closure of the business. Several countries are moving to online real-time reporting.",
-        "example": "A tax inspector orders a coffee, gets no receipt, and the café receives a fine and a closure order.",
+        "one": "Several European countries, such as Croatia, Italy, Hungary and those in the Western Balkans, require shops and restaurants to issue every cash sale through a registered fiscal device that reports to the tax authority.",
+        "explain": "Each sale must get a fiscal receipt. The device records the sale so it can't be hidden later. Not issuing receipts can bring fines and even temporary closure of the business. Several countries are moving to online real-time reporting. EU vs. US: there is no EU-wide fiscal device rule; each country decides, and the EU is moving businesses towards digital e-invoicing and real-time VAT reporting. The US has no fiscal devices at all: businesses collect sales tax and report it to each state themselves.",
+        "example": "In Croatia, a tax inspector orders a coffee, gets no fiscal receipt, and the café receives a fine and a closure order.",
         "why": "It's one of the most checked rules for small businesses, and an easy one to get right.",
         "mixup": "A fiscal receipt isn't the same as an invoice to a business customer, which needs more details like the buyer's tax number."
       },
       "bs": {
-        "one": "Mnoge zemlje, uključujući BiH, traže da prodavnice i restorani svaku gotovinsku prodaju evidentiraju kroz registrovan fiskalni uređaj koji izvještava poreznu upravu.",
-        "explain": "Svaka prodaja mora dobiti fiskalni račun. Uređaj bilježi prodaju pa se kasnije ne može sakriti. Neizdavanje računa može donijeti kazne, pa čak i privremeno zatvaranje. Nekoliko zemalja prelazi na online izvještavanje u realnom vremenu.",
-        "example": "Porezni inspektor naruči kafu, ne dobije račun, i kafić dobije kaznu i nalog za zatvaranje.",
+        "one": "Nekoliko evropskih zemalja, kao Hrvatska, Italija, Mađarska i zemlje Zapadnog Balkana, traže da prodavnice i restorani svaku gotovinsku prodaju evidentiraju kroz registrovan fiskalni uređaj koji izvještava poreznu upravu.",
+        "explain": "Svaka prodaja mora dobiti fiskalni račun. Uređaj bilježi prodaju pa se kasnije ne može sakriti. Neizdavanje računa može donijeti kazne, pa čak i privremeno zatvaranje. Nekoliko zemalja prelazi na online izvještavanje u realnom vremenu. EU i SAD: ne postoji pravilo o fiskalnim uređajima za cijelu EU; svaka zemlja odlučuje, a EU pomjera firme prema digitalnom e-fakturisanju i izvještavanju o PDV-u u realnom vremenu. SAD uopšte nema fiskalne uređaje: firme same naplaćuju porez na promet i prijavljuju ga svakoj državi.",
+        "example": "U Hrvatskoj porezni inspektor naruči kafu, ne dobije fiskalni račun, i kafić dobije kaznu i nalog za zatvaranje.",
         "why": "To je jedno od najčešće provjeravanih pravila za male firme, a lako ga je poštovati.",
         "mixup": "Fiskalni račun nije isto što i faktura poslovnom kupcu, koja traži više podataka, npr. porezni broj kupca."
       }
@@ -108,15 +108,15 @@
       "related": ["Know your customer", "Tax planning vs. tax evasion", "Business ethics"],
       "en": {
         "one": "Money laundering is making criminal money look legal by passing it through normal-looking businesses or transactions.",
-        "explain": "AML rules require banks and some businesses (like real estate agents, accountants and car dealers) to check who their customers are, watch for suspicious payments, limit large cash payments and report suspicions to the authorities.",
-        "example": "Someone wants to buy a car for 60,000 KM in cash and refuses to show where the money comes from. The dealer should refuse and report it.",
+        "explain": "AML rules require banks and some businesses (like real estate agents, accountants and car dealers) to check who their customers are, watch for suspicious payments, limit large cash payments and report suspicions to the authorities. EU vs. US: the EU has a new anti-money-laundering authority (AMLA) and is bringing in an EU-wide limit of 10,000 € on cash payments. In the US, the Bank Secrecy Act applies, and any business that receives over $10,000 in cash must report it to the IRS.",
+        "example": "Someone wants to buy a car for €60,000 in cash and refuses to show where the money comes from. The dealer should refuse and report it.",
         "why": "Getting caught up in laundering, even by not asking questions, can mean fines, losing your bank account, or criminal charges.",
         "mixup": "It isn't only a bank's problem. Any business taking large cash amounts should ask where the money comes from."
       },
       "bs": {
         "one": "Money laundering (pranje novca) je činjenje da kriminalni novac izgleda legalno, provlačenjem kroz normalne poslove ili transakcije.",
-        "explain": "AML pravila traže od banaka i nekih firmi (npr. agenata za nekretnine, računovođa i prodavaca automobila) da provjere ko su im kupci, prate sumnjive uplate, ograniče velika gotovinska plaćanja i prijave sumnje nadležnima.",
-        "example": "Neko želi kupiti auto za 60.000 KM u gotovini i odbija pokazati odakle mu novac. Prodavac treba odbiti i prijaviti.",
+        "explain": "AML pravila traže od banaka i nekih firmi (npr. agenata za nekretnine, računovođa i prodavaca automobila) da provjere ko su im kupci, prate sumnjive uplate, ograniče velika gotovinska plaćanja i prijave sumnje nadležnima. EU i SAD: EU ima novi organ za borbu protiv pranja novca (AMLA) i uvodi ograničenje od 10.000 € za gotovinska plaćanja u cijeloj EU. U SAD-u važi Bank Secrecy Act, a svaka firma koja primi više od 10.000 $ u gotovini mora to prijaviti IRS-u.",
+        "example": "Neko želi kupiti auto za 60.000 € u gotovini i odbija pokazati odakle mu novac. Prodavac treba odbiti i prijaviti.",
         "why": "Upletenost u pranje novca, čak i kroz nepostavljanje pitanja, može značiti kazne, gubitak bankovnog računa ili krivičnu prijavu.",
         "mixup": "Nije to samo problem banaka. Svaka firma koja prima velike gotovinske iznose treba pitati odakle novac."
       }
@@ -131,14 +131,14 @@
       "related": ["Business ethics", "Conflict of interest", "Code of conduct"],
       "en": {
         "one": "Bribery is offering, giving or accepting something of value to improperly influence a decision.",
-        "explain": "It can be cash, gifts, trips, jobs for relatives or 'consulting fees'. Bribing officials is a crime almost everywhere, and many countries also punish bribery between companies. EU and US laws can apply even to deals done abroad. Small 'facilitation payments' to speed up paperwork are also bribes in most countries.",
+        "explain": "It can be cash, gifts, trips, jobs for relatives or 'consulting fees'. Bribing officials is a crime almost everywhere, and many countries also punish bribery between companies. US law (the Foreign Corrupt Practices Act) EU countries' anti-bribery laws and, outside the EU, the UK Bribery Act can apply even to deals done abroad. Small 'facilitation payments' to speed up paperwork are also bribes in most countries.",
         "example": "A supplier offers a purchasing manager a free holiday if the contract is renewed. Accepting it is bribery, even if the supplier was going to win anyway.",
         "why": "Corruption leads to fines, prison and lost contracts, and once known, it destroys trust in a company.",
         "mixup": "A small gift isn't automatically a bribe. Clear rules (for example, a value limit and registering gifts) help draw the line."
       },
       "bs": {
         "one": "Bribery (mito) je nuđenje, davanje ili primanje nečeg vrijednog da bi se nepropisno uticalo na odluku.",
-        "explain": "Može biti gotovina, pokloni, putovanja, poslovi za rodbinu ili 'konsultantske naknade'. Podmićivanje službenika je krivično djelo skoro svuda, a mnoge zemlje kažnjavaju i mito između firmi. Zakoni EU i SAD mogu važiti i za poslove u inostranstvu. Mala 'plaćanja za ubrzanje' papirologije su također mito u većini zemalja.",
+        "explain": "Može biti gotovina, pokloni, putovanja, poslovi za rodbinu ili 'konsultantske naknade'. Podmićivanje službenika je krivično djelo skoro svuda, a mnoge zemlje kažnjavaju i mito između firmi. Američki zakon (Foreign Corrupt Practices Act) zakoni zemalja EU protiv mita i, izvan EU, britanski Bribery Act mogu važiti i za poslove u inostranstvu. Mala 'plaćanja za ubrzanje' papirologije su također mito u većini zemalja.",
         "example": "Dobavljač ponudi nabavnom menadžeru besplatan odmor ako se ugovor obnovi. Prihvatanje je mito, čak i da bi dobavljač i inače pobijedio.",
         "why": "Korupcija vodi do kazni, zatvora i izgubljenih ugovora, a kad se sazna, uništava povjerenje u firmu.",
         "mixup": "Mali poklon nije automatski mito. Jasna pravila (npr. ograničenje vrijednosti i evidencija poklona) pomažu povući granicu."
@@ -177,8 +177,8 @@
     },
     {
       "q": {
-        "en": "A customer wants to pay 60,000 KM in cash and won't explain where it's from. What should a car dealer do?",
-        "bs": "Kupac želi platiti 60.000 KM u gotovini i ne želi objasniti odakle novac. Šta treba uraditi prodavac auta?"
+        "en": "A customer wants to pay €60,000 in cash and won't explain where it's from. What should a car dealer do?",
+        "bs": "Kupac želi platiti 60.000 € u gotovini i ne želi objasniti odakle novac. Šta treba uraditi prodavac auta?"
       },
       "options": [
         { "en": "Refuse and report the suspicion", "bs": "Odbiti i prijaviti sumnju" },
