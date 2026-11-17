@@ -99,9 +99,43 @@ Your progress and video links stay safe in the `app-data` Docker volume.
 
 ### Back up your progress
 
+Your accounts, progress and video links all live in one small database file. The backup script copies it safely while the app keeps running. It saves the copy in the `backups/` folder next to the code on the server, outside Docker, and keeps the newest 14 copies.
+
+**Make a backup now** (from the OceanGlass folder):
+
 ```bash
-docker compose cp app:/data/app.db ./backup-$(date +%F).db
+docker compose exec -T -u root app node scripts/backup.mjs
+ls backups/
 ```
+
+**Back up automatically every night at 3:00.** Run `crontab -e`, choose `nano` if it asks, and add this line at the bottom:
+
+```
+0 3 * * * cd /root/OceanGlass && docker compose exec -T -u root app node scripts/backup.mjs >> backups/backup.log 2>&1
+```
+
+Change `/root/OceanGlass` if your folder is somewhere else (`pwd` shows it). Save with Ctrl+O, Enter, then Ctrl+X. To keep more or fewer copies, add `-e BACKUP_KEEP=30` after `exec`.
+
+**Keep a copy off the server too.** Copy the backups to your own computer once in a while. Run this on your computer, not the server:
+
+```bash
+scp -r root@YOUR_VPS_IP:/root/OceanGlass/backups ./oceanglass-backups
+```
+
+### Restore a backup
+
+1. See which backups you have: `ls backups/`
+2. Stop the app, restore the one you want, and start it again:
+
+```bash
+docker compose stop app
+docker compose run --rm -u root app node scripts/restore.mjs app-2026-11-17-03-00-00.db
+docker compose start app
+```
+
+Use your real file name in the middle line. The database you are replacing is kept as `app.db.before-restore`, just in case.
+
+Stopping the app (`docker compose stop`) or rebuilding it never deletes your data or your backups. Only `docker compose down -v` deletes the database, so never add `-v`.
 
 ### Forgot a password
 
