@@ -1,0 +1,215 @@
+{
+  "slug": "know-your-customer",
+  "title": { "en": "Know your customer", "bs": "Upoznaj svog kupca" },
+  "summary": {
+    "en": "Who exactly you sell to, what they need, and how you stand out from competitors.",
+    "bs": "Kome tačno prodaješ, šta im treba i kako se izdvajaš od konkurencije."
+  },
+  "concepts": [
+    {
+      "slug": "market-research",
+      "term": "Market research",
+      "local": "istraživanje tržišta",
+      "minutes": 5,
+      "youtube": "U8tQnSx5fHo",
+      "youtubeQuery": "market research explained for small business",
+      "related": ["Survey", "Competitor analysis", "Target market"],
+      "en": {
+        "one": "Market research is collecting facts about customers, competitors and the market before you make big decisions.",
+        "explain": "Primary research is information you gather yourself: interviews, surveys, watching how people shop. Secondary research uses what already exists: statistics, industry reports, competitors' websites. Even 10 honest customer conversations beat guessing.",
+        "example": "Before opening a vegan café in Banja Luka, you talk to 30 people, count foot traffic on the street at lunch, and check how busy similar places are.",
+        "why": "It cuts the risk of building something nobody wants or pricing it wrongly.",
+        "mixup": "Asking 'Would you buy this?' is weak research; people say yes to be polite. Ask what they did last time they had the problem."
+      },
+      "bs": {
+        "one": "Market research (istraživanje tržišta) je prikupljanje činjenica o kupcima, konkurentima i tržištu prije velikih odluka.",
+        "explain": "Primarno istraživanje su informacije koje sam skupiš: razgovori, ankete, posmatranje kako ljudi kupuju. Sekundarno koristi ono što već postoji: statistike, izvještaje industrije, sajtove konkurenata. Čak i 10 iskrenih razgovora s kupcima je bolje od nagađanja.",
+        "example": "Prije otvaranja veganskog kafića u Banjoj Luci, razgovaraš s 30 ljudi, brojiš prolaznike u ulici za vrijeme ručka i provjeriš koliko su puna slična mjesta.",
+        "why": "Smanjuje rizik da napraviš nešto što niko ne želi ili pogrešno odrediš cijenu.",
+        "mixup": "Pitanje 'Biste li ovo kupili?' je slabo istraživanje; ljudi kažu da iz pristojnosti. Pitaj šta su uradili zadnji put kad su imali taj problem."
+      }
+    },
+    {
+      "slug": "target-market",
+      "term": "Target market",
+      "local": "ciljno tržište",
+      "minutes": 4,
+      "youtube": "FtGjuAGbuuA",
+      "youtubeQuery": "target market explained simply",
+      "related": ["Segmentation", "Buyer persona", "Positioning"],
+      "en": {
+        "one": "Your target market is the specific group of people or firms you mainly want to sell to.",
+        "explain": "Nobody can sell to everyone well. Choosing a target lets you shape the product, price, message and channels for one group, and spend money where it works. You can widen it later.",
+        "example": "A yoga studio targets office workers aged 25–45 near the city centre, with classes at 7 am and 6 pm.",
+        "why": "A clear target makes every marketing euro work harder and makes your message sharper.",
+        "mixup": "Choosing a target does not mean refusing others. Anyone can still buy; you just don't design everything around them."
+      },
+      "bs": {
+        "one": "Target market (ciljno tržište) je određena grupa ljudi ili firmi kojima uglavnom želiš prodavati.",
+        "explain": "Niko ne može dobro prodavati svima. Izbor cilja ti omogućava da proizvod, cijenu, poruku i kanale prilagodiš jednoj grupi i trošiš novac tamo gdje radi. Kasnije ga možeš proširiti.",
+        "example": "Studio joge cilja kancelarijske radnike od 25 do 45 godina blizu centra grada, s časovima u 7 i 18 sati.",
+        "why": "Jasan cilj čini da svaki euro za marketing radi više i da ti poruka bude oštrija.",
+        "mixup": "Izbor cilja ne znači odbijanje drugih. Svako i dalje može kupiti; samo ne dizajniraš sve oko njih."
+      }
+    },
+    {
+      "slug": "segmentation",
+      "term": "Market segmentation",
+      "local": "segmentacija tržišta",
+      "minutes": 5,
+      "youtube": "T7ecO51aRBs",
+      "youtubeQuery": "market segmentation explained",
+      "related": ["Target market", "Buyer persona", "Market research"],
+      "en": {
+        "one": "Segmentation is splitting a market into groups of customers who have similar needs or behave similarly.",
+        "explain": "Common ways to split: demographics (age, income), geography (city, region), behaviour (how often they buy, how loyal they are) and psychographics (values, lifestyle). Then you pick the segments you can serve best: that becomes your target market.",
+        "example": "A car wash finds three segments: busy parents wanting speed, car lovers wanting detail, and taxi firms wanting monthly deals.",
+        "why": "Different segments need different offers and messages. One message for all usually reaches none well.",
+        "mixup": "Segments are not just age groups. Two 30-year-olds can want completely different things; behaviour often matters more."
+      },
+      "bs": {
+        "one": "Segmentation (segmentacija) je dijeljenje tržišta na grupe kupaca sa sličnim potrebama ili ponašanjem.",
+        "explain": "Česti načini: demografija (dob, primanja), geografija (grad, regija), ponašanje (koliko često kupuju, koliko su lojalni) i psihografija (vrijednosti, stil života). Onda izabereš segmente koje najbolje možeš uslužiti: to postaje tvoje ciljno tržište.",
+        "example": "Autopraonica nađe tri segmenta: zauzete roditelje koji žele brzinu, ljubitelje auta koji žele detalje i taksi firme koje žele mjesečne ugovore.",
+        "why": "Različiti segmenti trebaju različite ponude i poruke. Jedna poruka za sve obično nikog ne dotakne dobro.",
+        "mixup": "Segmenti nisu samo dobne grupe. Dvoje tridesetogodišnjaka mogu željeti potpuno različite stvari; ponašanje je često važnije."
+      }
+    },
+    {
+      "slug": "buyer-persona",
+      "term": "Buyer persona",
+      "local": "persona kupca",
+      "minutes": 4,
+      "youtube": "n3MvQ2OJXpI",
+      "youtubeQuery": "buyer persona explained simply",
+      "related": ["Target market", "Segmentation", "Customer journey"],
+      "en": {
+        "one": "A buyer persona is a short, realistic profile of your typical customer, written as if it were one person.",
+        "explain": "It includes their situation, goals, worries, where they get information and what makes them buy. It should be based on real conversations, not imagination. It helps the whole team picture who they are talking to.",
+        "example": "'Amra, 34, runs a small accounting office, has no time, finds suppliers through colleagues, hates hidden fees.'",
+        "why": "When you write an ad or design a feature, you can ask: would Amra care about this?",
+        "mixup": "A persona is not a stereotype you made up. If it isn't based on real customers, it can lead you in the wrong direction."
+      },
+      "bs": {
+        "one": "Buyer persona (persona kupca) je kratak, realan profil tipičnog kupca, napisan kao da je jedna osoba.",
+        "explain": "Uključuje situaciju, ciljeve, brige, gdje dobija informacije i šta je tjera na kupovinu. Treba se zasnivati na stvarnim razgovorima, ne na mašti. Pomaže cijelom timu da zamisli s kim razgovara.",
+        "example": "'Amra, 34, vodi malu knjigovodstvenu agenciju, nema vremena, dobavljače nalazi preko kolega, mrzi skrivene troškove.'",
+        "why": "Kad pišeš reklamu ili dizajniraš funkciju, možeš pitati: bi li Amri ovo bilo važno?",
+        "mixup": "Persona nije stereotip koji si izmislio. Ako nije zasnovana na stvarnim kupcima, može te odvesti u pogrešnom smjeru."
+      }
+    },
+    {
+      "slug": "positioning",
+      "term": "Positioning",
+      "local": "pozicioniranje",
+      "minutes": 5,
+      "youtube": "jMm2WmqVJHM",
+      "youtubeQuery": "brand positioning explained simply",
+      "related": ["Brand", "Unique selling proposition (USP)", "Competitor analysis"],
+      "en": {
+        "one": "Positioning is the place you want your product to hold in customers' minds compared to competitors.",
+        "explain": "You choose what you want to be known for: cheapest, fastest, highest quality, most local, best for a certain group. Then everything you do should support it. You can't be everything at once.",
+        "example": "Two pizzerias on the same street: one is 'the fast, cheap slice for students', the other 'the slow-dough Neapolitan place for a date night'.",
+        "why": "Clear positioning makes you easy to remember and choose, and protects you from pure price wars.",
+        "mixup": "Positioning is not what you say about yourself. It is what customers actually think; your actions must earn it."
+      },
+      "bs": {
+        "one": "Positioning (pozicioniranje) je mjesto koje želiš da tvoj proizvod zauzme u glavama kupaca u odnosu na konkurente.",
+        "explain": "Biraš po čemu želiš biti poznat: najjeftiniji, najbrži, najkvalitetniji, najlokalniji, najbolji za određenu grupu. Onda sve što radiš treba to podržati. Ne možeš biti sve odjednom.",
+        "example": "Dvije picerije u istoj ulici: jedna je 'brzo i jeftino parče za studente', druga 'napuljska pizza od sporog tijesta za izlazak u dvoje'.",
+        "why": "Jasno pozicioniranje te čini lakim za pamćenje i izbor i štiti te od čistog rata cijenama.",
+        "mixup": "Pozicioniranje nije ono što ti kažeš o sebi. To je ono što kupci stvarno misle; tvoja djela to moraju zaslužiti."
+      }
+    },
+    {
+      "slug": "competitor-analysis",
+      "term": "Competitor analysis",
+      "local": "analiza konkurencije",
+      "minutes": 5,
+      "youtube": "c6UUOXnbNkA",
+      "youtubeQuery": "competitor analysis explained simply",
+      "related": ["Positioning", "SWOT analysis", "Market research"],
+      "en": {
+        "one": "Competitor analysis is studying who else solves your customer's problem, and how well.",
+        "explain": "Look at direct competitors (same product), indirect ones (different product, same need) and the option of doing nothing. Compare prices, quality, service, reviews and how they promote themselves. Look for gaps they leave open.",
+        "example": "A new language school checks other schools, private tutors, and free apps like Duolingo, then notices no one offers evening courses for business English.",
+        "why": "It shows where you can win and helps you avoid copying what already exists.",
+        "mixup": "'We have no competitors' is almost never true. If customers solve the problem some other way today, that is your competition."
+      },
+      "bs": {
+        "one": "Competitor analysis (analiza konkurencije) je proučavanje ko još rješava problem tvog kupca i koliko dobro.",
+        "explain": "Pogledaj direktne konkurente (isti proizvod), indirektne (drugi proizvod, ista potreba) i opciju da kupac ne uradi ništa. Uporedi cijene, kvalitet, uslugu, recenzije i kako se promovišu. Traži praznine koje ostavljaju.",
+        "example": "Nova škola jezika provjeri druge škole, privatne instruktore i besplatne aplikacije kao Duolingo, pa primijeti da niko ne nudi večernje kurseve poslovnog engleskog.",
+        "why": "Pokazuje gdje možeš pobijediti i pomaže ti da ne kopiraš ono što već postoji.",
+        "mixup": "'Nemamo konkurenciju' skoro nikad nije istina. Ako kupci danas problem rješavaju na neki drugi način, to je tvoja konkurencija."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "Which question gives the most honest market research answer?",
+        "bs": "Koje pitanje daje najiskreniji odgovor u istraživanju tržišta?"
+      },
+      "options": [
+        {
+          "en": "'What did you do last time you had this problem?'",
+          "bs": "'Šta ste uradili zadnji put kad ste imali ovaj problem?'"
+        },
+        { "en": "'Would you buy this?'", "bs": "'Biste li ovo kupili?'" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Past behaviour is real; promises about the future are often just politeness.",
+        "bs": "Prošlo ponašanje je stvarno; obećanja o budućnosti su često samo pristojnost."
+      }
+    },
+    {
+      "q": {
+        "en": "A car wash splits customers into busy parents, car lovers and taxi firms. This is…",
+        "bs": "Autopraonica podijeli kupce na zauzete roditelje, ljubitelje auta i taksi firme. To je…"
+      },
+      "options": [
+        { "en": "Pricing", "bs": "Određivanje cijene" },
+        { "en": "Segmentation", "bs": "Segmentacija" },
+        { "en": "Positioning", "bs": "Pozicioniranje" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Splitting a market into groups with similar needs is segmentation.",
+        "bs": "Dijeljenje tržišta na grupe sa sličnim potrebama je segmentacija."
+      }
+    },
+    {
+      "q": {
+        "en": "For a new language school, is a free app like Duolingo a competitor?",
+        "bs": "Za novu školu jezika, da li je besplatna aplikacija kao Duolingo konkurent?"
+      },
+      "options": [
+        {
+          "en": "Yes, an indirect competitor for the same need",
+          "bs": "Da, indirektni konkurent za istu potrebu"
+        },
+        { "en": "No, it is free", "bs": "Ne, besplatna je" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Anything customers use to solve the same problem competes with you.",
+        "bs": "Sve što kupci koriste za rješavanje istog problema ti je konkurencija."
+      }
+    },
+    {
+      "q": { "en": "What decides your real positioning?", "bs": "Šta određuje tvoje stvarno pozicioniranje?" },
+      "options": [
+        { "en": "Your slogan", "bs": "Tvoj slogan" },
+        { "en": "What customers actually think of you", "bs": "Ono što kupci stvarno misle o tebi" },
+        { "en": "Your logo colour", "bs": "Boja tvog logotipa" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Positioning lives in customers' minds and is earned by what you do.",
+        "bs": "Pozicioniranje živi u glavama kupaca i zaslužuje se onim što radiš."
+      }
+    }
+  ]
+}

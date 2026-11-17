@@ -1,0 +1,214 @@
+{
+  "slug": "digital-marketing",
+  "title": { "en": "Digital marketing", "bs": "Digitalni marketing" },
+  "summary": {
+    "en": "Getting found and chosen online: search, ads, social media, content and email.",
+    "bs": "Kako te nađu i izaberu online: pretraga, reklame, mreže, sadržaj i mejl."
+  },
+  "concepts": [
+    {
+      "slug": "seo",
+      "term": "SEO (Search engine optimisation)",
+      "local": "optimizacija za pretraživače",
+      "minutes": 6,
+      "youtube": "xnyJQb37RRw",
+      "youtubeQuery": "SEO explained simply for beginners",
+      "related": ["Content marketing", "Paid ads (PPC)", "Website"],
+      "en": {
+        "one": "SEO is improving your website so it shows up higher in Google when people search for what you offer.",
+        "explain": "Google ranks pages that best answer the searcher's question. That means useful content, the words people actually type, a fast site that works on phones, and other sites linking to you. For local firms, a complete Google Business Profile with reviews matters a lot.",
+        "example": "A Mostar dentist writes clear pages on 'teeth whitening price Mostar' and gets patients from search every week without paying for ads.",
+        "why": "Search visitors are already looking for you, so they often buy more easily, and the traffic is free once you rank.",
+        "mixup": "SEO is not a quick trick. It usually takes months, and shortcuts like stuffing keywords can get you penalised."
+      },
+      "bs": {
+        "one": "SEO (optimizacija za pretraživače) je poboljšanje sajta da se pojavi više na Googleu kad ljudi traže ono što nudiš.",
+        "explain": "Google rangira stranice koje najbolje odgovore na pitanje. To znači koristan sadržaj, riječi koje ljudi stvarno kucaju, brz sajt koji radi na telefonu i druge sajtove koji linkaju na tebe. Za lokalne firme mnogo znači potpun Google Business profil s recenzijama.",
+        "example": "Stomatolog iz Mostara napiše jasne stranice o 'cijena izbjeljivanja zuba Mostar' i svake sedmice dobija pacijente iz pretrage bez plaćanja reklama.",
+        "why": "Posjetioci iz pretrage te već traže, pa lakše kupe, a posjete su besplatne kad jednom budeš visoko.",
+        "mixup": "SEO nije brz trik. Obično traje mjesecima, a prečice kao trpanje ključnih riječi mogu donijeti kaznu."
+      }
+    },
+    {
+      "slug": "paid-ads",
+      "term": "Paid ads (PPC)",
+      "local": "plaćeno oglašavanje (PPC)",
+      "minutes": 5,
+      "youtube": "8h7lCm44Z00",
+      "youtubeQuery": "pay per click advertising explained",
+      "related": ["SEO (Search engine optimisation)", "ROAS", "Target market"],
+      "en": {
+        "one": "Paid ads are ads you pay for on Google, Facebook, Instagram, TikTok and similar. PPC (pay per click) means you pay each time someone clicks.",
+        "explain": "You choose who sees the ad (location, age, interests, search words) and set a budget. You can start and stop any time and see results within days. When you stop paying, the traffic stops.",
+        "example": "A florist pays €0.40 per click for 'flowers delivery Zagreb' and sets a €10 daily budget for Valentine's week.",
+        "why": "Ads give fast, measurable results and are great for testing which messages work.",
+        "mixup": "Clicks are not customers. Many clicks with few sales means the offer, page or targeting is wrong, not that you need more budget."
+      },
+      "bs": {
+        "one": "Paid ads (plaćene reklame) su reklame koje plaćaš na Googleu, Facebooku, Instagramu, TikToku i sličnim. PPC (pay per click) znači da plaćaš svaki put kad neko klikne.",
+        "explain": "Biraš ko vidi reklamu (lokacija, dob, interesi, riječi pretrage) i postaviš budžet. Možeš početi i stati kad hoćeš i vidiš rezultate za par dana. Kad prestaneš plaćati, posjete prestanu.",
+        "example": "Cvjećarna plaća 0,40 € po kliku za 'dostava cvijeća Zagreb' i postavi dnevni budžet od 10 € za sedmicu Valentinova.",
+        "why": "Reklame daju brze, mjerljive rezultate i odlične su za testiranje koje poruke rade.",
+        "mixup": "Klikovi nisu kupci. Mnogo klikova s malo prodaje znači da ponuda, stranica ili ciljanje ne valja, a ne da ti treba veći budžet."
+      }
+    },
+    {
+      "slug": "social-media-marketing",
+      "term": "Social media marketing",
+      "local": "marketing na društvenim mrežama",
+      "minutes": 5,
+      "youtube": "x36plGYFTX4",
+      "youtubeQuery": "social media marketing for small business explained",
+      "related": ["Content marketing", "Influencer marketing", "Brand awareness"],
+      "en": {
+        "one": "Social media marketing is using platforms like Instagram, Facebook, TikTok and LinkedIn to build an audience and bring customers.",
+        "explain": "It has two parts: organic (free posts, comments, community) and paid (ads). Pick the platforms where your customers actually spend time, post regularly, and talk with people instead of only advertising.",
+        "example": "A local bakery posts short videos of bread coming out of the oven at 6 am, and the morning queue grows.",
+        "why": "It's a cheap way to build awareness and trust, and to hear directly what customers think.",
+        "mixup": "Followers are not sales. A big audience that never buys is a hobby, not marketing."
+      },
+      "bs": {
+        "one": "Social media marketing (marketing na mrežama) je korištenje platformi kao Instagram, Facebook, TikTok i LinkedIn za izgradnju publike i dovođenje kupaca.",
+        "explain": "Ima dva dijela: organski (besplatne objave, komentari, zajednica) i plaćeni (reklame). Izaberi platforme gdje tvoji kupci stvarno provode vrijeme, objavljuj redovno i razgovaraj s ljudima umjesto da samo reklamiraš.",
+        "example": "Lokalna pekara objavljuje kratke snimke hljeba koji izlazi iz peći u 6 ujutro, a jutarnji red raste.",
+        "why": "To je jeftin način da izgradiš prepoznatljivost i povjerenje i čuješ direktno šta kupci misle.",
+        "mixup": "Pratioci nisu prodaja. Velika publika koja nikad ne kupi je hobi, a ne marketing."
+      }
+    },
+    {
+      "slug": "content-marketing",
+      "term": "Content marketing",
+      "local": "marketing sadržajem",
+      "minutes": 5,
+      "youtube": "3z55YBw3tnA",
+      "youtubeQuery": "content marketing explained simply",
+      "related": ["SEO (Search engine optimisation)", "Brand storytelling", "Lead"],
+      "en": {
+        "one": "Content marketing is giving away useful articles, videos or guides so the right people find you and trust you.",
+        "explain": "Instead of shouting 'buy now', you help: how-to guides, tips, answers to common questions. Over time this brings search traffic, builds expertise and makes buying from you feel natural.",
+        "example": "An accounting office publishes a simple guide 'How to register as a sole trader in Sarajevo', and new clients call after reading it.",
+        "why": "Good content keeps working for years and makes you the go-to expert.",
+        "mixup": "Content marketing is not posting for the sake of posting. If it doesn't help your target customer, it doesn't help you."
+      },
+      "bs": {
+        "one": "Content marketing (marketing sadržajem) je davanje korisnih članaka, videa ili vodiča da te pravi ljudi nađu i vjeruju ti.",
+        "explain": "Umjesto da vičeš 'kupi odmah', pomažeš: vodiči, savjeti, odgovori na česta pitanja. S vremenom to donosi posjete iz pretrage, gradi stručnost i čini kupovinu kod tebe prirodnom.",
+        "example": "Knjigovodstvena agencija objavi jednostavan vodič 'Kako se registrovati kao samostalni preduzetnik u Sarajevu', a novi klijenti zovu nakon čitanja.",
+        "why": "Dobar sadržaj radi godinama i čini te stručnjakom kojem se ljudi obraćaju.",
+        "mixup": "Content marketing nije objavljivanje radi objavljivanja. Ako ne pomaže tvom ciljnom kupcu, ne pomaže ni tebi."
+      }
+    },
+    {
+      "slug": "email-marketing",
+      "term": "Email marketing",
+      "local": "email marketing",
+      "minutes": 4,
+      "youtube": "RHKmU4ecD9g",
+      "youtubeQuery": "email marketing explained for beginners",
+      "related": ["Lead", "Customer retention", "GDPR"],
+      "en": {
+        "one": "Email marketing is sending useful messages and offers to people who agreed to hear from you.",
+        "explain": "Your email list is an audience you own, unlike social followers. Welcome emails, newsletters, reminders and special offers bring people back. In the EU you need clear consent (GDPR) and an easy way to unsubscribe.",
+        "example": "A bookshop emails its list every Friday with three new books and a 10% code, and gets a steady wave of weekend orders.",
+        "why": "Email often brings the highest return of any channel, because you're talking to people who already know you.",
+        "mixup": "Buying an email list is not a shortcut. It's against GDPR rules, and those people don't want your mail."
+      },
+      "bs": {
+        "one": "Email marketing je slanje korisnih poruka i ponuda ljudima koji su pristali da im se javljaš.",
+        "explain": "Tvoja email lista je publika koju posjeduješ, za razliku od pratilaca na mrežama. Mejlovi dobrodošlice, newsletteri, podsjetnici i posebne ponude vraćaju ljude. U EU treba jasna saglasnost (GDPR) i lak način odjave.",
+        "example": "Knjižara svakog petka šalje mejl s tri nove knjige i kodom za 10% i dobije stalan talas vikend narudžbi.",
+        "why": "Email često donosi najveći povrat od svih kanala, jer razgovaraš s ljudima koji te već znaju.",
+        "mixup": "Kupovina email liste nije prečica. Krši GDPR pravila, a ti ljudi ne žele tvoju poštu."
+      }
+    },
+    {
+      "slug": "influencer-marketing",
+      "term": "Influencer marketing",
+      "local": "influencer marketing",
+      "minutes": 4,
+      "youtube": "807cWb8AwLY",
+      "youtubeQuery": "influencer marketing explained",
+      "related": ["Social media marketing", "Herd behaviour & social proof", "Brand awareness"],
+      "en": {
+        "one": "Influencer marketing is paying or partnering with people who have a trusted audience, so they show your product.",
+        "explain": "Smaller 'micro-influencers' with a few thousand loyal local followers often bring better results per euro than big stars. The fit between the influencer's audience and your target market matters more than follower count. Paid posts must be marked as ads.",
+        "example": "A Split café invites a local food blogger with 8,000 followers; her honest review brings a busy weekend.",
+        "why": "It borrows someone else's trust to reach new people quickly.",
+        "mixup": "Follower count is not influence. Fake or uninterested followers bring nothing."
+      },
+      "bs": {
+        "one": "Influencer marketing je plaćanje ili saradnja s ljudima koji imaju publiku koja im vjeruje, da pokažu tvoj proizvod.",
+        "explain": "Manji 'mikro-influenceri' s par hiljada lojalnih lokalnih pratilaca često daju bolji rezultat po euru od velikih zvijezda. Važnije je da se njihova publika poklapa s tvojim ciljnim tržištem nego broj pratilaca. Plaćene objave moraju biti označene kao reklama.",
+        "example": "Kafić u Splitu pozove lokalnu food blogericu s 8.000 pratilaca; njena iskrena recenzija donese pun vikend.",
+        "why": "Posuđuje tuđe povjerenje da brzo dođeš do novih ljudi.",
+        "mixup": "Broj pratilaca nije uticaj. Lažni ili nezainteresovani pratioci ne donose ništa."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "Your ad gets many clicks but almost no sales. What should you check first?",
+        "bs": "Tvoja reklama dobija mnogo klikova, a skoro nikakvu prodaju. Šta prvo provjeriti?"
+      },
+      "options": [
+        { "en": "Double the budget", "bs": "Udvostručiti budžet" },
+        { "en": "The offer, landing page and targeting", "bs": "Ponudu, stranicu i ciljanje" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Clicks aren't customers. If people click and leave, something after the click is wrong.",
+        "bs": "Klikovi nisu kupci. Ako ljudi kliknu i odu, nešto poslije klika ne valja."
+      }
+    },
+    {
+      "q": {
+        "en": "Which channel is an audience you truly own?",
+        "bs": "Koji kanal je publika koju stvarno posjeduješ?"
+      },
+      "options": [
+        { "en": "Your email list", "bs": "Tvoja email lista" },
+        { "en": "A marketplace's buyers", "bs": "Kupci na marketplace platformi" },
+        { "en": "Your Instagram followers", "bs": "Tvoji pratioci na Instagramu" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Platforms can change rules; your email list stays yours (with consent).",
+        "bs": "Platforme mogu promijeniti pravila; email lista ostaje tvoja (uz saglasnost)."
+      }
+    },
+    {
+      "q": { "en": "How fast does SEO usually work?", "bs": "Koliko brzo SEO obično djeluje?" },
+      "options": [
+        { "en": "Within a day", "bs": "Za jedan dan" },
+        { "en": "Over months", "bs": "Kroz mjesece" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "SEO builds slowly but keeps bringing free traffic once you rank.",
+        "bs": "SEO raste sporo, ali kad budeš visoko, stalno donosi besplatne posjete."
+      }
+    },
+    {
+      "q": {
+        "en": "For a local café, which influencer is usually the better choice?",
+        "bs": "Za lokalni kafić, koji influencer je obično bolji izbor?"
+      },
+      "options": [
+        {
+          "en": "A global star with 5 million followers abroad",
+          "bs": "Svjetska zvijezda s 5 miliona pratilaca u inostranstvu"
+        },
+        {
+          "en": "A local blogger with 8,000 engaged followers",
+          "bs": "Lokalni bloger s 8.000 aktivnih pratilaca"
+        }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Audience fit matters more than size; the local followers can actually visit.",
+        "bs": "Poklapanje publike važnije je od veličine; lokalni pratioci stvarno mogu doći."
+      }
+    }
+  ]
+}
