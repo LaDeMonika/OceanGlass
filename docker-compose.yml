@@ -5,8 +5,11 @@ services:
     env_file: .env
     environment:
       DATA_DIR: /data
+      BACKUP_DIR: /backups
     volumes:
       - app-data:/data
+      # Database backups land in ./backups on the server (outside Docker).
+      - ./backups:/backups
     # Not exposed to the internet directly; Caddy talks to it.
     expose:
       - "3000"
