@@ -11,6 +11,7 @@
       "term": "Asset",
       "local": "imovina, aktiva",
       "minutes": 4,
+      "youtube": "HOntJMAh03M",
       "youtubeQuery": "what is an asset in business explained simply",
       "related": ["Liability", "Equity", "Balance sheet"],
       "en": {
@@ -33,6 +34,7 @@
       "term": "Liability",
       "local": "obaveza, pasiva",
       "minutes": 5,
+      "youtube": "ezUSjohT-gU",
       "youtubeQuery": "what is a liability in business explained simply",
       "related": ["Asset", "Loan", "Equity"],
       "en": {
@@ -55,6 +57,7 @@
       "term": "Equity",
       "local": "kapital, vlasnički kapital",
       "minutes": 6,
+      "youtube": "p1k6EKTQHbs",
       "youtubeQuery": "what is equity in business explained simply",
       "formula": { "en": "Equity = Assets − Liabilities", "bs": "Kapital = Imovina − Obaveze" },
       "related": ["Asset", "Liability", "Balance sheet"],
@@ -78,6 +81,7 @@
       "term": "Balance sheet",
       "local": "bilans stanja",
       "minutes": 8,
+      "youtube": "G4pC3oadX5A",
       "youtubeQuery": "balance sheet explained simply for beginners",
       "formula": { "en": "Assets = Liabilities + Equity", "bs": "Imovina = Obaveze + Kapital" },
       "related": ["Asset", "Liability", "Equity", "Income statement"],
@@ -101,6 +105,7 @@
       "term": "Working capital",
       "local": "obrtni kapital",
       "minutes": 5,
+      "youtube": "lNdyB3IlY6Y",
       "youtubeQuery": "working capital explained simply",
       "formula": {
         "en": "Working capital = Short-term assets − Short-term debts",

@@ -11,6 +11,7 @@
       "term": "Revenue",
       "local": "prihod (od prodaje)",
       "minutes": 4,
+      "youtube": "6HqeuC5XQlQ",
       "youtubeQuery": "what is revenue in business explained simply",
       "formula": { "en": "Revenue = Price × Units sold", "bs": "Prihod = Cijena × Prodane količine" },
       "related": ["Cost", "Profit", "Margin"],
@@ -34,6 +35,7 @@
       "term": "Cost",
       "local": "trošak",
       "minutes": 4,
+      "youtube": "j9myjYpuDG4",
       "youtubeQuery": "business costs explained simply",
       "related": ["Revenue", "Fixed vs. variable costs", "Margin"],
       "en": {
@@ -56,6 +58,7 @@
       "term": "Margin",
       "local": "marža",
       "minutes": 5,
+      "youtube": "ISt8W5mANQU",
       "youtubeQuery": "profit margin explained simply",
       "formula": { "en": "Margin % = (Price − Cost) ÷ Price × 100", "bs": "Marža % = (Cijena − Trošak) ÷ Cijena × 100" },
       "related": ["Revenue", "Cost", "Gross profit"],
@@ -79,6 +82,7 @@
       "term": "Break-even",
       "local": "tačka pokrića",
       "minutes": 6,
+      "youtube": "FmtcnhWpLaY",
       "youtubeQuery": "break even point explained simply",
       "formula": {
         "en": "Break-even units = Fixed costs ÷ (Price − Cost per unit)",

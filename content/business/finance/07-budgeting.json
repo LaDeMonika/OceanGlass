@@ -11,6 +11,7 @@
       "term": "Budget",
       "local": "budžet",
       "minutes": 5,
+      "youtube": "e32WwNVQn08",
       "youtubeQuery": "how to make a business budget explained simply",
       "related": ["Forecast", "Variance", "Income & expenses"],
       "en": {
@@ -33,6 +34,7 @@
       "term": "Fixed vs. variable costs",
       "local": "fiksni i varijabilni troškovi",
       "minutes": 5,
+      "youtube": "E7qWYu0xJfg",
       "youtubeQuery": "fixed vs variable costs explained simply",
       "related": ["Cost", "Break-even", "Budget"],
       "en": {
@@ -55,6 +57,7 @@
       "term": "Forecast",
       "local": "prognoza",
       "minutes": 5,
+      "youtube": "xU2XcrHL3RI",
       "youtubeQuery": "financial forecast vs budget explained simply",
       "related": ["Budget", "Variance", "Cash flow"],
       "en": {
@@ -77,6 +80,7 @@
       "term": "Variance",
       "local": "odstupanje",
       "minutes": 4,
+      "youtube": "4Qd97lqDdb0",
       "youtubeQuery": "budget variance explained simply",
       "formula": { "en": "Variance = Actual − Budget", "bs": "Odstupanje = Stvarno − Budžet" },
       "related": ["Budget", "Forecast"],

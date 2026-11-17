@@ -11,6 +11,7 @@
       "term": "Money",
       "local": "novac",
       "minutes": 5,
+      "youtube": "r5eFObOFcME",
       "youtubeQuery": "what is money explained simply",
       "related": ["Inflation", "Saving"],
       "en": {
@@ -33,6 +34,7 @@
       "term": "Income & expenses",
       "local": "prihodi i rashodi",
       "minutes": 5,
+      "youtube": "RKJmV5zGMTk",
       "youtubeQuery": "income vs expenses explained simply",
       "formula": { "en": "What's left = Income − Expenses", "bs": "Ostatak = Prihodi − Rashodi" },
       "related": ["Revenue", "Cost", "Budget"],
@@ -56,6 +58,7 @@
       "term": "Saving",
       "local": "štednja",
       "minutes": 5,
+      "youtube": "VFkci8h9m7w",
       "youtubeQuery": "why saving money matters explained simply",
       "related": ["Income & expenses", "Interest", "Compound interest"],
       "en": {
@@ -78,6 +81,7 @@
       "term": "Inflation",
       "local": "inflacija",
       "minutes": 6,
+      "youtube": "abdq4p2HaJo",
       "youtubeQuery": "what is inflation explained simply",
       "related": ["Money", "Interest rate"],
       "en": {
