@@ -30,6 +30,29 @@
       }
     },
     {
+      "slug": "cost-of-capital",
+      "term": "Cost of capital",
+      "local": "trošak kapitala",
+      "minutes": 6,
+      "youtube": "crMSEf3_8X0",
+      "youtubeQuery": "cost of capital WACC explained simply",
+      "related": ["Debt vs. equity financing", "IRR (Internal rate of return)", "Interest rate"],
+      "en": {
+        "one": "Cost of capital is what it costs a business to use money, whether it is borrowed or comes from investors.",
+        "explain": "Borrowed money costs interest. Investors' money costs too: they expect a return, usually higher than a bank, because they take more risk. Mix the two by how much of each the business uses and you get its average cost of capital, often called WACC. Any project must earn more than this, or it destroys value.",
+        "example": "A company is funded 50% by a loan at 6% and 50% by owners who expect 14%. Its cost of capital is about 10%. A project returning 8% looks profitable but actually loses value.",
+        "why": "It is the minimum bar every investment has to clear. It is also the rate you use for NPV.",
+        "mixup": "Your own money is not free. If you put €20,000 of savings into your business, it costs you what that money could have earned elsewhere."
+      },
+      "bs": {
+        "one": "Cost of capital (trošak kapitala) je koliko firmu košta korištenje novca, bilo da je pozajmljen ili dolazi od investitora.",
+        "explain": "Pozajmljeni novac košta kamatu. I novac investitora košta: oni očekuju povrat, obično veći od banke, jer preuzimaju veći rizik. Kad pomiješaš ta dva prema tome koliko firma koristi kojeg, dobiješ prosječni trošak kapitala, često zvan WACC. Svaki projekat mora zaraditi više od toga, inače uništava vrijednost.",
+        "example": "Firma je finansirana 50% kreditom uz 6% i 50% novcem vlasnika koji očekuju 14%. Trošak kapitala je oko 10%. Projekat koji vraća 8% izgleda profitabilno, ali zapravo gubi vrijednost.",
+        "why": "To je minimalna granica koju svako ulaganje mora preći. To je i stopa koju koristiš za NPV.",
+        "mixup": "Tvoj vlastiti novac nije besplatan. Ako uložiš 20.000 € ušteđevine u firmu, to te košta onoliko koliko bi taj novac mogao zaraditi negdje drugo."
+      }
+    },
+    {
       "slug": "bootstrapping",
       "term": "Bootstrapping",
       "local": "samofinansiranje",
