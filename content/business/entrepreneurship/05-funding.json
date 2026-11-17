@@ -1,0 +1,211 @@
+{
+  "slug": "funding",
+  "title": { "en": "Funding a new business", "bs": "Finansiranje novog biznisa" },
+  "summary": {
+    "en": "Where start-up money comes from, and what each source costs you.",
+    "bs": "Odakle dolazi novac za početak i šta te koji izvor košta."
+  },
+  "concepts": [
+    {
+      "slug": "friends-and-family",
+      "term": "Friends and family money",
+      "local": "novac od porodice i prijatelja",
+      "minutes": 3,
+      "youtube": "",
+      "youtubeQuery": "friends and family funding startup risks",
+      "related": ["Bootstrapping", "Debt vs. equity", "Partnership agreement"],
+      "en": {
+        "one": "Friends and family funding is money borrowed from or invested by people you know personally, often the first outside money a business gets.",
+        "explain": "It's fast and flexible, but mixes business with relationships. Always put it in writing: is it a loan (with repayment terms) or a share in the business? Only take money they can afford to lose.",
+        "example": "An uncle lends 10.000 KM for a nephew's car-repair workshop. They sign a simple loan agreement: repayment over 3 years at 3% interest, starting after 6 months.",
+        "why": "It can get a business off the ground when banks and investors won't yet.",
+        "mixup": "A handshake isn't enough. Unclear deals with family are one of the most common sources of business and family conflict."
+      },
+      "bs": {
+        "one": "Friends and family funding (novac od porodice i prijatelja) je novac pozajmljen ili uložen od ljudi koje lično poznaješ, često prvi vanjski novac koji biznis dobije.",
+        "explain": "Brz je i fleksibilan, ali miješa posao i odnose. Uvijek ga stavi na papir: je li to zajam (s uslovima vraćanja) ili udio u biznisu? Uzmi samo novac koji mogu sebi priuštiti da izgube.",
+        "example": "Ujak pozajmi 10.000 KM za nećakovu autoradionicu. Potpišu jednostavan ugovor o zajmu: vraćanje kroz 3 godine uz 3% kamate, počevši nakon 6 mjeseci.",
+        "why": "Može pokrenuti biznis kad banke i investitori još neće.",
+        "mixup": "Stisak ruke nije dovoljan. Nejasni dogovori s porodicom su jedan od najčešćih izvora poslovnih i porodičnih sukoba."
+      }
+    },
+    {
+      "slug": "microcredit",
+      "term": "Microcredit",
+      "local": "mikrokredit",
+      "minutes": 3,
+      "youtube": "",
+      "youtubeQuery": "what is microcredit microfinance explained",
+      "related": ["Loans", "Interest", "Start-up costs"],
+      "en": {
+        "one": "Microcredit is a small loan from a microcredit organisation, aimed at people and small businesses that find it hard to borrow from regular banks.",
+        "explain": "In BiH, microcredit organisations (MKOs) are a common source for small entrepreneurs, farmers and crafts. Loans are smaller and easier to get, but interest rates are usually higher than at banks, so compare the effective interest rate (EKS) carefully.",
+        "example": "A beekeeper gets a 5.000 KM microcredit to buy 20 new hives, repaying it over 24 months from honey sales.",
+        "why": "It gives access to start-up money for people without a long credit history or big collateral.",
+        "mixup": "Easy to get doesn't mean cheap. Always compare the total cost of the loan, not just the monthly payment."
+      },
+      "bs": {
+        "one": "Microcredit (mikrokredit) je mali zajam od mikrokreditne organizacije, namijenjen ljudima i malim biznisima kojima je teško pozajmiti od običnih banaka.",
+        "explain": "U BiH su mikrokreditne organizacije (MKO) čest izvor za male preduzetnike, poljoprivrednike i zanatlije. Zajmovi su manji i lakše se dobiju, ali su kamate obično veće nego u bankama, pa pažljivo uporedi efektivnu kamatnu stopu (EKS).",
+        "example": "Pčelar dobije mikrokredit od 5.000 KM da kupi 20 novih košnica i vraća ga kroz 24 mjeseca od prodaje meda.",
+        "why": "Daje pristup početnom novcu ljudima bez duge kreditne historije ili velikog obezbjeđenja.",
+        "mixup": "Lako dobiti ne znači jeftino. Uvijek uporedi ukupan trošak kredita, a ne samo mjesečnu ratu."
+      }
+    },
+    {
+      "slug": "startup-grants",
+      "term": "Grants and incentives",
+      "local": "poticaji i grantovi",
+      "minutes": 4,
+      "youtube": "",
+      "youtubeQuery": "how to apply for small business grants tips",
+      "related": ["Business plan", "Start-up costs", "Bootstrapping"],
+      "en": {
+        "one": "Grants and incentives are money from governments, municipalities, the EU or donors that you usually don't have to pay back, given to support new or growing businesses.",
+        "explain": "In our region there are self-employment grants from employment services, municipal and cantonal start-up incentives, agriculture subsidies, and EU or donor programmes. They come with conditions: a business plan, keeping jobs for a set time, and reporting how the money was spent.",
+        "example": "An unemployed graphic designer gets a 6.000 KM self-employment grant from the employment bureau, on condition she runs her registered business for at least 12 months.",
+        "why": "Grants can lower your risk and fund equipment you couldn't otherwise afford.",
+        "mixup": "Free money still has strings. Missing a condition can mean paying it all back, so read the rules carefully."
+      },
+      "bs": {
+        "one": "Grants and incentives (grantovi i poticaji) su novac od vlada, općina, EU ili donatora koji obično ne moraš vraćati, dat za podršku novim ili rastućim biznisima.",
+        "explain": "U regiji postoje poticaji za samozapošljavanje od zavoda za zapošljavanje, općinski i kantonalni poticaji za početnike, subvencije u poljoprivredi te EU ili donatorski programi. Imaju uslove: biznis plan, zadržavanje radnih mjesta određeno vrijeme i izvještavanje kako je novac potrošen.",
+        "example": "Nezaposlena grafička dizajnerka dobije 6.000 KM poticaja za samozapošljavanje od zavoda za zapošljavanje, uz uslov da registrovani biznis vodi najmanje 12 mjeseci.",
+        "why": "Grantovi mogu smanjiti tvoj rizik i finansirati opremu koju inače ne bi mogao priuštiti.",
+        "mixup": "Besplatan novac ipak ima uslove. Propuštanje uslova može značiti vraćanje svega, pa pažljivo pročitaj pravila."
+      }
+    },
+    {
+      "slug": "angel-investor",
+      "term": "Angel investor",
+      "local": "anđeo investitor",
+      "minutes": 4,
+      "youtube": "",
+      "youtubeQuery": "what is an angel investor explained",
+      "related": ["Equity", "Dilution", "Venture capital"],
+      "en": {
+        "one": "An angel investor is a wealthy individual who invests their own money in an early-stage business, in exchange for a share of ownership.",
+        "explain": "Angels often invest when the business is too young for banks or venture capital. Besides money, good angels bring experience and contacts. In return they get equity and hope to sell it later for much more.",
+        "example": "A retired IT entrepreneur invests 50.000 € in a young firm making software for dental clinics, in exchange for 10%, and introduces them to a large clinic chain.",
+        "why": "Angels can provide both money and mentoring at the riskiest stage.",
+        "mixup": "Angel money isn't a loan, but it isn't free either. You give up part of your company and future profits, forever."
+      },
+      "bs": {
+        "one": "Angel investor (anđeo investitor) je imućna osoba koja ulaže svoj novac u biznis u ranoj fazi, u zamjenu za dio vlasništva.",
+        "explain": "Anđeli često ulažu kad je biznis premlad za banke ili rizični kapital. Pored novca, dobri anđeli donose iskustvo i kontakte. Zauzvrat dobijaju udio i nadaju se da će ga kasnije prodati za mnogo više.",
+        "example": "Penzionisani IT preduzetnik uloži 50.000 € u mladu firmu koja pravi softver za stomatološke ordinacije, u zamjenu za 10%, i upozna ih s velikim lancem klinika.",
+        "why": "Anđeli mogu dati i novac i mentorstvo u najrizičnijoj fazi.",
+        "mixup": "Novac anđela nije zajam, ali nije ni besplatan. Daješ dio firme i buduće dobiti, zauvijek."
+      }
+    },
+    {
+      "slug": "venture-capital",
+      "term": "Venture capital",
+      "local": "rizični kapital",
+      "minutes": 5,
+      "youtube": "",
+      "youtubeQuery": "how venture capital works explained",
+      "related": ["Angel investor", "Valuation", "Dilution"],
+      "en": {
+        "one": "Venture capital (VC) is money from investment funds that put large sums into young, fast-growing companies in exchange for equity, hoping for a big return.",
+        "explain": "VC funds look for businesses that could grow 10 times or more, usually in tech. They expect most investments to fail and a few to succeed hugely. In return they want ownership, board seats and a path to selling (exit) within about 5 to 10 years.",
+        "example": "A regional fintech start-up raises 2 million € from a VC fund to expand into five countries, giving up 20% and a board seat.",
+        "why": "VC can fuel very fast growth that would otherwise be impossible.",
+        "mixup": "VC isn't right for most businesses. A good local company that grows 10% a year is a great business, but not a VC investment."
+      },
+      "bs": {
+        "one": "Venture capital (rizični kapital) je novac investicijskih fondova koji ulažu velike iznose u mlade firme brzog rasta u zamjenu za udio, nadajući se velikom povratu.",
+        "explain": "VC fondovi traže biznise koji bi mogli narasti 10 i više puta, obično u tehnologiji. Očekuju da većina ulaganja propadne, a nekoliko uspije ogromno. Zauzvrat žele vlasništvo, mjesta u upravi i put do prodaje (izlaza) u roku od oko 5 do 10 godina.",
+        "example": "Regionalni fintech start-up prikupi 2 miliona € od VC fonda da se proširi na pet zemalja, dajući 20% i mjesto u upravi.",
+        "why": "Rizični kapital može pokrenuti vrlo brz rast koji inače ne bi bio moguć.",
+        "mixup": "Rizični kapital nije za većinu biznisa. Dobra lokalna firma koja raste 10% godišnje je odličan biznis, ali nije VC investicija."
+      }
+    },
+    {
+      "slug": "crowdfunding",
+      "term": "Crowdfunding",
+      "local": "grupno finansiranje",
+      "minutes": 4,
+      "youtube": "",
+      "youtubeQuery": "how crowdfunding works explained",
+      "related": ["Pre-sales", "Angel investor", "Community"],
+      "en": {
+        "one": "Crowdfunding means raising money from many people online, each giving a small amount, usually through a platform like Kickstarter or Indiegogo.",
+        "explain": "In reward-based crowdfunding, backers pre-pay for a product or get a thank-you gift. In equity crowdfunding, they get small shares in the company. A campaign needs a clear story, a video, attractive rewards and a community ready to spread the word on day one.",
+        "example": "A Sarajevo board-game designer raises 25.000 € from 800 backers on Kickstarter to produce the first 1.000 copies of her game.",
+        "why": "It funds a project and proves demand at the same time, and builds early fans.",
+        "mixup": "Crowdfunding doesn't create an audience for you. Most successful campaigns already had followers before they launched."
+      },
+      "bs": {
+        "one": "Crowdfunding (grupno finansiranje) znači prikupljanje novca od mnogo ljudi online, gdje svako da mali iznos, obično preko platforme kao Kickstarter ili Indiegogo.",
+        "explain": "Kod crowdfundinga s nagradama, podržavaoci unaprijed plate proizvod ili dobiju poklon. Kod crowdfundinga s udjelima, dobiju male udjele u firmi. Kampanja treba jasnu priču, video, privlačne nagrade i zajednicu spremnu da je proširi prvog dana.",
+        "example": "Sarajevska dizajnerica društvenih igara prikupi 25.000 € od 800 podržavalaca na Kickstarteru za proizvodnju prvih 1.000 primjeraka igre.",
+        "why": "Finansira projekat i istovremeno dokazuje potražnju, te gradi prve fanove.",
+        "mixup": "Crowdfunding ti ne stvara publiku. Većina uspješnih kampanja je imala pratioce i prije pokretanja."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "What usually comes with microcredit compared to a bank loan?",
+        "bs": "Šta obično ide uz mikrokredit u poređenju s bankarskim kreditom?"
+      },
+      "options": [
+        { "en": "No interest at all", "bs": "Nikakva kamata" },
+        { "en": "Larger amounts", "bs": "Veći iznosi" },
+        { "en": "Easier access but higher interest", "bs": "Lakši pristup, ali veća kamata" }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "MKOs lend to more people but usually charge more.",
+        "bs": "MKO pozajmljuju većem broju ljudi, ali obično naplaćuju više."
+      }
+    },
+    {
+      "q": {
+        "en": "What do you give an angel investor in return for money?",
+        "bs": "Šta daješ anđelu investitoru u zamjenu za novac?"
+      },
+      "options": [
+        { "en": "Nothing", "bs": "Ništa" },
+        { "en": "Monthly loan repayments", "bs": "Mjesečne rate kredita" },
+        { "en": "A share of ownership", "bs": "Dio vlasništva" }
+      ],
+      "answer": 2,
+      "explain": { "en": "Angels invest for equity.", "bs": "Anđeli ulažu za udio." }
+    },
+    {
+      "q": {
+        "en": "Which business is the most typical fit for venture capital?",
+        "bs": "Koji biznis je najtipičniji za rizični kapital?"
+      },
+      "options": [
+        {
+          "en": "A tech start-up that could grow 10x across countries",
+          "bs": "Tech start-up koji bi mogao narasti 10 puta u više zemalja"
+        },
+        { "en": "A neighbourhood hair salon", "bs": "Frizerski salon u kvartu" },
+        { "en": "A small family bakery", "bs": "Mala porodična pekara" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "VC looks for very fast, very large growth potential.",
+        "bs": "Rizični kapital traži potencijal vrlo brzog i velikog rasta."
+      }
+    },
+    {
+      "q": { "en": "A grant for self-employment usually…", "bs": "Poticaj za samozapošljavanje obično…" },
+      "options": [
+        { "en": "Can be spent on anything", "bs": "Može se potrošiti na bilo šta" },
+        { "en": "Must be repaid with interest", "bs": "Mora se vratiti s kamatom" },
+        { "en": "Has conditions you must meet", "bs": "Ima uslove koje moraš ispuniti" }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "Grants are free money with strings attached.",
+        "bs": "Grantovi su besplatan novac s uslovima."
+      }
+    }
+  ]
+}

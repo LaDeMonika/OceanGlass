@@ -1,0 +1,217 @@
+{
+  "slug": "digital-and-data",
+  "title": { "en": "Doing business online", "bs": "Poslovanje na internetu" },
+  "summary": {
+    "en": "Privacy, cookies, security and AI: the rules and risks of a digital business.",
+    "bs": "Privatnost, kolačići, sigurnost i AI: pravila i rizici digitalnog poslovanja."
+  },
+  "concepts": [
+    {
+      "slug": "privacy-policy",
+      "term": "Privacy policy",
+      "local": "politika privatnosti",
+      "minutes": 4,
+      "youtube": "",
+      "youtubeQuery": "privacy policy explained what to include",
+      "related": ["GDPR and data privacy", "Cookie consent", "Terms and conditions"],
+      "en": {
+        "one": "A privacy policy is a public notice that tells people what personal data you collect, why, how long you keep it, who you share it with and what their rights are.",
+        "explain": "Under GDPR, you must give this information when you collect data, in plain language. It should match what you really do. A copied template that mentions things you don't do, or misses things you do, can cause problems.",
+        "example": "A gym's website collects names, emails and health info for trial sessions. Its privacy policy explains this, says data is deleted after 12 months and how to ask for deletion.",
+        "why": "It's a legal duty and it builds trust, because people want to know what happens to their data.",
+        "mixup": "A privacy policy doesn't give you permission to do anything you like. You still need a legal reason to process the data."
+      },
+      "bs": {
+        "one": "Privacy policy (politika privatnosti) je javno obavještenje koje ljudima kaže koje lične podatke prikupljaš, zašto, koliko dugo ih čuvaš, s kim ih dijeliš i koja su njihova prava.",
+        "explain": "Prema GDPR-u moraš dati ove informacije kad prikupljaš podatke, jednostavnim jezikom. Treba odgovarati onome što stvarno radiš. Kopiran šablon koji spominje stvari koje ne radiš, ili izostavi ono što radiš, može napraviti probleme.",
+        "example": "Web stranica teretane prikuplja imena, emailove i zdravstvene informacije za probne treninge. Politika privatnosti to objašnjava, kaže da se podaci brišu nakon 12 mjeseci i kako tražiti brisanje.",
+        "why": "To je zakonska obaveza i gradi povjerenje, jer ljudi žele znati šta se dešava s njihovim podacima.",
+        "mixup": "Politika privatnosti ti ne daje dozvolu da radiš šta hoćeš. I dalje ti treba zakonski osnov za obradu podataka."
+      }
+    },
+    {
+      "slug": "cookie-consent",
+      "term": "Cookie consent",
+      "local": "pristanak na kolačiće",
+      "minutes": 3,
+      "youtube": "",
+      "youtubeQuery": "cookie consent explained GDPR ePrivacy",
+      "related": ["Privacy policy", "GDPR and data privacy", "Paid ads"],
+      "en": {
+        "one": "Cookies are small files websites store in a browser. In the EU, you need the visitor's consent before using non-essential ones, like for ads or analytics.",
+        "explain": "Essential cookies (login, shopping cart) don't need consent. Tracking and advertising cookies do. The banner must make 'Reject' as easy as 'Accept', and you can't load tracking cookies before the visitor chooses.",
+        "example": "A webshop's banner has a big 'Accept all' button and the reject option hidden in settings. Regulators have fined companies for exactly this design.",
+        "why": "It's required in the EU, and it affects how much data you can use for ads and analytics.",
+        "mixup": "Saying 'by using this site you accept cookies' isn't valid consent under EU rules."
+      },
+      "bs": {
+        "one": "Kolačići (cookies) su mali fajlovi koje web stranice čuvaju u pregledniku. U EU ti treba pristanak posjetioca prije korištenja onih koji nisu neophodni, npr. za oglase ili analitiku.",
+        "explain": "Neophodni kolačići (prijava, korpa) ne trebaju pristanak. Kolačići za praćenje i oglašavanje trebaju. Baner mora učiniti 'Odbij' jednako lakim kao 'Prihvati', i ne smiješ učitati kolačiće za praćenje prije nego posjetilac izabere.",
+        "example": "Baner webshopa ima veliko dugme 'Prihvati sve', a opciju odbijanja skrivenu u postavkama. Regulatori su kažnjavali firme baš za ovakav dizajn.",
+        "why": "Obavezno je u EU i utiče na to koliko podataka možeš koristiti za oglase i analitiku.",
+        "mixup": "Rečenica 'korištenjem stranice prihvatate kolačiće' nije valjan pristanak po pravilima EU."
+      }
+    },
+    {
+      "slug": "data-breach",
+      "term": "Data breach",
+      "local": "povreda podataka",
+      "minutes": 4,
+      "youtube": "",
+      "youtubeQuery": "what to do after a data breach GDPR 72 hours",
+      "related": ["GDPR and data privacy", "Cybersecurity basics", "Crisis management"],
+      "en": {
+        "one": "A data breach is when personal data is lost, stolen, leaked or accessed by someone who shouldn't see it.",
+        "explain": "It can be a hack, a lost laptop, or an email sent to the wrong people. Under GDPR, if there's a risk to people, you must report it to the data protection authority within 72 hours, and in serious cases also tell the affected people.",
+        "example": "An employee sends a spreadsheet with all customers' addresses and phone numbers to the wrong client. That's a breach, and it must be assessed and documented.",
+        "why": "A fast, honest response limits harm, fines and damage to your reputation.",
+        "mixup": "A breach isn't only hacking. Most breaches come from human mistakes like wrong emails or weak passwords."
+      },
+      "bs": {
+        "one": "Data breach (povreda podataka) je kad se lični podaci izgube, ukradu, procure ili im pristupi neko ko ih ne bi smio vidjeti.",
+        "explain": "Može biti hakerski napad, izgubljen laptop ili email poslan pogrešnim ljudima. Prema GDPR-u, ako postoji rizik za ljude, moraš to prijaviti nadzornom tijelu u roku od 72 sata, a u ozbiljnim slučajevima obavijestiti i pogođene osobe.",
+        "example": "Radnik pošalje tabelu s adresama i brojevima telefona svih kupaca pogrešnom klijentu. To je povreda podataka i mora se procijeniti i dokumentovati.",
+        "why": "Brza i iskrena reakcija smanjuje štetu, kazne i narušavanje ugleda.",
+        "mixup": "Povreda podataka nije samo hakiranje. Većina dolazi od ljudskih grešaka poput pogrešnih emailova ili slabih lozinki."
+      }
+    },
+    {
+      "slug": "cybersecurity-basics",
+      "term": "Cybersecurity basics",
+      "local": "osnove sajber sigurnosti",
+      "minutes": 4,
+      "youtube": "",
+      "youtubeQuery": "cybersecurity basics for small business",
+      "related": ["Data breach", "Business continuity plan", "Electronic signatures"],
+      "en": {
+        "one": "Cybersecurity is protecting your systems, data and money from online attacks.",
+        "explain": "Small businesses are frequent targets because they're less protected. The basics stop most attacks: two-factor login, strong unique passwords with a password manager, regular updates, backups kept separately, and training staff to spot phishing emails.",
+        "example": "A bookkeeper gets an email 'from the director' asking to urgently pay a new supplier 8,000 KM. She calls the director to check: it's a scam.",
+        "why": "One attack can lock your files, empty your account or leak customer data. The basics are cheap compared to that.",
+        "mixup": "Antivirus alone isn't enough. Most attacks trick people, not machines."
+      },
+      "bs": {
+        "one": "Cybersecurity (sajber sigurnost) je zaštita tvojih sistema, podataka i novca od napada preko interneta.",
+        "explain": "Male firme su česte mete jer su slabije zaštićene. Osnove zaustavljaju većinu napada: prijava u dva koraka, jake i različite lozinke uz menadžer lozinki, redovna ažuriranja, rezervne kopije čuvane odvojeno i obuka radnika da prepoznaju phishing emailove.",
+        "example": "Knjigovođa dobije email 'od direktora' da hitno plati novom dobavljaču 8.000 KM. Pozove direktora da provjeri: prevara je.",
+        "why": "Jedan napad može zaključati tvoje fajlove, isprazniti račun ili otkriti podatke kupaca. Osnove su jeftine u poređenju s tim.",
+        "mixup": "Sam antivirus nije dovoljan. Većina napada prevari ljude, a ne mašine."
+      }
+    },
+    {
+      "slug": "online-business-info",
+      "term": "Required business information online",
+      "local": "obavezne informacije na web stranici",
+      "minutes": 3,
+      "youtube": "",
+      "youtubeQuery": "what information must a business website show legally",
+      "related": ["Terms and conditions", "Privacy policy", "Price transparency"],
+      "en": {
+        "one": "A business that sells online must clearly show who it is and how to reach it.",
+        "explain": "Usually: company name and legal form, address, registration and tax numbers, email or phone, and for online shops the terms, prices with tax, delivery costs, payment options and how to cancel. Customers should never have to guess who they're buying from.",
+        "example": "A webshop has only a contact form and no company details. Customers don't trust it, and in the EU it breaks e-commerce rules.",
+        "why": "Clear information builds trust and is a legal requirement in the EU.",
+        "mixup": "A social media page doesn't remove this duty if you sell through it."
+      },
+      "bs": {
+        "one": "Firma koja prodaje online mora jasno pokazati ko je i kako je kontaktirati.",
+        "explain": "Obično: naziv firme i pravni oblik, adresa, matični i porezni broj, email ili telefon, a za online prodavnice i uslovi, cijene s porezom, troškovi dostave, načini plaćanja i kako odustati. Kupci nikad ne bi trebali nagađati od koga kupuju.",
+        "example": "Webshop ima samo kontakt formu i nikakve podatke o firmi. Kupci mu ne vjeruju, a u EU to krši pravila e-trgovine.",
+        "why": "Jasne informacije grade povjerenje i zakonska su obaveza u EU.",
+        "mixup": "Stranica na društvenim mrežama ne ukida ovu obavezu ako preko nje prodaješ."
+      }
+    },
+    {
+      "slug": "ai-rules",
+      "term": "Using AI responsibly",
+      "local": "odgovorna upotreba AI",
+      "minutes": 4,
+      "youtube": "",
+      "youtubeQuery": "EU AI Act explained for small business",
+      "related": ["GDPR and data privacy", "Copyright", "Business ethics"],
+      "en": {
+        "one": "Using AI in a business brings legal and ethical duties, especially around transparency, personal data and accuracy.",
+        "explain": "The EU AI Act sorts AI uses by risk. Most business uses (writing help, chat support) are low risk but come with transparency rules, like telling people they're talking to a bot and labelling AI-generated images or video that look real. Uses like CV screening count as high risk and have strict rules. GDPR still applies to any personal data you feed in.",
+        "example": "A company uses a chatbot on its website, clearly labelled 'virtual assistant', and never pastes customer data into public AI tools.",
+        "why": "AI saves time, but mistakes, leaks or hidden use can hurt customers and your reputation.",
+        "mixup": "'The AI did it' isn't an excuse. You're responsible for what you publish or decide with AI help."
+      },
+      "bs": {
+        "one": "Korištenje AI u firmi donosi pravne i etičke obaveze, naročito oko transparentnosti, ličnih podataka i tačnosti.",
+        "explain": "EU AI Act razvrstava upotrebe AI po riziku. Većina poslovnih upotreba (pomoć u pisanju, chat podrška) su niskog rizika, ali imaju pravila o transparentnosti, npr. da se ljudima kaže da razgovaraju s botom i da se označe AI slike ili video koji izgledaju stvarno. Upotrebe poput filtriranja CV-jeva su visokog rizika i imaju stroga pravila. GDPR i dalje važi za sve lične podatke koje uneseš.",
+        "example": "Firma koristi chatbota na web stranici, jasno označenog kao 'virtuelni asistent', i nikad ne lijepi podatke kupaca u javne AI alate.",
+        "why": "AI štedi vrijeme, ali greške, curenja ili skrivena upotreba mogu naštetiti kupcima i ugledu.",
+        "mixup": "'AI je to uradio' nije izgovor. Ti si odgovoran za ono što objaviš ili odlučiš uz pomoć AI."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "Under GDPR, how fast must a risky data breach be reported to the authority?",
+        "bs": "Prema GDPR-u, koliko brzo se rizična povreda podataka mora prijaviti nadzornom tijelu?"
+      },
+      "options": [
+        { "en": "Within 72 hours", "bs": "U roku od 72 sata" },
+        { "en": "Within 30 days", "bs": "U roku od 30 dana" },
+        { "en": "Only if journalists find out", "bs": "Samo ako novinari saznaju" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "The GDPR deadline is 72 hours after becoming aware of it.",
+        "bs": "GDPR rok je 72 sata od saznanja."
+      }
+    },
+    {
+      "q": {
+        "en": "Which cookies can a site use without asking?",
+        "bs": "Koje kolačiće stranica smije koristiti bez pitanja?"
+      },
+      "options": [
+        { "en": "Advertising cookies", "bs": "Kolačiće za oglašavanje" },
+        { "en": "All cookies, if the banner says so", "bs": "Sve kolačiće, ako baner tako kaže" },
+        { "en": "Essential ones, like the shopping cart", "bs": "Neophodne, npr. za korpu" }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "Only strictly necessary cookies are exempt from consent.",
+        "bs": "Samo strogo neophodni kolačići ne traže pristanak."
+      }
+    },
+    {
+      "q": {
+        "en": "An urgent email 'from the boss' asks you to pay a new supplier now. What should you do?",
+        "bs": "Hitan email 'od šefa' traži da odmah platiš novom dobavljaču. Šta trebaš uraditi?"
+      },
+      "options": [
+        { "en": "Pay quickly, it's urgent", "bs": "Brzo platiti, hitno je" },
+        {
+          "en": "Check with the boss by another channel first",
+          "bs": "Prvo provjeriti sa šefom drugim kanalom"
+        },
+        { "en": "Reply to the email to confirm", "bs": "Odgovoriti na email da potvrdiš" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "This is a classic scam. Replying to the same email reaches the scammer.",
+        "bs": "Ovo je klasična prevara. Odgovor na isti email stiže do prevaranta."
+      }
+    },
+    {
+      "q": {
+        "en": "Your website chatbot is AI. What should you do?",
+        "bs": "Chatbot na tvojoj stranici je AI. Šta trebaš uraditi?"
+      },
+      "options": [
+        { "en": "Tell users they're talking to a bot", "bs": "Reći korisnicima da razgovaraju s botom" },
+        { "en": "Hide it in the terms", "bs": "Sakriti to u uslovima" },
+        { "en": "Give it a human name and photo", "bs": "Dati mu ljudsko ime i sliku" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Transparency is a core rule for AI that talks to people.",
+        "bs": "Transparentnost je osnovno pravilo za AI koji razgovara s ljudima."
+      }
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "slug": "responsible-business",
+  "title": { "en": "Responsible business", "bs": "Odgovorno poslovanje" },
+  "summary": {
+    "en": "CSR, ESG and sustainability: what they mean, and how to tell real action from greenwashing.",
+    "bs": "DOP, ESG i održivost: šta znače i kako razlikovati stvarne korake od greenwashinga."
+  },
+  "concepts": [
+    {
+      "slug": "csr",
+      "term": "Corporate social responsibility (CSR)",
+      "local": "društveno odgovorno poslovanje (DOP)",
+      "minutes": 4,
+      "youtube": "",
+      "youtubeQuery": "corporate social responsibility explained",
+      "related": ["Shareholders vs. stakeholders", "ESG", "Business ethics"],
+      "en": {
+        "one": "CSR means a company takes responsibility for its impact on people and the planet, beyond what the law requires.",
+        "explain": "It's strongest when it's built into how the business works: fair wages, safe products, less waste, local suppliers. One-off donations are nice, but CSR that's only a PR campaign quickly loses credibility.",
+        "example": "A bakery chain pays above-average wages, uses local flour and gives unsold bread to a food bank every evening. That's CSR built into daily operations.",
+        "why": "Customers, employees and partners increasingly choose companies that act responsibly.",
+        "mixup": "CSR isn't the same as charity. Giving 1,000 KM to a cause while treating staff badly isn't responsible business."
+      },
+      "bs": {
+        "one": "CSR (društveno odgovorno poslovanje, DOP) znači da firma preuzima odgovornost za svoj uticaj na ljude i planetu, iznad onoga što zakon traži.",
+        "explain": "Najjače je kad je ugrađeno u način rada: poštene plate, sigurni proizvodi, manje otpada, lokalni dobavljači. Jednokratne donacije su lijepe, ali DOP koji je samo PR kampanja brzo gubi kredibilitet.",
+        "example": "Lanac pekara plaća iznad prosjeka, koristi domaće brašno i svako veče daje neprodati hljeb banci hrane. To je DOP ugrađen u svakodnevni rad.",
+        "why": "Kupci, radnici i partneri sve više biraju firme koje se ponašaju odgovorno.",
+        "mixup": "DOP nije isto što i dobrotvornost. Davanje 1.000 KM u humanitarne svrhe, a loše postupanje s radnicima, nije odgovorno poslovanje."
+      }
+    },
+    {
+      "slug": "esg",
+      "term": "ESG",
+      "local": "ESG (okoliš, društvo, upravljanje)",
+      "minutes": 4,
+      "youtube": "",
+      "youtubeQuery": "ESG explained simply environmental social governance",
+      "related": ["Corporate social responsibility", "Sustainable operations", "Corporate governance"],
+      "en": {
+        "one": "ESG stands for Environmental, Social and Governance. It's a way investors and banks measure how responsibly a company is run.",
+        "explain": "Environmental: energy, emissions, waste, water. Social: working conditions, safety, diversity, community. Governance: honest leadership, board oversight, anti-corruption, transparency. Large EU companies must report on these topics, and they ask their suppliers for data too.",
+        "example": "A Bosnian supplier to a German car-parts company is asked to report its energy use, accident rate and anti-corruption policy as part of the contract.",
+        "why": "Even small firms that sell to big EU customers or borrow from banks are being asked ESG questions more and more.",
+        "mixup": "ESG isn't only about the environment. The S and the G matter just as much."
+      },
+      "bs": {
+        "one": "ESG znači Environmental, Social i Governance (okoliš, društvo i upravljanje). To je način na koji investitori i banke mjere koliko odgovorno se firma vodi.",
+        "explain": "Okoliš: energija, emisije, otpad, voda. Društvo: uslovi rada, sigurnost, raznolikost, zajednica. Upravljanje: pošteno rukovodstvo, nadzor odbora, borba protiv korupcije, transparentnost. Velike EU firme moraju izvještavati o ovim temama, a podatke traže i od svojih dobavljača.",
+        "example": "Od bosanskog dobavljača njemačke firme za auto-dijelove traži se da u sklopu ugovora prijavi potrošnju energije, stopu nezgoda i politiku protiv korupcije.",
+        "why": "Čak i male firme koje prodaju velikim EU kupcima ili se zadužuju kod banaka sve češće dobijaju ESG pitanja.",
+        "mixup": "ESG nije samo okoliš. S i G su jednako bitni."
+      }
+    },
+    {
+      "slug": "greenwashing",
+      "term": "Greenwashing",
+      "local": "greenwashing, lažno zeleno predstavljanje",
+      "minutes": 4,
+      "youtube": "",
+      "youtubeQuery": "greenwashing explained examples",
+      "related": ["Misleading advertising", "ESG", "Sustainable operations"],
+      "en": {
+        "one": "Greenwashing is making a product or company look more environmentally friendly than it really is.",
+        "explain": "Typical signs: vague words like 'eco' or 'natural' with no proof, green leaves on packaging, highlighting one small green feature while hiding bigger harms, or 'climate neutral' claims based only on buying cheap offsets. EU rules are getting stricter, and vague green claims are increasingly banned.",
+        "example": "A fashion brand launches one 'conscious' collection made with 20% recycled fabric and advertises itself as sustainable, while the other 95% of its clothes are unchanged.",
+        "why": "Customers and regulators are getting better at spotting it, and being caught damages trust more than saying nothing.",
+        "mixup": "Talking about real but partial progress is fine. Just be specific and honest about what's done and what isn't."
+      },
+      "bs": {
+        "one": "Greenwashing je predstavljanje proizvoda ili firme kao ekološki prihvatljivijih nego što stvarno jesu.",
+        "explain": "Tipični znaci: nejasne riječi poput 'eko' ili 'prirodno' bez dokaza, zeleni listovi na ambalaži, isticanje jedne male zelene osobine uz skrivanje većih šteta, ili tvrdnje 'klimatski neutralno' zasnovane samo na kupovini jeftinih kompenzacija. Pravila EU postaju strožija, a nejasne zelene tvrdnje se sve više zabranjuju.",
+        "example": "Modni brend lansira jednu 'svjesnu' kolekciju s 20% reciklirane tkanine i reklamira se kao održiv, dok je ostalih 95% odjeće isto kao prije.",
+        "why": "Kupci i regulatori sve bolje to prepoznaju, a kad te uhvate, povjerenje strada više nego da nisi ništa rekao.",
+        "mixup": "Pričati o stvarnom, ali djelimičnom napretku je u redu. Samo budi konkretan i iskren o tome šta je urađeno, a šta nije."
+      }
+    },
+    {
+      "slug": "supply-chain-ethics",
+      "term": "Ethical supply chains",
+      "local": "etični lanci snabdijevanja",
+      "minutes": 4,
+      "youtube": "",
+      "youtubeQuery": "ethical supply chain child labour explained",
+      "related": ["Supply chain", "Supplier selection", "ESG"],
+      "en": {
+        "one": "An ethical supply chain means checking that the people and places making your products aren't harmed: no child or forced labour, safe workplaces, fair pay and no serious pollution.",
+        "explain": "Companies do this with supplier codes of conduct, audits, certifications and by knowing their suppliers' suppliers. New EU rules require large companies to find and fix human-rights and environmental risks in their supply chains.",
+        "example": "After a factory collapse in Bangladesh killed over 1,100 garment workers in 2013, many brands started auditing building safety at their suppliers.",
+        "why": "Problems in your supply chain become your problems in the news, even if you didn't know.",
+        "mixup": "'We didn't know' is a weak defence. Big buyers are now expected to look actively."
+      },
+      "bs": {
+        "one": "Etičan lanac snabdijevanja znači provjeriti da ljudi i mjesta koja prave tvoje proizvode ne trpe štetu: bez dječijeg ili prisilnog rada, sigurna radna mjesta, poštene plate i bez ozbiljnog zagađenja.",
+        "explain": "Firme to rade kodeksima za dobavljače, revizijama, certifikatima i poznavanjem dobavljača svojih dobavljača. Nova pravila EU traže od velikih firmi da pronađu i otklone rizike po ljudska prava i okoliš u svojim lancima snabdijevanja.",
+        "example": "Nakon što je 2013. urušavanje fabrike u Bangladešu ubilo preko 1.100 radnika u tekstilu, mnogi brendovi su počeli provjeravati sigurnost zgrada kod dobavljača.",
+        "why": "Problemi u tvom lancu snabdijevanja postaju tvoji problemi u medijima, čak i ako nisi znao.",
+        "mixup": "'Nismo znali' je slaba odbrana. Od velikih kupaca se sada očekuje da aktivno provjeravaju."
+      }
+    },
+    {
+      "slug": "triple-bottom-line",
+      "term": "Triple bottom line",
+      "local": "trostruki rezultat (ljudi, planeta, profit)",
+      "minutes": 3,
+      "youtube": "",
+      "youtubeQuery": "triple bottom line people planet profit explained",
+      "related": ["Corporate social responsibility", "ESG", "Net profit"],
+      "en": {
+        "one": "The triple bottom line says a business should measure success in three ways: profit, people and planet.",
+        "explain": "Instead of only asking 'how much did we earn?', you also ask 'how did we treat people?' and 'what did we do to the environment?'. Each can have simple measures, like staff turnover or energy use.",
+        "example": "A hotel reports its yearly profit, but also its staff retention rate and how much water and energy it saved per guest night.",
+        "why": "What gets measured gets managed. Tracking all three keeps long-term risks visible.",
+        "mixup": "It isn't about choosing people or planet over profit. A business needs all three to last."
+      },
+      "bs": {
+        "one": "Triple bottom line (trostruki rezultat) kaže da firma treba mjeriti uspjeh na tri načina: profit, ljudi i planeta.",
+        "explain": "Umjesto da pitaš samo 'koliko smo zaradili?', pitaš i 'kako smo se odnosili prema ljudima?' i 'šta smo uradili okolini?'. Svako može imati jednostavna mjerila, npr. fluktuaciju radnika ili potrošnju energije.",
+        "example": "Hotel izvještava o godišnjoj dobiti, ali i o zadržavanju radnika i koliko je vode i energije uštedio po noćenju.",
+        "why": "Ono što se mjeri, tim se upravlja. Praćenje sva tri drži dugoročne rizike vidljivim.",
+        "mixup": "Ne radi se o biranju ljudi ili planete umjesto profita. Firmi trebaju sva tri da bi trajala."
+      }
+    },
+    {
+      "slug": "fair-trade-certification",
+      "term": "Certifications and labels",
+      "local": "certifikati i oznake",
+      "minutes": 3,
+      "youtube": "",
+      "youtubeQuery": "fair trade and eco certification labels explained",
+      "related": ["Greenwashing", "Ethical supply chains", "ISO 9001"],
+      "en": {
+        "one": "Certifications are labels from independent organisations that confirm a product or company meets certain standards, like Fairtrade, organic or B Corp.",
+        "explain": "An outside body checks the claims, so customers don't have to trust the company's own word. Certifications cost time and money, and some are much stricter than others. Self-made labels that look official but aren't checked by anyone are a form of greenwashing.",
+        "example": "A small coffee roaster buys Fairtrade-certified beans, so farmers get a minimum price, and shows the official logo on its bags.",
+        "why": "A trusted label can justify a higher price and open doors to shops and buyers that require it.",
+        "mixup": "Not all labels are equal. Check who issues it and what it actually requires."
+      },
+      "bs": {
+        "one": "Certifikati su oznake nezavisnih organizacija koje potvrđuju da proizvod ili firma ispunjava određene standarde, npr. Fairtrade, organsko ili B Corp.",
+        "explain": "Vanjsko tijelo provjerava tvrdnje, pa kupci ne moraju vjerovati samo riječi firme. Certifikati koštaju vremena i novca, a neki su mnogo strožiji od drugih. Vlastite oznake koje izgledaju službeno, a niko ih ne provjerava, oblik su greenwashinga.",
+        "example": "Mala pržionica kafe kupuje Fairtrade certificirana zrna, pa farmeri dobijaju minimalnu cijenu, i stavlja službeni logo na kese.",
+        "why": "Oznaka kojoj se vjeruje može opravdati višu cijenu i otvoriti vrata prodavnicama i kupcima koji je traže.",
+        "mixup": "Nisu sve oznake jednake. Provjeri ko je izdaje i šta stvarno traži."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": { "en": "What do the letters in ESG stand for?", "bs": "Šta znače slova u ESG?" },
+      "options": [
+        { "en": "Environmental, Social, Governance", "bs": "Okoliš, društvo, upravljanje" },
+        { "en": "Economy, Sales, Growth", "bs": "Ekonomija, prodaja, rast" },
+        { "en": "Energy, Safety, Green", "bs": "Energija, sigurnost, zeleno" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "ESG covers environment, people and how the company is governed.",
+        "bs": "ESG pokriva okoliš, ljude i način upravljanja firmom."
+      }
+    },
+    {
+      "q": {
+        "en": "A brand calls itself 'sustainable' because of one small recycled collection. This is…",
+        "bs": "Brend se naziva 'održivim' zbog jedne male reciklirane kolekcije. To je…"
+      },
+      "options": [
+        { "en": "Greenwashing", "bs": "Greenwashing" },
+        { "en": "Fair trade", "bs": "Fer trgovina" },
+        { "en": "ESG reporting", "bs": "ESG izvještavanje" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Highlighting a small green feature while hiding the bigger picture is greenwashing.",
+        "bs": "Isticanje male zelene osobine uz skrivanje šire slike je greenwashing."
+      }
+    },
+    {
+      "q": { "en": "Which is the best example of CSR?", "bs": "Šta je najbolji primjer DOP-a?" },
+      "options": [
+        {
+          "en": "A one-off donation for a photo in the paper",
+          "bs": "Jednokratna donacija radi slike u novinama"
+        },
+        {
+          "en": "Fair wages and less waste built into daily work",
+          "bs": "Poštene plate i manje otpada ugrađeni u svakodnevni rad"
+        },
+        { "en": "A green logo", "bs": "Zeleni logo" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Real CSR is part of how the business operates, not a PR moment.",
+        "bs": "Pravi DOP je dio načina rada, a ne PR trenutak."
+      }
+    },
+    {
+      "q": {
+        "en": "What makes a certification label trustworthy?",
+        "bs": "Šta čini oznaku certifikata vjerodostojnom?"
+      },
+      "options": [
+        { "en": "An independent body checks the claims", "bs": "Nezavisno tijelo provjerava tvrdnje" },
+        { "en": "It has a green leaf", "bs": "Ima zeleni list" },
+        { "en": "The company designed it itself", "bs": "Firma ju je sama dizajnirala" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Independent checking is what separates a real label from marketing.",
+        "bs": "Nezavisna provjera razlikuje pravu oznaku od marketinga."
+      }
+    }
+  ]
+}

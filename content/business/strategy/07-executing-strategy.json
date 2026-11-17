@@ -1,0 +1,214 @@
+{
+  "slug": "executing-strategy",
+  "title": { "en": "Putting strategy into action", "bs": "Provođenje strategije u djelo" },
+  "summary": {
+    "en": "Turning a plan into results, measuring progress, and changing course when needed.",
+    "bs": "Pretvaranje plana u rezultate, mjerenje napretka i promjena smjera kad treba."
+  },
+  "concepts": [
+    {
+      "slug": "strategic-plan",
+      "term": "Strategic plan",
+      "local": "strateški plan",
+      "minutes": 4,
+      "youtube": "",
+      "youtubeQuery": "how to write a strategic plan simple",
+      "related": ["Mission and vision", "SMART goals", "Action plan"],
+      "en": {
+        "one": "A strategic plan is a short document that says where the company wants to be in 3 to 5 years, how it will get there, and how it will measure progress.",
+        "explain": "A good one fits on a few pages: the mission and vision, a quick analysis (like SWOT), 3 to 5 main priorities, goals for each, who owns them, and the budget. It's reviewed every year.",
+        "example": "A small IT firm's plan: 'By 2028 be the top cloud partner for hotels in the region.' Priorities: hire 4 cloud specialists, win 20 hotel clients, launch a support package.",
+        "why": "It gets everyone pulling in the same direction and helps you decide what to say no to.",
+        "mixup": "A thick plan nobody reads is worse than one page everyone knows. Shorter and clearer wins."
+      },
+      "bs": {
+        "one": "Strategic plan (strateški plan) je kratak dokument koji kaže gdje firma želi biti za 3 do 5 godina, kako će stići tamo i kako će mjeriti napredak.",
+        "explain": "Dobar plan stane na nekoliko stranica: misija i vizija, kratka analiza (npr. SWOT), 3 do 5 glavnih prioriteta, ciljevi za svaki, ko je zadužen i budžet. Pregleda se svake godine.",
+        "example": "Plan male IT firme: 'Do 2028. biti vodeći cloud partner za hotele u regiji.' Prioriteti: zaposliti 4 cloud stručnjaka, dobiti 20 hotela kao klijenata, pokrenuti paket podrške.",
+        "why": "Usmjerava sve u istom pravcu i pomaže ti da odlučiš čemu reći ne.",
+        "mixup": "Debeo plan koji niko ne čita gori je od jedne stranice koju svi znaju. Kraće i jasnije pobjeđuje."
+      }
+    },
+    {
+      "slug": "balanced-scorecard",
+      "term": "Balanced scorecard",
+      "local": "uravnotežena tablica rezultata",
+      "minutes": 5,
+      "youtube": "",
+      "youtubeQuery": "balanced scorecard explained simply",
+      "related": ["KPI", "Strategic plan", "OKRs"],
+      "en": {
+        "one": "The balanced scorecard tracks a strategy using four views, not just money: financial, customer, internal processes, and learning and growth.",
+        "explain": "Profit alone shows past results. The other three show what drives future results: are customers happy, are our processes good, are our people and systems improving? Each view gets a few KPIs and targets.",
+        "example": "A hotel tracks: revenue per room (financial), guest rating (customer), check-in time (process), and training hours per employee (learning).",
+        "why": "It stops companies from chasing short-term profit while quietly damaging the things that create long-term success.",
+        "mixup": "More measures isn't better. Pick 3 or 4 per view that really link to your strategy."
+      },
+      "bs": {
+        "one": "Balanced scorecard (uravnotežena tablica rezultata) prati strategiju kroz četiri pogleda, ne samo novac: finansijski, kupci, interni procesi, te učenje i razvoj.",
+        "explain": "Sama dobit pokazuje prošle rezultate. Ostala tri pokazuju šta pokreće buduće rezultate: jesu li kupci zadovoljni, jesu li nam procesi dobri, napreduju li nam ljudi i sistemi? Svaki pogled dobija nekoliko KPI-jeva i ciljeva.",
+        "example": "Hotel prati: prihod po sobi (finansijski), ocjenu gostiju (kupci), vrijeme prijave (proces) i sate obuke po radniku (učenje).",
+        "why": "Sprečava firme da jure kratkoročnu dobit dok tiho uništavaju ono što stvara dugoročni uspjeh.",
+        "mixup": "Više mjera nije bolje. Izaberi 3 ili 4 po pogledu koje su stvarno povezane sa strategijom."
+      }
+    },
+    {
+      "slug": "resource-allocation",
+      "term": "Resource allocation",
+      "local": "raspodjela resursa",
+      "minutes": 3,
+      "youtube": "",
+      "youtubeQuery": "resource allocation strategy explained",
+      "related": ["Strategic focus", "Budget", "Prioritisation"],
+      "en": {
+        "one": "Resource allocation means deciding where the company's money, people and time actually go.",
+        "explain": "Strategy is proven by where resources go, not by what's written. If 'online growth' is the top priority but 90% of the budget still goes to the old shops, the real strategy is the old shops.",
+        "example": "A retailer says e-commerce is its future, so it moves 2 people and 30% of the marketing budget from print flyers to the web shop.",
+        "why": "Moving resources is the most concrete sign of a real strategy, and the hardest part.",
+        "mixup": "Budgets often just copy last year with +5%. That keeps the old strategy alive whatever the plan says."
+      },
+      "bs": {
+        "one": "Resource allocation (raspodjela resursa) znači odlučiti gdje zaista idu novac, ljudi i vrijeme firme.",
+        "explain": "Strategija se dokazuje po tome gdje idu resursi, a ne po onome što piše. Ako je 'online rast' glavni prioritet, a 90% budžeta i dalje ide starim prodavnicama, prava strategija su stare prodavnice.",
+        "example": "Trgovac kaže da je online prodaja njegova budućnost, pa premjesti 2 osobe i 30% marketinškog budžeta s letaka na web-shop.",
+        "why": "Premještanje resursa je najkonkretniji znak prave strategije, i najteži dio.",
+        "mixup": "Budžeti često samo prepišu prošlu godinu s +5%. To održava staru strategiju, šta god plan kaže."
+      }
+    },
+    {
+      "slug": "strategy-execution-gap",
+      "term": "Strategy execution gap",
+      "local": "jaz u provođenju strategije",
+      "minutes": 4,
+      "youtube": "",
+      "youtubeQuery": "why strategy execution fails",
+      "related": ["Strategic plan", "Change management", "Accountability"],
+      "en": {
+        "one": "The strategy execution gap is the difference between what a company plans and what it actually achieves.",
+        "explain": "Common causes: people don't understand the strategy, nobody owns the goals, resources don't move, daily urgent work crowds out important work, and nobody checks progress. Closing the gap needs clear owners, short review cycles and honest reporting.",
+        "example": "A firm plans to launch a new service 'this year'. Nobody is named responsible, everyone is busy with existing clients, and in December nothing has started.",
+        "why": "A simple strategy well executed usually beats a brilliant one poorly executed.",
+        "mixup": "When results don't come, the strategy often gets blamed, but the real problem is usually execution."
+      },
+      "bs": {
+        "one": "Strategy execution gap (jaz u provođenju strategije) je razlika između onoga što firma planira i onoga što zaista postigne.",
+        "explain": "Česti uzroci: ljudi ne razumiju strategiju, niko nije vlasnik ciljeva, resursi se ne premještaju, svakodnevni hitni poslovi istiskuju važne, i niko ne provjerava napredak. Zatvaranje jaza traži jasne vlasnike, kratke cikluse pregleda i iskreno izvještavanje.",
+        "example": "Firma planira pokrenuti novu uslugu 'ove godine'. Niko nije imenovan kao odgovoran, svi su zauzeti postojećim klijentima, i u decembru ništa nije počelo.",
+        "why": "Jednostavna strategija dobro provedena obično pobjeđuje briljantnu loše provedenu.",
+        "mixup": "Kad rezultati ne dođu, često se krivi strategija, ali pravi problem je obično provođenje."
+      }
+    },
+    {
+      "slug": "pivot",
+      "term": "Pivot",
+      "local": "zaokret, promjena smjera",
+      "minutes": 4,
+      "youtube": "",
+      "youtubeQuery": "what is a pivot in business startup",
+      "related": ["Minimum viable product", "Experimentation", "Strategy"],
+      "en": {
+        "one": "A pivot is a deliberate change in strategy when the current direction isn't working, while keeping what you've learned.",
+        "explain": "You might change the customer group, the problem you solve, the product, the price model or the channel. A pivot is based on evidence, not panic. It keeps the useful parts (team, tech, customers) and changes the part that isn't working.",
+        "example": "An app for booking hairdressers struggles, but data shows salons love its scheduling tool. The firm pivots to selling the scheduling software to salons.",
+        "why": "Knowing when and how to change course can save a business that would otherwise run out of money.",
+        "mixup": "Pivoting every month isn't agility, it's lack of focus. Give a direction a fair test before changing it."
+      },
+      "bs": {
+        "one": "Pivot (zaokret) je namjerna promjena strategije kad trenutni smjer ne radi, uz zadržavanje onoga što si naučio.",
+        "explain": "Možeš promijeniti grupu kupaca, problem koji rješavaš, proizvod, model cijena ili kanal. Zaokret se zasniva na dokazima, ne na panici. Zadržava korisne dijelove (tim, tehnologiju, kupce) i mijenja dio koji ne radi.",
+        "example": "Aplikacija za zakazivanje frizera ne ide dobro, ali podaci pokazuju da saloni obožavaju njen alat za raspored. Firma se preusmjeri na prodaju tog softvera salonima.",
+        "why": "Znati kada i kako promijeniti smjer može spasiti firmu kojoj bi inače ponestalo novca.",
+        "mixup": "Zaokret svaki mjesec nije agilnost, nego manjak fokusa. Daj smjeru pošten test prije nego ga promijeniš."
+      }
+    },
+    {
+      "slug": "corporate-governance",
+      "term": "Corporate governance",
+      "local": "korporativno upravljanje",
+      "minutes": 4,
+      "youtube": "",
+      "youtubeQuery": "corporate governance explained simply",
+      "related": ["Shareholders vs. stakeholders", "Board of directors", "Conflict of interest"],
+      "en": {
+        "one": "Corporate governance is the system of rules and roles that decides how a company is directed and controlled, and who keeps the managers in check.",
+        "explain": "It covers the roles of owners, the board (supervisory board in our region) and the management, how decisions are made, how risks are controlled, and how results are reported honestly. Good governance protects owners, lenders and employees.",
+        "example": "In a family firm that's grown to 80 people, the founders set up a supervisory board with one outside expert, monthly reporting, and rules for approving big contracts.",
+        "why": "Investors and banks trust well-governed companies more, and good governance prevents costly mistakes and fraud.",
+        "mixup": "Governance isn't the same as management. Management runs the company day to day; governance oversees management."
+      },
+      "bs": {
+        "one": "Corporate governance (korporativno upravljanje) je sistem pravila i uloga koji određuje kako se firma usmjerava i kontroliše, i ko drži menadžere pod nadzorom.",
+        "explain": "Obuhvata uloge vlasnika, nadzornog odbora i uprave, način donošenja odluka, kontrolu rizika i iskreno izvještavanje o rezultatima. Dobro upravljanje štiti vlasnike, kreditore i radnike.",
+        "example": "U porodičnoj firmi koja je narasla na 80 ljudi, osnivači uspostave nadzorni odbor s jednim vanjskim stručnjakom, mjesečno izvještavanje i pravila za odobravanje velikih ugovora.",
+        "why": "Investitori i banke više vjeruju dobro upravljanim firmama, a dobro upravljanje sprečava skupe greške i prevare.",
+        "mixup": "Korporativno upravljanje nije isto što i menadžment. Menadžment vodi firmu svaki dan; upravljanje nadzire menadžment."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "Which shows a company's real strategy most clearly?",
+        "bs": "Šta najjasnije pokazuje pravu strategiju firme?"
+      },
+      "options": [
+        { "en": "Its logo", "bs": "Njegov logo" },
+        { "en": "Where it actually puts money and people", "bs": "Gdje zaista ulaže novac i ljude" },
+        { "en": "The wording of its mission", "bs": "Formulacija misije" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Resource allocation reveals what the company truly prioritises.",
+        "bs": "Raspodjela resursa otkriva šta firma zaista stavlja na prvo mjesto."
+      }
+    },
+    {
+      "q": {
+        "en": "Which is NOT one of the four views of the balanced scorecard?",
+        "bs": "Šta NIJE jedan od četiri pogleda uravnotežene tablice rezultata?"
+      },
+      "options": [
+        { "en": "Competitors' profits", "bs": "Dobit konkurenata" },
+        { "en": "Customer", "bs": "Kupci" },
+        { "en": "Learning and growth", "bs": "Učenje i razvoj" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "The four are financial, customer, internal processes, and learning and growth.",
+        "bs": "Četiri su: finansijski, kupci, interni procesi, te učenje i razvoj."
+      }
+    },
+    {
+      "q": {
+        "en": "A plan fails because nobody was made responsible. This is part of…",
+        "bs": "Plan propadne jer niko nije bio zadužen. To je dio…"
+      },
+      "options": [
+        { "en": "The strategy execution gap", "bs": "Jaza u provođenju strategije" },
+        { "en": "Divestment", "bs": "Dezinvestiranja" },
+        { "en": "A network effect", "bs": "Mrežnog efekta" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Missing owners is a classic cause of poor execution.",
+        "bs": "Nedostatak odgovornih je klasičan uzrok lošeg provođenja."
+      }
+    },
+    {
+      "q": { "en": "A pivot means…", "bs": "Zaokret (pivot) znači…" },
+      "options": [
+        { "en": "Doing exactly the same, but louder", "bs": "Raditi isto, samo glasnije" },
+        { "en": "Closing the company", "bs": "Zatvaranje firme" },
+        {
+          "en": "Changing direction based on evidence, keeping what works",
+          "bs": "Promjenu smjera na osnovu dokaza, uz zadržavanje onoga što radi"
+        }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "A pivot changes the part that isn't working and keeps the rest.",
+        "bs": "Zaokret mijenja dio koji ne radi, a zadržava ostalo."
+      }
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "slug": "validating-the-idea",
+  "title": { "en": "Testing your idea", "bs": "Testiranje ideje" },
+  "summary": {
+    "en": "Cheap, fast ways to find out if customers really want what you're planning.",
+    "bs": "Jeftini i brzi načini da saznaš žele li kupci zaista ono što planiraš."
+  },
+  "concepts": [
+    {
+      "slug": "customer-interviews",
+      "term": "Customer interviews",
+      "local": "razgovori s kupcima",
+      "minutes": 5,
+      "youtube": "",
+      "youtubeQuery": "The Mom Test customer interviews explained",
+      "related": ["Problem-solution fit", "Market research", "Survey design"],
+      "en": {
+        "one": "Customer interviews are short conversations with potential customers to learn about their problems and habits, before you sell them anything.",
+        "explain": "Ask about their past behaviour, not your idea: 'When did this last happen? What did you do? What did it cost you?' People lie politely about the future ('I'd definitely buy that') but the past tells the truth. Listen more than you talk.",
+        "example": "Instead of asking 'Would you use an app to book a plumber?', a founder asks 'Tell me about the last time something broke at home. How did you find someone?' and learns that people mostly ask neighbours.",
+        "why": "Good interviews show you the real problem and the words customers use, which later helps marketing too.",
+        "mixup": "Pitching your idea isn't interviewing. If you spend the talk explaining your product, you'll only hear compliments."
+      },
+      "bs": {
+        "one": "Customer interviews (razgovori s kupcima) su kratki razgovori s potencijalnim kupcima da saznaš o njihovim problemima i navikama, prije nego im išta prodaš.",
+        "explain": "Pitaj o njihovom prošlom ponašanju, a ne o svojoj ideji: 'Kad se ovo zadnji put desilo? Šta si uradio? Koliko te koštalo?' Ljudi uljudno lažu o budućnosti ('sigurno bih to kupio'), ali prošlost govori istinu. Više slušaj nego što pričaš.",
+        "example": "Umjesto 'Biste li koristili aplikaciju za zvanje vodoinstalatera?', osnivač pita 'Pričajte mi o zadnjem kvaru u kući. Kako ste našli majstora?' i sazna da ljudi uglavnom pitaju komšije.",
+        "why": "Dobri razgovori pokazuju stvarni problem i riječi koje kupci koriste, što kasnije pomaže i marketingu.",
+        "mixup": "Predstavljanje ideje nije razgovor s kupcem. Ako cijeli razgovor objašnjavaš proizvod, čućeš samo komplimente."
+      }
+    },
+    {
+      "slug": "lean-startup",
+      "term": "Lean startup",
+      "local": "lean startup",
+      "minutes": 5,
+      "youtube": "",
+      "youtubeQuery": "lean startup build measure learn explained",
+      "related": ["Minimum viable product", "Experimentation", "Pivot"],
+      "en": {
+        "one": "Lean startup is a way of building a new business through quick cycles of build, measure, learn, instead of long planning in secret.",
+        "explain": "You turn your assumptions into small tests, build the simplest thing that can test them, measure what customers actually do, and decide to keep going or change direction. The method was popularised by Eric Ries.",
+        "example": "Before building a full online shop for local honey, a beekeeper posts three products on Instagram with a 'message to order' button and measures orders over two weeks.",
+        "why": "It cuts waste: you learn what works before spending big.",
+        "mixup": "Lean doesn't mean cheap or sloppy. It means learning fast and spending only on what's proven."
+      },
+      "bs": {
+        "one": "Lean startup je način izgradnje novog biznisa kroz brze cikluse izgradi, izmjeri, nauči, umjesto dugog planiranja u tajnosti.",
+        "explain": "Svoje pretpostavke pretvoriš u male testove, napraviš najjednostavniju stvar koja ih može testirati, izmjeriš šta kupci stvarno rade i odlučiš nastaviti ili promijeniti smjer. Metodu je popularizovao Eric Ries.",
+        "example": "Prije pravljenja cijelog web-shopa za domaći med, pčelar objavi tri proizvoda na Instagramu s dugmetom 'pošalji poruku za narudžbu' i dvije sedmice mjeri narudžbe.",
+        "why": "Smanjuje rasipanje: naučiš šta radi prije velikog trošenja.",
+        "mixup": "Lean ne znači jeftino ili aljkavo. Znači brzo učiti i trošiti samo na ono što je dokazano."
+      }
+    },
+    {
+      "slug": "mvp",
+      "term": "Minimum viable product (MVP)",
+      "local": "minimalni održivi proizvod",
+      "minutes": 4,
+      "youtube": "",
+      "youtubeQuery": "minimum viable product explained examples",
+      "related": ["Lean startup", "Experimentation", "Product-market fit"],
+      "en": {
+        "one": "An MVP is the simplest version of your product that real customers can use and pay for, so you can learn from them.",
+        "explain": "It's not a broken prototype; it should solve the core problem, just without the extras. Sometimes an MVP isn't even software: a spreadsheet, a manual service or a pre-order page can be enough to test demand.",
+        "example": "Before writing code for a meal-planning app, a founder sends weekly meal plans by email to 30 paying customers, made by hand in a spreadsheet.",
+        "why": "It gets you real feedback and real revenue early, with little money spent.",
+        "mixup": "'Minimum' doesn't mean bad quality. The few things it does should work well, or customers will judge the whole idea by a poor test."
+      },
+      "bs": {
+        "one": "MVP (minimalni održivi proizvod) je najjednostavnija verzija tvog proizvoda koju stvarni kupci mogu koristiti i platiti, kako bi učio od njih.",
+        "explain": "To nije pokvaren prototip; treba riješiti glavni problem, samo bez dodataka. Ponekad MVP nije ni softver: tabela, ručna usluga ili stranica za prednarudžbu mogu biti dovoljni da se testira potražnja.",
+        "example": "Prije pisanja koda za aplikaciju za planiranje obroka, osnivač šalje sedmične planove obroka emailom za 30 kupaca koji plaćaju, napravljene ručno u tabeli.",
+        "why": "Daje ti stvarne povratne informacije i stvaran prihod rano, uz malo potrošenog novca.",
+        "mixup": "'Minimalni' ne znači loš kvalitet. Ono malo što radi treba raditi dobro, inače će kupci cijelu ideju ocijeniti po lošem testu."
+      }
+    },
+    {
+      "slug": "smoke-test",
+      "term": "Smoke test (fake door test)",
+      "local": "test zainteresovanosti",
+      "minutes": 3,
+      "youtube": "",
+      "youtubeQuery": "fake door test smoke test startup explained",
+      "related": ["Landing page", "Minimum viable product", "A/B testing"],
+      "en": {
+        "one": "A smoke test checks demand by offering a product before it exists, and measuring how many people try to buy or sign up.",
+        "explain": "You create a simple page or ad describing the offer with a 'Buy' or 'Join the waitlist' button. When people click, you tell them honestly it's coming soon and collect their contact. Clicks and sign-ups show real interest.",
+        "example": "A founder runs a 100 KM ad for 'Weekend cooking classes for men'. 400 people visit, 60 join the waitlist. That's a strong signal to organise the first class.",
+        "why": "It's one of the cheapest ways to measure interest before building anything.",
+        "mixup": "Be honest with visitors. Taking money for something that doesn't exist and may never exist damages trust and can break consumer law."
+      },
+      "bs": {
+        "one": "Smoke test (test zainteresovanosti) provjerava potražnju nudeći proizvod prije nego postoji i mjereći koliko ljudi pokuša kupiti ili se prijaviti.",
+        "explain": "Napraviš jednostavnu stranicu ili oglas koji opisuje ponudu s dugmetom 'Kupi' ili 'Prijavi se na listu čekanja'. Kad ljudi kliknu, iskreno im kažeš da uskoro dolazi i uzmeš kontakt. Klikovi i prijave pokazuju stvarno interesovanje.",
+        "example": "Osnivač pusti oglas od 100 KM za 'Vikend-kurseve kuhanja za muškarce'. 400 ljudi posjeti stranicu, 60 se prijavi na listu. To je jak signal da organizuje prvi kurs.",
+        "why": "Jedan je od najjeftinijih načina da izmjeriš interesovanje prije nego išta napraviš.",
+        "mixup": "Budi iskren s posjetiocima. Uzimanje novca za nešto što ne postoji i možda nikad neće postojati šteti povjerenju i može kršiti zakon o zaštiti potrošača."
+      }
+    },
+    {
+      "slug": "pre-sales",
+      "term": "Pre-sales",
+      "local": "prodaja unaprijed",
+      "minutes": 3,
+      "youtube": "",
+      "youtubeQuery": "pre-selling your product before you build it",
+      "related": ["Smoke test (fake door test)", "Cash flow", "Crowdfunding"],
+      "en": {
+        "one": "Pre-sales means getting customers to commit or pay before the product is fully ready.",
+        "explain": "It's the strongest proof of demand, because money is harder to give than compliments. It can also fund the first production run. Be clear about delivery dates and offer refunds if you can't deliver.",
+        "example": "A furniture maker shows a prototype of a children's desk at a fair and takes 25 orders with a 30% deposit, which pays for the materials for the first batch.",
+        "why": "It reduces the risk of building something nobody buys and helps with early cash.",
+        "mixup": "Pre-sales aren't free money. If you miss the promised date or quality, you lose both the customers and your reputation."
+      },
+      "bs": {
+        "one": "Pre-sales (prodaja unaprijed) znači navesti kupce da se obavežu ili plate prije nego je proizvod potpuno spreman.",
+        "explain": "To je najjači dokaz potražnje, jer je novac teže dati nego komplimente. Može i finansirati prvu proizvodnju. Budi jasan oko rokova isporuke i ponudi povrat novca ako ne možeš isporučiti.",
+        "example": "Stolar pokaže prototip dječijeg stola na sajmu i primi 25 narudžbi s avansom od 30%, što plati materijal za prvu seriju.",
+        "why": "Smanjuje rizik da napraviš nešto što niko ne kupuje i pomaže s ranim novcem.",
+        "mixup": "Prodaja unaprijed nije besplatan novac. Ako probiješ obećani rok ili kvalitet, gubiš i kupce i ugled."
+      }
+    },
+    {
+      "slug": "product-market-fit",
+      "term": "Product-market fit",
+      "local": "usklađenost proizvoda i tržišta",
+      "minutes": 5,
+      "youtube": "",
+      "youtubeQuery": "product market fit explained simply",
+      "related": ["Problem-solution fit", "Retention and churn", "Net Promoter Score (NPS)"],
+      "en": {
+        "one": "Product-market fit is when a product satisfies a clear market so well that customers keep buying, stay, and recommend it, often without much pushing.",
+        "explain": "Signs include: customers come back without reminders, they'd be very disappointed if the product disappeared, word-of-mouth grows, and sales get easier. Before this point, focus on learning; after it, focus on growing.",
+        "example": "A small accounting app struggles for a year. After narrowing to hairdressers only and adding appointment-based invoicing, sign-ups double every month mostly through referrals.",
+        "why": "Scaling before product-market fit is one of the main reasons start-ups fail.",
+        "mixup": "A big launch spike isn't fit. Fit shows up in people staying and coming back over months."
+      },
+      "bs": {
+        "one": "Product-market fit (usklađenost proizvoda i tržišta) je kad proizvod toliko dobro zadovoljava jasno tržište da kupci nastavljaju kupovati, ostaju i preporučuju ga, često bez mnogo guranja.",
+        "explain": "Znakovi su: kupci se vraćaju bez podsjetnika, bili bi jako razočarani da proizvod nestane, preporuke rastu, a prodaja postaje lakša. Prije te tačke fokus je na učenju; nakon nje na rastu.",
+        "example": "Mala aplikacija za računovodstvo se muči godinu dana. Nakon sužavanja samo na frizere i dodavanja fakturisanja po terminima, prijave se udvostručuju svaki mjesec, uglavnom preko preporuka.",
+        "why": "Širenje prije usklađenosti proizvoda i tržišta je jedan od glavnih razloga propasti start-upa.",
+        "mixup": "Veliki skok na lansiranju nije usklađenost. Ona se vidi kad ljudi ostaju i vraćaju se mjesecima."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "Which interview question gives the most honest answer?",
+        "bs": "Koje pitanje u razgovoru daje najiskreniji odgovor?"
+      },
+      "options": [
+        { "en": "'Would you buy my product?'", "bs": "'Biste li kupili moj proizvod?'" },
+        {
+          "en": "'When did this last happen, and what did you do?'",
+          "bs": "'Kad se ovo zadnji put desilo i šta ste uradili?'"
+        },
+        { "en": "'Do you like my idea?'", "bs": "'Sviđa li vam se moja ideja?'" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Past behaviour is more reliable than opinions about the future.",
+        "bs": "Prošlo ponašanje je pouzdanije od mišljenja o budućnosti."
+      }
+    },
+    {
+      "q": {
+        "en": "Which could be a valid MVP for a meal-planning service?",
+        "bs": "Šta može biti valjan MVP za uslugu planiranja obroka?"
+      },
+      "options": [
+        {
+          "en": "Hand-made plans sent by email to paying customers",
+          "bs": "Ručno pravljeni planovi poslani emailom kupcima koji plaćaju"
+        },
+        { "en": "A full app with 50 features", "bs": "Cijela aplikacija s 50 funkcija" },
+        { "en": "A logo and business cards", "bs": "Logo i vizitke" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "An MVP solves the core problem simply so you can learn.",
+        "bs": "MVP jednostavno rješava glavni problem da bi mogao učiti."
+      }
+    },
+    {
+      "q": { "en": "What is the strongest proof of demand?", "bs": "Šta je najjači dokaz potražnje?" },
+      "options": [
+        { "en": "Likes on social media", "bs": "Lajkovi na društvenim mrežama" },
+        { "en": "Customers paying in advance", "bs": "Kupci koji plaćaju unaprijed" },
+        { "en": "Friends' compliments", "bs": "Komplimenti prijatelja" }
+      ],
+      "answer": 1,
+      "explain": { "en": "Money is harder to give than praise.", "bs": "Novac je teže dati nego pohvalu." }
+    },
+    {
+      "q": {
+        "en": "Which is a sign of product-market fit?",
+        "bs": "Šta je znak usklađenosti proizvoda i tržišta?"
+      },
+      "options": [
+        { "en": "One big day of sales at launch", "bs": "Jedan veliki dan prodaje na lansiranju" },
+        {
+          "en": "Customers keep coming back and recommend it",
+          "bs": "Kupci se stalno vraćaju i preporučuju ga"
+        },
+        { "en": "You've spent a lot on ads", "bs": "Potrošio si mnogo na oglase" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Fit shows in lasting use and word of mouth.",
+        "bs": "Usklađenost se vidi u trajnom korištenju i preporukama."
+      }
+    }
+  ]
+}

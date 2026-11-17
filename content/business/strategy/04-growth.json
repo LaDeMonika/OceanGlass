@@ -1,0 +1,214 @@
+{
+  "slug": "growth",
+  "title": { "en": "Growth strategies", "bs": "Strategije rasta" },
+  "summary": {
+    "en": "The main ways to grow: more customers, new products, new markets, or buying others.",
+    "bs": "Glavni načini rasta: više kupaca, novi proizvodi, nova tržišta ili kupovina drugih."
+  },
+  "concepts": [
+    {
+      "slug": "ansoff-matrix",
+      "term": "Ansoff matrix",
+      "local": "Ansoffova matrica",
+      "minutes": 5,
+      "youtube": "",
+      "youtubeQuery": "Ansoff matrix explained with examples",
+      "related": ["Business diversification", "Market entry", "Product life cycle"],
+      "en": {
+        "one": "The Ansoff matrix shows four ways to grow, based on whether you sell existing or new products, in existing or new markets.",
+        "explain": "Market penetration: sell more of what you have to current customers (lowest risk). Product development: new products for current customers. Market development: current products in new markets. Diversification: new products in new markets (highest risk).",
+        "example": "A Tuzla bakery: more breakfast deals (penetration), adding cakes (product development), opening in Zenica (market development), launching a catering company (diversification).",
+        "why": "It lays out the options clearly and shows how risk grows as you move away from what you know.",
+        "mixup": "The riskiest box isn't forbidden, but it needs the most evidence and preparation."
+      },
+      "bs": {
+        "one": "Ansoffova matrica pokazuje četiri načina rasta, zavisno od toga prodaješ li postojeće ili nove proizvode, na postojećim ili novim tržištima.",
+        "explain": "Penetracija tržišta: prodaj više onoga što imaš postojećim kupcima (najmanji rizik). Razvoj proizvoda: novi proizvodi za postojeće kupce. Razvoj tržišta: postojeći proizvodi na novim tržištima. Diverzifikacija: novi proizvodi na novim tržištima (najveći rizik).",
+        "example": "Pekara iz Tuzle: više ponuda za doručak (penetracija), dodavanje kolača (razvoj proizvoda), otvaranje u Zenici (razvoj tržišta), pokretanje ketering firme (diverzifikacija).",
+        "why": "Jasno pokazuje opcije i kako rizik raste kako se udaljavaš od onoga što znaš.",
+        "mixup": "Najrizičnije polje nije zabranjeno, ali traži najviše dokaza i pripreme."
+      }
+    },
+    {
+      "slug": "organic-vs-acquisition",
+      "term": "Organic growth vs. acquisitions",
+      "local": "organski rast i akvizicije",
+      "minutes": 4,
+      "youtube": "",
+      "youtubeQuery": "organic vs inorganic growth explained",
+      "related": ["Mergers and acquisitions", "Ansoff matrix", "Franchising"],
+      "en": {
+        "one": "Organic growth is growing from inside: more sales, new products, new branches. Inorganic growth is buying or merging with other companies.",
+        "explain": "Organic growth is slower but cheaper and easier to control. Acquisitions are fast and can bring customers, skills or technology overnight, but they're expensive and many fail because of culture clashes or overpaying.",
+        "example": "A Sarajevo IT firm grows organically by hiring 10 developers a year. Then it buys a small Mostar agency to get its banking clients immediately.",
+        "why": "Choosing the right mix decides how fast you can grow and how much risk you take.",
+        "mixup": "Buying revenue isn't the same as buying profit. Many acquisitions destroy value for the buyer."
+      },
+      "bs": {
+        "one": "Organski rast je rast iznutra: više prodaje, novi proizvodi, nove poslovnice. Neorganski rast je kupovina ili spajanje s drugim firmama.",
+        "explain": "Organski rast je sporiji, ali jeftiniji i lakši za kontrolu. Akvizicije su brze i preko noći mogu donijeti kupce, znanje ili tehnologiju, ali su skupe i mnoge propadnu zbog sudara kultura ili preplaćivanja.",
+        "example": "Sarajevska IT firma raste organski zapošljavajući 10 programera godišnje. Zatim kupi malu mostarsku agenciju da odmah dobije njene bankarske klijente.",
+        "why": "Pravi omjer odlučuje koliko brzo možeš rasti i koliki rizik preuzimaš.",
+        "mixup": "Kupovina prihoda nije isto što i kupovina dobiti. Mnoge akvizicije uništavaju vrijednost za kupca."
+      }
+    },
+    {
+      "slug": "business-diversification",
+      "term": "Business diversification",
+      "local": "diverzifikacija",
+      "minutes": 4,
+      "youtube": "",
+      "youtubeQuery": "related vs unrelated diversification explained",
+      "related": ["Ansoff matrix", "Core competence", "Risk and return"],
+      "en": {
+        "one": "Diversification means moving into new products and new markets at the same time.",
+        "explain": "Related diversification uses something you already have, like skills, brand or customers. Unrelated diversification goes into something completely different. It spreads risk, but also spreads attention and money, and unrelated moves often fail.",
+        "example": "A coffee roaster opens a barista school (related: same know-how and customers). The same roaster buying a car wash would be unrelated.",
+        "why": "It can protect a business when its main market is in trouble.",
+        "mixup": "Diversifying a business isn't like diversifying an investment portfolio. Running many different businesses needs many different skills."
+      },
+      "bs": {
+        "one": "Diversification (diverzifikacija) znači ulazak u nove proizvode i nova tržišta u isto vrijeme.",
+        "explain": "Povezana diverzifikacija koristi nešto što već imaš, npr. znanje, brend ili kupce. Nepovezana ide u nešto potpuno drugačije. Raspoređuje rizik, ali raspoređuje i pažnju i novac, a nepovezani potezi često propadnu.",
+        "example": "Pržionica kafe otvori školu za bariste (povezano: isto znanje i kupci). Ista pržionica koja kupi autopraonicu bila bi nepovezana.",
+        "why": "Može zaštititi firmu kad je njeno glavno tržište u problemu.",
+        "mixup": "Diverzifikacija firme nije isto što i diverzifikacija investicionog portfolija. Vođenje mnogo različitih poslova traži mnogo različitih vještina."
+      }
+    },
+    {
+      "slug": "vertical-integration",
+      "term": "Vertical integration",
+      "local": "vertikalna integracija",
+      "minutes": 4,
+      "youtube": "",
+      "youtubeQuery": "vertical integration explained examples",
+      "related": ["Value chain", "Make or buy", "Supply chain"],
+      "en": {
+        "one": "Vertical integration means taking over steps of your supply chain yourself, either towards your suppliers (backward) or towards your customers (forward).",
+        "explain": "It gives more control over quality, costs and supply, and captures margin others were earning. But it needs more money and skills, and makes the company less flexible.",
+        "example": "A dairy farm starts making its own cheese (forward) and opens a small shop (forward again). A furniture maker buys a sawmill (backward).",
+        "why": "It can protect you from supplier problems and let you keep more of the final price.",
+        "mixup": "Owning more steps isn't always better. If someone else does a step better and cheaper, buying from them is smarter."
+      },
+      "bs": {
+        "one": "Vertical integration (vertikalna integracija) znači da sam preuzmeš korake svog lanca snabdijevanja, bilo prema dobavljačima (unazad) bilo prema kupcima (unaprijed).",
+        "explain": "Daje više kontrole nad kvalitetom, troškovima i snabdijevanjem, i zadržava maržu koju su zarađivali drugi. Ali traži više novca i znanja, i čini firmu manje fleksibilnom.",
+        "example": "Mliječna farma počne praviti svoj sir (unaprijed) i otvori malu prodavnicu (opet unaprijed). Proizvođač namještaja kupi pilanu (unazad).",
+        "why": "Može te zaštititi od problema s dobavljačima i omogućiti da zadržiš veći dio konačne cijene.",
+        "mixup": "Posjedovati više koraka nije uvijek bolje. Ako neko drugi radi korak bolje i jeftinije, pametnije je kupovati od njega."
+      }
+    },
+    {
+      "slug": "franchising",
+      "term": "Franchising",
+      "local": "franšiza",
+      "minutes": 5,
+      "youtube": "",
+      "youtubeQuery": "how franchising works explained",
+      "related": ["Licensing", "Organic growth vs. acquisitions", "Brand"],
+      "en": {
+        "one": "Franchising lets other people open businesses under your brand and system, in exchange for fees.",
+        "explain": "The franchisor gives the brand, recipes, processes, training and marketing. The franchisee invests their own money, runs the location and pays a start fee plus a share of sales. It allows fast growth without the franchisor paying for every location.",
+        "example": "A popular Sarajevo ćevabdžinica turns its recipe, look and processes into a franchise. Local owners open branches in Tuzla and Banja Luka, paying 5% of sales.",
+        "why": "It's a way to grow a proven concept quickly with other people's money and energy.",
+        "mixup": "Franchising only works if your system is truly proven and can be written down. You're selling a recipe for success, not just a name."
+      },
+      "bs": {
+        "one": "Franchising (franšiza) omogućava drugima da otvore posao pod tvojim brendom i sistemom, uz naknadu.",
+        "explain": "Davalac franšize daje brend, recepte, procese, obuku i marketing. Primalac ulaže svoj novac, vodi lokal i plaća početnu naknadu plus udio u prodaji. Omogućava brz rast bez da davalac plaća svaki lokal.",
+        "example": "Popularna sarajevska ćevabdžinica pretvori recept, izgled i procese u franšizu. Lokalni vlasnici otvore poslovnice u Tuzli i Banjoj Luci i plaćaju 5% prodaje.",
+        "why": "To je način da se dokazani koncept brzo proširi tuđim novcem i energijom.",
+        "mixup": "Franšiza radi samo ako je tvoj sistem stvarno dokazan i može se zapisati. Prodaješ recept za uspjeh, a ne samo ime."
+      }
+    },
+    {
+      "slug": "market-entry",
+      "term": "Entering foreign markets",
+      "local": "ulazak na strana tržišta",
+      "minutes": 5,
+      "youtube": "",
+      "youtubeQuery": "international market entry modes explained",
+      "related": ["Ansoff matrix", "Exporting", "Franchising"],
+      "en": {
+        "one": "There are several ways to sell abroad, from low-risk exporting to fully owning a business in another country.",
+        "explain": "From least to most commitment: exporting (direct or through a distributor), selling online, licensing or franchising, a joint venture with a local partner, and a fully owned subsidiary. More commitment gives more control and profit, but also more cost and risk.",
+        "example": "A Bosnian honey producer starts by exporting through a Croatian distributor. After two good years, it opens its own small sales office in Zagreb.",
+        "why": "Choosing the right entry mode lets you test a market before betting big on it.",
+        "mixup": "A product that sells at home won't automatically sell abroad. Check language, rules, prices and local tastes first."
+      },
+      "bs": {
+        "one": "Postoji nekoliko načina da prodaješ u inostranstvu, od izvoza niskog rizika do potpunog vlasništva nad firmom u drugoj zemlji.",
+        "explain": "Od najmanje do najviše obaveze: izvoz (direktno ili preko distributera), online prodaja, licenciranje ili franšiza, zajedničko ulaganje s lokalnim partnerom i podružnica u potpunom vlasništvu. Više obaveze daje više kontrole i dobiti, ali i više troškova i rizika.",
+        "example": "Bosanski proizvođač meda počne izvozom preko hrvatskog distributera. Nakon dvije dobre godine otvori vlastiti mali prodajni ured u Zagrebu.",
+        "why": "Pravi način ulaska ti omogućava da testiraš tržište prije velikog uloga.",
+        "mixup": "Proizvod koji se prodaje kod kuće neće se automatski prodavati vani. Prvo provjeri jezik, pravila, cijene i lokalne ukuse."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "Selling existing products in a new city is which Ansoff option?",
+        "bs": "Prodaja postojećih proizvoda u novom gradu je koja Ansoff opcija?"
+      },
+      "options": [
+        { "en": "Product development", "bs": "Razvoj proizvoda" },
+        { "en": "Market development", "bs": "Razvoj tržišta" },
+        { "en": "Diversification", "bs": "Diverzifikacija" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Same products, new market = market development.",
+        "bs": "Isti proizvodi, novo tržište = razvoj tržišta."
+      }
+    },
+    {
+      "q": {
+        "en": "Which Ansoff option carries the highest risk?",
+        "bs": "Koja Ansoff opcija nosi najveći rizik?"
+      },
+      "options": [
+        { "en": "Product development", "bs": "Razvoj proizvoda" },
+        { "en": "Diversification", "bs": "Diverzifikacija" },
+        { "en": "Market penetration", "bs": "Penetracija tržišta" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Both the product and the market are new, so there's the most unknown.",
+        "bs": "I proizvod i tržište su novi, pa je najviše nepoznanica."
+      }
+    },
+    {
+      "q": {
+        "en": "A dairy farm starts making and selling its own cheese. This is…",
+        "bs": "Mliječna farma počne praviti i prodavati svoj sir. To je…"
+      },
+      "options": [
+        { "en": "Forward vertical integration", "bs": "Vertikalna integracija unaprijed" },
+        { "en": "Backward vertical integration", "bs": "Vertikalna integracija unazad" },
+        { "en": "Franchising", "bs": "Franšiza" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "It moves closer to the final customer, so it's forward integration.",
+        "bs": "Pomjera se bliže krajnjem kupcu, pa je to integracija unaprijed."
+      }
+    },
+    {
+      "q": {
+        "en": "What is the lowest-risk way to start selling abroad?",
+        "bs": "Koji je način ulaska na strano tržište najmanje rizičan?"
+      },
+      "options": [
+        { "en": "Exporting through a local distributor", "bs": "Izvoz preko lokalnog distributera" },
+        { "en": "Buying a local competitor", "bs": "Kupovina lokalnog konkurenta" },
+        { "en": "Opening a fully owned subsidiary", "bs": "Otvaranje podružnice u potpunom vlasništvu" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Exporting needs the least investment and is easy to stop.",
+        "bs": "Izvoz traži najmanje ulaganja i lako se prekida."
+      }
+    }
+  ]
+}

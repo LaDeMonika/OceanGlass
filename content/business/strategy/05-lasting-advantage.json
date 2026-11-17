@@ -1,0 +1,217 @@
+{
+  "slug": "lasting-advantage",
+  "title": { "en": "Building a lasting advantage", "bs": "Izgradnja trajne prednosti" },
+  "summary": {
+    "en": "What protects a business from copycats, and what can still topple it.",
+    "bs": "Šta štiti firmu od imitatora, a šta je ipak može srušiti."
+  },
+  "concepts": [
+    {
+      "slug": "vrio",
+      "term": "VRIO framework",
+      "local": "VRIO okvir",
+      "minutes": 5,
+      "youtube": "",
+      "youtubeQuery": "VRIO framework explained simply",
+      "related": ["Competitive advantage", "Core competence", "Economic moat"],
+      "en": {
+        "one": "VRIO is a test for whether a resource or skill gives you a lasting advantage. It asks four questions: is it Valuable, Rare, hard to Imitate, and is the company Organised to use it?",
+        "explain": "If a resource passes all four, it can give a long-lasting edge. If it's valuable but common, it only keeps you level with others. If it's rare but easy to copy, the edge is temporary.",
+        "example": "A family winery owns the only vineyards on a special hillside (valuable, rare, impossible to copy) and has a team that markets the wine well (organised). That's a lasting advantage.",
+        "why": "It helps you see which of your strengths are worth investing in and protecting.",
+        "mixup": "Having a great resource isn't enough. If the company isn't organised to use it, the advantage stays on paper."
+      },
+      "bs": {
+        "one": "VRIO je test da li ti neki resurs ili vještina daje trajnu prednost. Postavlja četiri pitanja: je li Vrijedan (Valuable), Rijedak (Rare), teško ga je Imitirati (Imitate), i je li firma Organizovana da ga koristi?",
+        "explain": "Ako resurs prođe sva četiri, može dati dugotrajnu prednost. Ako je vrijedan, ali čest, samo te drži u ravni s drugima. Ako je rijedak, ali lako kopirljiv, prednost je privremena.",
+        "example": "Porodična vinarija posjeduje jedine vinograde na posebnom brdu (vrijedno, rijetko, nemoguće kopirati) i ima tim koji dobro prodaje vino (organizovano). To je trajna prednost.",
+        "why": "Pomaže ti da vidiš u koje snage se isplati ulagati i koje treba štititi.",
+        "mixup": "Imati odličan resurs nije dovoljno. Ako firma nije organizovana da ga koristi, prednost ostaje na papiru."
+      }
+    },
+    {
+      "slug": "network-effects",
+      "term": "Network effects",
+      "local": "mrežni efekti",
+      "minutes": 4,
+      "youtube": "",
+      "youtubeQuery": "network effects explained simply",
+      "related": ["Platform business", "First-mover advantage", "Switching costs"],
+      "en": {
+        "one": "A network effect is when a product becomes more valuable the more people use it.",
+        "explain": "A phone network with one user is useless; with millions it's essential. Marketplaces, social networks and payment apps work the same way. Once a network is big, it's very hard for a newcomer to compete, even with a better product.",
+        "example": "A local job portal has the most job ads, so most job seekers use it, so even more employers post there. A new portal with better design struggles to break that loop.",
+        "why": "Network effects can create some of the strongest and most profitable businesses.",
+        "mixup": "Lots of users isn't the same as a network effect. The value must grow because others use it, not just because it's popular."
+      },
+      "bs": {
+        "one": "Network effect (mrežni efekat) je kad proizvod postaje vrjedniji što ga više ljudi koristi.",
+        "explain": "Telefonska mreža s jednim korisnikom je beskorisna; s milionima je neophodna. Online tržnice, društvene mreže i aplikacije za plaćanje rade na isti način. Kad je mreža velika, novajliji je vrlo teško konkurisati, čak i s boljim proizvodom.",
+        "example": "Lokalni portal za poslove ima najviše oglasa, pa ga koristi većina tražilaca posla, pa još više poslodavaca objavljuje tamo. Novi portal s boljim dizajnom teško prekida taj krug.",
+        "why": "Mrežni efekti mogu stvoriti neke od najjačih i najprofitabilnijih firmi.",
+        "mixup": "Mnogo korisnika nije isto što i mrežni efekat. Vrijednost mora rasti zato što ga drugi koriste, a ne samo zato što je popularan."
+      }
+    },
+    {
+      "slug": "switching-costs",
+      "term": "Switching costs",
+      "local": "troškovi prelaska",
+      "minutes": 4,
+      "youtube": "",
+      "youtubeQuery": "switching costs explained business strategy",
+      "related": ["Retention and churn", "Network effects", "Economic moat"],
+      "en": {
+        "one": "Switching costs are the time, money, effort or risk a customer faces when moving from one supplier to another.",
+        "explain": "They can be financial (cancellation fees), practical (moving data, retraining staff) or emotional (trust, habit). High switching costs keep customers loyal even when a competitor is a bit cheaper.",
+        "example": "A company runs all its accounting in one software for 8 years. Moving to another would mean migrating data and retraining staff, so it stays even after a price rise.",
+        "why": "Building fair switching costs protects your customer base and makes revenue more predictable.",
+        "mixup": "Trapping customers with hidden fees backfires. The best switching costs come from real value, like your product being deeply useful."
+      },
+      "bs": {
+        "one": "Switching costs (troškovi prelaska) su vrijeme, novac, trud ili rizik s kojim se kupac suočava kad prelazi s jednog dobavljača na drugog.",
+        "explain": "Mogu biti finansijski (naknade za raskid), praktični (prenos podataka, ponovna obuka radnika) ili emotivni (povjerenje, navika). Visoki troškovi prelaska drže kupce lojalnim čak i kad je konkurent malo jeftiniji.",
+        "example": "Firma već 8 godina vodi cijelo računovodstvo u jednom softveru. Prelazak na drugi značio bi prenos podataka i ponovnu obuku radnika, pa ostaje i nakon poskupljenja.",
+        "why": "Izgradnja poštenih troškova prelaska štiti bazu kupaca i čini prihod predvidivijim.",
+        "mixup": "Zarobljavanje kupaca skrivenim naknadama se obije o glavu. Najbolji troškovi prelaska dolaze od stvarne vrijednosti, npr. kad je tvoj proizvod duboko koristan."
+      }
+    },
+    {
+      "slug": "economic-moat",
+      "term": "Economic moat",
+      "local": "ekonomski opkop",
+      "minutes": 4,
+      "youtube": "",
+      "youtubeQuery": "economic moat explained Warren Buffett",
+      "related": ["VRIO framework", "Network effects", "Switching costs"],
+      "en": {
+        "one": "An economic moat is a lasting protection that keeps competitors from taking a company's profits, like a moat around a castle.",
+        "explain": "The main types are: a strong brand people pay extra for, network effects, high switching costs, a cost advantage others can't match, and legal protection like patents or licences. The term was made popular by investor Warren Buffett.",
+        "example": "A pharmacy chain with the best locations in a city, plus licences that limit new pharmacies, has a moat that protects it for years.",
+        "why": "Investors look for moats, and owners should build them, because profits without a moat attract competitors.",
+        "mixup": "A great product today isn't a moat. Without protection, others will copy it."
+      },
+      "bs": {
+        "one": "Economic moat (ekonomski opkop) je trajna zaštita koja sprečava konkurente da uzmu dobit firme, kao opkop oko dvorca.",
+        "explain": "Glavne vrste su: jak brend za koji ljudi plaćaju više, mrežni efekti, visoki troškovi prelaska, troškovna prednost koju drugi ne mogu pratiti i pravna zaštita kao patenti ili licence. Izraz je popularizovao investitor Warren Buffett.",
+        "example": "Lanac apoteka s najboljim lokacijama u gradu, plus licence koje ograničavaju nove apoteke, ima opkop koji ga štiti godinama.",
+        "why": "Investitori traže opkope, a vlasnici bi ih trebali graditi, jer dobit bez opkopa privlači konkurente.",
+        "mixup": "Odličan proizvod danas nije opkop. Bez zaštite drugi će ga kopirati."
+      }
+    },
+    {
+      "slug": "platform-business",
+      "term": "Platform business",
+      "local": "platformski biznis",
+      "minutes": 5,
+      "youtube": "",
+      "youtubeQuery": "platform business model explained",
+      "related": ["Network effects", "Marketplace", "Business model"],
+      "en": {
+        "one": "A platform business connects two or more groups, like buyers and sellers, and earns from the interactions between them, instead of making the product itself.",
+        "explain": "Booking.com doesn't own hotels; Uber doesn't own cars; app stores don't write most apps. The platform sets rules, builds trust (ratings, payments) and takes a fee. The hard part is the start: buyers won't come without sellers, and the other way around.",
+        "example": "A local platform connects homeowners with verified electricians and plumbers. It earns 10% of each job and handles booking, payment and reviews.",
+        "why": "Platforms can grow very fast without owning much, thanks to network effects.",
+        "mixup": "Building a platform is harder than it looks. You must solve the 'chicken and egg' problem, usually by starting very small and local."
+      },
+      "bs": {
+        "one": "Platformski biznis povezuje dvije ili više grupa, npr. kupce i prodavce, i zarađuje od interakcija među njima, umjesto da sam pravi proizvod.",
+        "explain": "Booking.com ne posjeduje hotele; Uber ne posjeduje aute; app storeovi ne pišu većinu aplikacija. Platforma postavlja pravila, gradi povjerenje (ocjene, plaćanja) i uzima naknadu. Najteži je početak: kupci neće doći bez prodavaca, i obrnuto.",
+        "example": "Lokalna platforma povezuje vlasnike stanova s provjerenim električarima i vodoinstalaterima. Zarađuje 10% svakog posla i rješava zakazivanje, plaćanje i recenzije.",
+        "why": "Platforme mogu rasti vrlo brzo bez posjedovanja mnogo toga, zahvaljujući mrežnim efektima.",
+        "mixup": "Izgradnja platforme je teža nego što izgleda. Moraš riješiti problem 'kokoš ili jaje', obično počevši vrlo malo i lokalno."
+      }
+    },
+    {
+      "slug": "disruptive-innovation",
+      "term": "Disruptive innovation",
+      "local": "disruptivna inovacija",
+      "minutes": 5,
+      "youtube": "",
+      "youtubeQuery": "disruptive innovation explained Clayton Christensen",
+      "related": ["Blue ocean strategy", "Digital transformation", "Product life cycle"],
+      "en": {
+        "one": "Disruptive innovation is when a simpler, cheaper product starts at the bottom of a market, gets better over time, and eventually pushes out the established leaders.",
+        "explain": "Clayton Christensen noticed that leaders often ignore these newcomers because they serve less profitable customers at first. By the time the new product is good enough for the main market, it's too late.",
+        "example": "Digital cameras were first worse than film. Kodak stayed focused on film. Then phone cameras disrupted digital cameras in turn.",
+        "why": "It explains why successful companies can fail by doing what made them successful, and why you should watch the 'cheap and simple' end of your market.",
+        "mixup": "Not every new technology is disruptive. A better, more expensive product for your best customers is 'sustaining' innovation, not disruption."
+      },
+      "bs": {
+        "one": "Disruptive innovation (disruptivna inovacija) je kad jednostavniji, jeftiniji proizvod počne na dnu tržišta, vremenom postaje bolji i na kraju istisne etablirane lidere.",
+        "explain": "Clayton Christensen je primijetio da lideri često ignorišu ove novajlije jer na početku služe manje profitabilne kupce. Kad novi proizvod postane dovoljno dobar za glavno tržište, prekasno je.",
+        "example": "Digitalni fotoaparati su na početku bili lošiji od filma. Kodak je ostao fokusiran na film. Zatim su kamere na telefonima zauzvrat potisnule digitalne fotoaparate.",
+        "why": "Objašnjava zašto uspješne firme mogu propasti radeći ono što ih je učinilo uspješnim, i zašto treba pratiti 'jeftini i jednostavni' kraj tržišta.",
+        "mixup": "Nije svaka nova tehnologija disruptivna. Bolji, skuplji proizvod za tvoje najbolje kupce je 'održavajuća' inovacija, a ne disrupcija."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": { "en": "In VRIO, what does the 'I' ask?", "bs": "U VRIO, šta pita slovo 'I'?" },
+      "options": [
+        { "en": "Is it international?", "bs": "Je li međunarodno?" },
+        { "en": "Is it hard to imitate?", "bs": "Je li ga teško imitirati?" },
+        { "en": "Is it important?", "bs": "Je li važno?" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "VRIO: Valuable, Rare, hard to Imitate, Organised.",
+        "bs": "VRIO: vrijedno, rijetko, teško za imitirati, organizovano."
+      }
+    },
+    {
+      "q": {
+        "en": "A job portal gets more useful as more employers and job seekers join. This is…",
+        "bs": "Portal za poslove postaje korisniji kako se pridružuje više poslodavaca i tražilaca posla. To je…"
+      },
+      "options": [
+        { "en": "A switching cost", "bs": "Trošak prelaska" },
+        { "en": "A network effect", "bs": "Mrežni efekat" },
+        { "en": "Economies of scale", "bs": "Ekonomija obima" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Value grows because others use it: a network effect.",
+        "bs": "Vrijednost raste zato što ga drugi koriste: mrežni efekat."
+      }
+    },
+    {
+      "q": {
+        "en": "Which is the best example of a healthy switching cost?",
+        "bs": "Šta je najbolji primjer zdravog troška prelaska?"
+      },
+      "options": [
+        {
+          "en": "Making it hard to find the cancel button",
+          "bs": "Teško pronalaženje dugmeta za otkazivanje"
+        },
+        { "en": "A hidden cancellation fee", "bs": "Skrivena naknada za raskid" },
+        {
+          "en": "Years of data and workflows built in your software",
+          "bs": "Godine podataka i procesa izgrađenih u tvom softveru"
+        }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "Lasting loyalty comes from real value, not tricks.",
+        "bs": "Trajna lojalnost dolazi od stvarne vrijednosti, a ne trikova."
+      }
+    },
+    {
+      "q": {
+        "en": "Phone cameras pushing out digital cameras is an example of…",
+        "bs": "Kamere na telefonima koje potiskuju digitalne fotoaparate su primjer…"
+      },
+      "options": [
+        { "en": "Cost leadership only", "bs": "Samo vodstva u troškovima" },
+        { "en": "Disruptive innovation", "bs": "Disruptivne inovacije" },
+        { "en": "Vertical integration", "bs": "Vertikalne integracije" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "A simpler, 'good enough' product improved and took over the main market.",
+        "bs": "Jednostavniji, 'dovoljno dobar' proizvod se poboljšao i preuzeo glavno tržište."
+      }
+    }
+  ]
+}

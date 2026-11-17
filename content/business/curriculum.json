@@ -71,6 +71,24 @@
       }
     },
     {
+      "slug": "law",
+      "icon": "shield",
+      "title": { "en": "Business Law & Ethics", "bs": "Poslovno pravo i etika" },
+      "description": {
+        "en": "Contracts, company forms, customer rights and doing the right thing.",
+        "bs": "Ugovori, oblici firmi, prava kupaca i ispravno postupanje."
+      }
+    },
+    {
+      "slug": "strategy",
+      "icon": "book",
+      "title": { "en": "Strategy", "bs": "Strategija" },
+      "description": {
+        "en": "Choosing where to compete, how to win, and how to make it last.",
+        "bs": "Gdje se takmičiti, kako pobijediti i kako to održati."
+      }
+    },
+    {
       "slug": "entrepreneurship",
       "icon": "rocket",
       "title": { "en": "Entrepreneurship", "bs": "Preduzetništvo" },

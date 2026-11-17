@@ -1,0 +1,214 @@
+{
+  "slug": "portfolio-and-partnerships",
+  "title": { "en": "Portfolio and partnerships", "bs": "Portfolio i partnerstva" },
+  "summary": {
+    "en": "Managing several products or businesses, and when to team up, buy, or let go.",
+    "bs": "Upravljanje s više proizvoda ili poslova, i kada se udružiti, kupiti ili pustiti."
+  },
+  "concepts": [
+    {
+      "slug": "bcg-matrix",
+      "term": "BCG matrix",
+      "local": "BCG matrica",
+      "minutes": 5,
+      "youtube": "",
+      "youtubeQuery": "BCG matrix explained stars cash cows dogs question marks",
+      "related": ["Product life cycle", "Portfolio", "Divestment"],
+      "en": {
+        "one": "The BCG matrix sorts a company's products by market growth and market share into four groups: stars, cash cows, question marks and dogs.",
+        "explain": "Stars: high share in a growing market, invest to keep them. Cash cows: high share in a mature market, they fund the rest. Question marks: low share in a growing market, decide whether to invest or drop. Dogs: low share, low growth, usually phased out.",
+        "example": "A dairy: yoghurt is a cash cow, plant-based drinks are a question mark, protein pudding is a star, and an old cheese spread is a dog.",
+        "why": "It helps you decide where to put money and where to stop spending it.",
+        "mixup": "A 'dog' isn't always worthless. It might support other products or loyal customers. Check before cutting."
+      },
+      "bs": {
+        "one": "BCG matrica razvrstava proizvode firme po rastu tržišta i tržišnom udjelu u četiri grupe: zvijezde, krave muzare, upitnici i psi.",
+        "explain": "Zvijezde: visok udio na rastućem tržištu, ulaži da ih zadržiš. Krave muzare: visok udio na zrelom tržištu, one finansiraju ostalo. Upitnici: nizak udio na rastućem tržištu, odluči ulagati ili odustati. Psi: nizak udio, nizak rast, obično se postepeno ukidaju.",
+        "example": "Mljekara: jogurt je krava muzara, biljni napici su upitnik, proteinski puding je zvijezda, a stari namaz od sira je pas.",
+        "why": "Pomaže ti da odlučiš gdje uložiti novac, a gdje ga prestati trošiti.",
+        "mixup": "'Pas' nije uvijek bezvrijedan. Možda podržava druge proizvode ili lojalne kupce. Provjeri prije ukidanja."
+      }
+    },
+    {
+      "slug": "strategic-alliance",
+      "term": "Strategic alliance",
+      "local": "strateški savez",
+      "minutes": 4,
+      "youtube": "",
+      "youtubeQuery": "strategic alliance and joint venture explained",
+      "related": ["Mergers and acquisitions", "Market entry", "Outsourcing"],
+      "en": {
+        "one": "A strategic alliance is a partnership where two companies work together towards a shared goal while staying independent.",
+        "explain": "It can be a joint product, shared distribution, co-marketing, or a joint venture where both create a new company together. Alliances let you gain skills, customers or markets faster and cheaper than doing it alone, but need trust and clear agreements.",
+        "example": "A Bosnian tour operator and a regional airline create joint holiday packages: the airline fills seats, the operator gets better flight prices.",
+        "why": "Partners can give you reach and capabilities you couldn't afford to build yourself.",
+        "mixup": "Alliances fail when goals drift apart. Agree early on who does what, who gets what, and how to exit."
+      },
+      "bs": {
+        "one": "Strategic alliance (strateški savez) je partnerstvo u kojem dvije firme rade zajedno prema zajedničkom cilju, a ostaju nezavisne.",
+        "explain": "To može biti zajednički proizvod, zajednička distribucija, zajednički marketing ili joint venture u kojem obje osnuju novu firmu. Savezi ti omogućavaju da brže i jeftinije dobiješ znanje, kupce ili tržišta nego sam, ali traže povjerenje i jasne dogovore.",
+        "example": "Bosanska turistička agencija i regionalna aviokompanija prave zajedničke paket-aranžmane: aviokompanija popunjava sjedišta, agencija dobija bolje cijene letova.",
+        "why": "Partneri ti mogu dati doseg i sposobnosti koje sam ne bi mogao priuštiti da izgradiš.",
+        "mixup": "Savezi propadaju kad se ciljevi raziđu. Rano se dogovorite ko radi šta, ko dobija šta i kako izaći."
+      }
+    },
+    {
+      "slug": "mergers-acquisitions",
+      "term": "Mergers and acquisitions (M&A)",
+      "local": "spajanja i preuzimanja",
+      "minutes": 5,
+      "youtube": "",
+      "youtubeQuery": "mergers and acquisitions explained simply",
+      "related": ["Organic growth vs. acquisitions", "Synergy", "Valuation"],
+      "en": {
+        "one": "A merger is when two companies combine into one. An acquisition is when one company buys another.",
+        "explain": "Companies do M&A to grow faster, enter new markets, get technology or talent, or remove a competitor. The process includes valuation, due diligence (checking the target carefully), negotiation and, hardest of all, integration afterwards.",
+        "example": "A regional supermarket chain buys 30 small local shops to enter a new city overnight. The tough part is merging their systems, suppliers and staff.",
+        "why": "M&A can transform a company quickly, for better or worse.",
+        "mixup": "Most of the value or damage in M&A happens after signing, during integration, not on the day of the deal."
+      },
+      "bs": {
+        "one": "Merger (spajanje) je kad se dvije firme spoje u jednu. Acquisition (preuzimanje, akvizicija) je kad jedna firma kupi drugu.",
+        "explain": "Firme rade spajanja i preuzimanja da brže rastu, uđu na nova tržišta, dobiju tehnologiju ili talente, ili uklone konkurenta. Proces uključuje procjenu vrijednosti, dubinsku analizu (pažljivu provjeru firme), pregovore i, najteže od svega, integraciju poslije.",
+        "example": "Regionalni lanac supermarketa kupi 30 malih lokalnih prodavnica da preko noći uđe u novi grad. Teži dio je spajanje njihovih sistema, dobavljača i radnika.",
+        "why": "Spajanja i preuzimanja mogu brzo transformisati firmu, na bolje ili na gore.",
+        "mixup": "Većina vrijednosti ili štete kod preuzimanja se desi nakon potpisivanja, tokom integracije, a ne na dan dogovora."
+      }
+    },
+    {
+      "slug": "synergy",
+      "term": "Synergy",
+      "local": "sinergija",
+      "minutes": 3,
+      "youtube": "",
+      "youtubeQuery": "synergy in business explained",
+      "related": ["Mergers and acquisitions", "Strategic alliance", "Business diversification"],
+      "en": {
+        "one": "Synergy is when two parts working together create more value than they would separately: 1 + 1 = 3.",
+        "explain": "Cost synergies come from sharing things (one warehouse, one accounting team, bigger purchasing). Revenue synergies come from selling more together (cross-selling to each other's customers). Cost synergies are usually more realistic.",
+        "example": "A gym merges with a physiotherapy clinic. They share reception and rent (cost synergy) and refer customers to each other (revenue synergy).",
+        "why": "Synergy is often the main reason given for mergers and partnerships, so you need to judge whether it's real.",
+        "mixup": "Promised synergies are often overestimated. Ask exactly where the savings or extra sales will come from."
+      },
+      "bs": {
+        "one": "Synergy (sinergija) je kad dva dijela radeći zajedno stvaraju više vrijednosti nego odvojeno: 1 + 1 = 3.",
+        "explain": "Troškovne sinergije dolaze od dijeljenja (jedno skladište, jedan računovodstveni tim, veća nabavka). Prihodovne sinergije dolaze od zajedničke veće prodaje (prodaja kupcima onog drugog). Troškovne sinergije su obično realnije.",
+        "example": "Teretana se spoji s fizioterapeutskom klinikom. Dijele recepciju i zakup (troškovna sinergija) i upućuju kupce jedni drugima (prihodovna sinergija).",
+        "why": "Sinergija je često glavni razlog za spajanja i partnerstva, pa trebaš procijeniti je li stvarna.",
+        "mixup": "Obećane sinergije se često precijene. Pitaj tačno odakle će doći uštede ili dodatna prodaja."
+      }
+    },
+    {
+      "slug": "divestment",
+      "term": "Divestment",
+      "local": "dezinvestiranje, prodaja dijela posla",
+      "minutes": 3,
+      "youtube": "",
+      "youtubeQuery": "divestment strategy explained",
+      "related": ["BCG matrix", "Strategic focus", "Core competence"],
+      "en": {
+        "one": "Divestment means selling or closing part of a business, so the company can focus on what it does best.",
+        "explain": "Reasons include a unit that loses money, doesn't fit the strategy any more, or would be worth more to another owner. The money raised can be invested in the core business or returned to owners.",
+        "example": "A printing company sells its small sign-making unit to a specialist and uses the money to buy a faster digital press for its main business.",
+        "why": "Letting go of the wrong things frees money, time and attention for the right ones.",
+        "mixup": "Divestment isn't a sign of failure. Shrinking the right parts is often how strong companies stay strong."
+      },
+      "bs": {
+        "one": "Divestment (dezinvestiranje) znači prodaju ili zatvaranje dijela posla, kako bi se firma fokusirala na ono što radi najbolje.",
+        "explain": "Razlozi su npr. jedinica koja gubi novac, više ne odgovara strategiji, ili bi vrijedila više drugom vlasniku. Prikupljeni novac se može uložiti u glavni posao ili vratiti vlasnicima.",
+        "example": "Štamparija proda svoju malu jedinicu za izradu natpisa specijalistu i novcem kupi bržu digitalnu mašinu za glavni posao.",
+        "why": "Puštanje pogrešnih stvari oslobađa novac, vrijeme i pažnju za prave.",
+        "mixup": "Dezinvestiranje nije znak neuspjeha. Smanjivanje pravih dijelova je često način na koji jake firme ostaju jake."
+      }
+    },
+    {
+      "slug": "strategic-focus",
+      "term": "Strategic focus: saying no",
+      "local": "strateški fokus: reći ne",
+      "minutes": 3,
+      "youtube": "",
+      "youtubeQuery": "strategic focus saying no to opportunities",
+      "related": ["Strategy", "Prioritisation", "Divestment"],
+      "en": {
+        "one": "Strategic focus means deliberately choosing a few things to do very well and saying no to many good opportunities.",
+        "explain": "Every 'yes' uses money, people and attention. Small companies especially can't do everything. A simple test: does this opportunity strengthen our chosen strategy, or pull us away from it?",
+        "example": "A successful bakery is asked to cater weddings, open a café and supply hotels. It says yes only to hotels, because it fits its strength in bulk bread, and turns down the rest.",
+        "why": "Focus is how small companies beat bigger ones that spread themselves thin.",
+        "mixup": "Saying no doesn't mean 'never'. It means 'not now, because it doesn't fit our current strategy'."
+      },
+      "bs": {
+        "one": "Strateški fokus znači namjerno izabrati nekoliko stvari koje ćeš raditi vrlo dobro i reći ne mnogim dobrim prilikama.",
+        "explain": "Svako 'da' troši novac, ljude i pažnju. Naročito male firme ne mogu raditi sve. Jednostavan test: jača li ova prilika našu izabranu strategiju ili nas odvlači od nje?",
+        "example": "Uspješnu pekaru pitaju da radi ketering za vjenčanja, otvori kafić i snabdijeva hotele. Pristane samo na hotele, jer odgovaraju njenoj snazi u velikim količinama hljeba, a ostalo odbije.",
+        "why": "Fokus je način na koji male firme pobjeđuju veće koje se previše rašire.",
+        "mixup": "Reći ne ne znači 'nikad'. Znači 'ne sada, jer ne odgovara našoj trenutnoj strategiji'."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "A product with high market share in a mature, slow-growing market is a…",
+        "bs": "Proizvod s visokim tržišnim udjelom na zrelom tržištu sporog rasta je…"
+      },
+      "options": [
+        { "en": "Star", "bs": "Zvijezda" },
+        { "en": "Cash cow", "bs": "Krava muzara" },
+        { "en": "Question mark", "bs": "Upitnik" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Cash cows earn steady money that funds other products.",
+        "bs": "Krave muzare donose stabilan novac koji finansira druge proizvode."
+      }
+    },
+    {
+      "q": {
+        "en": "Where does most of the risk in an acquisition usually lie?",
+        "bs": "Gdje je obično najveći rizik kod preuzimanja?"
+      },
+      "options": [
+        { "en": "In announcing it to the press", "bs": "U objavi medijima" },
+        { "en": "In signing the contract", "bs": "U potpisivanju ugovora" },
+        { "en": "In integrating the companies afterwards", "bs": "U integraciji firmi poslije" }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "Value is made or lost when merging systems, people and cultures.",
+        "bs": "Vrijednost se stvara ili gubi pri spajanju sistema, ljudi i kultura."
+      }
+    },
+    {
+      "q": {
+        "en": "Two merged firms close one of their two warehouses. This is…",
+        "bs": "Dvije spojene firme zatvore jedno od dva skladišta. To je…"
+      },
+      "options": [
+        { "en": "A cost synergy", "bs": "Troškovna sinergija" },
+        { "en": "A revenue synergy", "bs": "Prihodovna sinergija" },
+        { "en": "Divestment", "bs": "Dezinvestiranje" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Sharing resources to save money is a cost synergy.",
+        "bs": "Dijeljenje resursa radi uštede je troškovna sinergija."
+      }
+    },
+    {
+      "q": {
+        "en": "Why might a strong company sell a profitable side business?",
+        "bs": "Zašto bi jaka firma prodala profitabilan sporedni posao?"
+      },
+      "options": [
+        { "en": "To lower its own value", "bs": "Da smanji svoju vrijednost" },
+        { "en": "Because profit is bad", "bs": "Jer je dobit loša" },
+        { "en": "To focus money and attention on its core", "bs": "Da fokusira novac i pažnju na srž posla" }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "Divestment can free resources for what the company does best.",
+        "bs": "Dezinvestiranje može osloboditi resurse za ono što firma radi najbolje."
+      }
+    }
+  ]
+}

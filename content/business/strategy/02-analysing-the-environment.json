@@ -1,0 +1,217 @@
+{
+  "slug": "analysing-the-environment",
+  "title": { "en": "Reading the environment", "bs": "Analiza okruženja" },
+  "summary": {
+    "en": "Tools to see the trends, competitors and risks around your business.",
+    "bs": "Alati za uočavanje trendova, konkurenata i rizika oko tvoje firme."
+  },
+  "concepts": [
+    {
+      "slug": "pestel",
+      "term": "PESTEL analysis",
+      "local": "PESTEL analiza",
+      "minutes": 5,
+      "youtube": "",
+      "youtubeQuery": "PESTEL analysis explained with example",
+      "related": ["SWOT analysis", "Scenario planning", "Regulation"],
+      "en": {
+        "one": "PESTEL is a checklist for scanning the big outside forces that can affect your business: Political, Economic, Social, Technological, Environmental and Legal.",
+        "explain": "For each letter, you list trends and changes that matter, then ask: is this an opportunity or a threat for us? It's a way to avoid being surprised by things you can't control but can prepare for.",
+        "example": "A Bosnian wine maker's PESTEL: EU accession talks (P), rising costs (E), younger people drinking less (S), online sales (T), hotter summers (E), new labelling rules (L).",
+        "why": "It widens your view beyond competitors and customers, so you spot changes early.",
+        "mixup": "PESTEL isn't the goal in itself. A long list is useless unless you decide what to do about the most important points."
+      },
+      "bs": {
+        "one": "PESTEL je lista za provjeru velikih vanjskih sila koje mogu uticati na tvoju firmu: Politički, Ekonomski, Socijalni (društveni), Tehnološki, Ekološki i Legalni (pravni).",
+        "explain": "Za svako slovo nabrojiš trendove i promjene koje su bitne, a onda pitaš: je li to prilika ili prijetnja za nas? To je način da te ne iznenade stvari koje ne možeš kontrolisati, ali se možeš pripremiti.",
+        "example": "PESTEL bosanskog vinara: pregovori o ulasku u EU (P), rast troškova (E), mladi piju manje (S), online prodaja (T), toplija ljeta (E), nova pravila o etiketama (L).",
+        "why": "Širi tvoj pogled izvan konkurenata i kupaca, pa rano primijetiš promjene.",
+        "mixup": "PESTEL nije cilj sam po sebi. Duga lista je beskorisna ako ne odlučiš šta uraditi s najvažnijim tačkama."
+      }
+    },
+    {
+      "slug": "swot",
+      "term": "SWOT analysis",
+      "local": "SWOT analiza",
+      "minutes": 5,
+      "youtube": "",
+      "youtubeQuery": "SWOT analysis explained with example",
+      "related": ["PESTEL analysis", "Competitive advantage", "Strategy"],
+      "en": {
+        "one": "SWOT lists your Strengths and Weaknesses (inside the business) and Opportunities and Threats (outside it).",
+        "explain": "The real value comes from connecting them: use strengths to grab opportunities, fix weaknesses that make threats dangerous. Keep each box short and honest, and back points with facts, not hopes.",
+        "example": "A family restaurant: strength = loyal locals and great grill; weakness = no online presence; opportunity = more tourists; threat = a new chain opening nearby. Action: get on Google Maps and booking apps to win tourists before the chain does.",
+        "why": "It's a quick, shared picture that turns into clear priorities.",
+        "mixup": "Strengths and weaknesses are internal; opportunities and threats are external. Mixing them up is the most common mistake."
+      },
+      "bs": {
+        "one": "SWOT nabraja tvoje Snage i Slabosti (unutar firme) te Prilike i Prijetnje (izvan nje).",
+        "explain": "Prava vrijednost dolazi od povezivanja: koristi snage da zgrabiš prilike, popravi slabosti zbog kojih su prijetnje opasne. Svako polje neka bude kratko i iskreno, a tačke potkrijepi činjenicama, ne nadama.",
+        "example": "Porodični restoran: snaga = lojalni domaći gosti i odličan roštilj; slabost = nema ga online; prilika = više turista; prijetnja = novi lanac se otvara u blizini. Akcija: pojaviti se na Google Maps i aplikacijama za rezervacije i osvojiti turiste prije lanca.",
+        "why": "To je brza, zajednička slika koja se pretvara u jasne prioritete.",
+        "mixup": "Snage i slabosti su unutrašnje; prilike i prijetnje su vanjske. Miješanje toga je najčešća greška."
+      }
+    },
+    {
+      "slug": "five-forces",
+      "term": "Porter's five forces",
+      "local": "Porterovih pet sila",
+      "minutes": 6,
+      "youtube": "",
+      "youtubeQuery": "Porter five forces explained simply",
+      "related": ["Barriers to entry", "Substitutes and complements", "Competitive advantage"],
+      "en": {
+        "one": "Porter's five forces show how attractive and profitable an industry is, by looking at five pressures on it.",
+        "explain": "The forces: rivalry between existing competitors, the threat of new entrants, the threat of substitutes, the bargaining power of buyers, and the bargaining power of suppliers. The stronger the forces, the harder it is to earn good profits.",
+        "example": "Taxi services: easy entry for new drivers, apps as strong substitutes, customers comparing prices in seconds. Strong forces, thin profits. Compare that with a pharmacy that needs a licence to open.",
+        "why": "It helps you decide which markets to enter and where to build protection.",
+        "mixup": "It's about the industry, not just your company. Even the best player struggles in an industry where all five forces are strong."
+      },
+      "bs": {
+        "one": "Porterovih pet sila pokazuje koliko je industrija privlačna i profitabilna, kroz pet pritisaka na nju.",
+        "explain": "Sile su: rivalstvo postojećih konkurenata, prijetnja novih ulazaka, prijetnja zamjenskih proizvoda, pregovaračka moć kupaca i pregovaračka moć dobavljača. Što su sile jače, teže je ostvariti dobru dobit.",
+        "example": "Taksi usluge: lako za ulazak novih vozača, aplikacije kao jake zamjene, kupci porede cijene u sekundi. Jake sile, tanka dobit. Uporedi to s apotekom kojoj treba licenca za otvaranje.",
+        "why": "Pomaže ti da odlučiš na koja tržišta ući i gdje graditi zaštitu.",
+        "mixup": "Radi se o industriji, ne samo o tvojoj firmi. I najbolji igrač se muči u industriji gdje je svih pet sila jako."
+      }
+    },
+    {
+      "slug": "scenario-planning",
+      "term": "Scenario planning",
+      "local": "planiranje scenarija",
+      "minutes": 4,
+      "youtube": "",
+      "youtubeQuery": "scenario planning explained business",
+      "related": ["PESTEL analysis", "Risk and uncertainty", "Business continuity plan"],
+      "en": {
+        "one": "Scenario planning means imagining a few different, believable futures and preparing your business for each.",
+        "explain": "Pick the two or three biggest uncertainties (like energy prices or tourist numbers), build 3–4 short stories of how they could play out, and ask what you'd do in each. It's not about predicting the future but being ready for more than one.",
+        "example": "A hotel builds three scenarios for next summer: boom, normal, and a sharp drop in tourists. For the drop, it prepares a local weekend offer in advance, so it can launch it in days.",
+        "why": "Firms that have thought through scenarios react faster when the world changes.",
+        "mixup": "A scenario isn't a forecast. You don't pick the 'most likely' one and ignore the rest."
+      },
+      "bs": {
+        "one": "Planiranje scenarija znači zamisliti nekoliko različitih, uvjerljivih budućnosti i pripremiti firmu za svaku.",
+        "explain": "Izaberi dvije ili tri najveće neizvjesnosti (npr. cijene energije ili broj turista), napravi 3–4 kratke priče kako bi se mogle odigrati i pitaj šta bi uradio u svakoj. Nije cilj predvidjeti budućnost, nego biti spreman za više od jedne.",
+        "example": "Hotel napravi tri scenarija za iduće ljeto: procvat, normalno i nagli pad turista. Za pad unaprijed pripremi vikend ponudu za domaće goste, pa je može pokrenuti za nekoliko dana.",
+        "why": "Firme koje su promislile scenarije brže reaguju kad se svijet promijeni.",
+        "mixup": "Scenarij nije prognoza. Ne biraš 'najvjerovatniji' i ignorišeš ostale."
+      }
+    },
+    {
+      "slug": "benchmarking",
+      "term": "Benchmarking",
+      "local": "benchmarking, poređenje s najboljima",
+      "minutes": 4,
+      "youtube": "",
+      "youtubeQuery": "benchmarking explained business",
+      "related": ["Competitor analysis", "KPI", "Kaizen"],
+      "en": {
+        "one": "Benchmarking means comparing your results and ways of working with the best, inside or outside your industry, to learn how to improve.",
+        "explain": "You pick a few key numbers (cost per order, delivery time, customer rating), compare them with good performers, then study how they achieve them. The best ideas often come from other industries.",
+        "example": "A hospital studies how a Formula 1 pit crew changes tyres in seconds, and uses the same idea to speed up handovers between surgery and intensive care.",
+        "why": "It shows what's possible and gives concrete ideas, not just a feeling that 'we could do better'.",
+        "mixup": "Copying everything a leader does rarely works. Adapt the ideas to your own situation."
+      },
+      "bs": {
+        "one": "Benchmarking znači poređenje svojih rezultata i načina rada s najboljima, unutar ili izvan svoje industrije, da bi naučio kako se poboljšati.",
+        "explain": "Izabereš nekoliko ključnih brojeva (trošak po narudžbi, vrijeme isporuke, ocjena kupaca), uporediš ih s uspješnima, pa proučiš kako to postižu. Najbolje ideje često dolaze iz drugih industrija.",
+        "example": "Bolnica prouči kako ekipa Formule 1 mijenja gume za nekoliko sekundi i koristi istu ideju da ubrza predaju pacijenata između operacione sale i intenzivne njege.",
+        "why": "Pokazuje šta je moguće i daje konkretne ideje, a ne samo osjećaj da 'možemo bolje'.",
+        "mixup": "Kopiranje svega što lider radi rijetko uspijeva. Prilagodi ideje svojoj situaciji."
+      }
+    },
+    {
+      "slug": "key-success-factors",
+      "term": "Key success factors",
+      "local": "ključni faktori uspjeha",
+      "minutes": 3,
+      "youtube": "",
+      "youtubeQuery": "key success factors explained industry",
+      "related": ["Competitive advantage", "Five forces", "KPI"],
+      "en": {
+        "one": "Key success factors are the few things any company must do well to succeed in a particular industry.",
+        "explain": "They differ by industry. In a supermarket it's location, prices and stock availability. In software it's product quality and speed of updates. Knowing them tells you the minimum to compete, and where you must be better than average.",
+        "example": "For a food delivery app in a new city, the key success factors are enough restaurants, enough drivers, and delivery in under 40 minutes. Missing any one kills the service.",
+        "why": "It keeps you focused on what customers in that industry really judge you on.",
+        "mixup": "Key success factors are the entry ticket. Doing them well makes you competitive, but your advantage comes from doing something extra."
+      },
+      "bs": {
+        "one": "Key success factors (ključni faktori uspjeha) su nekoliko stvari koje svaka firma mora raditi dobro da bi uspjela u određenoj industriji.",
+        "explain": "Razlikuju se po industriji. U supermarketu su to lokacija, cijene i dostupnost robe. U softveru kvalitet proizvoda i brzina ažuriranja. Kad ih znaš, znaš minimum za takmičenje i gdje moraš biti bolji od prosjeka.",
+        "example": "Za aplikaciju za dostavu hrane u novom gradu, ključni faktori su dovoljno restorana, dovoljno dostavljača i dostava za manje od 40 minuta. Bez bilo kojeg od njih usluga propada.",
+        "why": "Drži te fokusiranim na ono po čemu te kupci u toj industriji stvarno ocjenjuju.",
+        "mixup": "Ključni faktori uspjeha su ulaznica. Ako ih radiš dobro, konkurentan si, ali prednost dolazi kad uradiš nešto više."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "'A new chain is opening nearby' belongs in which SWOT box?",
+        "bs": "'U blizini se otvara novi lanac' spada u koje SWOT polje?"
+      },
+      "options": [
+        { "en": "Weakness", "bs": "Slabost" },
+        { "en": "Strength", "bs": "Snaga" },
+        { "en": "Threat", "bs": "Prijetnja" }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "It's an outside factor that could hurt you, so it's a threat.",
+        "bs": "To je vanjski faktor koji ti može naštetiti, pa je prijetnja."
+      }
+    },
+    {
+      "q": {
+        "en": "Which is NOT one of Porter's five forces?",
+        "bs": "Šta od ovoga NIJE jedna od Porterovih pet sila?"
+      },
+      "options": [
+        { "en": "Threat of substitutes", "bs": "Prijetnja zamjenskih proizvoda" },
+        { "en": "Bargaining power of buyers", "bs": "Pregovaračka moć kupaca" },
+        { "en": "The company's own brand strength", "bs": "Snaga vlastitog brenda firme" }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "The five forces are rivalry, new entrants, substitutes, buyers and suppliers.",
+        "bs": "Pet sila su rivalstvo, novi ulasci, zamjene, kupci i dobavljači."
+      }
+    },
+    {
+      "q": {
+        "en": "In PESTEL, 'young people drinking less alcohol' is which factor?",
+        "bs": "U PESTEL-u, 'mladi piju manje alkohola' je koji faktor?"
+      },
+      "options": [
+        { "en": "Legal", "bs": "Pravni" },
+        { "en": "Social", "bs": "Socijalni (društveni)" },
+        { "en": "Technological", "bs": "Tehnološki" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Changes in habits and lifestyles are social factors.",
+        "bs": "Promjene navika i načina života su društveni faktori."
+      }
+    },
+    {
+      "q": {
+        "en": "What is the main purpose of scenario planning?",
+        "bs": "Koja je glavna svrha planiranja scenarija?"
+      },
+      "options": [
+        { "en": "Predicting the exact future", "bs": "Predvidjeti tačnu budućnost" },
+        {
+          "en": "Being ready for several possible futures",
+          "bs": "Biti spreman za nekoliko mogućih budućnosti"
+        },
+        { "en": "Choosing the most likely future only", "bs": "Izabrati samo najvjerovatniju budućnost" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Scenarios prepare you for more than one outcome instead of betting on one forecast.",
+        "bs": "Scenariji te pripremaju za više ishoda umjesto klađenja na jednu prognozu."
+      }
+    }
+  ]
+}

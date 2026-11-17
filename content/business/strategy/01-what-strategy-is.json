@@ -1,0 +1,214 @@
+{
+  "slug": "what-strategy-is",
+  "title": { "en": "What strategy is", "bs": "Šta je strategija" },
+  "summary": {
+    "en": "Choosing where to play and how to win, and what not to do.",
+    "bs": "Izbor gdje igrati i kako pobijediti, i šta ne raditi."
+  },
+  "concepts": [
+    {
+      "slug": "strategy",
+      "term": "Strategy",
+      "local": "strategija",
+      "minutes": 5,
+      "youtube": "",
+      "youtubeQuery": "what is business strategy explained simply",
+      "related": ["Competitive advantage", "Strategy vs. tactics", "Mission and vision"],
+      "en": {
+        "one": "A strategy is a set of choices about where your business will compete and how it will win there.",
+        "explain": "It answers a few big questions: Which customers do we serve? What do we offer that others don't? What will we not do? A good strategy is a clear direction that helps everyone make daily decisions. A list of goals or wishes isn't a strategy.",
+        "example": "A small hotel in Mostar chooses to serve couples who want quiet, authentic stays, not tour groups. That one choice shapes its prices, rooms, marketing and staff.",
+        "why": "Without a strategy, a business reacts to everything and ends up average at many things instead of great at a few.",
+        "mixup": "'Grow 20% next year' is a goal, not a strategy. Strategy is how you'll get there and what you'll give up."
+      },
+      "bs": {
+        "one": "Strategija je skup izbora o tome gdje će se tvoja firma takmičiti i kako će tu pobijediti.",
+        "explain": "Odgovara na nekoliko velikih pitanja: Kojim kupcima služimo? Šta nudimo, a drugi ne? Šta nećemo raditi? Dobra strategija je jasan smjer koji svima pomaže u svakodnevnim odlukama. Lista ciljeva ili želja nije strategija.",
+        "example": "Mali hotel u Mostaru odluči služiti parove koji žele miran, autentičan boravak, a ne turističke grupe. Taj jedan izbor oblikuje cijene, sobe, marketing i osoblje.",
+        "why": "Bez strategije firma reaguje na sve i završi prosječna u mnogo stvari, umjesto odlična u nekoliko.",
+        "mixup": "'Rasti 20% iduće godine' je cilj, ne strategija. Strategija je kako ćeš stići tamo i čega ćeš se odreći."
+      }
+    },
+    {
+      "slug": "strategy-vs-tactics",
+      "term": "Strategy vs. tactics",
+      "local": "strategija i taktika",
+      "minutes": 3,
+      "youtube": "",
+      "youtubeQuery": "strategy vs tactics difference business",
+      "related": ["Strategy", "Planning horizons", "Action plan"],
+      "en": {
+        "one": "Strategy is the overall direction and the big choices. Tactics are the specific actions you take to follow that direction.",
+        "explain": "Strategy changes rarely and is decided by leaders. Tactics change often and are adjusted by teams based on what works. Good tactics can't save a bad strategy, but a good strategy needs good tactics to work.",
+        "example": "Strategy: become the go-to bakery for healthy bread in the neighbourhood. Tactics: a weekly sourdough workshop, a loyalty card, and Instagram posts showing the baking process.",
+        "why": "Keeping them apart helps you change tactics quickly without losing your direction.",
+        "mixup": "Being very busy with tactics (posts, promotions, events) can hide the fact that there's no clear strategy behind them."
+      },
+      "bs": {
+        "one": "Strategija je ukupni smjer i veliki izbori. Taktika su konkretni koraci kojima pratiš taj smjer.",
+        "explain": "Strategija se rijetko mijenja i o njoj odlučuju lideri. Taktika se mijenja često i timovi je prilagođavaju prema onome što radi. Dobra taktika ne može spasiti lošu strategiju, ali dobroj strategiji treba dobra taktika da bi uspjela.",
+        "example": "Strategija: postati prva pekara za zdrav hljeb u kvartu. Taktika: sedmična radionica kiselog tijesta, kartica lojalnosti i Instagram objave koje pokazuju pečenje.",
+        "why": "Kad ih razdvojiš, možeš brzo mijenjati taktiku bez gubljenja smjera.",
+        "mixup": "Velika zauzetost taktikom (objave, akcije, događaji) može sakriti da iza toga nema jasne strategije."
+      }
+    },
+    {
+      "slug": "competitive-advantage",
+      "term": "Competitive advantage",
+      "local": "konkurentska prednost",
+      "minutes": 4,
+      "youtube": "",
+      "youtubeQuery": "competitive advantage explained simply",
+      "related": ["Strategy", "Cost leadership", "Differentiation"],
+      "en": {
+        "one": "A competitive advantage is something that lets you win customers or earn more than rivals, again and again.",
+        "explain": "It usually comes from being cheaper to run, being different in a way customers value, or both. The best advantages are hard to copy: a strong brand, a special location, unique know-how, loyal customers, or a network others can't easily build.",
+        "example": "A Sarajevo car-repair shop is the only one in town with certified technicians for electric cars. As EVs spread, customers come to it first.",
+        "why": "Without an advantage, you can only compete on price, and that usually ends badly for small firms.",
+        "mixup": "Something you do well isn't an advantage if competitors do it just as well. It has to be better than the alternatives."
+      },
+      "bs": {
+        "one": "Konkurentska prednost je nešto što ti omogućava da iznova osvajaš kupce ili zarađuješ više od konkurenata.",
+        "explain": "Obično dolazi od jeftinijeg poslovanja, od razlike koju kupci cijene, ili od oboje. Najbolje prednosti se teško kopiraju: jak brend, posebna lokacija, jedinstveno znanje, lojalni kupci ili mreža koju drugi ne mogu lako izgraditi.",
+        "example": "Sarajevski auto-servis je jedini u gradu s certificiranim majstorima za električna vozila. Kako se EV šire, kupci prvo dolaze njemu.",
+        "why": "Bez prednosti možeš se takmičiti samo cijenom, a to se za male firme obično loše završi.",
+        "mixup": "Nešto što radiš dobro nije prednost ako konkurenti to rade jednako dobro. Mora biti bolje od alternativa."
+      }
+    },
+    {
+      "slug": "business-model",
+      "term": "Business model",
+      "local": "poslovni model",
+      "minutes": 5,
+      "youtube": "",
+      "youtubeQuery": "what is a business model explained simply",
+      "related": ["Value proposition", "Business Model Canvas", "Unit economics"],
+      "en": {
+        "one": "A business model is how a company creates value for customers and earns money from it.",
+        "explain": "It covers who the customers are, what you offer them, how you reach them, how you make money (sales, subscriptions, commissions, ads), and what it costs to run. Two companies can sell the same thing with very different models.",
+        "example": "One gym sells monthly memberships. Another sells 10-class passes. A third is free and earns from a café and personal trainers. Same service, three business models.",
+        "why": "A great product with a broken business model still fails. The model decides whether you can make a profit.",
+        "mixup": "The business model isn't just the price. It's the whole logic of how value is created, delivered and paid for."
+      },
+      "bs": {
+        "one": "Business model (poslovni model) je način na koji firma stvara vrijednost za kupce i od toga zarađuje.",
+        "explain": "Pokriva ko su kupci, šta im nudiš, kako do njih dolaziš, kako zarađuješ (prodaja, pretplate, provizije, oglasi) i koliko košta poslovanje. Dvije firme mogu prodavati istu stvar s vrlo različitim modelima.",
+        "example": "Jedna teretana prodaje mjesečne članarine. Druga prodaje pakete od 10 treninga. Treća je besplatna i zarađuje od kafića i ličnih trenera. Ista usluga, tri poslovna modela.",
+        "why": "Odličan proizvod s pokvarenim poslovnim modelom i dalje propada. Model odlučuje možeš li ostvariti dobit.",
+        "mixup": "Poslovni model nije samo cijena. To je cijela logika kako se vrijednost stvara, isporučuje i plaća."
+      }
+    },
+    {
+      "slug": "core-competence",
+      "term": "Core competence",
+      "local": "ključna kompetencija",
+      "minutes": 4,
+      "youtube": "",
+      "youtubeQuery": "core competence explained business",
+      "related": ["Competitive advantage", "Make or buy", "Outsourcing"],
+      "en": {
+        "one": "A core competence is something your company does especially well that's central to your success and hard for others to copy.",
+        "explain": "It's often a mix of skills, know-how and ways of working built up over years. It can be used across several products or markets. Everything outside your core can often be bought in or outsourced.",
+        "example": "A furniture maker's core competence is precise woodworking. It keeps that in-house, but outsources delivery, accounting and its website.",
+        "why": "Knowing your core helps you decide where to invest and what to stop doing yourself.",
+        "mixup": "A core competence isn't the same as a product. Products change; the underlying skill can carry over to new ones."
+      },
+      "bs": {
+        "one": "Core competence (ključna kompetencija) je nešto što tvoja firma radi posebno dobro, što je centralno za uspjeh i teško ga je kopirati.",
+        "explain": "Često je to spoj vještina, znanja i načina rada izgrađenih kroz godine. Može se koristiti kroz više proizvoda ili tržišta. Sve izvan srži se često može kupiti ili prepustiti drugima.",
+        "example": "Ključna kompetencija proizvođača namještaja je precizna obrada drveta. To zadržava u kući, a dostavu, računovodstvo i web stranicu prepušta drugima.",
+        "why": "Kad znaš svoju srž, lakše odlučuješ gdje ulagati i šta prestati raditi sam.",
+        "mixup": "Ključna kompetencija nije isto što i proizvod. Proizvodi se mijenjaju; vještina u pozadini se može prenijeti na nove."
+      }
+    },
+    {
+      "slug": "value-chain",
+      "term": "Value chain",
+      "local": "lanac vrijednosti",
+      "minutes": 5,
+      "youtube": "",
+      "youtubeQuery": "Porter value chain explained simply",
+      "related": ["Competitive advantage", "Process", "Core competence"],
+      "en": {
+        "one": "The value chain is the set of activities a company does to create a product, from getting materials to after-sales service.",
+        "explain": "Michael Porter split it into main activities (buying inputs, operations, delivery, marketing and sales, service) and support activities (management, HR, technology, purchasing). Looking at each step shows where you add the most value and where costs are too high.",
+        "example": "A coffee roaster maps its value chain and sees that its real edge is in roasting and in training cafés, while delivery costs too much. It hands delivery to a courier and invests more in training.",
+        "why": "It helps you find where your advantage really comes from and where to cut cost.",
+        "mixup": "Don't confuse it with the supply chain. The value chain is the activities inside your company; the supply chain links many companies."
+      },
+      "bs": {
+        "one": "Value chain (lanac vrijednosti) je skup aktivnosti kojima firma stvara proizvod, od nabavke materijala do usluge nakon prodaje.",
+        "explain": "Michael Porter ga je podijelio na glavne aktivnosti (nabavka ulaza, proizvodnja, isporuka, marketing i prodaja, servis) i aktivnosti podrške (upravljanje, ljudski resursi, tehnologija, nabavka). Pogled na svaki korak pokazuje gdje dodaješ najviše vrijednosti i gdje su troškovi previsoki.",
+        "example": "Pržionica kafe mapira lanac vrijednosti i vidi da je njena prava prednost u prženju i obuci kafića, dok dostava košta previše. Prepusti dostavu kuriru i više uloži u obuku.",
+        "why": "Pomaže ti da nađeš odakle stvarno dolazi tvoja prednost i gdje smanjiti troškove.",
+        "mixup": "Ne miješaj ga s lancem snabdijevanja. Lanac vrijednosti su aktivnosti unutar tvoje firme; lanac snabdijevanja povezuje mnogo firmi."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": { "en": "'Grow revenue by 20%' is…", "bs": "'Povećati prihod za 20%' je…" },
+      "options": [
+        { "en": "A goal, not a strategy", "bs": "Cilj, a ne strategija" },
+        { "en": "A complete strategy", "bs": "Kompletna strategija" },
+        { "en": "A tactic", "bs": "Taktika" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "A strategy explains where you'll compete, how you'll win and what you won't do.",
+        "bs": "Strategija objašnjava gdje ćeš se takmičiti, kako ćeš pobijediti i šta nećeš raditi."
+      }
+    },
+    {
+      "q": {
+        "en": "Running a weekly Instagram giveaway is usually a…",
+        "bs": "Sedmična nagradna igra na Instagramu je obično…"
+      },
+      "options": [
+        { "en": "Strategy", "bs": "Strategija" },
+        { "en": "Tactic", "bs": "Taktika" },
+        { "en": "Core competence", "bs": "Ključna kompetencija" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "It's a specific action that supports a bigger direction.",
+        "bs": "To je konkretan korak koji podržava širi smjer."
+      }
+    },
+    {
+      "q": {
+        "en": "Two gyms offer the same classes, one by membership, one free with paid extras. What differs?",
+        "bs": "Dvije teretane nude iste treninge, jedna kroz članarinu, druga besplatno uz plaćene dodatke. Šta se razlikuje?"
+      },
+      "options": [
+        { "en": "Their product", "bs": "Proizvod" },
+        { "en": "Their business model", "bs": "Poslovni model" },
+        { "en": "Their value chain is identical", "bs": "Lanac vrijednosti je identičan" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Same service, different ways of earning money: that's the business model.",
+        "bs": "Ista usluga, različit način zarade: to je poslovni model."
+      }
+    },
+    {
+      "q": {
+        "en": "Which is the strongest competitive advantage?",
+        "bs": "Koja je konkurentska prednost najjača?"
+      },
+      "options": [
+        {
+          "en": "Know-how that rivals can't easily copy",
+          "bs": "Znanje koje konkurenti ne mogu lako kopirati"
+        },
+        { "en": "A temporary discount", "bs": "Privremeni popust" },
+        { "en": "Being open on Mondays like everyone else", "bs": "Rad ponedjeljkom kao i svi ostali" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "An advantage lasts when it's valuable and hard to copy.",
+        "bs": "Prednost traje kad je vrijedna i teško se kopira."
+      }
+    }
+  ]
+}

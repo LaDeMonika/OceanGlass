@@ -1,0 +1,217 @@
+{
+  "slug": "consumer-protection",
+  "title": { "en": "Consumer protection", "bs": "Zaštita potrošača" },
+  "summary": {
+    "en": "The rights your customers have by law, and what they mean for how you sell. Based on EU rules; BiH law is similar but check details.",
+    "bs": "Prava koja kupci imaju po zakonu i šta znače za način prodaje. Zasnovano na pravilima EU; zakon u BiH je sličan, ali provjeri detalje."
+  },
+  "concepts": [
+    {
+      "slug": "consumer-rights",
+      "term": "Consumer rights",
+      "local": "prava potrošača",
+      "minutes": 4,
+      "youtube": "",
+      "youtubeQuery": "consumer rights explained EU",
+      "related": ["Legal guarantee", "Right of withdrawal", "Terms and conditions"],
+      "en": {
+        "one": "Consumer rights are protections the law gives private buyers, because they usually know less and have less power than the seller.",
+        "explain": "Key ones: clear information before buying, goods that work as described, repair or refund when faulty, fair contract terms, honest advertising and safe products. A business can give more than the law, but not less.",
+        "example": "A shop's sign says 'No refunds, ever'. For faulty goods, that sign has no legal effect: the customer still has the right to a repair, replacement or refund.",
+        "why": "Knowing the rules keeps you out of trouble and builds trust with customers.",
+        "mixup": "Consumer law protects private people, not other businesses. B2B sales mostly follow the contract you agree."
+      },
+      "bs": {
+        "one": "Consumer rights (prava potrošača) su zaštite koje zakon daje privatnim kupcima, jer obično znaju manje i imaju manje moći od prodavca.",
+        "explain": "Ključna su: jasne informacije prije kupovine, roba koja radi kako je opisano, popravka ili povrat novca kad je neispravna, pošteni uslovi ugovora, iskreno oglašavanje i sigurni proizvodi. Firma može dati više nego što zakon traži, ali ne manje.",
+        "example": "Na znaku u prodavnici piše 'Nema povrata, nikad'. Za neispravnu robu taj znak nema pravno dejstvo: kupac i dalje ima pravo na popravku, zamjenu ili povrat novca.",
+        "why": "Poznavanje pravila te čuva od problema i gradi povjerenje kupaca.",
+        "mixup": "Zakon o zaštiti potrošača štiti privatne osobe, ne druge firme. B2B prodaja uglavnom prati ugovor koji dogovoriš."
+      }
+    },
+    {
+      "slug": "legal-guarantee",
+      "term": "Legal guarantee vs. commercial warranty",
+      "local": "zakonska garancija i komercijalna garancija",
+      "minutes": 4,
+      "youtube": "",
+      "youtubeQuery": "legal guarantee vs commercial warranty EU explained",
+      "related": ["Consumer rights", "Defect rate and cost of poor quality", "Terms and conditions"],
+      "en": {
+        "one": "The legal guarantee is the seller's duty by law to fix faults that existed at delivery. A commercial warranty is an extra promise a seller or maker gives voluntarily.",
+        "explain": "In the EU, the legal guarantee lasts at least 2 years. The customer can ask for repair or replacement, and if that fails, a price cut or refund. A commercial warranty (like '5-year manufacturer warranty') adds on top, with its own conditions.",
+        "example": "A washing machine breaks after 18 months. Even if the box only promises a 1-year warranty, the customer can still claim under the legal guarantee from the shop.",
+        "why": "Getting this right avoids disputes and fines, and an extra warranty can be a selling point.",
+        "mixup": "The legal guarantee doesn't cover normal wear and tear or damage the customer caused."
+      },
+      "bs": {
+        "one": "Zakonska garancija je obaveza prodavca po zakonu da otkloni nedostatke koji su postojali pri isporuci. Komercijalna garancija je dodatno obećanje koje prodavac ili proizvođač daje dobrovoljno.",
+        "explain": "U EU zakonska garancija traje najmanje 2 godine. Kupac može tražiti popravku ili zamjenu, a ako to ne uspije, sniženje cijene ili povrat novca. Komercijalna garancija (npr. '5 godina garancije proizvođača') dolazi povrh toga, sa svojim uslovima.",
+        "example": "Veš-mašina se pokvari nakon 18 mjeseci. Čak i ako na kutiji piše garancija 1 godina, kupac i dalje može tražiti od prodavnice po zakonskoj garanciji.",
+        "why": "Ispravno postupanje izbjegava sporove i kazne, a dodatna garancija može biti prednost u prodaji.",
+        "mixup": "Zakonska garancija ne pokriva normalno trošenje niti štetu koju je napravio kupac."
+      }
+    },
+    {
+      "slug": "right-of-withdrawal",
+      "term": "Right of withdrawal (14 days)",
+      "local": "pravo na odustanak (14 dana)",
+      "minutes": 4,
+      "youtube": "",
+      "youtubeQuery": "EU 14 day right of withdrawal online shopping explained",
+      "related": ["Consumer rights", "Returns and reverse logistics", "E-commerce"],
+      "en": {
+        "one": "When consumers buy online or away from a shop, they can usually cancel within 14 days without giving any reason.",
+        "explain": "The 14 days start when the goods arrive. The seller must refund the price and standard delivery within 14 days of the cancellation, and must tell customers about this right before they buy. There are exceptions, like custom-made items, perishable food and opened hygiene products.",
+        "example": "A customer orders shoes online, tries them at home, and sends them back after 10 days. The shop must refund them even though nothing is wrong.",
+        "why": "If you sell online, plan your prices and processes for returns; they're a normal cost of doing business.",
+        "mixup": "This right doesn't apply to buying in a physical shop. There, returns of non-faulty items are the shop's own choice."
+      },
+      "bs": {
+        "one": "Kad potrošači kupuju online ili izvan prodavnice, obično mogu odustati u roku od 14 dana bez navođenja razloga.",
+        "explain": "14 dana počinje kad roba stigne. Prodavac mora vratiti cijenu i standardnu dostavu u roku od 14 dana od odustanka, i mora kupce obavijestiti o ovom pravu prije kupovine. Postoje izuzeci, npr. stvari rađene po mjeri, kvarljiva hrana i otvoreni higijenski proizvodi.",
+        "example": "Kupac naruči cipele online, isproba ih kod kuće i vrati ih nakon 10 dana. Prodavnica mora vratiti novac iako s cipelama nema ništa loše.",
+        "why": "Ako prodaješ online, planiraj cijene i procese za povrate; oni su normalan trošak poslovanja.",
+        "mixup": "Ovo pravo ne važi za kupovinu u fizičkoj prodavnici. Tamo je povrat ispravne robe stvar odluke prodavnice."
+      }
+    },
+    {
+      "slug": "misleading-advertising",
+      "term": "Misleading advertising",
+      "local": "obmanjujuće oglašavanje",
+      "minutes": 4,
+      "youtube": "",
+      "youtubeQuery": "misleading advertising unfair commercial practices explained",
+      "related": ["Paid ads", "Greenwashing", "Psychological pricing"],
+      "en": {
+        "one": "Misleading advertising is any ad or sales claim that tricks customers into a decision they wouldn't otherwise make.",
+        "explain": "It includes false claims, fake 'was' prices, hidden costs, fake reviews, fake urgency ('only 1 left!' when there are 100) and leaving out important information. In the EU, a 'sale' must compare with the lowest price of the previous 30 days.",
+        "example": "A shop raises a TV's price from 800 to 1,200 KM a week before Black Friday, then advertises '-30%, now 840 KM'. That's misleading.",
+        "why": "Fines and bad publicity can cost far more than the extra sales, and customers remember being tricked.",
+        "mixup": "Being technically true isn't enough. A claim that gives a false overall impression can still be misleading."
+      },
+      "bs": {
+        "one": "Misleading advertising (obmanjujuće oglašavanje) je svaki oglas ili prodajna tvrdnja koja kupce navede na odluku koju inače ne bi donijeli.",
+        "explain": "Uključuje lažne tvrdnje, lažne 'stare' cijene, skrivene troškove, lažne recenzije, lažnu hitnost ('ostao samo 1!' kad ih ima 100) i izostavljanje važnih informacija. U EU 'akcija' se mora porediti s najnižom cijenom iz prethodnih 30 dana.",
+        "example": "Prodavnica sedmicu prije Black Fridaya podigne cijenu TV-a sa 800 na 1.200 KM, a onda oglasi '-30%, sada 840 KM'. To je obmanjujuće.",
+        "why": "Kazne i loš publicitet mogu koštati mnogo više od dodatne prodaje, a kupci pamte kad su prevareni.",
+        "mixup": "Nije dovoljno da je tehnički tačno. Tvrdnja koja ostavlja lažan ukupni utisak i dalje može biti obmanjujuća."
+      }
+    },
+    {
+      "slug": "product-liability",
+      "term": "Product safety and liability",
+      "local": "sigurnost proizvoda i odgovornost",
+      "minutes": 4,
+      "youtube": "",
+      "youtubeQuery": "product liability explained",
+      "related": ["Consumer rights", "Quality control vs. quality assurance", "CE marking"],
+      "en": {
+        "one": "Products sold to the public must be safe, and the producer or importer is liable for damage caused by a defective product.",
+        "explain": "Liability applies even if the business wasn't careless: if the product was defective and caused injury or damage, the producer pays. Importers count as producers for goods from outside the EU. Many products also need safety marks like CE before they can be sold in the EU.",
+        "example": "A cheap imported phone charger overheats and starts a small fire. The importer, not just the Chinese factory, can be held responsible.",
+        "why": "One unsafe product can cost a small company everything, so safety checks and insurance matter.",
+        "mixup": "Saying 'use at your own risk' doesn't remove liability for a defective product."
+      },
+      "bs": {
+        "one": "Proizvodi koji se prodaju javnosti moraju biti sigurni, a proizvođač ili uvoznik odgovara za štetu koju prouzrokuje neispravan proizvod.",
+        "explain": "Odgovornost postoji čak i ako firma nije bila nepažljiva: ako je proizvod bio neispravan i prouzrokovao povredu ili štetu, proizvođač plaća. Uvoznici se računaju kao proizvođači za robu izvan EU. Mnogi proizvodi trebaju i oznake sigurnosti poput CE prije prodaje u EU.",
+        "example": "Jeftin uvezeni punjač za telefon se pregrije i izazove manji požar. Odgovoran može biti uvoznik, ne samo kineska fabrika.",
+        "why": "Jedan nesiguran proizvod može maloj firmi uzeti sve, pa su provjere sigurnosti i osiguranje bitni.",
+        "mixup": "Natpis 'koristite na vlastitu odgovornost' ne uklanja odgovornost za neispravan proizvod."
+      }
+    },
+    {
+      "slug": "price-transparency",
+      "term": "Clear prices",
+      "local": "jasno istaknute cijene",
+      "minutes": 3,
+      "youtube": "",
+      "youtubeQuery": "price transparency consumer law explained",
+      "related": ["Misleading advertising", "Psychological pricing", "VAT"],
+      "en": {
+        "one": "Consumers must be shown the full final price, including taxes and unavoidable fees, before they buy.",
+        "explain": "Prices must be clearly displayed in shops and online. Extra costs like delivery must be shown before checkout, and pre-ticked add-on boxes aren't allowed in the EU. Unit prices (per kg or litre) help compare.",
+        "example": "A webshop shows 49 KM, then adds a 'service fee' of 5 KM on the last page. This hidden fee breaks the rules and annoys customers.",
+        "why": "Clear prices build trust, reduce abandoned carts and avoid fines.",
+        "mixup": "Showing prices without VAT is normal in B2B, but for consumers the displayed price must include it."
+      },
+      "bs": {
+        "one": "Potrošačima se prije kupovine mora prikazati puna konačna cijena, uključujući poreze i neizbježne naknade.",
+        "explain": "Cijene moraju biti jasno istaknute u prodavnicama i online. Dodatni troškovi poput dostave moraju se prikazati prije plaćanja, a unaprijed označeni dodaci nisu dozvoljeni u EU. Jedinične cijene (po kg ili litru) pomažu poređenju.",
+        "example": "Webshop pokazuje 49 KM, a na zadnjoj stranici doda 'naknadu za uslugu' od 5 KM. Ova skrivena naknada krši pravila i nervira kupce.",
+        "why": "Jasne cijene grade povjerenje, smanjuju napuštene korpe i izbjegavaju kazne.",
+        "mixup": "Prikaz cijena bez PDV-a je normalan u B2B, ali za potrošače istaknuta cijena mora uključivati PDV."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "A customer buys shoes online and returns them after 10 days for no reason. Must the EU shop refund?",
+        "bs": "Kupac kupi cipele online i vrati ih nakon 10 dana bez razloga. Mora li EU prodavnica vratiti novac?"
+      },
+      "options": [
+        { "en": "Yes, within the 14-day withdrawal period", "bs": "Da, u roku od 14 dana za odustanak" },
+        { "en": "Only if the box is unopened", "bs": "Samo ako je kutija neotvorena" },
+        { "en": "No, nothing is wrong with them", "bs": "Ne, nema ništa loše s njima" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Online buyers can usually cancel within 14 days without a reason.",
+        "bs": "Online kupci obično mogu odustati u roku od 14 dana bez razloga."
+      }
+    },
+    {
+      "q": {
+        "en": "A machine breaks after 18 months and the warranty card says 1 year. In the EU, what applies?",
+        "bs": "Mašina se pokvari nakon 18 mjeseci, a garantni list kaže 1 godina. Šta važi u EU?"
+      },
+      "options": [
+        { "en": "Only the manufacturer can help", "bs": "Može pomoći samo proizvođač" },
+        {
+          "en": "The 2-year legal guarantee from the seller",
+          "bs": "Zakonska garancija prodavca od 2 godine"
+        },
+        { "en": "Nothing, the warranty expired", "bs": "Ništa, garancija je istekla" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "The legal guarantee is separate from the warranty card and lasts at least 2 years.",
+        "bs": "Zakonska garancija je odvojena i traje najmanje 2 godine."
+      }
+    },
+    {
+      "q": {
+        "en": "A shop raises a price just before a sale, then advertises a big discount. This is…",
+        "bs": "Prodavnica podigne cijenu neposredno prije akcije, a onda oglasi veliki popust. To je…"
+      },
+      "options": [
+        { "en": "Psychological pricing", "bs": "Psihološko određivanje cijena" },
+        { "en": "A normal promotion", "bs": "Normalna promocija" },
+        { "en": "Misleading advertising", "bs": "Obmanjujuće oglašavanje" }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "The 'discount' gives a false impression. EU rules compare with the lowest price of the last 30 days.",
+        "bs": "'Popust' daje lažan utisak. Pravila EU porede s najnižom cijenom iz zadnjih 30 dana."
+      }
+    },
+    {
+      "q": {
+        "en": "Who can be liable for a dangerous product imported from outside the EU?",
+        "bs": "Ko može odgovarati za opasan proizvod uvezen izvan EU?"
+      },
+      "options": [
+        { "en": "Nobody if it was cheap", "bs": "Niko ako je bio jeftin" },
+        { "en": "Only the foreign factory", "bs": "Samo strana fabrika" },
+        { "en": "The importer", "bs": "Uvoznik" }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "Importers are treated like producers for liability.",
+        "bs": "Uvoznici se po pitanju odgovornosti tretiraju kao proizvođači."
+      }
+    }
+  ]
+}

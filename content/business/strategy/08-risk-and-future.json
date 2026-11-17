@@ -1,0 +1,211 @@
+{
+  "slug": "risk-and-future",
+  "title": { "en": "Risk and the future", "bs": "Rizik i budućnost" },
+  "summary": {
+    "en": "Preparing for what could go wrong and for big shifts like digital, AI and sustainability.",
+    "bs": "Priprema za ono što može poći po zlu i za velike promjene kao što su digitalizacija, AI i održivost."
+  },
+  "concepts": [
+    {
+      "slug": "risk-matrix",
+      "term": "Risk matrix",
+      "local": "matrica rizika",
+      "minutes": 4,
+      "youtube": "",
+      "youtubeQuery": "risk matrix likelihood impact explained",
+      "related": ["Business continuity", "Scenario planning", "SWOT analysis"],
+      "en": {
+        "one": "A risk matrix rates each risk by how likely it is and how bad the impact would be, so you know which to deal with first.",
+        "explain": "List your risks, score each from 1 to 5 for likelihood and impact, and multiply. High scores get a plan: avoid the risk, reduce it, insure or share it, or accept it consciously.",
+        "example": "A food producer rates 'main supplier fails' as likely 3 and impact 5 = 15, so it finds a second supplier. 'Office printer breaks' scores 2, so it just accepts it.",
+        "why": "It turns vague worries into a short, ranked to-do list.",
+        "mixup": "A risk you can't imagine won't be on the list. Ask outsiders and staff what could go wrong, not just managers."
+      },
+      "bs": {
+        "one": "Risk matrix (matrica rizika) ocjenjuje svaki rizik po tome koliko je vjerovatan i koliko bi bila loša posljedica, da znaš koje rješavati prvo.",
+        "explain": "Nabroji rizike, ocijeni svaki od 1 do 5 za vjerovatnoću i uticaj, i pomnoži. Visoki rezultati dobijaju plan: izbjegni rizik, smanji ga, osiguraj ili podijeli, ili ga svjesno prihvati.",
+        "example": "Proizvođač hrane ocijeni 'glavni dobavljač zakaže' s vjerovatnoćom 3 i uticajem 5 = 15, pa nađe drugog dobavljača. 'Pokvari se printer u kancelariji' ima 2, pa to samo prihvati.",
+        "why": "Pretvara nejasne brige u kratku, rangiranu listu zadataka.",
+        "mixup": "Rizik koji ne možeš zamisliti neće biti na listi. Pitaj vanjske ljude i radnike šta može poći po zlu, ne samo menadžere."
+      }
+    },
+    {
+      "slug": "digital-transformation",
+      "term": "Digital transformation",
+      "local": "digitalna transformacija",
+      "minutes": 4,
+      "youtube": "",
+      "youtubeQuery": "digital transformation explained simply",
+      "related": ["Automation", "Business model", "Change management"],
+      "en": {
+        "one": "Digital transformation means using digital technology to change how a business works and serves customers, not just putting old processes online.",
+        "explain": "It can mean online ordering, digital invoices, data-driven decisions, cloud tools, or entirely new digital products. The technology is the easy part; changing habits, skills and processes is the hard part.",
+        "example": "A furniture maker adds a 3D room planner on its website, links orders straight to production, and tracks every delivery. Order errors drop and sales grow.",
+        "why": "Customers expect digital convenience, and digital processes are usually faster and cheaper.",
+        "mixup": "Buying software isn't transformation. If the process stays the same, you've just made a slow process digital."
+      },
+      "bs": {
+        "one": "Digital transformation (digitalna transformacija) znači korištenje digitalne tehnologije da se promijeni kako firma radi i služi kupce, a ne samo prebacivanje starih procesa na internet.",
+        "explain": "To mogu biti online narudžbe, digitalne fakture, odluke zasnovane na podacima, cloud alati ili potpuno novi digitalni proizvodi. Tehnologija je lakši dio; mijenjanje navika, vještina i procesa je teži.",
+        "example": "Proizvođač namještaja doda 3D planer sobe na web-stranicu, poveže narudžbe direktno s proizvodnjom i prati svaku dostavu. Greške u narudžbama padnu, a prodaja raste.",
+        "why": "Kupci očekuju digitalnu praktičnost, a digitalni procesi su obično brži i jeftiniji.",
+        "mixup": "Kupovina softvera nije transformacija. Ako proces ostane isti, samo si spor proces učinio digitalnim."
+      }
+    },
+    {
+      "slug": "ai-in-business",
+      "term": "AI in business",
+      "local": "umjetna inteligencija u poslovanju",
+      "minutes": 4,
+      "youtube": "",
+      "youtubeQuery": "how small businesses use AI explained",
+      "related": ["Digital transformation", "Automation", "AI rules"],
+      "en": {
+        "one": "AI in business means using tools that can write, summarise, predict, recognise images or answer questions to do work faster or better.",
+        "explain": "Typical uses: customer chat, drafting texts and offers, analysing sales data, forecasting demand, checking documents. AI can make mistakes, so people should check important outputs, and data privacy rules still apply.",
+        "example": "An accounting office uses AI to read scanned invoices and fill in the bookkeeping fields. Staff check the results and spend the saved time advising clients.",
+        "why": "AI can give small firms abilities that used to need big teams, and competitors are already using it.",
+        "mixup": "AI isn't a strategy on its own. Start from a business problem, then see if AI helps, not the other way around."
+      },
+      "bs": {
+        "one": "AI u poslovanju znači korištenje alata koji mogu pisati, sažimati, predviđati, prepoznavati slike ili odgovarati na pitanja, da se posao uradi brže ili bolje.",
+        "explain": "Tipične primjene: chat s kupcima, pisanje tekstova i ponuda, analiza podataka o prodaji, predviđanje potražnje, provjera dokumenata. AI može griješiti, pa ljudi trebaju provjeriti važne rezultate, a pravila o zaštiti podataka i dalje važe.",
+        "example": "Računovodstvena kancelarija koristi AI da čita skenirane fakture i popunjava knjigovodstvena polja. Radnici provjeravaju rezultate, a ušteđeno vrijeme koriste za savjetovanje klijenata.",
+        "why": "AI malim firmama može dati sposobnosti za koje su nekad trebali veliki timovi, a konkurenti ga već koriste.",
+        "mixup": "AI sam po sebi nije strategija. Kreni od poslovnog problema, pa vidi pomaže li AI, a ne obrnuto."
+      }
+    },
+    {
+      "slug": "sustainability-as-strategy",
+      "term": "Sustainability as strategy",
+      "local": "održivost kao strategija",
+      "minutes": 4,
+      "youtube": "",
+      "youtubeQuery": "sustainability as business strategy",
+      "related": ["ESG", "Triple bottom line", "Competitive advantage"],
+      "en": {
+        "one": "Sustainability as strategy means building environmental and social goals into how the business competes, not treating them as a side project.",
+        "explain": "It can cut costs (less energy, less waste), open markets (green products, EU buyers who demand it), reduce risk (future regulation, carbon prices) and attract staff. Exporters to the EU increasingly must report emissions and supply-chain practices.",
+        "example": "A Bosnian metal parts supplier installs solar panels and tracks its carbon footprint. It keeps a German customer that now requires suppliers to report emissions, and its energy bill falls 25%.",
+        "why": "Customers, banks and regulators increasingly reward sustainable businesses and penalise others.",
+        "mixup": "Sustainability strategy isn't a green logo. Without real changes in operations, it's greenwashing."
+      },
+      "bs": {
+        "one": "Održivost kao strategija znači ugraditi ekološke i društvene ciljeve u način na koji se firma takmiči, a ne tretirati ih kao sporedni projekat.",
+        "explain": "Može smanjiti troškove (manje energije, manje otpada), otvoriti tržišta (zeleni proizvodi, kupci iz EU koji to traže), smanjiti rizik (buduća regulativa, cijene CO2) i privući radnike. Izvoznici u EU sve češće moraju izvještavati o emisijama i praksama u lancu snabdijevanja.",
+        "example": "Bosanski dobavljač metalnih dijelova postavi solarne panele i prati svoj ugljični otisak. Zadrži njemačkog kupca koji sada traži od dobavljača izvještaje o emisijama, a račun za struju padne 25%.",
+        "why": "Kupci, banke i regulatori sve više nagrađuju održive firme i kažnjavaju ostale.",
+        "mixup": "Strategija održivosti nije zeleni logo. Bez stvarnih promjena u radu, to je greenwashing."
+      }
+    },
+    {
+      "slug": "innovation-portfolio",
+      "term": "Innovation portfolio",
+      "local": "portfolio inovacija",
+      "minutes": 4,
+      "youtube": "",
+      "youtubeQuery": "three horizons of growth McKinsey innovation",
+      "related": ["BCG matrix", "Experimentation", "Disruptive innovation"],
+      "en": {
+        "one": "An innovation portfolio is a balanced mix of improvement projects: some that improve today's business, some that extend it, and a few bold bets on the future.",
+        "explain": "A common split is the '70-20-10' rule: about 70% of innovation effort on the core, 20% on nearby opportunities, 10% on new, risky ideas. It's also described as 'three horizons' of growth.",
+        "example": "A bakery chain spends most effort improving its bestsellers (core), some on a new frozen line for supermarkets (nearby), and a little on testing a subscription bread box (bold bet).",
+        "why": "Without a balance, firms either stagnate (only core) or waste money (only bold bets).",
+        "mixup": "70-20-10 is a rule of thumb, not a law. Fit the mix to your situation."
+      },
+      "bs": {
+        "one": "Innovation portfolio (portfolio inovacija) je uravnotežena mješavina projekata unapređenja: neki poboljšavaju današnji posao, neki ga proširuju, a nekoliko su hrabre oklade na budućnost.",
+        "explain": "Česta podjela je pravilo '70-20-10': oko 70% truda na srž posla, 20% na bliske prilike, 10% na nove, rizične ideje. Opisuje se i kao 'tri horizonta' rasta.",
+        "example": "Lanac pekara najviše truda ulaže u poboljšanje najprodavanijih proizvoda (srž), nešto u novu smrznutu liniju za supermarkete (bliska prilika), a malo u testiranje pretplate na kutiju hljeba (hrabra oklada).",
+        "why": "Bez ravnoteže firme ili stagniraju (samo srž) ili rasipaju novac (samo hrabre oklade).",
+        "mixup": "70-20-10 je okvirno pravilo, ne zakon. Prilagodi mješavinu svojoj situaciji."
+      }
+    },
+    {
+      "slug": "experimentation",
+      "term": "Experimentation",
+      "local": "eksperimentisanje",
+      "minutes": 4,
+      "youtube": "",
+      "youtubeQuery": "business experimentation test and learn",
+      "related": ["A/B testing", "Minimum viable product", "Pivot"],
+      "en": {
+        "one": "Experimentation means testing ideas in small, cheap ways before betting big on them.",
+        "explain": "Set a clear question, a simple test, a measure of success and a deadline. Then decide: scale it, change it, or drop it. Experiments replace opinions with evidence and make failures small.",
+        "example": "Before opening a second shop, a coffee roaster runs a pop-up stand in that neighbourhood for 4 weekends and counts sales and repeat visitors.",
+        "why": "Companies that test fast learn faster than competitors who argue in meetings.",
+        "mixup": "An experiment without a success measure decided in advance isn't an experiment. You'll always find a way to call it a win."
+      },
+      "bs": {
+        "one": "Experimentation (eksperimentisanje) znači testiranje ideja na male, jeftine načine prije velikog ulaganja u njih.",
+        "explain": "Postavi jasno pitanje, jednostavan test, mjeru uspjeha i rok. Zatim odluči: proširi, promijeni ili odustani. Eksperimenti zamjenjuju mišljenja dokazima i čine neuspjehe malim.",
+        "example": "Prije otvaranja druge radnje, pržionica kafe postavi pop-up štand u tom kvartu na 4 vikenda i broji prodaju i povratne kupce.",
+        "why": "Firme koje brzo testiraju uče brže od konkurenata koji se raspravljaju na sastancima.",
+        "mixup": "Eksperiment bez mjere uspjeha unaprijed dogovorene nije eksperiment. Uvijek ćeš naći način da ga nazoveš uspjehom."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "In a risk matrix, which two things are scored?",
+        "bs": "U matrici rizika, koje dvije stvari se ocjenjuju?"
+      },
+      "options": [
+        { "en": "Likelihood and impact", "bs": "Vjerovatnoća i uticaj" },
+        { "en": "Cost and price", "bs": "Trošak i cijena" },
+        { "en": "Age and size", "bs": "Starost i veličina" }
+      ],
+      "answer": 0,
+      "explain": { "en": "Risk score = likelihood × impact.", "bs": "Rezultat rizika = vjerovatnoća × uticaj." }
+    },
+    {
+      "q": {
+        "en": "Scanning paper forms into PDFs but keeping the same slow process is…",
+        "bs": "Skeniranje papirnih obrazaca u PDF uz isti spori proces je…"
+      },
+      "options": [
+        { "en": "Not real digital transformation", "bs": "Nije prava digitalna transformacija" },
+        { "en": "Full digital transformation", "bs": "Potpuna digitalna transformacija" },
+        { "en": "Disruptive innovation", "bs": "Disruptivna inovacija" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Transformation changes the process, not just the format.",
+        "bs": "Transformacija mijenja proces, a ne samo format."
+      }
+    },
+    {
+      "q": {
+        "en": "What's the best starting point for using AI in a business?",
+        "bs": "Šta je najbolja polazna tačka za korištenje AI u firmi?"
+      },
+      "options": [
+        { "en": "Replacing all staff", "bs": "Zamjena svih radnika" },
+        { "en": "The newest AI tool", "bs": "Najnoviji AI alat" },
+        { "en": "A specific business problem", "bs": "Konkretan poslovni problem" }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "Start from the problem, then check whether AI helps.",
+        "bs": "Kreni od problema, pa provjeri pomaže li AI."
+      }
+    },
+    {
+      "q": {
+        "en": "What must you define BEFORE running a business experiment?",
+        "bs": "Šta moraš definisati PRIJE poslovnog eksperimenta?"
+      },
+      "options": [
+        { "en": "Who to blame if it fails", "bs": "Koga kriviti ako ne uspije" },
+        { "en": "How you'll measure success", "bs": "Kako ćeš mjeriti uspjeh" },
+        { "en": "The press release", "bs": "Saopćenje za medije" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "A success measure set in advance keeps the test honest.",
+        "bs": "Mjera uspjeha postavljena unaprijed čini test poštenim."
+      }
+    }
+  ]
+}
