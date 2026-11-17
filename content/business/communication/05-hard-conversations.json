@@ -1,0 +1,214 @@
+{
+  "slug": "hard-conversations",
+  "title": { "en": "Feedback and hard conversations", "bs": "Povratne informacije i teški razgovori" },
+  "summary": {
+    "en": "Saying difficult things clearly and kindly, and hearing them without getting defensive.",
+    "bs": "Kako reći teške stvari jasno i ljubazno i čuti ih bez odbrambenog stava."
+  },
+  "concepts": [
+    {
+      "slug": "sbi-feedback",
+      "term": "SBI feedback model",
+      "local": "SBI model povratne informacije",
+      "minutes": 3,
+      "youtube": "",
+      "youtubeQuery": "SBI feedback model situation behavior impact",
+      "related": ["Feedback", "Receiving feedback", "Difficult conversations"],
+      "en": {
+        "one": "SBI is a simple way to give feedback: describe the Situation, the specific Behaviour you saw, and its Impact.",
+        "explain": "It keeps feedback about facts instead of personality. Not 'You're careless', but 'In yesterday's client meeting (situation), the prices on two slides were wrong (behaviour), and the client asked if they could trust our offer (impact).' Then ask for their view and agree on a next step. It works for praise too.",
+        "example": "'In Monday's team call, you summarised the three options in two minutes. Everyone could decide quickly and we finished early. Thank you.'",
+        "why": "Specific feedback is easier to accept and act on than general labels.",
+        "mixup": "SBI isn't a sandwich of praise, criticism, praise. It's one clear message, positive or negative."
+      },
+      "bs": {
+        "one": "SBI je jednostavan način davanja povratne informacije: opiši Situaciju, konkretno Ponašanje koje si vidio i njegov Uticaj.",
+        "explain": "Povratna informacija ostaje na činjenicama, a ne na ličnosti. Ne 'Nemaran si', nego 'Na jučerašnjem sastanku s klijentom (situacija), cijene na dva slajda su bile pogrešne (ponašanje), i klijent je pitao može li vjerovati našoj ponudi (uticaj).' Onda pitaj za njegovo viđenje i dogovorite sljedeći korak. Radi i za pohvale.",
+        "example": "'Na ponedjeljačnom pozivu tima sažela si tri opcije za dvije minute. Svi su mogli brzo odlučiti i završili smo ranije. Hvala ti.'",
+        "why": "Konkretnu povratnu informaciju lakše je prihvatiti i primijeniti nego opšte etikete.",
+        "mixup": "SBI nije sendvič od pohvale, kritike i pohvale. To je jedna jasna poruka, pozitivna ili negativna."
+      }
+    },
+    {
+      "slug": "receiving-feedback",
+      "term": "Receiving feedback",
+      "local": "primanje povratne informacije",
+      "minutes": 3,
+      "youtube": "",
+      "youtubeQuery": "how to receive feedback well at work",
+      "related": ["SBI feedback model", "Active listening", "Growth mindset"],
+      "en": {
+        "one": "Receiving feedback well means listening, understanding and deciding what to do with it, without defending yourself on the spot.",
+        "explain": "Your first reaction is often to explain or argue. Instead: breathe, listen to the end, ask for an example, and say 'thank you'. You don't have to agree immediately; take time to think, then decide what to change and tell the person.",
+        "example": "A colleague says the report was hard to follow. Instead of 'It's a complex topic!', Jasmin asks: 'Which part lost you?' The answer helps him fix the next one in 20 minutes.",
+        "why": "People who take feedback well get more of it, and improve faster than those who argue.",
+        "mixup": "Accepting feedback isn't the same as agreeing with all of it. You can thank someone and still decide some of it doesn't apply."
+      },
+      "bs": {
+        "one": "Dobro primanje povratne informacije znači slušati, razumjeti i odlučiti šta ćeš s njom, bez braniti se na licu mjesta.",
+        "explain": "Prva reakcija je često objašnjavati ili se svađati. Umjesto toga: udahni, saslušaj do kraja, zamoli za primjer i reci 'hvala'. Ne moraš se odmah složiti; uzmi vremena da razmisliš, pa odluči šta ćeš promijeniti i reci to osobi.",
+        "example": "Kolegica kaže da je izvještaj bilo teško pratiti. Umjesto 'Tema je složena!', Jasmin pita: 'Na kojem dijelu si se izgubila?' Odgovor mu pomogne da sljedeći popravi za 20 minuta.",
+        "why": "Ljudi koji dobro primaju povratne informacije dobiju ih više i brže napreduju od onih koji se raspravljaju.",
+        "mixup": "Prihvatiti povratnu informaciju nije isto što i složiti se sa svim. Možeš zahvaliti i ipak odlučiti da se nešto ne odnosi na tebe."
+      }
+    },
+    {
+      "slug": "difficult-conversation",
+      "term": "Difficult conversations",
+      "local": "teški razgovori",
+      "minutes": 4,
+      "youtube": "",
+      "youtubeQuery": "how to have difficult conversations at work",
+      "related": ["SBI feedback model", "Empathy at work", "Ladder of inference"],
+      "en": {
+        "one": "A difficult conversation is any talk where the stakes are high, opinions differ, and emotions are strong, like poor performance, a conflict or bad news.",
+        "explain": "Prepare your main point and the outcome you want. Have it soon and in private. Start with the facts, then share how you see it, and ask for their side with real curiosity. Separate three things: what happened, how people feel, and what it says about them. End with a clear agreement on next steps.",
+        "example": "A team lead has to tell a long-time colleague he won't get the promotion. She meets him privately, says it directly in the first minute, explains the reasons, listens to his frustration, and agrees on a plan for the next round.",
+        "why": "Avoiding hard talks lets problems grow. Handled well, they often improve trust.",
+        "mixup": "Being direct isn't the same as being harsh. You can be clear about the problem and respectful to the person."
+      },
+      "bs": {
+        "one": "Težak razgovor je svaki razgovor gdje je mnogo na kocki, mišljenja se razlikuju, a emocije su jake, kao loš učinak, sukob ili loša vijest.",
+        "explain": "Pripremi glavnu poentu i ishod koji želiš. Obavi ga uskoro i nasamo. Počni s činjenicama, onda podijeli kako ti to vidiš i pitaj za njegovu stranu s iskrenom radoznalošću. Razdvoji tri stvari: šta se desilo, kako se ljudi osjećaju i šta to govori o njima. Završi jasnim dogovorom o sljedećim koracima.",
+        "example": "Vođa tima mora reći dugogodišnjem kolegi da neće dobiti unapređenje. Sastane se s njim nasamo, kaže to direktno u prvoj minuti, objasni razloge, sasluša njegovu frustraciju i dogovore plan za sljedeći krug.",
+        "why": "Izbjegavanje teških razgovora pušta da problemi rastu. Kad se dobro vode, često povećaju povjerenje.",
+        "mixup": "Biti direktan nije isto što i biti grub. Možeš biti jasan o problemu i pun poštovanja prema osobi."
+      }
+    },
+    {
+      "slug": "saying-no",
+      "term": "Saying no",
+      "local": "kako reći ne",
+      "minutes": 3,
+      "youtube": "",
+      "youtubeQuery": "how to say no professionally at work",
+      "related": ["Assertiveness", "Writing a clear request", "Prioritisation"],
+      "en": {
+        "one": "Saying no professionally means turning down a request clearly and politely, so you protect your time without damaging the relationship.",
+        "explain": "Be short and honest about the reason ('I'm fully booked with the audit until Friday'), offer an alternative if you can ('I can do it Monday' or 'Ask Lana, she knows this system'), and don't over-apologise. With your manager, ask what should move: 'If I take this, the report will be late. Which matters more?'",
+        "example": "A colleague asks Mirza to join a third project. He says: 'I'd like to, but I can't do it well with two launches this month. I can help in March.'",
+        "why": "Saying yes to everything leads to late, poor work and burnout. A clear no is more useful than a weak yes.",
+        "mixup": "No isn't rude. A vague 'maybe' that turns into nothing is worse for the other person."
+      },
+      "bs": {
+        "one": "Profesionalno reći ne znači jasno i ljubazno odbiti molbu, tako da zaštitiš svoje vrijeme bez štete za odnos.",
+        "explain": "Budi kratak i iskren u vezi s razlogom ('Do petka sam potpuno zauzet revizijom'), ponudi alternativu ako možeš ('Mogu u ponedjeljak' ili 'Pitaj Lanu, ona zna taj sistem') i nemoj se pretjerano izvinjavati. S menadžerom pitaj šta da se pomjeri: 'Ako preuzmem ovo, izvještaj će kasniti. Šta je važnije?'",
+        "example": "Kolega pita Mirzu da se uključi u treći projekat. On kaže: 'Volio bih, ali s dva lansiranja ovaj mjesec ne mogu to dobro uraditi. Mogu pomoći u martu.'",
+        "why": "Pristajanje na sve dovodi do kasnog, lošeg rada i izgaranja. Jasno ne korisnije je od slabog da.",
+        "mixup": "Ne nije nepristojno. Nejasno 'možda' koje se pretvori u ništa gore je za drugu osobu."
+      }
+    },
+    {
+      "slug": "assertiveness",
+      "term": "Assertiveness",
+      "local": "asertivnost, samouvjerenost",
+      "minutes": 3,
+      "youtube": "",
+      "youtubeQuery": "assertive vs aggressive vs passive communication",
+      "related": ["Saying no", "Difficult conversations", "Negotiation"],
+      "en": {
+        "one": "Assertiveness is stating your needs, opinions and limits clearly and calmly, while respecting the other person's.",
+        "explain": "It sits between passive (staying quiet, then resenting it) and aggressive (pushing others down). Useful forms are 'I' statements ('I need the files by noon to finish on time') and calmly repeating your point if pushed. It's about being honest, not about winning.",
+        "example": "In a meeting, a colleague presents Amra's idea as his own. She says calmly: 'Glad you like the idea I shared on Monday. Let me add the cost estimate I prepared.'",
+        "why": "Assertive people get heard, set healthy limits, and are trusted because others know where they stand.",
+        "mixup": "Assertive isn't aggressive. Raising your voice or blaming others isn't confidence, it's losing control."
+      },
+      "bs": {
+        "one": "Asertivnost je jasno i mirno iznošenje svojih potreba, mišljenja i granica, uz poštovanje tuđih.",
+        "explain": "Nalazi se između pasivnog (šutiš, pa se poslije ljutiš) i agresivnog (gaziš druge). Korisni oblici su 'ja' rečenice ('Fajlovi mi trebaju do podne da završim na vrijeme') i mirno ponavljanje stava ako te pritišću. Riječ je o iskrenosti, a ne o pobjeđivanju.",
+        "example": "Na sastanku kolega predstavi Amrinu ideju kao svoju. Ona mirno kaže: 'Drago mi je da vam se sviđa ideja koju sam podijelila u ponedjeljak. Dodaću procjenu troškova koju sam pripremila.'",
+        "why": "Asertivne ljude čuju, postavljaju zdrave granice i drugi im vjeruju jer znaju na čemu su.",
+        "mixup": "Asertivno nije agresivno. Dizanje glasa ili okrivljavanje drugih nije samopouzdanje, nego gubitak kontrole."
+      }
+    },
+    {
+      "slug": "apology-at-work",
+      "term": "Apologising at work",
+      "local": "izvinjenje na poslu",
+      "minutes": 3,
+      "youtube": "",
+      "youtubeQuery": "how to apologize professionally at work to a client",
+      "related": ["Difficult conversations", "De-escalation", "Tone in writing"],
+      "en": {
+        "one": "A good professional apology admits the mistake, takes responsibility, fixes what it can and says how it won't happen again.",
+        "explain": "Avoid 'sorry if you were upset' or a long excuse. Use: 'We sent the wrong items. That's our mistake. The right ones arrive tomorrow at no cost, and we've added a check before packing.' Apologise quickly; delay makes it look forced.",
+        "example": "A café gets a one-star review about a 40-minute wait. The owner replies: 'You're right, that was too long. We were short of staff, which isn't your problem. Your next coffee and cake are on us, and we've hired another barista.'",
+        "why": "A fast, honest apology often turns an angry customer into a loyal one.",
+        "mixup": "Apologising isn't admitting you're bad at your job. It shows you take responsibility, which builds trust."
+      },
+      "bs": {
+        "one": "Dobro profesionalno izvinjenje priznaje grešku, preuzima odgovornost, popravlja šta može i kaže kako se neće ponoviti.",
+        "explain": "Izbjegavaj 'žao mi je ako ste se uznemirili' ili dugo opravdanje. Koristi: 'Poslali smo pogrešne artikle. To je naša greška. Pravi stižu sutra besplatno, a dodali smo provjeru prije pakovanja.' Izvini se brzo; kašnjenje čini da izgleda prisilno.",
+        "example": "Kafić dobije recenziju s jednom zvjezdicom zbog čekanja od 40 minuta. Vlasnica odgovori: 'U pravu ste, to je bilo predugo. Nedostajalo nam je osoblja, što nije vaš problem. Sljedeća kafa i kolač su na nama, a zaposlili smo još jednog baristu.'",
+        "why": "Brzo, iskreno izvinjenje često pretvori ljutog kupca u vjernog.",
+        "mixup": "Izvinjenje nije priznanje da si loš u poslu. Pokazuje da preuzimaš odgovornost, što gradi povjerenje."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": { "en": "Which feedback follows SBI?", "bs": "Koja povratna informacija prati SBI?" },
+      "options": [
+        { "en": "Great job, but be better.", "bs": "Odlično, ali budi bolji." },
+        {
+          "en": "In today's call, you interrupted the client twice, and she stopped sharing details.",
+          "bs": "Na današnjem pozivu dvaput si prekinuo klijenticu i ona je prestala davati detalje."
+        },
+        { "en": "You're always rude to clients.", "bs": "Uvijek si nepristojan prema klijentima." }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "It names the situation, the specific behaviour and its impact.",
+        "bs": "Navodi situaciju, konkretno ponašanje i njegov uticaj."
+      }
+    },
+    {
+      "q": {
+        "en": "Your manager says your report was unclear. What's the best first reply?",
+        "bs": "Menadžer kaže da je tvoj izvještaj bio nejasan. Koji je najbolji prvi odgovor?"
+      },
+      "options": [
+        { "en": "Nobody else complained.", "bs": "Niko se drugi nije žalio." },
+        { "en": "It's a complex topic.", "bs": "Tema je složena." },
+        { "en": "Which part was hardest to follow?", "bs": "Koji dio je bilo najteže pratiti?" }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "Asking for an example helps you understand and fix it, instead of defending.",
+        "bs": "Traženje primjera pomaže ti da razumiješ i popraviš, umjesto da se braniš."
+      }
+    },
+    {
+      "q": { "en": "Which reply is assertive?", "bs": "Koji odgovor je asertivan?" },
+      "options": [
+        {
+          "en": "I need the data by noon to finish today.",
+          "bs": "Podaci mi trebaju do podne da završim danas."
+        },
+        { "en": "Whatever, I'll stay late again.", "bs": "Nema veze, opet ću ostati duže." },
+        { "en": "You always send things late!", "bs": "Ti uvijek kasno šalješ!" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "It states the need clearly and calmly, without blaming.",
+        "bs": "Jasno i mirno iznosi potrebu, bez okrivljavanja."
+      }
+    },
+    {
+      "q": {
+        "en": "What makes a professional apology work?",
+        "bs": "Šta čini profesionalno izvinjenje uspješnim?"
+      },
+      "options": [
+        { "en": "Admit it, fix it, and prevent a repeat", "bs": "Priznaj, popravi i spriječi ponavljanje" },
+        { "en": "Explain why it wasn't really your fault", "bs": "Objasni zašto nije baš tvoja krivica" },
+        { "en": "Wait until the customer calms down", "bs": "Čekaj da se kupac smiri" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Responsibility plus a fix is what restores trust.",
+        "bs": "Odgovornost i popravak vraćaju povjerenje."
+      }
+    }
+  ]
+}

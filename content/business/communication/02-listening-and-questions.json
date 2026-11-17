@@ -1,0 +1,223 @@
+{
+  "slug": "listening-and-questions",
+  "title": { "en": "Listening and questions", "bs": "Slušanje i pitanja" },
+  "summary": {
+    "en": "Listening to understand, and asking the questions that get real answers.",
+    "bs": "Slušati da bi razumio i postavljati pitanja koja daju prave odgovore."
+  },
+  "concepts": [
+    {
+      "slug": "active-listening",
+      "term": "Active listening",
+      "local": "aktivno slušanje",
+      "minutes": 3,
+      "youtube": "",
+      "youtubeQuery": "active listening skills explained",
+      "related": ["Paraphrasing and summarising", "Empathy at work", "Open and closed questions"],
+      "en": {
+        "one": "Active listening means fully focusing on the other person to understand them, and showing that you did.",
+        "explain": "You put the phone away, let them finish, ask follow-up questions and repeat back the key point in your own words. The goal isn't to wait for your turn to talk, but to understand what they mean and need.",
+        "example": "A customer complains loudly about a late delivery. The support agent lets him finish, then says: 'So the package was promised for Monday, it's Thursday, and you need it for an event on Saturday. Let me check now.' The customer calms down.",
+        "why": "People who feel heard trust you more, share more information and are easier to agree with.",
+        "mixup": "Nodding while planning your answer isn't active listening. Neither is jumping in with your own similar story."
+      },
+      "bs": {
+        "one": "Aktivno slušanje znači potpuno se fokusirati na drugu osobu da bi je razumio i pokazati da jesi.",
+        "explain": "Skloniš telefon, pustiš je da završi, postaviš dodatna pitanja i ponoviš ključnu stvar svojim riječima. Cilj nije čekati svoj red da pričaš, nego razumjeti šta misli i šta joj treba.",
+        "example": "Kupac se glasno žali na kasnu dostavu. Agent podrške ga pusti da završi, pa kaže: 'Znači, paket je obećan za ponedjeljak, danas je četvrtak, a treba vam za događaj u subotu. Provjeravam odmah.' Kupac se smiri.",
+        "why": "Ljudi koji se osjećaju saslušano više ti vjeruju, dijele više informacija i lakše se s njima dogovoriti.",
+        "mixup": "Klimanje glavom dok smišljaš odgovor nije aktivno slušanje. Ni upadanje s vlastitom sličnom pričom."
+      }
+    },
+    {
+      "slug": "open-closed-questions",
+      "term": "Open and closed questions",
+      "local": "otvorena i zatvorena pitanja",
+      "minutes": 3,
+      "youtube": "",
+      "youtubeQuery": "open vs closed questions examples",
+      "related": ["Probing questions", "Active listening", "Customer interviews"],
+      "en": {
+        "one": "Closed questions get a short answer, often yes or no. Open questions invite the person to explain, usually starting with what, how or why.",
+        "explain": "Use open questions to learn ('How do you handle orders today?') and closed ones to confirm or decide ('So we agree on delivery by the 10th?'). Too many closed questions feel like an interrogation; too many open ones can make a meeting drift.",
+        "example": "A salesperson asks 'Do you like our product?' and gets 'Yes, it's fine'. Asking 'What would make this a must-have for your team?' gets a list of real needs.",
+        "why": "The kind of question you ask decides how much useful information you get back.",
+        "mixup": "'Why?' is open but can sound like blame ('Why did you do that?'). 'What led to that?' asks the same thing more softly."
+      },
+      "bs": {
+        "one": "Zatvorena pitanja dobiju kratak odgovor, često da ili ne. Otvorena pitanja pozivaju osobu da objasni i obično počinju sa šta, kako ili zašto.",
+        "explain": "Otvorena pitanja koristi da saznaš ('Kako danas obrađujete narudžbe?'), a zatvorena da potvrdiš ili odlučiš ('Znači, dogovor je isporuka do 10.?'). Previše zatvorenih pitanja djeluje kao saslušanje; previše otvorenih može razvući sastanak.",
+        "example": "Prodavač pita 'Sviđa li vam se naš proizvod?' i dobije 'Da, dobar je'. Pitanje 'Šta bi ovo učinilo nezaobilaznim za vaš tim?' dobije listu stvarnih potreba.",
+        "why": "Vrsta pitanja odlučuje koliko korisnih informacija dobiješ nazad.",
+        "mixup": "'Zašto?' je otvoreno, ali može zvučati kao optužba ('Zašto si to uradio?'). 'Šta je dovelo do toga?' pita isto, ali blaže."
+      }
+    },
+    {
+      "slug": "paraphrasing",
+      "term": "Paraphrasing and summarising",
+      "local": "parafraziranje i sažimanje",
+      "minutes": 3,
+      "youtube": "",
+      "youtubeQuery": "paraphrasing and summarizing in active listening",
+      "related": ["Active listening", "Meeting notes and action items", "Communication process"],
+      "en": {
+        "one": "Paraphrasing is repeating what someone said in your own words to check you understood. Summarising pulls the main points of a longer talk together.",
+        "explain": "Start with 'So if I understand you correctly...' or 'Let me check...'. If you got it wrong, the person corrects you right away, before the mistake costs anything. At the end of a meeting, a summary of decisions and next steps makes sure everyone leaves with the same picture.",
+        "example": "After a long call, a project manager says: 'To sum up: you need the first version by the 15th, the logo stays, and Ana approves the budget.' The client adds: 'And the text must be in German too.' Good thing she asked.",
+        "why": "It catches misunderstandings early and shows the other person you were really listening.",
+        "mixup": "Paraphrasing isn't parroting the exact words back. Repeating word for word sounds mechanical and doesn't prove you understood."
+      },
+      "bs": {
+        "one": "Parafraziranje je ponavljanje onoga što je neko rekao tvojim riječima da provjeriš jesi li razumio. Sažimanje skupi glavne tačke dužeg razgovora.",
+        "explain": "Počni s 'Ako sam dobro razumio...' ili 'Da provjerim...'. Ako si pogriješio, osoba te odmah ispravi, prije nego greška išta košta. Na kraju sastanka, sažetak odluka i sljedećih koraka osigura da svi izađu s istom slikom.",
+        "example": "Nakon dugog poziva, projektna menadžerka kaže: 'Da sažmem: prva verzija vam treba do 15., logo ostaje, a Ana odobrava budžet.' Klijent doda: 'I tekst mora biti i na njemačkom.' Dobro da je pitala.",
+        "why": "Rano otkriva nesporazume i pokazuje drugoj osobi da si je zaista slušao.",
+        "mixup": "Parafraziranje nije papagajsko ponavljanje istih riječi. Ponavljanje od riječi do riječi zvuči mehanički i ne dokazuje da si razumio."
+      }
+    },
+    {
+      "slug": "empathy-at-work",
+      "term": "Empathy at work",
+      "local": "empatija na poslu",
+      "minutes": 3,
+      "youtube": "",
+      "youtubeQuery": "empathy in the workplace explained",
+      "related": ["Active listening", "Difficult conversations", "De-escalation"],
+      "en": {
+        "one": "Empathy is understanding how a situation feels from the other person's side, and letting them know you see it.",
+        "explain": "You don't have to agree or give in. Saying 'I can see this deadline puts you under a lot of pressure' acknowledges the feeling; then you can still talk about solutions. Empathy is about the person; the decision can stay firm.",
+        "example": "An employee asks for a raise the company can't afford now. The manager says: 'I understand you feel your work isn't rewarded enough, and that's fair to raise. I can't change the salary until January, but let's agree now on what will get you there.'",
+        "why": "Empathy lowers tension, builds trust in teams and helps with customers, feedback and negotiation.",
+        "mixup": "Empathy isn't sympathy ('poor you') and it isn't agreement. You can understand someone and still say no."
+      },
+      "bs": {
+        "one": "Empatija je razumjeti kako se situacija osjeća s druge strane i dati osobi do znanja da to vidiš.",
+        "explain": "Ne moraš se složiti ni popustiti. Rečenica 'Vidim da te ovaj rok jako pritiska' priznaje osjećaj; nakon toga i dalje možeš pričati o rješenjima. Empatija je prema osobi; odluka može ostati čvrsta.",
+        "example": "Radnik traži povišicu koju firma sada ne može priuštiti. Menadžer kaže: 'Razumijem da osjećaš da tvoj rad nije dovoljno nagrađen i fer je da to pokreneš. Do januara ne mogu promijeniti platu, ali hajde da se sad dogovorimo šta će te tamo dovesti.'",
+        "why": "Empatija smanjuje napetost, gradi povjerenje u timu i pomaže s kupcima, povratnim informacijama i pregovorima.",
+        "mixup": "Empatija nije sažaljenje ('jadan ti') i nije slaganje. Možeš nekoga razumjeti i ipak reći ne."
+      }
+    },
+    {
+      "slug": "productive-silence",
+      "term": "Using silence",
+      "local": "korištenje tišine",
+      "minutes": 2,
+      "youtube": "",
+      "youtubeQuery": "power of silence in conversation and negotiation",
+      "related": ["Active listening", "Probing questions", "Trading concessions"],
+      "en": {
+        "one": "Using silence means pausing after a question or an offer, and letting the other person fill the gap instead of rushing to talk.",
+        "explain": "Most people find silence uncomfortable after about three seconds and start talking. When you wait, the other person often adds the most honest or useful part of their answer. In negotiations, staying quiet after hearing an offer often brings a better one.",
+        "example": "A manager asks 'How is the project really going?' The employee says 'Fine.' The manager waits quietly. After a few seconds: 'Well, actually, we're two weeks behind.'",
+        "why": "Silence gives the other person room to think and gives you information you'd never get by talking.",
+        "mixup": "Silence isn't the same as the 'silent treatment'. It's a short, calm pause, not a punishment."
+      },
+      "bs": {
+        "one": "Korištenje tišine znači napraviti pauzu nakon pitanja ili ponude i pustiti drugu osobu da popuni prazninu, umjesto da žuriš da pričaš.",
+        "explain": "Većini ljudi tišina postane neugodna nakon otprilike tri sekunde, pa počnu pričati. Kad sačekaš, druga osoba često doda najiskreniji ili najkorisniji dio odgovora. U pregovorima, šutnja nakon ponude često donese bolju ponudu.",
+        "example": "Menadžer pita 'Kako projekat zaista ide?'. Radnik kaže 'Dobro.' Menadžer mirno čeka. Nakon par sekundi: 'Pa, zapravo, kasnimo dvije sedmice.'",
+        "why": "Tišina drugoj osobi daje prostor da razmisli, a tebi informacije koje nikad ne bi dobio pričanjem.",
+        "mixup": "Tišina nije isto što i 'šutnja za kaznu'. To je kratka, mirna pauza, a ne kazna."
+      }
+    },
+    {
+      "slug": "probing-questions",
+      "term": "Probing questions",
+      "local": "dodatna, dubinska pitanja",
+      "minutes": 3,
+      "youtube": "",
+      "youtubeQuery": "probing questions examples",
+      "related": ["Open and closed questions", "Positions vs. interests", "Ladder of inference"],
+      "en": {
+        "one": "Probing questions dig deeper into a first answer to find the details, reasons or real needs behind it.",
+        "explain": "Useful probes: 'Can you give me an example?', 'What happens if we don't fix it?', 'What makes that important to you?', 'What else?'. Asking 'what else?' two or three times often brings out the point people didn't mention first.",
+        "example": "A customer says the software is 'too slow'. The account manager asks: 'Slow when doing what?' The answer: only when exporting reports at month end. That's a much smaller and fixable problem.",
+        "why": "First answers are often vague or polite. Probing turns them into something you can act on.",
+        "mixup": "Probing isn't cross-examining. Ask with curiosity and a friendly tone, and don't fire ten questions in a row."
+      },
+      "bs": {
+        "one": "Dubinska pitanja kopaju dublje u prvi odgovor da nađu detalje, razloge ili stvarne potrebe iza njega.",
+        "explain": "Korisna pitanja: 'Možeš li dati primjer?', 'Šta se desi ako to ne riješimo?', 'Zašto ti je to važno?', 'Šta još?'. Pitanje 'šta još?' dva-tri puta često izvuče ono što ljudi nisu spomenuli prvo.",
+        "example": "Kupac kaže da je softver 'prespor'. Menadžer za klijente pita: 'Spor kad radite šta?' Odgovor: samo kod izvoza izvještaja na kraju mjeseca. To je mnogo manji problem koji se može riješiti.",
+        "why": "Prvi odgovori su često nejasni ili pristojni. Dubinska pitanja ih pretvore u nešto na čemu možeš raditi.",
+        "mixup": "Ovo nije unakrsno ispitivanje. Pitaj radoznalo i prijateljski i ne ispaljuj deset pitanja zaredom."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "Which question will tell you most about a customer's needs?",
+        "bs": "Koje pitanje će ti najviše reći o potrebama kupca?"
+      },
+      "options": [
+        { "en": "Do you order online?", "bs": "Naručujete li online?" },
+        {
+          "en": "What's the hardest part of ordering for you today?",
+          "bs": "Šta vam je danas najteže kod naručivanja?"
+        },
+        { "en": "Are you happy with us?", "bs": "Jeste li zadovoljni nama?" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "An open question invites a real explanation instead of a yes or no.",
+        "bs": "Otvoreno pitanje poziva na pravo objašnjenje umjesto da ili ne."
+      }
+    },
+    {
+      "q": {
+        "en": "At the end of a meeting you say: 'So we agreed: Ana sends the offer Friday, I book the room.' What is this?",
+        "bs": "Na kraju sastanka kažeš: 'Znači, dogovorili smo: Ana šalje ponudu u petak, ja rezervišem salu.' Šta je ovo?"
+      },
+      "options": [
+        { "en": "Summarising", "bs": "Sažimanje" },
+        { "en": "Anchoring", "bs": "Sidrenje" },
+        { "en": "Small talk", "bs": "Ćaskanje" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Summarising checks that everyone leaves with the same picture.",
+        "bs": "Sažimanje provjerava da svi odu s istom slikom."
+      }
+    },
+    {
+      "q": {
+        "en": "A colleague is upset about overtime. Which reply shows empathy without making promises?",
+        "bs": "Kolega je ljut zbog prekovremenog. Koji odgovor pokazuje empatiju bez obećanja?"
+      },
+      "options": [
+        { "en": "Everyone works overtime, it's normal.", "bs": "Svi rade prekovremeno, normalno je." },
+        {
+          "en": "I can see this has been a heavy month for you. Let's look at what we can move.",
+          "bs": "Vidim da ti je ovo bio težak mjesec. Hajde da vidimo šta možemo pomjeriti."
+        },
+        {
+          "en": "OK, you never have to do overtime again.",
+          "bs": "Dobro, nikad više nećeš raditi prekovremeno."
+        }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "It names the feeling and moves to solutions, without giving in or dismissing it.",
+        "bs": "Imenuje osjećaj i prelazi na rješenja, bez popuštanja ili omalovažavanja."
+      }
+    },
+    {
+      "q": {
+        "en": "A client says the price is 'too high'. What's a good probing question?",
+        "bs": "Klijent kaže da je cijena 'previsoka'. Koje je dobro dubinsko pitanje?"
+      },
+      "options": [
+        { "en": "Compared to what?", "bs": "U poređenju s čim?" },
+        { "en": "Shall I give you 20% off?", "bs": "Da vam dam 20% popusta?" },
+        { "en": "So you don't want it?", "bs": "Znači ne želite?" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "It finds out what the price is being compared to before you change anything.",
+        "bs": "Otkriva s čim se cijena poredi prije nego išta promijeniš."
+      }
+    }
+  ]
+}

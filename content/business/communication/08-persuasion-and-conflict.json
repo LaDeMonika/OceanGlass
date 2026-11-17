@@ -1,0 +1,214 @@
+{
+  "slug": "persuasion-and-conflict",
+  "title": { "en": "Persuasion and conflict", "bs": "Uvjeravanje i sukobi" },
+  "summary": {
+    "en": "Winning people over honestly, and calming things down when they go wrong.",
+    "bs": "Kako pošteno pridobiti ljude i smiriti stvari kad krenu po zlu."
+  },
+  "concepts": [
+    {
+      "slug": "persuasion-principles",
+      "term": "Principles of persuasion",
+      "local": "principi uvjeravanja",
+      "minutes": 4,
+      "youtube": "",
+      "youtubeQuery": "Cialdini principles of persuasion explained",
+      "related": ["Ethos, pathos, logos", "Influence without authority", "Pricing psychology"],
+      "en": {
+        "one": "Research by psychologist Robert Cialdini found a few principles that make people more likely to say yes: reciprocity, commitment, social proof, authority, liking, scarcity and unity.",
+        "explain": "Reciprocity: people return favours. Commitment: they stick to what they've already said. Social proof: they follow others like them. Authority: they trust experts. Liking: they agree with people they like. Scarcity: they want what's rare. Unity: they say yes to people they feel part of a group with. Used honestly, these help good offers get noticed.",
+        "example": "A software company offers a free month (reciprocity), shows '2,000 small firms use us' (social proof), and quotes an industry expert (authority). Sign-ups rise.",
+        "why": "Understanding persuasion makes you better at selling ideas, and harder to manipulate.",
+        "mixup": "Persuasion isn't manipulation when it's true. Fake scarcity ('only 2 left!') or fake reviews are dishonest and, in the EU and US, often illegal."
+      },
+      "bs": {
+        "one": "Istraživanja psihologa Roberta Cialdinija pronašla su par principa koji čine da ljudi lakše kažu da: reciprocitet, dosljednost, društveni dokaz, autoritet, simpatija, oskudnost i zajedništvo.",
+        "explain": "Reciprocitet: ljudi vraćaju usluge. Dosljednost: drže se onoga što su već rekli. Društveni dokaz: prate druge slične sebi. Autoritet: vjeruju stručnjacima. Simpatija: slažu se s ljudima koje vole. Oskudnost: žele ono što je rijetko. Zajedništvo: kažu da onima s kojima se osjećaju kao dio grupe. Kad se koriste pošteno, pomažu da dobre ponude budu primijećene.",
+        "example": "Softverska firma ponudi besplatan mjesec (reciprocitet), pokaže '2.000 malih firmi nas koristi' (društveni dokaz) i citira stručnjaka iz branše (autoritet). Prijave porastu.",
+        "why": "Kad razumiješ uvjeravanje, bolje prodaješ ideje i teže te je izmanipulisati.",
+        "mixup": "Uvjeravanje nije manipulacija kad je istinito. Lažna oskudnost ('još samo 2!') ili lažne recenzije su nepoštene i u EU i SAD-u često nezakonite."
+      }
+    },
+    {
+      "slug": "ethos-pathos-logos",
+      "term": "Ethos, pathos, logos",
+      "local": "kredibilitet, emocija, logika",
+      "minutes": 3,
+      "youtube": "",
+      "youtubeQuery": "ethos pathos logos explained examples",
+      "related": ["Principles of persuasion", "Presentation structure", "Executive summary"],
+      "en": {
+        "one": "Ethos, pathos and logos are three ways to persuade, described by Aristotle: credibility, emotion and logic.",
+        "explain": "Ethos: why should they trust you (experience, results, honesty)? Pathos: why should they care (a story, a person affected, a feeling)? Logos: why does it make sense (numbers, facts, clear reasoning)? Strong arguments use all three; which one leads depends on the audience. Finance people want logos first; a team facing change may need pathos.",
+        "example": "Asking for a new safety system, a plant manager says: 'In 15 years here, I've never asked for this (ethos). Last month Emir nearly lost a hand (pathos). The system costs 20,000 € and one accident costs us 150,000 € (logos).'",
+        "why": "Using all three makes your case convincing to more kinds of people.",
+        "mixup": "Pathos isn't manipulation if it's true and relevant. Inventing stories or fear to push people is."
+      },
+      "bs": {
+        "one": "Ethos, pathos i logos su tri načina uvjeravanja koja je opisao Aristotel: kredibilitet, emocija i logika.",
+        "explain": "Ethos: zašto bi ti vjerovali (iskustvo, rezultati, iskrenost)? Pathos: zašto bi ih bilo briga (priča, pogođena osoba, osjećaj)? Logos: zašto to ima smisla (brojevi, činjenice, jasno obrazloženje)? Jaki argumenti koriste sva tri; koji vodi zavisi od publike. Ljudi iz finansija žele prvo logos; tim pred promjenom možda treba pathos.",
+        "example": "Tražeći novi sigurnosni sistem, upravnik pogona kaže: 'Za 15 godina ovdje nikad nisam ovo tražio (ethos). Prošli mjesec Emir je skoro izgubio šaku (pathos). Sistem košta 20.000 €, a jedna nesreća nas košta 150.000 € (logos).'",
+        "why": "Kad koristiš sva tri, tvoj argument uvjeri više vrsta ljudi.",
+        "mixup": "Pathos nije manipulacija ako je istinit i relevantan. Izmišljanje priča ili straha da bi gurnuo ljude jeste."
+      }
+    },
+    {
+      "slug": "influence-without-authority",
+      "term": "Influence without authority",
+      "local": "uticaj bez autoriteta",
+      "minutes": 3,
+      "youtube": "",
+      "youtubeQuery": "how to influence without authority at work",
+      "related": ["Stakeholder management", "Building rapport", "Positions vs. interests"],
+      "en": {
+        "one": "Influence without authority is getting people to help or agree when you can't simply tell them what to do, like colleagues in other teams, partners or your own boss.",
+        "explain": "Find out what they care about and connect your request to it. Build relationships before you need them. Help others, so they're happy to help back. Bring data and a clear, easy next step, and give credit generously.",
+        "example": "A marketing specialist needs IT to fix the website form. Instead of a ticket marked 'urgent', she shows IT that the bug creates 30 support calls a week for their team too. It's fixed the same week.",
+        "why": "In modern workplaces, most important work needs people who don't report to you.",
+        "mixup": "Influence isn't flattery or politics. It's understanding what others need and offering a fair deal."
+      },
+      "bs": {
+        "one": "Uticaj bez autoriteta je kad navedeš ljude da pomognu ili se slože, iako im ne možeš samo narediti, kao kolegama iz drugih timova, partnerima ili vlastitom šefu.",
+        "explain": "Saznaj do čega im je stalo i poveži svoju molbu s tim. Gradi odnose prije nego što ti zatrebaju. Pomaži drugima, pa će rado pomoći tebi. Donesi podatke i jasan, lak sljedeći korak i velikodušno daj zasluge.",
+        "example": "Specijalistici za marketing treba IT da popravi formular na web stranici. Umjesto zahtjeva s oznakom 'hitno', pokaže IT-u da greška i njihovom timu pravi 30 poziva podršci sedmično. Popravljeno je iste sedmice.",
+        "why": "U modernim firmama većina važnog posla treba ljude koji ti nisu podređeni.",
+        "mixup": "Uticaj nije laskanje ni politika. To je razumijevanje šta drugima treba i nuđenje fer dogovora."
+      }
+    },
+    {
+      "slug": "building-rapport",
+      "term": "Building rapport",
+      "local": "građenje odnosa i povjerenja",
+      "minutes": 3,
+      "youtube": "",
+      "youtubeQuery": "how to build rapport quickly in business",
+      "related": ["Verbal and non-verbal communication", "Active listening", "Influence without authority"],
+      "en": {
+        "one": "Rapport is the sense of connection and trust between people that makes talking and working together easier.",
+        "explain": "It grows from small things: remembering names and details, showing real interest, finding common ground, matching the other person's pace and tone, and keeping your promises. A few minutes of small talk before business is normal in many cultures and often expected in the Balkans.",
+        "example": "A new account manager visits a client, notices photos from a cycling race, and asks about it. Ten minutes later they're talking business easily, and the client calls her first when problems come up.",
+        "why": "People share more, forgive mistakes more easily and agree more readily with someone they trust.",
+        "mixup": "Rapport isn't fake friendliness. People notice when interest is only an act."
+      },
+      "bs": {
+        "one": "Rapport je osjećaj povezanosti i povjerenja među ljudima koji olakšava razgovor i saradnju.",
+        "explain": "Raste iz sitnica: pamćenje imena i detalja, iskreno interesovanje, pronalaženje zajedničkog, praćenje tempa i tona druge osobe i držanje obećanja. Par minuta ćaskanja prije posla je normalno u mnogim kulturama i na Balkanu se često očekuje.",
+        "example": "Nova menadžerka za klijente posjeti klijenta, primijeti fotografije s biciklističke trke i pita o tome. Deset minuta kasnije lako pričaju o poslu, a klijent prvo nju zove kad nastanu problemi.",
+        "why": "Ljudi više dijele, lakše opraštaju greške i spremnije se slažu s nekim kome vjeruju.",
+        "mixup": "Rapport nije lažna ljubaznost. Ljudi primijete kad je interes samo gluma."
+      }
+    },
+    {
+      "slug": "conflict-styles",
+      "term": "Conflict styles",
+      "local": "stilovi rješavanja sukoba",
+      "minutes": 4,
+      "youtube": "",
+      "youtubeQuery": "Thomas Kilmann conflict modes explained",
+      "related": ["Conflict resolution", "Distributive vs. integrative negotiation", "Assertiveness"],
+      "en": {
+        "one": "The Thomas-Kilmann model describes five ways people handle conflict: competing, accommodating, avoiding, compromising and collaborating.",
+        "explain": "They differ in how much you push for your own needs and how much you care about the other person's. Competing: my way. Accommodating: your way. Avoiding: no way, for now. Compromising: half each. Collaborating: let's find a way that works for both. No style is always right; good managers pick the one that fits.",
+        "example": "Two departments fight over a budget. For a small issue, the manager accommodates to save time. For the yearly plan, which matters to both, she collaborates in a workshop. In a safety emergency, she competes and decides alone.",
+        "why": "Knowing your default style, and the others, helps you choose a better response instead of reacting on autopilot.",
+        "mixup": "Compromise isn't always the best. Sometimes collaborating finds a solution where nobody has to give up half."
+      },
+      "bs": {
+        "one": "Thomas-Kilmannov model opisuje pet načina na koje ljudi rješavaju sukobe: nadmetanje, prilagođavanje, izbjegavanje, kompromis i saradnja.",
+        "explain": "Razlikuju se po tome koliko guraš svoje potrebe i koliko ti je stalo do potreba drugoga. Nadmetanje: po mome. Prilagođavanje: po tvome. Izbjegavanje: nikako, zasad. Kompromis: pola-pola. Saradnja: hajde da nađemo način koji radi za oboje. Nijedan stil nije uvijek ispravan; dobri menadžeri biraju onaj koji odgovara.",
+        "example": "Dva odjela se svađaju oko budžeta. Za sitno pitanje menadžerka se prilagodi da uštedi vrijeme. Za godišnji plan, koji je važan objema stranama, sarađuje na radionici. U sigurnosnoj hitnoći nadmeće se i odlučuje sama.",
+        "why": "Kad znaš svoj uobičajeni stil i ostale, možeš izabrati bolji odgovor umjesto da reaguješ na autopilotu.",
+        "mixup": "Kompromis nije uvijek najbolji. Ponekad saradnja nađe rješenje gdje niko ne mora odustati od pola."
+      }
+    },
+    {
+      "slug": "de-escalation",
+      "term": "De-escalation",
+      "local": "smirivanje situacije",
+      "minutes": 3,
+      "youtube": "",
+      "youtubeQuery": "de-escalation techniques angry customer",
+      "related": ["Empathy at work", "Active listening", "Apologising at work"],
+      "en": {
+        "one": "De-escalation is calming down a tense situation, like an angry customer or a heated meeting, so people can talk about solutions.",
+        "explain": "Stay calm and speak slower and lower than the other person. Let them vent without interrupting, acknowledge the feeling ('I can hear how frustrating this is'), and avoid 'calm down' or 'that's our policy'. Then move to what you can do, with concrete options. If it stays aggressive, it's fine to pause or bring in someone else.",
+        "example": "A passenger shouts at a gate agent about a cancelled flight. The agent listens, says 'You have every reason to be angry, you'll miss your meeting', then offers two rebooking options and a meal voucher. The passenger picks one.",
+        "why": "People can't solve problems while they're angry. Calm first, solutions second.",
+        "mixup": "De-escalating isn't giving in. You lower the emotion so you can then hold a fair line."
+      },
+      "bs": {
+        "one": "Smirivanje situacije (deeskalacija) je spuštanje napetosti, kao kod ljutog kupca ili burnog sastanka, da bi se moglo pričati o rješenjima.",
+        "explain": "Ostani miran i pričaj sporije i tiše od druge osobe. Pusti je da se izduva bez prekidanja, priznaj osjećaj ('Čujem koliko vas ovo frustrira') i izbjegavaj 'smirite se' ili 'takva su pravila'. Onda pređi na ono što možeš uraditi, s konkretnim opcijama. Ako ostane agresivno, u redu je napraviti pauzu ili pozvati nekog drugog.",
+        "example": "Putnik viče na službenicu na izlazu zbog otkazanog leta. Ona ga sasluša, kaže 'Imate sve razloge da budete ljuti, propustićete sastanak', pa ponudi dvije opcije za novi let i bon za obrok. Putnik izabere jednu.",
+        "why": "Ljudi ne mogu rješavati probleme dok su ljuti. Prvo smirenje, onda rješenja.",
+        "mixup": "Smirivanje nije popuštanje. Spustiš emociju da bi onda mogao držati fer granicu."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "'Join 5,000 local businesses already using us.' Which principle is this?",
+        "bs": "'Pridružite se 5.000 lokalnih firmi koje nas već koriste.' Koji je ovo princip?"
+      },
+      "options": [
+        { "en": "Reciprocity", "bs": "Reciprocitet" },
+        { "en": "Scarcity", "bs": "Oskudnost" },
+        { "en": "Social proof", "bs": "Društveni dokaz" }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "People follow what others like them are doing.",
+        "bs": "Ljudi prate ono što rade drugi slični njima."
+      }
+    },
+    {
+      "q": {
+        "en": "'This machine pays for itself in 14 months.' Which appeal is this?",
+        "bs": "'Ova mašina se isplati za 14 mjeseci.' Koji je ovo apel?"
+      },
+      "options": [
+        { "en": "Logos", "bs": "Logos" },
+        { "en": "Pathos", "bs": "Pathos" },
+        { "en": "Ethos", "bs": "Ethos" }
+      ],
+      "answer": 0,
+      "explain": { "en": "Numbers and reasoning appeal to logic.", "bs": "Brojevi i obrazloženje se obraćaju logici." }
+    },
+    {
+      "q": {
+        "en": "Both sides care a lot about the outcome and the relationship. Which conflict style fits best?",
+        "bs": "Objema stranama je jako stalo do ishoda i odnosa. Koji stil rješavanja sukoba najbolje odgovara?"
+      },
+      "options": [
+        { "en": "Collaborating", "bs": "Saradnja" },
+        { "en": "Accommodating", "bs": "Prilagođavanje" },
+        { "en": "Avoiding", "bs": "Izbjegavanje" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Collaborating looks for a solution that fully meets both sides' needs.",
+        "bs": "Saradnja traži rješenje koje potpuno zadovoljava potrebe obje strane."
+      }
+    },
+    {
+      "q": {
+        "en": "An angry customer is shouting. What should you do first?",
+        "bs": "Ljut kupac viče. Šta trebaš uraditi prvo?"
+      },
+      "options": [
+        { "en": "Quote the company policy", "bs": "Citirati pravila firme" },
+        { "en": "Tell them to calm down", "bs": "Reći mu da se smiri" },
+        {
+          "en": "Listen and acknowledge their frustration",
+          "bs": "Saslušati i priznati njegovu frustraciju"
+        }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "People need to feel heard before they can discuss solutions.",
+        "bs": "Ljudi se trebaju osjećati saslušano prije nego mogu pričati o rješenjima."
+      }
+    }
+  ]
+}

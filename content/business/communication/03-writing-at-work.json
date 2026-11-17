@@ -1,0 +1,220 @@
+{
+  "slug": "writing-at-work",
+  "title": { "en": "Writing at work", "bs": "Pisanje na poslu" },
+  "summary": {
+    "en": "Emails, messages and notes that people read, understand and act on.",
+    "bs": "Emailovi, poruke i bilješke koje ljudi pročitaju, razumiju i na osnovu njih djeluju."
+  },
+  "concepts": [
+    {
+      "slug": "business-email",
+      "term": "Business email",
+      "local": "poslovni email",
+      "minutes": 3,
+      "youtube": "",
+      "youtubeQuery": "how to write a professional business email",
+      "related": ["Bottom line up front", "Formal vs. informal tone", "Plain language"],
+      "en": {
+        "one": "A business email is a written message to a colleague, client or partner that should get one clear thing done.",
+        "explain": "A good one has a subject line that says what it's about ('Offer for 200 chairs, reply by Fri'), a short greeting, the main point or request in the first two lines, the details below, and a clear next step. Keep one topic per email so it's easy to find and answer.",
+        "example": "Subject: 'Meeting moved to Thursday 10:00'. Text: 'Hi Marko, our meeting moves to Thursday at 10:00, same room. Please bring the Q3 numbers. Thanks, Lejla.' Done in 20 seconds.",
+        "why": "Clear emails get faster replies and leave a written record of what was agreed.",
+        "mixup": "Long doesn't mean thorough. If it needs more than a few paragraphs, it may need a call or a separate document."
+      },
+      "bs": {
+        "one": "Poslovni email je pisana poruka kolegi, klijentu ili partneru koja treba obaviti jednu jasnu stvar.",
+        "explain": "Dobar ima naslov koji kaže o čemu je riječ ('Ponuda za 200 stolica, odgovor do petka'), kratak pozdrav, glavnu poentu ili molbu u prva dva reda, detalje ispod i jasan sljedeći korak. Jedna tema po emailu, da ga je lako naći i odgovoriti.",
+        "example": "Naslov: 'Sastanak pomjeren na četvrtak u 10:00'. Tekst: 'Zdravo Marko, sastanak je u četvrtak u 10:00, ista sala. Molim te ponesi brojke za Q3. Hvala, Lejla.' Gotovo za 20 sekundi.",
+        "why": "Jasni emailovi dobiju brže odgovore i ostave pisani trag o dogovoru.",
+        "mixup": "Dugo ne znači temeljito. Ako treba više od par pasusa, možda je bolji poziv ili poseban dokument."
+      }
+    },
+    {
+      "slug": "bottom-line-up-front",
+      "term": "Bottom line up front (BLUF)",
+      "local": "glavna poenta na početku",
+      "minutes": 3,
+      "youtube": "",
+      "youtubeQuery": "BLUF bottom line up front writing",
+      "related": ["Business email", "Executive summary", "Plain language"],
+      "en": {
+        "one": "BLUF means putting your conclusion or request at the very start, and the background after it.",
+        "explain": "Busy readers often read only the first lines. So start with what you need or what you decided ('Please approve 3,000 € for the trade fair by Wednesday'), then give the reasons. It's the opposite of how many of us learned to write at school, where the conclusion comes last.",
+        "example": "Instead of three paragraphs about the trade fair's history before the request, a marketing assistant writes: 'Request: approve 3,000 € for the Vienna trade fair by Wednesday. Why: last year it brought 12 new clients.'",
+        "why": "Your request gets seen and answered, even by someone reading on their phone between meetings.",
+        "mixup": "BLUF isn't rude. You can still be polite; you just don't hide the point."
+      },
+      "bs": {
+        "one": "BLUF znači staviti zaključak ili molbu na sam početak, a pozadinu poslije.",
+        "explain": "Zauzeti čitaoci često pročitaju samo prve redove. Zato počni s onim što ti treba ili šta si odlučio ('Molim odobrenje 3.000 € za sajam do srijede'), a onda daj razloge. To je suprotno od onoga kako su mnogi učili pisati u školi, gdje zaključak ide na kraj.",
+        "example": "Umjesto tri pasusa o historiji sajma prije molbe, asistentica u marketingu napiše: 'Molba: odobriti 3.000 € za sajam u Beču do srijede. Zašto: prošle godine je donio 12 novih klijenata.'",
+        "why": "Tvoja molba bude viđena i odgovorena, čak i kad neko čita na telefonu između sastanaka.",
+        "mixup": "BLUF nije nepristojno. I dalje možeš biti ljubazan; samo ne skrivaš poentu."
+      }
+    },
+    {
+      "slug": "meeting-notes",
+      "term": "Meeting notes and action items",
+      "local": "zapisnik i zadaci sa sastanka",
+      "minutes": 3,
+      "youtube": "",
+      "youtubeQuery": "how to take meeting notes action items",
+      "related": ["Paraphrasing and summarising", "Business email", "Asking in writing"],
+      "en": {
+        "one": "Meeting notes record what was decided, and action items say who does what by when.",
+        "explain": "You don't need every word. Write down decisions, open questions and action items in the form 'Who – what – by when'. Send them to everyone within a day, so mistakes can be corrected while the meeting is still fresh.",
+        "example": "Notes after a client call: 'Decided: launch moves to 1 June. Actions: Emir updates the plan (Mon). Sara sends new prices to the client (Wed). Open: who approves the ad budget?'",
+        "why": "Without written action items, everyone remembers a different meeting, and tasks fall through the cracks.",
+        "mixup": "An action item without a name and a date is only a wish."
+      },
+      "bs": {
+        "one": "Zapisnik bilježi šta je odlučeno, a zadaci kažu ko radi šta i do kada.",
+        "explain": "Ne treba ti svaka riječ. Zapiši odluke, otvorena pitanja i zadatke u obliku 'Ko – šta – do kada'. Pošalji svima u roku od jednog dana, da se greške isprave dok je sastanak još svjež.",
+        "example": "Bilješke nakon poziva s klijentom: 'Odlučeno: lansiranje se pomjera na 1. juni. Zadaci: Emir ažurira plan (pon). Sara šalje nove cijene klijentu (sri). Otvoreno: ko odobrava budžet za oglase?'",
+        "why": "Bez pisanih zadataka svako pamti drugačiji sastanak, a zadaci propadnu.",
+        "mixup": "Zadatak bez imena i datuma je samo želja."
+      }
+    },
+    {
+      "slug": "asking-in-writing",
+      "term": "Writing a clear request",
+      "local": "jasna pisana molba",
+      "minutes": 3,
+      "youtube": "",
+      "youtubeQuery": "how to ask for something in an email clearly",
+      "related": ["Bottom line up front", "Business email", "Saying no"],
+      "en": {
+        "one": "A clear request tells the reader exactly what you need, why, and by when, so they can say yes quickly.",
+        "explain": "Name one action ('Can you review pages 3–5?'), give a deadline and the reason for it, and make it easy (attach the file, give a link). If you need a decision, offer options: 'Option A or B? If I don't hear back by Thursday, I'll go with A.'",
+        "example": "Weak: 'Any thoughts on the draft?' Strong: 'Could you check the prices on page 4 by Wednesday noon? The client needs it Thursday.'",
+        "why": "Vague requests get ignored or delayed. Clear ones get done.",
+        "mixup": "Being clear isn't being pushy. A deadline with a reason helps the other person plan."
+      },
+      "bs": {
+        "one": "Jasna molba kaže čitaocu tačno šta ti treba, zašto i do kada, pa može brzo reći da.",
+        "explain": "Navedi jednu radnju ('Možeš li pregledati strane 3–5?'), daj rok i razlog za njega i olakšaj (priloži fajl, daj link). Ako ti treba odluka, ponudi opcije: 'Opcija A ili B? Ako se ne javiš do četvrtka, idem s A.'",
+        "example": "Slabo: 'Ima li mišljenja o nacrtu?' Jako: 'Možeš li provjeriti cijene na strani 4 do srijede u podne? Klijentu treba u četvrtak.'",
+        "why": "Nejasne molbe se ignorišu ili kasne. Jasne se obave.",
+        "mixup": "Biti jasan nije biti nametljiv. Rok s razlogom pomaže drugoj osobi da planira."
+      }
+    },
+    {
+      "slug": "async-messaging",
+      "term": "Chat and messaging etiquette",
+      "local": "pravila za chat poruke",
+      "minutes": 3,
+      "youtube": "",
+      "youtubeQuery": "slack etiquette workplace messaging tips",
+      "related": ["Business email", "Formal vs. informal tone", "Writing a clear request"],
+      "en": {
+        "one": "Chat tools like Slack or Teams are for quick, short messages. Good etiquette keeps them useful instead of distracting.",
+        "explain": "Write your full question in one message instead of 'Hi' and waiting. Use threads to keep topics together, and channels instead of private messages when others need to know. Don't expect an instant reply; if it's urgent, say so or call. Decisions that matter should end up written somewhere people can find them.",
+        "example": "Instead of 'Hi Amir' ... (five minutes) ... 'are you there?', a colleague writes: 'Hi Amir, which version of the price list did we send to Bauhaus? I need it for a call at 14:00.'",
+        "why": "Good chat habits protect everyone's focus and make answers searchable later.",
+        "mixup": "Chat isn't for everything. Bad news, conflicts and long discussions are better in a call or face to face."
+      },
+      "bs": {
+        "one": "Chat alati kao Slack ili Teams su za brze, kratke poruke. Dobra pravila ih čine korisnim umjesto da ometaju.",
+        "explain": "Napiši cijelo pitanje u jednoj poruci umjesto 'Zdravo' pa čekanja. Koristi niti (threads) da teme ostanu skupa, a kanale umjesto privatnih poruka kad i drugi trebaju znati. Ne očekuj trenutni odgovor; ako je hitno, reci to ili nazovi. Važne odluke trebaju završiti zapisane negdje gdje ih ljudi mogu naći.",
+        "example": "Umjesto 'Zdravo Amire' ... (pet minuta) ... 'jesi tu?', kolegica napiše: 'Zdravo Amire, koju verziju cjenovnika smo poslali Bauhausu? Treba mi za poziv u 14:00.'",
+        "why": "Dobre navike u chatu čuvaju svačiji fokus i čine odgovore kasnije lakim za pretragu.",
+        "mixup": "Chat nije za sve. Loše vijesti, sukobi i duge rasprave bolje idu u pozivu ili uživo."
+      }
+    },
+    {
+      "slug": "tone-in-writing",
+      "term": "Tone in writing",
+      "local": "ton u pisanom tekstu",
+      "minutes": 3,
+      "youtube": "",
+      "youtubeQuery": "how to sound friendly not rude in emails",
+      "related": ["Formal vs. informal tone", "Business email", "Difficult conversations"],
+      "en": {
+        "one": "Tone in writing is the feeling your text gives the reader, which they can't check against your face or voice.",
+        "explain": "Short messages often read colder than you meant. 'Fine.' or 'Why is this late?' can sound angry. Small additions help: a greeting, 'thanks', a reason, and a softer question ('Could you tell me what's holding this up?'). Before sending anything tense, reread it as if you were the receiver, or wait an hour.",
+        "example": "A manager replies 'See me tomorrow.' The employee worries all night. 'Can we talk tomorrow about next week's plan? Nothing bad, just want to align' would have cost five more seconds.",
+        "why": "Misread tone causes conflicts that nobody intended.",
+        "mixup": "Emojis and exclamation marks can help in team chats but may look unprofessional with clients. Match the reader."
+      },
+      "bs": {
+        "one": "Ton u pisanom tekstu je osjećaj koji tekst daje čitaocu, a on ga ne može provjeriti po tvom licu ili glasu.",
+        "explain": "Kratke poruke često zvuče hladnije nego što si mislio. 'Dobro.' ili 'Zašto ovo kasni?' može zvučati ljuto. Pomažu sitnice: pozdrav, 'hvala', razlog i blaže pitanje ('Možeš li mi reći šta ovo koči?'). Prije nego pošalješ nešto napeto, pročitaj kao da si primalac ili sačekaj sat vremena.",
+        "example": "Menadžer odgovori 'Dođi sutra kod mene.' Radnik se brine cijelu noć. 'Možemo li sutra pričati o planu za sljedeću sedmicu? Ništa loše, samo da se uskladimo' bi koštalo pet sekundi više.",
+        "why": "Pogrešno pročitan ton izaziva sukobe koje niko nije htio.",
+        "mixup": "Emojiji i uskličnici mogu pomoći u timskom chatu, ali s klijentima mogu izgledati neprofesionalno. Prilagodi se čitaocu."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": { "en": "Which email opening follows BLUF?", "bs": "Koji početak emaila prati BLUF?" },
+      "options": [
+        {
+          "en": "As you may remember, last year we discussed...",
+          "bs": "Kao što se možda sjećaš, prošle godine smo pričali..."
+        },
+        {
+          "en": "Please approve the 2,000 € budget by Friday.",
+          "bs": "Molim odobrenje budžeta od 2.000 € do petka."
+        },
+        {
+          "en": "I hope you are well and had a nice weekend.",
+          "bs": "Nadam se da si dobro i da si imao lijep vikend."
+        }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "BLUF puts the request first, then the background.",
+        "bs": "BLUF stavlja molbu na početak, a pozadinu poslije."
+      }
+    },
+    {
+      "q": { "en": "Which is a complete action item?", "bs": "Koji je potpun zadatak?" },
+      "options": [
+        { "en": "Look into prices.", "bs": "Pogledati cijene." },
+        { "en": "Someone should call the client.", "bs": "Neko treba nazvati klijenta." },
+        {
+          "en": "Sara sends the new prices to the client by Wednesday.",
+          "bs": "Sara šalje nove cijene klijentu do srijede."
+        }
+      ],
+      "answer": 2,
+      "explain": { "en": "It says who, what and by when.", "bs": "Kaže ko, šta i do kada." }
+    },
+    {
+      "q": { "en": "What's the best first chat message?", "bs": "Koja je najbolja prva poruka u chatu?" },
+      "options": [
+        {
+          "en": "Hi, where's the latest contract? I need it for a 3 pm call.",
+          "bs": "Zdravo, gdje je zadnja verzija ugovora? Treba mi za poziv u 15h."
+        },
+        { "en": "Are you there?", "bs": "Jesi tu?" },
+        { "en": "Hi", "bs": "Zdravo" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Ask the whole question at once so the other person can answer when they see it.",
+        "bs": "Postavi cijelo pitanje odjednom da druga osoba može odgovoriti čim vidi."
+      }
+    },
+    {
+      "q": {
+        "en": "You're about to send an irritated email. What's the smart move?",
+        "bs": "Spremaš se poslati iznervirani email. Šta je pametno?"
+      },
+      "options": [
+        { "en": "Add more exclamation marks", "bs": "Dodaj još uskličnika" },
+        { "en": "Send it now while it's fresh", "bs": "Pošalji odmah dok je svježe" },
+        {
+          "en": "Reread it as the receiver or wait before sending",
+          "bs": "Pročitaj ga kao primalac ili sačekaj prije slanja"
+        }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "Written tone is easily misread, and a sent email can't be taken back.",
+        "bs": "Pisani ton se lako pogrešno pročita, a poslani email se ne može vratiti."
+      }
+    }
+  ]
+}
