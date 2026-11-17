@@ -1,12 +1,12 @@
 import Link from "next/link";
-import { requireUser } from "@/lib/auth";
+import { requireMember } from "@/lib/auth";
 import { curriculums, tr } from "@/lib/content";
 import { dict, getLang } from "@/lib/i18n";
 import { degreeStat, progressMap } from "@/lib/progress";
 import { PageHead, Ring, StatusChip } from "@/components/ui";
 
 export default async function ProgressPage() {
-  const user = await requireUser();
+  const user = await requireMember();
   const lang = await getLang();
   const t = dict(lang);
   const map = progressMap(user.id);

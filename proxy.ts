@@ -16,7 +16,8 @@ export async function proxy(req: NextRequest) {
     url.search = "";
     return NextResponse.redirect(url);
   }
-  if (pathname.startsWith("/admin") && session.role !== "admin") {
+  const guestBlocked = pathname.startsWith("/settings") || pathname.startsWith("/progress");
+  if ((pathname.startsWith("/admin") && session.role !== "admin") || (guestBlocked && session.role === "guest")) {
     const url = req.nextUrl.clone();
     url.pathname = "/";
     url.search = "";

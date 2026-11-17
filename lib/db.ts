@@ -4,7 +4,10 @@ import bcrypt from "bcryptjs";
 import fs from "node:fs";
 import path from "node:path";
 
-export type Role = "student" | "admin";
+export type Role = "student" | "admin" | "guest";
+
+/** Username of the optional read-only preview account. */
+export const GUEST_USERNAME = "guest";
 
 /** The only accounts that may ever exist in this app. */
 export const ALLOWED_USERS: { username: string; role: Role; envVar: string }[] = [
@@ -35,7 +38,7 @@ function open(): Database.Database {
       id INTEGER PRIMARY KEY AUTOINCREMENT,
       username TEXT NOT NULL UNIQUE,
       password_hash TEXT NOT NULL,
-      role TEXT NOT NULL CHECK (role IN ('student','admin')),
+      role TEXT NOT NULL CHECK (role IN ('student','admin','guest')),
       lang TEXT NOT NULL DEFAULT 'en',
       session_version INTEGER NOT NULL DEFAULT 1,
       created_at TEXT NOT NULL DEFAULT (datetime('now'))
@@ -54,11 +57,42 @@ function open(): Database.Database {
     );
   `);
 
+  migrateRoleCheck(db);
   seedUsers(db);
   return db;
 }
 
-/** Creates msimic and admin on first start, from env passwords. Never creates anyone else. */
+/** Databases created before the guest account existed only allow 'student' and 'admin'. Rebuild that table once. */
+function migrateRoleCheck(db: Database.Database) {
+  const row = db.prepare("SELECT sql FROM sqlite_master WHERE type='table' AND name='users'").get() as { sql: string };
+  if (row.sql.includes("'guest'")) return;
+  db.pragma("foreign_keys = OFF");
+  db.transaction(() => {
+    db.exec(`
+      CREATE TABLE users_new (
+        id INTEGER PRIMARY KEY AUTOINCREMENT,
+        username TEXT NOT NULL UNIQUE,
+        password_hash TEXT NOT NULL,
+        role TEXT NOT NULL CHECK (role IN ('student','admin','guest')),
+        lang TEXT NOT NULL DEFAULT 'en',
+        session_version INTEGER NOT NULL DEFAULT 1,
+        created_at TEXT NOT NULL DEFAULT (datetime('now'))
+      );
+      INSERT INTO users_new SELECT id, username, password_hash, role, lang, session_version, created_at FROM users;
+      DROP TABLE users;
+      ALTER TABLE users_new RENAME TO users;
+    `);
+  })();
+  db.pragma("foreign_keys = ON");
+  console.log("[oceanglass] Updated users table to allow the guest account.");
+}
+
+/**
+ * Creates msimic and admin on first start, from env passwords.
+ * The guest account follows GUEST_PASSWORD on every start: set it to turn the
+ * guest on (or change its password), remove it to turn the guest off.
+ * Nobody else can ever exist.
+ */
 function seedUsers(db: Database.Database) {
   const exists = db.prepare("SELECT 1 FROM users WHERE username = ?");
   const insert = db.prepare(
@@ -76,11 +110,33 @@ function seedUsers(db: Database.Database) {
     insert.run(u.username, bcrypt.hashSync(pw, 12), u.role);
     console.log(`[oceanglass] Created account "${u.username}".`);
   }
+
+  const guestPw = process.env.GUEST_PASSWORD;
+  const guest = db.prepare("SELECT password_hash FROM users WHERE username = ?").get(GUEST_USERNAME) as
+    | { password_hash: string }
+    | undefined;
+  if (guestPw && guestPw.length >= 4) {
+    if (!guest) {
+      insert.run(GUEST_USERNAME, bcrypt.hashSync(guestPw, 10), "guest");
+      console.log(`[oceanglass] Guest account is on.`);
+    } else if (!bcrypt.compareSync(guestPw, guest.password_hash)) {
+      db.prepare(
+        "UPDATE users SET password_hash = ?, session_version = session_version + 1 WHERE username = ?"
+      ).run(bcrypt.hashSync(guestPw, 10), GUEST_USERNAME);
+      console.log(`[oceanglass] Guest password updated.`);
+    }
+  } else if (guest) {
+    console.log(`[oceanglass] Guest account is off (GUEST_PASSWORD not set).`);
+  }
+
   // Remove anything that is not an allowed account (defence in depth).
   const allowed = ALLOWED_USERS.map((u) => u.username);
+  if (guestPw && guestPw.length >= 4) allowed.push(GUEST_USERNAME);
   db.prepare(
     `DELETE FROM users WHERE username NOT IN (${allowed.map(() => "?").join(",")})`
   ).run(...allowed);
+  // Guests never keep data.
+  db.prepare("DELETE FROM progress WHERE user_id IN (SELECT id FROM users WHERE role = 'guest')").run();
 }
 
 export function db(): Database.Database {

@@ -1,11 +1,11 @@
-import { requireUser } from "@/lib/auth";
+import { requireMember } from "@/lib/auth";
 import { dict, getLang } from "@/lib/i18n";
 import { PageHead } from "@/components/ui";
 import LangToggle from "@/components/LangToggle";
 import PasswordForm from "@/components/PasswordForm";
 
 export default async function SettingsPage() {
-  const user = await requireUser();
+  const user = await requireMember();
   const lang = await getLang();
   const t = dict(lang);
   return (

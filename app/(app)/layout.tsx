@@ -9,12 +9,17 @@ export default async function AppLayout({ children }: { children: React.ReactNod
   const user = await requireUser();
   const lang = await getLang();
   const t = dict(lang);
+  const guest = user.role === "guest";
   const items = [
     { href: "/", icon: "home", label: t.nav.home },
     { href: "/curriculums", icon: "book", label: t.nav.curriculums },
     { href: "/glossary", icon: "glossary", label: t.nav.glossary },
-    { href: "/progress", icon: "chart", label: t.nav.progress },
-    { href: "/settings", icon: "gear", label: t.nav.settings },
+    ...(guest
+      ? []
+      : [
+          { href: "/progress", icon: "chart", label: t.nav.progress },
+          { href: "/settings", icon: "gear", label: t.nav.settings },
+        ]),
     ...(user.role === "admin" ? [{ href: "/admin", icon: "shield", label: t.nav.admin }] : []),
   ];
   return (
@@ -40,6 +45,12 @@ export default async function AppLayout({ children }: { children: React.ReactNod
       </nav>
       <main className="main">
         <div className="main-top">
+          {guest && (
+            <div className="guest-banner" role="status">
+              <Icon name="lock" />
+              <span>{t.guestBanner}</span>
+            </div>
+          )}
           <LangToggle lang={lang} />
         </div>
         {children}

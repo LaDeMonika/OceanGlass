@@ -21,6 +21,13 @@ export async function requireUser(): Promise<UserRow> {
   return u;
 }
 
+/** For pages that change or show personal data: guests are sent home. */
+export async function requireMember(): Promise<UserRow> {
+  const u = await requireUser();
+  if (u.role === "guest") redirect("/");
+  return u;
+}
+
 export async function requireAdmin(): Promise<UserRow> {
   const u = await requireUser();
   if (u.role !== "admin") redirect("/");

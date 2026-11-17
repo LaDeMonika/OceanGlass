@@ -55,7 +55,7 @@ export async function setLang(form: FormData) {
   const lang = form.get("lang") === "bs" ? "bs" : "en";
   (await cookies()).set("lang", lang, { path: "/", maxAge: 31536000, sameSite: "lax" });
   const u = await currentUser();
-  if (u) db().prepare("UPDATE users SET lang = ? WHERE id = ?").run(lang, u.id);
+  if (u && u.role !== "guest") db().prepare("UPDATE users SET lang = ? WHERE id = ?").run(lang, u.id);
   revalidatePath("/", "layout");
 }
 
@@ -63,6 +63,7 @@ const validIds = () => new Set(allConcepts().map((c) => c.id));
 
 export async function markConcept(id: string, status: "started" | "done" | "new") {
   const u = await requireUser();
+  if (u.role === "guest") return; // guests never save progress
   if (!validIds().has(id)) return;
   if (!["started", "done", "new"].includes(status)) return;
   setStatus(u.id, id, status);
@@ -72,6 +73,7 @@ export async function markConcept(id: string, status: "started" | "done" | "new"
 export async function changePassword(_: FormState, form: FormData): Promise<FormState> {
   const t = dict(await getLang());
   const u = await requireUser();
+  if (u.role === "guest") return { error: t.guestNoChanges };
   const current = String(form.get("current") || "");
   const next = String(form.get("next") || "");
   if (!bcrypt.compareSync(current, u.password_hash)) return { error: t.passwordWrong };

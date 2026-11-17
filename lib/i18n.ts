@@ -85,6 +85,10 @@ const en = {
   signedInAs: "Signed in as",
   student: "Student",
   adminRole: "Admin",
+  guestRole: "Guest",
+  guestBanner: "You are looking around as a guest. Nothing you do here is saved.",
+  guestNoChanges: "Guests cannot change anything.",
+  videoSoon: "Video coming soon.",
 };
 
 export type Dict = typeof en;
@@ -165,6 +169,10 @@ const bs: Dict = {
   signedInAs: "Prijavljen kao",
   student: "Student",
   adminRole: "Admin",
+  guestRole: "Gost",
+  guestBanner: "Razgledaš aplikaciju kao gost. Ništa što radiš ovdje se ne čuva.",
+  guestNoChanges: "Gosti ne mogu ništa mijenjati.",
+  videoSoon: "Video uskoro.",
 };
 
 export function dict(lang: Lang): Dict {
