@@ -26,11 +26,21 @@ export interface Concept {
   bs: ConceptText;
 }
 
+export interface QuizQuestion {
+  q: L;
+  options: L[];
+  /** 0-based index into options */
+  answer: number;
+  explain: L;
+}
+
 export interface Topic {
   slug: string;
   title: L;
   summary: L;
   concepts: Concept[];
+  /** Optional short quiz shown after the last concept. */
+  quiz?: QuizQuestion[];
 }
 
 export interface Degree {
@@ -69,13 +79,35 @@ function load(): Curriculum[] {
             .readdirSync(dDir)
             .filter((f) => f.endsWith(".json"))
             .sort()
-            .map((f) => readJson<Topic>(path.join(dDir, f)))
+            .map((f) => cleanTopic(readJson<Topic>(path.join(dDir, f)), f))
         : [];
       return { ...d, topics };
     });
     out.push({ ...meta, degrees });
   }
   return out;
+}
+
+/** Drops quiz questions that are malformed so one typo can't break a page. */
+function cleanTopic(t: Topic, file: string): Topic {
+  if (!Array.isArray(t.quiz)) return { ...t, quiz: undefined };
+  const quiz = t.quiz.filter((q, i) => {
+    const ok =
+      q && q.q && Array.isArray(q.options) && q.options.length >= 2 && Number.isInteger(q.answer) && q.answer >= 0 && q.answer < q.options.length;
+    if (!ok) console.warn(`[oceanglass] Skipping quiz question ${i + 1} in ${file}: needs q, 2+ options and a valid answer index.`);
+    return ok;
+  });
+  return { ...t, quiz: quiz.length ? quiz : undefined };
+}
+
+export function findTopicById(id: string) {
+  const [cur, deg, topic] = id.split("/");
+  const found = cur && deg && topic ? findDegree(cur, deg) : undefined;
+  return found?.degree.topics.find((t) => t.slug === topic);
+}
+
+export function topicId(cur: string, deg: string, topic: string) {
+  return `${cur}/${deg}/${topic}`;
 }
 
 let cache: Curriculum[] | null = null;

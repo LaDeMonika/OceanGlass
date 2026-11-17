@@ -20,6 +20,7 @@ export default function ConceptPanel({
   closeHref,
   prevHref,
   nextHref,
+  quizHref,
   videoId,
   readOnly = false,
   isAdmin = false,
@@ -35,6 +36,8 @@ export default function ConceptPanel({
   closeHref: string;
   prevHref?: string;
   nextHref?: string;
+  /** Shown on the last concept when the topic has a quiz. */
+  quizHref?: string;
   videoId?: string;
   readOnly?: boolean;
   isAdmin?: boolean;
@@ -147,6 +150,12 @@ export default function ConceptPanel({
             {nextHref && (
               <Link href={nextHref} scroll={false} className="btn btn-primary">
                 {t.nextConcept}
+                <Icon name="right" />
+              </Link>
+            )}
+            {!nextHref && quizHref && (
+              <Link href={quizHref} scroll={false} className="btn btn-primary">
+                {t.takeQuiz}
                 <Icon name="right" />
               </Link>
             )}
