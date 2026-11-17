@@ -1,0 +1,216 @@
+{
+  "slug": "probability-and-risk",
+  "title": { "en": "Probability & risk", "bs": "Vjerovatnoća i rizik" },
+  "summary": {
+    "en": "Thinking clearly about chance, so you can weigh risky business decisions.",
+    "bs": "Jasno razmišljanje o šansama, da možeš odvagati rizične poslovne odluke."
+  },
+  "concepts": [
+    {
+      "slug": "probability",
+      "term": "Probability",
+      "local": "vjerovatnoća",
+      "minutes": 4,
+      "youtube": "uzkc-qNVoOk",
+      "youtubeQuery": "probability explained simply",
+      "related": ["Expected value", "Risk vs. uncertainty", "Law of large numbers"],
+      "en": {
+        "one": "Probability is how likely something is to happen, from 0 (impossible) to 1 (certain), often shown as a percentage.",
+        "explain": "It can come from counting (1 in 6 for a die), from past data (5% of invoices are paid late), or from careful judgement. Probabilities of all possible outcomes add up to 100%.",
+        "example": "Out of 400 past customers, 60 returned within a month. The probability a new customer returns is about 60 ÷ 400 = 15%.",
+        "why": "Business is full of chance: will the client pay, will the shipment arrive, will the launch work? Putting numbers on it helps you plan.",
+        "mixup": "Unlikely is not impossible. A 2% risk happens to one in fifty firms, and it could be yours."
+      },
+      "bs": {
+        "one": "Probability (vjerovatnoća) je koliko je vjerovatno da se nešto desi, od 0 (nemoguće) do 1 (sigurno), često prikazano u procentima.",
+        "explain": "Može doći iz brojanja (1 od 6 za kocku), iz prošlih podataka (5% faktura se plati kasno) ili iz pažljive procjene. Vjerovatnoće svih mogućih ishoda zajedno daju 100%.",
+        "example": "Od 400 prošlih kupaca, 60 se vratilo u roku od mjesec dana. Vjerovatnoća da se novi kupac vrati je oko 60 ÷ 400 = 15%.",
+        "why": "Posao je pun slučajnosti: hoće li klijent platiti, hoće li pošiljka stići, hoće li lansiranje uspjeti? Brojevi pomažu planiranju.",
+        "mixup": "Malo vjerovatno nije nemoguće. Rizik od 2% desi se jednoj od pedeset firmi, a to možeš biti ti."
+      }
+    },
+    {
+      "slug": "expected-value",
+      "term": "Expected value",
+      "local": "očekivana vrijednost",
+      "minutes": 5,
+      "youtube": "KLs_7b7SKi4",
+      "youtubeQuery": "expected value explained simply decision making",
+      "formula": {
+        "en": "Expected value = Σ(Outcome × Probability)",
+        "bs": "Očekivana vrijednost = Σ(Ishod × Vjerovatnoća)"
+      },
+      "related": ["Probability", "Risk vs. uncertainty", "NPV (Net present value)"],
+      "en": {
+        "one": "Expected value is the average result you'd get if you could repeat a risky decision many times.",
+        "explain": "Multiply each possible outcome by its probability and add them up. It lets you compare options that have different risks on one scale. It's a guide, not a guarantee: any single try can turn out very differently.",
+        "example": "A trade fair costs €2,000. There's a 30% chance of winning a €10,000-profit client and 70% of nothing. Expected value = 0.3 × 10,000 − 2,000 = +€1,000.",
+        "why": "It turns 'should we risk it?' into a calculation you can discuss, instead of a mood.",
+        "mixup": "A positive expected value doesn't mean you can afford the bad outcome. Never bet what you can't survive losing."
+      },
+      "bs": {
+        "one": "Expected value (očekivana vrijednost) je prosječan rezultat koji bi dobio kad bi rizičnu odluku mogao ponoviti mnogo puta.",
+        "explain": "Pomnoži svaki mogući ishod njegovom vjerovatnoćom i saberi. Omogućava poređenje opcija s različitim rizicima na istoj skali. To je vodilja, ne garancija: svaki pojedinačni pokušaj može ispasti vrlo drugačije.",
+        "example": "Sajam košta 2.000 €. Postoji 30% šanse da dobiješ klijenta s 10.000 € dobiti i 70% da ne dobiješ ništa. Očekivana vrijednost = 0,3 × 10.000 − 2.000 = +1.000 €.",
+        "why": "Pretvara pitanje 'da li rizikovati?' u računicu o kojoj se može razgovarati, umjesto u raspoloženje.",
+        "mixup": "Pozitivna očekivana vrijednost ne znači da možeš podnijeti loš ishod. Nikad ne stavljaj na kocku ono što ne možeš preživjeti da izgubiš."
+      }
+    },
+    {
+      "slug": "normal-distribution",
+      "term": "Normal distribution",
+      "local": "normalna raspodjela",
+      "minutes": 5,
+      "youtube": "MqBR7RYFSas",
+      "youtubeQuery": "normal distribution bell curve explained simply",
+      "related": ["Standard deviation", "Histogram", "Mean (average)"],
+      "en": {
+        "one": "The normal distribution is the classic 'bell curve': most values cluster around the middle and fewer appear further out on both sides.",
+        "explain": "Heights, measurement errors and many production measures follow it roughly. In a normal distribution, about 68% of values are within one standard deviation of the mean and about 95% within two.",
+        "example": "A machine fills 500 g bags with a standard deviation of 4 g. About 95% of bags weigh between 492 g and 508 g.",
+        "why": "It lets you set sensible limits for quality control, stock and targets.",
+        "mixup": "Not everything is normal. Incomes, sales per customer and viral posts have long tails, where extreme values are far more common than a bell curve predicts."
+      },
+      "bs": {
+        "one": "Normal distribution (normalna raspodjela) je klasična 'zvonasta kriva': većina vrijednosti je oko sredine, a sve manje ih je dalje na obje strane.",
+        "explain": "Visina, greške mjerenja i mnoge mjere u proizvodnji je otprilike prate. U normalnoj raspodjeli oko 68% vrijednosti je unutar jedne standardne devijacije od prosjeka, a oko 95% unutar dvije.",
+        "example": "Mašina puni kese od 500 g sa standardnom devijacijom od 4 g. Oko 95% kesa teži između 492 g i 508 g.",
+        "why": "Omogućava postavljanje razumnih granica za kontrolu kvaliteta, zalihe i ciljeve.",
+        "mixup": "Nije sve normalno. Primanja, potrošnja po kupcu i viralne objave imaju duge repove, gdje su ekstremne vrijednosti mnogo češće nego što zvono predviđa."
+      }
+    },
+    {
+      "slug": "law-of-large-numbers",
+      "term": "Law of large numbers",
+      "local": "zakon velikih brojeva",
+      "minutes": 4,
+      "youtube": "ycuPP72_DVU",
+      "youtubeQuery": "law of large numbers explained simply",
+      "related": ["Probability", "Sample size", "Expected value"],
+      "en": {
+        "one": "The law of large numbers says that the more times you repeat something, the closer the average result gets to its true expected value.",
+        "explain": "Flip a coin 10 times and you might get 7 heads; flip it 10,000 times and you'll be very close to 50%. Insurers, casinos and big retailers rely on this: single results are random, but large numbers are predictable.",
+        "example": "A shop can't predict whether one visitor buys, but with 5,000 visitors a month, a 3% conversion rate gives a reliable ~150 sales.",
+        "why": "It's why decisions based on a handful of cases are risky, and why scale makes a business more predictable.",
+        "mixup": "It doesn't mean luck 'evens out' soon. After five losses in a row, the next try is not more likely to win."
+      },
+      "bs": {
+        "one": "Law of large numbers (zakon velikih brojeva) kaže da što više puta nešto ponoviš, to je prosječan rezultat bliži stvarnoj očekivanoj vrijednosti.",
+        "explain": "Baci novčić 10 puta i možda dobiješ 7 glava; baci ga 10.000 puta i bićeš vrlo blizu 50%. Osiguranja, kazina i veliki trgovci se oslanjaju na ovo: pojedinačni rezultati su slučajni, ali veliki brojevi su predvidivi.",
+        "example": "Radnja ne može predvidjeti da li će jedan posjetilac kupiti, ali s 5.000 posjetilaca mjesečno, stopa konverzije od 3% daje pouzdanih ~150 prodaja.",
+        "why": "Zato su odluke na osnovu par slučajeva rizične i zato veličina čini posao predvidivijim.",
+        "mixup": "Ne znači da se sreća uskoro 'izravna'. Nakon pet gubitaka zaredom, sljedeći pokušaj nije vjerovatniji da uspije."
+      }
+    },
+    {
+      "slug": "risk-uncertainty",
+      "term": "Risk vs. uncertainty",
+      "local": "rizik i neizvjesnost",
+      "minutes": 4,
+      "youtube": "ephvKaL2ZoU",
+      "youtubeQuery": "risk vs uncertainty explained Knight",
+      "related": ["Probability", "Expected value", "Scenario planning"],
+      "en": {
+        "one": "Risk is when you don't know the outcome but can estimate the odds. Uncertainty is when you can't even estimate the odds.",
+        "explain": "Late payments, machine breakdowns and seasonal sales are risks: you have data. A brand-new product in a brand-new market, or a pandemic, is uncertainty. For risk you calculate; for uncertainty you prepare with buffers, small tests and flexible plans.",
+        "example": "A café knows rainy days cut sales about 20% (risk). Whether a big competitor will open next door next year is uncertainty.",
+        "why": "Treating uncertainty as if it were measurable risk leads to overconfident plans.",
+        "mixup": "Precise-looking forecasts are not the same as known risk. A number with two decimals can still be a guess."
+      },
+      "bs": {
+        "one": "Risk (rizik) je kad ne znaš ishod, ali možeš procijeniti šanse. Uncertainty (neizvjesnost) je kad ne možeš procijeniti ni šanse.",
+        "explain": "Kasna plaćanja, kvarovi mašina i sezonska prodaja su rizici: imaš podatke. Potpuno nov proizvod na potpuno novom tržištu ili pandemija su neizvjesnost. Za rizik računaš; za neizvjesnost se pripremaš rezervama, malim testovima i fleksibilnim planovima.",
+        "example": "Kafić zna da kišni dani smanjuju prodaju oko 20% (rizik). Da li će veliki konkurent otvoriti do njega iduće godine je neizvjesnost.",
+        "why": "Tretiranje neizvjesnosti kao mjerljivog rizika vodi do previše samouvjerenih planova.",
+        "mixup": "Precizne prognoze nisu isto što i poznat rizik. Broj s dvije decimale i dalje može biti nagađanje."
+      }
+    },
+    {
+      "slug": "base-rate",
+      "term": "Base rate",
+      "local": "osnovna stopa",
+      "minutes": 5,
+      "youtube": "_2ND5HNlOX4",
+      "youtubeQuery": "base rate fallacy explained simply",
+      "related": ["Probability", "Survivorship bias", "Sample size"],
+      "en": {
+        "one": "The base rate is how common something is in general, before you look at the details of one case.",
+        "explain": "People tend to ignore it and focus on the exciting specifics. If only 1 in 10 new restaurants survives five years, a great menu doesn't change the fact that the starting odds are tough. Start from the base rate, then adjust for what makes your case different.",
+        "example": "A fraud alert is 99% accurate, but only 1 in 1,000 transactions is fraud. Most alerts will still be false alarms, because real fraud is so rare.",
+        "why": "Using base rates keeps your plans realistic and your forecasts honest.",
+        "mixup": "The base rate is not destiny. It's the starting point; good evidence can and should move your estimate."
+      },
+      "bs": {
+        "one": "Base rate (osnovna stopa) je koliko je nešto uobičajeno općenito, prije nego pogledaš detalje jednog slučaja.",
+        "explain": "Ljudi je obično zanemare i fokusiraju se na uzbudljive detalje. Ako samo 1 od 10 novih restorana preživi pet godina, odličan meni ne mijenja činjenicu da su početne šanse teške. Počni od osnovne stope, pa je prilagodi onome što tvoj slučaj čini drugačijim.",
+        "example": "Upozorenje za prevaru je 99% tačno, ali samo 1 od 1.000 transakcija je prevara. Većina upozorenja će i dalje biti lažne uzbune, jer je prava prevara tako rijetka.",
+        "why": "Korištenje osnovnih stopa drži planove realnim, a prognoze poštenim.",
+        "mixup": "Osnovna stopa nije sudbina. To je polazna tačka; dobri dokazi mogu i trebaju pomjeriti procjenu."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "A €2,000 trade fair gives a 30% chance of a €10,000-profit client. What is the expected value?",
+        "bs": "Sajam od 2.000 € daje 30% šanse za klijenta s 10.000 € dobiti. Kolika je očekivana vrijednost?"
+      },
+      "options": [
+        { "en": "−€2,000", "bs": "−2.000 €" },
+        { "en": "+€8,000", "bs": "+8.000 €" },
+        { "en": "+€1,000", "bs": "+1.000 €" }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "0.3 × €10,000 = €3,000 expected, minus the €2,000 cost = +€1,000.",
+        "bs": "0,3 × 10.000 € = 3.000 € očekivano, minus 2.000 € troška = +1.000 €."
+      }
+    },
+    {
+      "q": {
+        "en": "Bags average 500 g with a standard deviation of 4 g (normal). About 95% weigh between…",
+        "bs": "Kese u prosjeku teže 500 g sa standardnom devijacijom 4 g (normalno). Oko 95% teži između…"
+      },
+      "options": [
+        { "en": "496 g and 504 g", "bs": "496 g i 504 g" },
+        { "en": "480 g and 520 g", "bs": "480 g i 520 g" },
+        { "en": "492 g and 508 g", "bs": "492 g i 508 g" }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "About 95% lie within two standard deviations: 500 ± 8 g.",
+        "bs": "Oko 95% je unutar dvije standardne devijacije: 500 ± 8 g."
+      }
+    },
+    {
+      "q": {
+        "en": "After five failed sales calls in a row, is the sixth more likely to succeed?",
+        "bs": "Nakon pet neuspjelih prodajnih poziva zaredom, je li šesti vjerovatnije uspješan?"
+      },
+      "options": [
+        { "en": "No, each call has its own odds", "bs": "Ne, svaki poziv ima svoje šanse" },
+        { "en": "Yes, luck evens out", "bs": "Da, sreća se izravna" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Past random results don't change the odds of the next one.",
+        "bs": "Prošli slučajni rezultati ne mijenjaju šanse sljedećeg."
+      }
+    },
+    {
+      "q": {
+        "en": "Launching a product in a market nobody has tried before is mainly…",
+        "bs": "Lansiranje proizvoda na tržištu koje niko prije nije probao je uglavnom…"
+      },
+      "options": [
+        { "en": "Risk you can calculate", "bs": "Rizik koji možeš izračunati" },
+        { "en": "Uncertainty", "bs": "Neizvjesnost" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "With no data on the odds, it's uncertainty: prepare with small tests and buffers.",
+        "bs": "Bez podataka o šansama, to je neizvjesnost: pripremi se malim testovima i rezervama."
+      }
+    }
+  ]
+}

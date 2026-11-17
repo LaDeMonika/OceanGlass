@@ -1,0 +1,217 @@
+{
+  "slug": "percentages-and-growth",
+  "title": { "en": "Percentages & growth", "bs": "Procenti i rast" },
+  "summary": {
+    "en": "The number tricks behind every business headline, and how not to be fooled by them.",
+    "bs": "Računica iza svakog poslovnog naslova i kako da te ne prevari."
+  },
+  "concepts": [
+    {
+      "slug": "percentage-change",
+      "term": "Percentage change",
+      "local": "procentualna promjena",
+      "minutes": 4,
+      "youtube": "ecaUvOWqbqw",
+      "youtubeQuery": "how to calculate percentage change explained",
+      "formula": { "en": "% change = (New − Old) ÷ Old × 100", "bs": "% promjene = (Novo − Staro) ÷ Staro × 100" },
+      "related": ["Percentage points", "CAGR", "Index number"],
+      "en": {
+        "one": "Percentage change shows how much something grew or shrank compared to where it started.",
+        "explain": "Take the new value minus the old value, divide by the old value, and multiply by 100. Always divide by the starting value. Note that a fall and a rise of the same percent don't cancel out.",
+        "example": "Sales go from €40,000 to €50,000: (50,000 − 40,000) ÷ 40,000 = 25% growth. If they fall back to €40,000, that's only a 20% drop.",
+        "why": "Growth rates let you compare businesses or months of very different sizes on the same scale.",
+        "mixup": "Down 50% then up 50% is not back to where you started. €100 → €50 → €75."
+      },
+      "bs": {
+        "one": "Percentage change (procentualna promjena) pokazuje koliko je nešto poraslo ili palo u odnosu na početak.",
+        "explain": "Uzmi novu vrijednost minus staru, podijeli sa starom i pomnoži sa 100. Uvijek dijeli s početnom vrijednošću. Pad i rast za isti procenat se ne poništavaju.",
+        "example": "Prodaja ide s 40.000 € na 50.000 €: (50.000 − 40.000) ÷ 40.000 = 25% rasta. Ako padne nazad na 40.000 €, to je pad od samo 20%.",
+        "why": "Stope rasta omogućavaju poređenje firmi ili mjeseci vrlo različitih veličina na istoj skali.",
+        "mixup": "Pad od 50% pa rast od 50% nije povratak na početak. 100 € → 50 € → 75 €."
+      }
+    },
+    {
+      "slug": "percentage-points",
+      "term": "Percentage points",
+      "local": "procentni poeni",
+      "minutes": 4,
+      "youtube": "ZXSlDUjmmWY",
+      "youtubeQuery": "percentage vs percentage points explained",
+      "related": ["Percentage change", "Interest rate", "Conversion rate"],
+      "en": {
+        "one": "Percentage points are the simple difference between two percentages. Percent change is the relative difference.",
+        "explain": "If an interest rate goes from 4% to 5%, it rose by 1 percentage point, but by 25% in relative terms. News and sales pitches often mix the two to make changes sound bigger or smaller.",
+        "example": "Conversion rate goes from 2% to 3%. That's +1 percentage point, or a 50% improvement.",
+        "why": "Knowing the difference stops you from misreading rate changes, margins and survey results.",
+        "mixup": "'Up 1%' and 'up 1 percentage point' are not the same claim. Ask which one is meant."
+      },
+      "bs": {
+        "one": "Percentage points (procentni poeni) su obična razlika između dva procenta. Procentualna promjena je relativna razlika.",
+        "explain": "Ako kamata ide s 4% na 5%, porasla je za 1 procentni poen, ali za 25% relativno. Vijesti i prodavci često miješaju to dvoje da promjene zvuče veće ili manje.",
+        "example": "Stopa konverzije ide s 2% na 3%. To je +1 procentni poen, ili poboljšanje od 50%.",
+        "why": "Kad znaš razliku, ne pogrešno čitaš promjene kamata, marži i rezultate anketa.",
+        "mixup": "'Porast od 1%' i 'porast od 1 procentnog poena' nisu ista tvrdnja. Pitaj šta se misli."
+      }
+    },
+    {
+      "slug": "cagr",
+      "term": "CAGR (Compound annual growth rate)",
+      "local": "složena godišnja stopa rasta",
+      "minutes": 5,
+      "youtube": "Txe1uNseWoI",
+      "youtubeQuery": "CAGR explained simply",
+      "formula": { "en": "CAGR = (End ÷ Start)^(1 ÷ Years) − 1", "bs": "CAGR = (Kraj ÷ Početak)^(1 ÷ Godine) − 1" },
+      "related": ["Percentage change", "Compound interest", "Forecast"],
+      "en": {
+        "one": "CAGR is the steady yearly growth rate that would take you from a start value to an end value over several years.",
+        "explain": "Real growth is bumpy: +40% one year, −10% the next. CAGR smooths it into one fair yearly number, which makes it easy to compare. Spreadsheets calculate it with a simple formula.",
+        "example": "Revenue grows from €100,000 to €160,000 in 4 years. CAGR ≈ 12.5% a year, not 15% (60% ÷ 4), because growth compounds.",
+        "why": "It's the standard way to state growth over many years in business plans and investor reports.",
+        "mixup": "CAGR hides the ride. A smooth 12% CAGR can come from wild ups and downs."
+      },
+      "bs": {
+        "one": "CAGR (složena godišnja stopa rasta) je stalna godišnja stopa rasta koja bi te dovela od početne do krajnje vrijednosti kroz više godina.",
+        "explain": "Stvarni rast je neravan: +40% jedne godine, −10% sljedeće. CAGR ga izravna u jedan pošten godišnji broj, koji je lako porediti. Tabele ga računaju jednostavnom formulom.",
+        "example": "Prihod raste sa 100.000 € na 160.000 € za 4 godine. CAGR ≈ 12,5% godišnje, a ne 15% (60% ÷ 4), jer se rast nadovezuje.",
+        "why": "To je standardni način iskazivanja rasta kroz više godina u biznis planovima i izvještajima za investitore.",
+        "mixup": "CAGR sakrije vožnju. Glatkih 12% CAGR-a može doći iz divljih uspona i padova."
+      }
+    },
+    {
+      "slug": "index-number",
+      "term": "Index number",
+      "local": "indeks",
+      "minutes": 4,
+      "youtube": "B3lIqSsegKM",
+      "youtubeQuery": "index numbers explained base year",
+      "related": ["Consumer price index (CPI)", "Percentage change", "Inflation"],
+      "en": {
+        "one": "An index number shows how something changed compared to a base period, which is set to 100.",
+        "explain": "If the base year is 100 and this year is 115, the value rose 15%. Indexes let you track and compare things measured in different units or sizes. The consumer price index (CPI) is the most famous one.",
+        "example": "Set January sales = 100. If June sales are 130, June is 30% above January, whatever the actual euro amounts.",
+        "why": "Indexes make long trends easy to read and compare on one chart.",
+        "mixup": "An index of 130 doesn't mean 130 of anything. It's only meaningful compared to the base of 100."
+      },
+      "bs": {
+        "one": "Index number (indeks) pokazuje kako se nešto promijenilo u odnosu na bazni period, koji je postavljen na 100.",
+        "explain": "Ako je bazna godina 100, a ova 115, vrijednost je porasla 15%. Indeksi omogućavaju praćenje i poređenje stvari mjerenih u različitim jedinicama ili veličinama. Indeks potrošačkih cijena (CPI) je najpoznatiji.",
+        "example": "Postavi prodaju u januaru = 100. Ako je prodaja u junu 130, jun je 30% iznad januara, bez obzira na stvarne iznose u eurima.",
+        "why": "Indeksi čine duge trendove lakim za čitanje i poređenje na jednom grafikonu.",
+        "mixup": "Indeks 130 ne znači 130 bilo čega. Ima smisla samo u poređenju s bazom od 100."
+      }
+    },
+    {
+      "slug": "ratios-rates",
+      "term": "Ratios & per-unit rates",
+      "local": "omjeri i stope po jedinici",
+      "minutes": 4,
+      "youtube": "RphJeFXtZ20",
+      "youtubeQuery": "ratios and rates explained per capita",
+      "related": ["Financial ratios", "Conversion rate", "Mean (average)"],
+      "en": {
+        "one": "A ratio compares two numbers by dividing one by the other, such as sales per employee or complaints per 1,000 orders.",
+        "explain": "Raw totals can mislead when sizes differ. Dividing by a sensible base (people, orders, square metres, hours) makes things comparable.",
+        "example": "Shop A has 30 complaints, shop B has 10. But A had 20,000 orders and B 2,000: that's 1.5 vs 5 per 1,000 orders. B has the bigger problem.",
+        "why": "Per-unit numbers reveal efficiency and quality that totals hide.",
+        "mixup": "A bigger total is not a worse result. Always ask 'out of how many?'"
+      },
+      "bs": {
+        "one": "Ratio (omjer) poredi dva broja dijeljenjem jednog s drugim, npr. prodaja po zaposlenom ili žalbe na 1.000 narudžbi.",
+        "explain": "Sirovi zbirovi mogu zavarati kad se veličine razlikuju. Dijeljenje razumnom bazom (ljudi, narudžbe, kvadratni metri, sati) čini stvari uporedivim.",
+        "example": "Radnja A ima 30 žalbi, radnja B 10. Ali A je imala 20.000 narudžbi, a B 2.000: to je 1,5 naspram 5 na 1.000 narudžbi. B ima veći problem.",
+        "why": "Brojevi po jedinici otkrivaju efikasnost i kvalitet koje zbirovi sakriju.",
+        "mixup": "Veći zbir nije lošiji rezultat. Uvijek pitaj 'od koliko?'"
+      }
+    },
+    {
+      "slug": "weighted-average",
+      "term": "Weighted average",
+      "local": "ponderisani prosjek",
+      "minutes": 5,
+      "youtube": "ujeld79S6mU",
+      "youtubeQuery": "weighted average explained simply",
+      "formula": {
+        "en": "Weighted avg = Σ(value × weight) ÷ Σweights",
+        "bs": "Ponderisani prosjek = Σ(vrijednost × ponder) ÷ Σponderi"
+      },
+      "related": ["Mean (average)", "Cost of capital", "Inventory"],
+      "en": {
+        "one": "A weighted average gives more importance to values that count more, instead of treating all values equally.",
+        "explain": "Multiply each value by its weight (for example, how many units), add those up, and divide by the total weight. It's how you correctly average prices, margins or grades when amounts differ.",
+        "example": "You bought 100 kg of coffee at €10/kg and 300 kg at €14/kg. The simple average is €12, but the true average cost is (1,000 + 4,200) ÷ 400 = €13/kg.",
+        "why": "Using a simple average where a weighted one is needed gives wrong costs, prices and margins.",
+        "mixup": "Averaging averages is a common trap. Two shops with 10% and 30% margins don't average 20% unless they sell the same amount."
+      },
+      "bs": {
+        "one": "Weighted average (ponderisani prosjek) daje veću važnost vrijednostima koje više znače, umjesto da sve tretira jednako.",
+        "explain": "Pomnoži svaku vrijednost njenim ponderom (npr. koliko jedinica), saberi to i podijeli s ukupnim ponderom. Tako se pravilno uprosječuju cijene, marže ili ocjene kad se količine razlikuju.",
+        "example": "Kupio si 100 kg kafe po 10 €/kg i 300 kg po 14 €/kg. Obični prosjek je 12 €, ali pravi prosječni trošak je (1.000 + 4.200) ÷ 400 = 13 €/kg.",
+        "why": "Korištenje običnog prosjeka gdje treba ponderisani daje pogrešne troškove, cijene i marže.",
+        "mixup": "Prosjek prosjeka je česta zamka. Dvije radnje s maržom 10% i 30% nemaju prosjek 20% osim ako prodaju istu količinu."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "Sales grow from €40,000 to €50,000. What is the growth?",
+        "bs": "Prodaja raste s 40.000 € na 50.000 €. Koliki je rast?"
+      },
+      "options": [
+        { "en": "10%", "bs": "10%" },
+        { "en": "20%", "bs": "20%" },
+        { "en": "25%", "bs": "25%" }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "(50,000 − 40,000) ÷ 40,000 = 0.25 = 25%. Divide by the starting value.",
+        "bs": "(50.000 − 40.000) ÷ 40.000 = 0,25 = 25%. Dijeli s početnom vrijednošću."
+      }
+    },
+    {
+      "q": { "en": "A rate goes from 4% to 5%. Which is correct?", "bs": "Stopa ide s 4% na 5%. Šta je tačno?" },
+      "options": [
+        { "en": "It rose 1 percentage point (25%)", "bs": "Porasla je 1 procentni poen (25%)" },
+        { "en": "It rose 5%", "bs": "Porasla je 5%" },
+        { "en": "It rose 1%", "bs": "Porasla je 1%" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "The gap is 1 point; relative to 4%, that's a 25% increase.",
+        "bs": "Razlika je 1 poen; u odnosu na 4%, to je rast od 25%."
+      }
+    },
+    {
+      "q": {
+        "en": "100 kg at €10/kg and 300 kg at €14/kg. What is the true average cost per kg?",
+        "bs": "100 kg po 10 €/kg i 300 kg po 14 €/kg. Koliki je stvarni prosječni trošak po kg?"
+      },
+      "options": [
+        { "en": "€13", "bs": "13 €" },
+        { "en": "€14", "bs": "14 €" },
+        { "en": "€12", "bs": "12 €" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "(100 × 10 + 300 × 14) ÷ 400 = 5,200 ÷ 400 = €13.",
+        "bs": "(100 × 10 + 300 × 14) ÷ 400 = 5.200 ÷ 400 = 13 €."
+      }
+    },
+    {
+      "q": {
+        "en": "A price falls 50% and then rises 50%. Starting at €100, where does it end?",
+        "bs": "Cijena padne 50%, a onda poraste 50%. Ako počne na 100 €, gdje završi?"
+      },
+      "options": [
+        { "en": "€75", "bs": "75 €" },
+        { "en": "€100", "bs": "100 €" },
+        { "en": "€125", "bs": "125 €" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "€100 → €50 → €50 × 1.5 = €75. The rise is on a smaller base.",
+        "bs": "100 € → 50 € → 50 € × 1,5 = 75 €. Rast je na manjoj bazi."
+      }
+    }
+  ]
+}
