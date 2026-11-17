@@ -1,0 +1,126 @@
+{
+  "slug": "assets-liabilities-equity",
+  "title": { "en": "Assets, liabilities & equity", "bs": "Imovina, obaveze i kapital" },
+  "summary": {
+    "en": "What a business owns, what it owes, and what is really yours.",
+    "bs": "Šta firma posjeduje, šta duguje i šta je zaista tvoje."
+  },
+  "concepts": [
+    {
+      "slug": "asset",
+      "term": "Asset",
+      "local": "imovina, aktiva",
+      "minutes": 4,
+      "youtubeQuery": "what is an asset in business explained simply",
+      "related": ["Liability", "Equity", "Balance sheet"],
+      "en": {
+        "one": "An asset is anything the business owns that has value.",
+        "explain": "Cash, a car, a laptop, products waiting to be sold, and money customers still owe you. If you could sell it, or use it to make money, it is an asset.",
+        "example": "A bakery's oven, its flour and the money in its bank account are all assets.",
+        "why": "Assets show what the business has to work with.",
+        "mixup": "Expensive does not always mean asset. A big phone bill is a cost, not an asset, because you do not own anything after paying it."
+      },
+      "bs": {
+        "one": "Asset (imovina) je sve što firma posjeduje, a ima neku vrijednost.",
+        "explain": "Novac, auto, laptop, roba koja čeka prodaju i novac koji ti kupci još duguju. Ako to možeš prodati, ili koristiti da zaradiš, to je imovina.",
+        "example": "Pećnica u pekari, brašno i novac na računu pekare su imovina.",
+        "why": "Imovina pokazuje s čim firma može raditi.",
+        "mixup": "Skupo ne znači uvijek imovina. Veliki račun za telefon je trošak, a ne imovina, jer nakon plaćanja ništa ne posjeduješ."
+      }
+    },
+    {
+      "slug": "liability",
+      "term": "Liability",
+      "local": "obaveza, pasiva",
+      "minutes": 5,
+      "youtubeQuery": "what is a liability in business explained simply",
+      "related": ["Asset", "Loan", "Equity"],
+      "en": {
+        "one": "A liability is money the business owes to someone else.",
+        "explain": "Loans, unpaid bills, wages you still have to pay, and taxes you owe. It is a promise to pay later.",
+        "example": "The bakery took a €5,000 loan to buy the oven. Until it is paid back, that €5,000 is a liability.",
+        "why": "If a business has too many liabilities, it can get into trouble paying them back.",
+        "mixup": "A liability is not always bad. A smart loan can help a business grow faster."
+      },
+      "bs": {
+        "one": "Liability (obaveza) je novac koji firma duguje nekome drugom.",
+        "explain": "Krediti, neplaćeni računi, plate koje tek trebaš isplatiti i porez koji duguješ. To je obećanje da ćeš platiti kasnije.",
+        "example": "Pekara je uzela kredit od 5.000 € da kupi pećnicu. Dok ga ne vrati, tih 5.000 € je obaveza.",
+        "why": "Ako firma ima previše obaveza, može upasti u probleme s vraćanjem.",
+        "mixup": "Obaveza nije uvijek loša. Pametan kredit može pomoći firmi da brže raste."
+      }
+    },
+    {
+      "slug": "equity",
+      "term": "Equity",
+      "local": "kapital, vlasnički kapital",
+      "minutes": 6,
+      "youtubeQuery": "what is equity in business explained simply",
+      "formula": { "en": "Equity = Assets − Liabilities", "bs": "Kapital = Imovina − Obaveze" },
+      "related": ["Asset", "Liability", "Balance sheet"],
+      "en": {
+        "one": "Equity is the part of the business that truly belongs to the owners.",
+        "explain": "Take everything the business owns. Subtract everything it owes. What is left over is equity.",
+        "example": "You own a food truck worth €30,000. You still owe the bank €10,000 for it. Your equity is €20,000.",
+        "why": "Equity shows how much the business is really worth to you. If equity is negative, the business owes more than it owns.",
+        "mixup": "Equity is not the same as cash in the bank. A business can have a lot of equity and still have very little cash."
+      },
+      "bs": {
+        "one": "Equity (kapital) je dio firme koji zaista pripada vlasnicima.",
+        "explain": "Uzmi sve što firma posjeduje. Oduzmi sve što duguje. Ono što ostane je kapital.",
+        "example": "Imaš food truck vrijedan 30.000 €. Banci za njega još duguješ 10.000 €. Tvoj kapital je 20.000 €.",
+        "why": "Kapital pokazuje koliko firma stvarno vrijedi tebi. Ako je kapital negativan, firma duguje više nego što posjeduje.",
+        "mixup": "Kapital nije isto što i novac na računu. Firma može imati mnogo kapitala, a vrlo malo gotovine."
+      }
+    },
+    {
+      "slug": "balance-sheet",
+      "term": "Balance sheet",
+      "local": "bilans stanja",
+      "minutes": 8,
+      "youtubeQuery": "balance sheet explained simply for beginners",
+      "formula": { "en": "Assets = Liabilities + Equity", "bs": "Imovina = Obaveze + Kapital" },
+      "related": ["Asset", "Liability", "Equity", "Income statement"],
+      "en": {
+        "one": "A balance sheet is a snapshot of what a business owns and owes on one specific day.",
+        "explain": "It has three parts: assets, liabilities and equity. The two sides always balance, which is where the name comes from. Everything the business owns was paid for either with borrowed money or with the owners' money.",
+        "example": "Think of it as a photo of your wallet and your debts, taken on 31 December.",
+        "why": "Banks and investors look at it first to see whether a business is healthy.",
+        "mixup": "A balance sheet does not show if you made a profit this year. That is the income statement."
+      },
+      "bs": {
+        "one": "Balance sheet (bilans stanja) je slika onoga što firma posjeduje i duguje na jedan određeni dan.",
+        "explain": "Ima tri dijela: imovinu, obaveze i kapital. Dvije strane su uvijek u ravnoteži, odatle i ime. Sve što firma posjeduje plaćeno je ili pozajmljenim novcem ili novcem vlasnika.",
+        "example": "Zamisli to kao fotografiju tvog novčanika i dugova, napravljenu 31. decembra.",
+        "why": "Banke i investitori ga prvo pogledaju da vide je li firma zdrava.",
+        "mixup": "Bilans stanja ne pokazuje da li si ove godine imao dobit. To pokazuje bilans uspjeha."
+      }
+    },
+    {
+      "slug": "working-capital",
+      "term": "Working capital",
+      "local": "obrtni kapital",
+      "minutes": 5,
+      "youtubeQuery": "working capital explained simply",
+      "formula": {
+        "en": "Working capital = Short-term assets − Short-term debts",
+        "bs": "Obrtni kapital = Kratkoročna imovina − Kratkoročni dugovi"
+      },
+      "related": ["Cash flow", "Asset", "Liability"],
+      "en": {
+        "one": "Working capital is the money a business has available to run day to day.",
+        "explain": "Take what you can turn into cash soon (cash, stock, money customers owe you) and subtract the bills you must pay soon.",
+        "example": "€8,000 in short-term assets minus €3,000 of bills due this month gives €5,000 of working capital.",
+        "why": "It tells you if you can pay next month's bills without stress.",
+        "mixup": "Positive working capital does not mean the cash is in the bank today. Part of it may still be stuck in unsold stock or unpaid invoices."
+      },
+      "bs": {
+        "one": "Working capital (obrtni kapital) je novac koji firma ima na raspolaganju za svakodnevni rad.",
+        "explain": "Uzmi ono što uskoro možeš pretvoriti u novac (gotovina, zalihe, ono što ti kupci duguju) i oduzmi račune koje uskoro moraš platiti.",
+        "example": "8.000 € kratkoročne imovine minus 3.000 € računa koji dospijevaju ovog mjeseca daje 5.000 € obrtnog kapitala.",
+        "why": "Govori ti možeš li platiti račune sljedećeg mjeseca bez stresa.",
+        "mixup": "Pozitivan obrtni kapital ne znači da je novac danas na računu. Dio može još biti zarobljen u neprodatoj robi ili neplaćenim fakturama."
+      }
+    }
+  ]
+}

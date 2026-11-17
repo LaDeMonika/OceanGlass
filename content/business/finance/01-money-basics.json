@@ -1,0 +1,99 @@
+{
+  "slug": "money-basics",
+  "title": { "en": "Money basics", "bs": "Osnove novca" },
+  "summary": {
+    "en": "What money really is, where it comes from, where it goes, and why it slowly loses value.",
+    "bs": "Šta je zapravo novac, odakle dolazi, gdje odlazi i zašto polako gubi vrijednost."
+  },
+  "concepts": [
+    {
+      "slug": "money",
+      "term": "Money",
+      "local": "novac",
+      "minutes": 5,
+      "youtubeQuery": "what is money explained simply",
+      "related": ["Inflation", "Saving"],
+      "en": {
+        "one": "Money is something everyone agrees to accept in exchange for things.",
+        "explain": "Before money, people traded goods directly, like a chicken for a pair of shoes. That was hard. Money fixes this: you sell your work for money, then use the money to buy what you need. Money also lets you compare prices and save value for later.",
+        "example": "A baker does not need to find a shoemaker who wants bread. She sells bread for €2 and uses those €2 to buy anything.",
+        "why": "Every business idea comes down to money moving in and out. Understanding what money does helps you understand everything else.",
+        "mixup": "Money is not the same as wealth. Wealth is everything you own, like a house or a business. Money is only one part of it."
+      },
+      "bs": {
+        "one": "Novac je nešto što svi prihvataju u zamjenu za stvari.",
+        "explain": "Prije novca ljudi su mijenjali robu direktno, npr. kokoš za par cipela. To je bilo teško. Novac to rješava: prodaš svoj rad za novac, pa tim novcem kupiš šta ti treba. Novac ti također pomaže da porediš cijene i sačuvaš vrijednost za kasnije.",
+        "example": "Pekarka ne mora tražiti obućara kojem treba hljeb. Proda hljeb za 2 € i tih 2 € potroši na šta god želi.",
+        "why": "Svaka poslovna ideja se svodi na novac koji ulazi i izlazi. Kad razumiješ šta novac radi, lakše razumiješ sve ostalo.",
+        "mixup": "Novac nije isto što i bogatstvo. Bogatstvo je sve što posjeduješ, npr. kuća ili firma. Novac je samo jedan dio toga."
+      }
+    },
+    {
+      "slug": "income-expenses",
+      "term": "Income & expenses",
+      "local": "prihodi i rashodi",
+      "minutes": 5,
+      "youtubeQuery": "income vs expenses explained simply",
+      "formula": { "en": "What's left = Income − Expenses", "bs": "Ostatak = Prihodi − Rashodi" },
+      "related": ["Revenue", "Cost", "Budget"],
+      "en": {
+        "one": "Income is money coming in. Expenses are money going out.",
+        "explain": "For a person, income is your salary. Expenses are rent, food and bills. For a business, income comes from selling things, and expenses are everything it pays for to keep running. The goal is simple: more in than out.",
+        "example": "You earn €1,500 a month. Rent, food and transport cost €1,200. You have €300 left.",
+        "why": "This is the most basic health check for a person or a business. If expenses are bigger than income for long, you run into trouble.",
+        "mixup": "Income is not the same as profit. Profit is what is left after expenses."
+      },
+      "bs": {
+        "one": "Prihod je novac koji ulazi. Rashod je novac koji izlazi.",
+        "explain": "Za osobu, prihod je plata. Rashodi su kirija, hrana i računi. Za firmu, prihod dolazi od prodaje, a rashodi su sve što firma plaća da bi radila. Cilj je jednostavan: više da uđe nego da izađe.",
+        "example": "Zarađuješ 1.500 € mjesečno. Kirija, hrana i prevoz koštaju 1.200 €. Ostane ti 300 €.",
+        "why": "Ovo je najosnovnija provjera zdravlja za osobu ili firmu. Ako su rashodi duže vrijeme veći od prihoda, nastaju problemi.",
+        "mixup": "Prihod nije isto što i dobit. Dobit je ono što ostane nakon rashoda."
+      }
+    },
+    {
+      "slug": "saving",
+      "term": "Saving",
+      "local": "štednja",
+      "minutes": 5,
+      "youtubeQuery": "why saving money matters explained simply",
+      "related": ["Income & expenses", "Interest", "Compound interest"],
+      "en": {
+        "one": "Saving means keeping part of your money instead of spending it now.",
+        "explain": "When you save, you give up a little today so you have more options tomorrow. Savings protect you when something unexpected happens and give you money to invest or grow a business.",
+        "example": "You put aside €100 every month. After one year you have €1,200 ready for an emergency or an opportunity.",
+        "why": "Businesses save too. They keep a cash cushion so a slow month does not become a crisis.",
+        "mixup": "Saving is not the same as investing. Saving keeps money safe. Investing puts money to work, with some risk."
+      },
+      "bs": {
+        "one": "Štednja znači da dio novca zadržiš umjesto da ga odmah potrošiš.",
+        "explain": "Kad štediš, odrekneš se malo danas da bi sutra imao više izbora. Ušteđevina te štiti kad se desi nešto neočekivano i daje ti novac za ulaganje ili rast biznisa.",
+        "example": "Svaki mjesec odvojiš 100 €. Nakon godinu dana imaš 1.200 € spremnih za hitan slučaj ili priliku.",
+        "why": "I firme štede. Drže rezervu novca da slab mjesec ne postane kriza.",
+        "mixup": "Štednja nije isto što i ulaganje. Štednja čuva novac. Ulaganje stavlja novac da radi, uz određeni rizik."
+      }
+    },
+    {
+      "slug": "inflation",
+      "term": "Inflation",
+      "local": "inflacija",
+      "minutes": 6,
+      "youtubeQuery": "what is inflation explained simply",
+      "related": ["Money", "Interest rate"],
+      "en": {
+        "one": "Inflation means prices go up over time, so the same money buys less.",
+        "explain": "If inflation is 5% a year, something that costs €100 today will cost about €105 next year. Your €100 note did not change, but it buys a little less.",
+        "example": "A coffee cost €1.50 a few years ago. Now it costs €2. That is inflation in your daily life.",
+        "why": "Inflation quietly eats savings kept as cash. Businesses also need to raise prices over time, or their profit shrinks.",
+        "mixup": "One product getting more expensive is not inflation. Inflation is when prices in general go up."
+      },
+      "bs": {
+        "one": "Inflacija znači da cijene vremenom rastu, pa isti novac kupi manje.",
+        "explain": "Ako je inflacija 5% godišnje, nešto što danas košta 100 € iduće godine će koštati oko 105 €. Tvojih 100 € se nije promijenilo, ali kupi malo manje.",
+        "example": "Kafa je prije nekoliko godina koštala 1,50 €. Sad košta 2 €. To je inflacija u tvom svakodnevnom životu.",
+        "why": "Inflacija tiho jede ušteđevinu koju držiš u gotovini. Firme također moraju vremenom dizati cijene, inače im se dobit smanjuje.",
+        "mixup": "Kad samo jedan proizvod poskupi, to nije inflacija. Inflacija je kad cijene općenito rastu."
+      }
+    }
+  ]
+}

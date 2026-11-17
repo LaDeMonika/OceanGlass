@@ -1,0 +1,100 @@
+{
+  "slug": "interest",
+  "title": { "en": "Interest & compound interest", "bs": "Kamata i složena kamata" },
+  "summary": {
+    "en": "The price of borrowing money, and how money can grow on its own over time.",
+    "bs": "Cijena pozajmljivanja novca i kako novac vremenom može rasti sam od sebe."
+  },
+  "concepts": [
+    {
+      "slug": "interest",
+      "term": "Interest",
+      "local": "kamata",
+      "minutes": 4,
+      "youtubeQuery": "what is interest explained simply",
+      "related": ["Interest rate", "Loan", "Saving"],
+      "en": {
+        "one": "Interest is the price you pay for borrowing money, or the reward you get for lending it.",
+        "explain": "When you borrow, you pay back more than you got. That extra is interest. When you put money in a savings account, the bank borrows it from you and pays you interest.",
+        "example": "You borrow €1,000 and must pay back €1,080 after a year. The €80 is interest.",
+        "why": "Almost every business uses loans at some point. Interest is part of what that money really costs.",
+        "mixup": "Interest is not a fee you pay once. It keeps adding up for as long as you owe the money."
+      },
+      "bs": {
+        "one": "Interest (kamata) je cijena koju plaćaš kad pozajmiš novac, ili nagrada koju dobiješ kad ga ti pozajmiš.",
+        "explain": "Kad pozajmiš, vratiš više nego što si dobio. Ta razlika je kamata. Kad staviš novac na štednju, banka ga pozajmljuje od tebe i plaća ti kamatu.",
+        "example": "Pozajmiš 1.000 € i nakon godinu dana moraš vratiti 1.080 €. Tih 80 € je kamata.",
+        "why": "Skoro svaka firma u nekom trenutku koristi kredit. Kamata je dio onoga što taj novac stvarno košta.",
+        "mixup": "Kamata nije naknada koju platiš jednom. Ona se sabira sve dok duguješ novac."
+      }
+    },
+    {
+      "slug": "interest-rate",
+      "term": "Interest rate",
+      "local": "kamatna stopa",
+      "minutes": 5,
+      "youtubeQuery": "interest rate explained simply",
+      "formula": { "en": "Yearly interest = Amount × Interest rate", "bs": "Godišnja kamata = Iznos × Kamatna stopa" },
+      "related": ["Interest", "Inflation", "Loan"],
+      "en": {
+        "one": "The interest rate tells you how much interest you pay, as a percentage of the money, usually per year.",
+        "explain": "A 5% yearly rate on €1,000 means €50 interest a year. Banks set their rates based on risk, inflation and the central bank's rate. Riskier borrowers pay higher rates.",
+        "example": "Bank A offers a loan at 6%, Bank B at 9%. On €10,000 for one year, that is €600 versus €900.",
+        "why": "A few percentage points can mean a big difference in what a loan costs over years.",
+        "mixup": "The advertised rate is not always the full cost. Fees can make a loan more expensive. Look for the total yearly cost (often called APR or EKS)."
+      },
+      "bs": {
+        "one": "Interest rate (kamatna stopa) ti govori koliku kamatu plaćaš, kao postotak od novca, obično godišnje.",
+        "explain": "Godišnja stopa od 5% na 1.000 € znači 50 € kamate godišnje. Banke određuju stope prema riziku, inflaciji i stopi centralne banke. Rizičniji dužnici plaćaju veće stope.",
+        "example": "Banka A nudi kredit uz 6%, banka B uz 9%. Na 10.000 € za godinu dana to je 600 € naspram 900 €.",
+        "why": "Nekoliko postotnih poena može značiti veliku razliku u cijeni kredita kroz godine.",
+        "mixup": "Reklamirana stopa nije uvijek puna cijena. Naknade mogu poskupiti kredit. Gledaj ukupni godišnji trošak (često se zove EKS ili APR)."
+      }
+    },
+    {
+      "slug": "compound-interest",
+      "term": "Compound interest",
+      "local": "složena kamata",
+      "minutes": 6,
+      "youtubeQuery": "compound interest explained simply",
+      "formula": { "en": "End amount = Start × (1 + rate)^years", "bs": "Krajnji iznos = Početni × (1 + stopa)^godine" },
+      "related": ["Interest", "Saving", "Interest rate"],
+      "en": {
+        "one": "Compound interest means you earn interest on your interest, so money grows faster over time.",
+        "explain": "In year one you earn interest on what you put in. In year two you earn interest on that amount plus last year's interest. Each year the pile is bigger, so the growth is bigger too. It works against you on debt in the same way.",
+        "example": "€1,000 at 7% a year: after 10 years it is about €1,967. After 30 years it is about €7,612, without adding anything.",
+        "why": "Time is the secret ingredient. Starting to save early matters more than saving a lot later. And unpaid credit card debt grows the same way.",
+        "mixup": "Simple interest only pays on the starting amount. Compound interest pays on the growing total. Over many years the difference is huge."
+      },
+      "bs": {
+        "one": "Compound interest (složena kamata) znači da zarađuješ kamatu i na kamatu, pa novac vremenom raste sve brže.",
+        "explain": "Prve godine zaradiš kamatu na ono što si uložio. Druge godine zaradiš kamatu na taj iznos plus prošlogodišnju kamatu. Svake godine je gomila veća, pa je i rast veći. Na isti način radi protiv tebe kad imaš dug.",
+        "example": "1.000 € uz 7% godišnje: nakon 10 godina je oko 1.967 €. Nakon 30 godina je oko 7.612 €, a ništa nisi dodao.",
+        "why": "Vrijeme je tajni sastojak. Važnije je rano početi štedjeti nego kasnije štedjeti puno. A neplaćen dug na kreditnoj kartici raste na isti način.",
+        "mixup": "Prosta kamata se računa samo na početni iznos. Složena kamata se računa na rastući ukupni iznos. Kroz mnogo godina razlika je ogromna."
+      }
+    },
+    {
+      "slug": "loans",
+      "term": "Loan",
+      "local": "kredit, zajam",
+      "minutes": 6,
+      "youtubeQuery": "how business loans work explained simply",
+      "related": ["Interest", "Interest rate", "Liability"],
+      "en": {
+        "one": "A loan is money you borrow now and pay back later, in parts, with interest.",
+        "explain": "You agree on the amount, the interest rate and how long you have to pay it back. Then you pay a fixed amount every month. Each payment covers some interest and some of the original amount.",
+        "example": "You borrow €12,000 for a delivery van over 4 years at 7%. You pay about €287 a month. In total you pay back about €13,790.",
+        "why": "Loans let a business buy things now that will help it earn more later. The key question is whether the thing you buy earns more than the loan costs.",
+        "mixup": "A longer loan has smaller monthly payments, but you usually pay more interest in total."
+      },
+      "bs": {
+        "one": "Loan (kredit) je novac koji pozajmiš sada i vraćaš kasnije, u ratama, s kamatom.",
+        "explain": "Dogovoriš iznos, kamatnu stopu i koliko dugo ćeš vraćati. Onda svaki mjesec plaćaš istu ratu. Svaka rata pokriva dio kamate i dio pozajmljenog iznosa.",
+        "example": "Pozajmiš 12.000 € za dostavno vozilo na 4 godine uz 7%. Plaćaš oko 287 € mjesečno. Ukupno vratiš oko 13.790 €.",
+        "why": "Kredit omogućava firmi da sada kupi nešto što će joj pomoći da kasnije zaradi više. Ključno pitanje je da li ono što kupiš zarađuje više nego što kredit košta.",
+        "mixup": "Duži kredit ima manje mjesečne rate, ali ukupno obično platiš više kamate."
+      }
+    }
+  ]
+}

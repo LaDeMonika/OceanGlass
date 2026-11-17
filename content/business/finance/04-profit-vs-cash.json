@@ -1,0 +1,101 @@
+{
+  "slug": "profit-vs-cash",
+  "title": { "en": "Profit vs. cash flow", "bs": "Dobit i novčani tok" },
+  "summary": {
+    "en": "Making a profit and having cash are two different things. This topic shows why.",
+    "bs": "Imati dobit i imati novac su dvije različite stvari. Ova tema pokazuje zašto."
+  },
+  "concepts": [
+    {
+      "slug": "gross-profit",
+      "term": "Gross profit",
+      "local": "bruto dobit",
+      "minutes": 5,
+      "youtubeQuery": "gross profit explained simply",
+      "formula": { "en": "Gross profit = Revenue − Cost of goods sold", "bs": "Bruto dobit = Prihod − Trošak prodane robe" },
+      "related": ["Revenue", "Margin", "Net profit"],
+      "en": {
+        "one": "Gross profit is what is left from sales after paying for the products themselves.",
+        "explain": "Only the direct costs of what you sold are taken away: materials, stock, production. Rent, salaries for the office and marketing are not taken away yet.",
+        "example": "A shop sells clothes for €10,000 in a month. It paid suppliers €6,000 for those clothes. Gross profit is €4,000.",
+        "why": "It shows if your product itself makes money, before everything else.",
+        "mixup": "Gross profit is not the money you take home. Many costs still have to be paid from it."
+      },
+      "bs": {
+        "one": "Gross profit (bruto dobit) je ono što ostane od prodaje kad platiš same proizvode.",
+        "explain": "Oduzimaju se samo direktni troškovi onoga što si prodao: materijal, roba, proizvodnja. Kirija, plate u kancelariji i reklama se još ne oduzimaju.",
+        "example": "Prodavnica u mjesecu proda odjeću za 10.000 €. Dobavljačima je za tu odjeću platila 6.000 €. Bruto dobit je 4.000 €.",
+        "why": "Pokazuje da li sam proizvod donosi novac, prije svega ostalog.",
+        "mixup": "Bruto dobit nije novac koji nosiš kući. Iz nje se još plaćaju mnogi troškovi."
+      }
+    },
+    {
+      "slug": "net-profit",
+      "term": "Net profit",
+      "local": "neto dobit",
+      "minutes": 5,
+      "youtubeQuery": "net profit explained simply",
+      "formula": { "en": "Net profit = Revenue − All costs − Taxes", "bs": "Neto dobit = Prihod − Svi troškovi − Porezi" },
+      "related": ["Gross profit", "Revenue", "Income statement"],
+      "en": {
+        "one": "Net profit is what is left after every single cost and tax has been paid.",
+        "explain": "It is the bottom line: the last number on the income statement. Product costs, rent, wages, marketing, interest and taxes are all taken away.",
+        "example": "The shop has €4,000 gross profit. Rent is €1,500, wages €1,800, other costs €300 and taxes €100. Net profit is €300.",
+        "why": "This is the real answer to the question: did the business make money?",
+        "mixup": "Net profit is not the same as cash. You can have net profit on paper and an empty bank account."
+      },
+      "bs": {
+        "one": "Net profit (neto dobit) je ono što ostane kad se plati baš svaki trošak i porez.",
+        "explain": "To je zadnja linija: posljednji broj u bilansu uspjeha. Oduzimaju se troškovi proizvoda, kirija, plate, reklama, kamate i porezi.",
+        "example": "Prodavnica ima 4.000 € bruto dobiti. Kirija je 1.500 €, plate 1.800 €, ostali troškovi 300 € i porezi 100 €. Neto dobit je 300 €.",
+        "why": "Ovo je pravi odgovor na pitanje: da li je firma zaradila?",
+        "mixup": "Neto dobit nije isto što i gotovina. Možeš imati dobit na papiru i prazan račun u banci."
+      }
+    },
+    {
+      "slug": "cash-flow",
+      "term": "Cash flow",
+      "local": "novčani tok",
+      "minutes": 6,
+      "youtubeQuery": "cash flow explained simply",
+      "formula": { "en": "Cash flow = Cash in − Cash out", "bs": "Novčani tok = Novac koji uđe − Novac koji izađe" },
+      "related": ["Net profit", "Working capital", "Cash flow statement"],
+      "en": {
+        "one": "Cash flow is the real money moving in and out of your bank account.",
+        "explain": "Positive cash flow means more money came in than went out in a period. Negative means more went out. It follows actual payments, not promises.",
+        "example": "In March you send invoices worth €10,000, but customers pay only €4,000. You pay €6,000 in bills. Your cash flow for March is −€2,000.",
+        "why": "Bills, wages and rent are paid with cash, not with profit. Cash flow keeps the lights on.",
+        "mixup": "A sale is not cash until the customer actually pays."
+      },
+      "bs": {
+        "one": "Cash flow (novčani tok) je stvarni novac koji ulazi na tvoj račun i izlazi s njega.",
+        "explain": "Pozitivan novčani tok znači da je u nekom periodu više novca ušlo nego izašlo. Negativan znači da je više izašlo. Prati stvarne uplate, ne obećanja.",
+        "example": "U martu pošalješ fakture od 10.000 €, ali kupci plate samo 4.000 €. Ti platiš 6.000 € računa. Tvoj novčani tok za mart je −2.000 €.",
+        "why": "Računi, plate i kirija se plaćaju gotovinom, a ne dobiti. Novčani tok drži firmu živom.",
+        "mixup": "Prodaja nije novac dok kupac stvarno ne plati."
+      }
+    },
+    {
+      "slug": "profit-is-not-cash",
+      "term": "Why profitable firms run out of cash",
+      "local": "zašto profitabilnim firmama ponestane novca",
+      "minutes": 7,
+      "youtubeQuery": "why profitable companies run out of cash",
+      "related": ["Cash flow", "Net profit", "Working capital"],
+      "en": {
+        "one": "A business can be profitable and still go broke if the cash arrives too late.",
+        "explain": "Profit is counted when you make a sale. Cash arrives when the customer pays, which can be weeks or months later. Meanwhile you still pay suppliers, rent and wages. Fast-growing businesses are most at risk because they spend first and get paid later.",
+        "example": "A furniture maker wins a big order worth €50,000 with payment in 90 days. To build it, he must pay €30,000 for wood and workers now. On paper he made €20,000. In the bank he is €30,000 short.",
+        "why": "This is one of the most common reasons small businesses close. Watching cash, not just profit, protects you.",
+        "mixup": "Running out of cash does not always mean the business idea is bad. Often it is only a timing problem that better planning could fix."
+      },
+      "bs": {
+        "one": "Firma može biti profitabilna i svejedno propasti ako novac stigne prekasno.",
+        "explain": "Dobit se računa kad prodaš. Novac stiže kad kupac plati, a to može biti sedmicama ili mjesecima kasnije. U međuvremenu i dalje plaćaš dobavljače, kiriju i plate. Firme koje brzo rastu su najugroženije, jer prvo troše, a kasnije naplate.",
+        "example": "Stolar dobije veliku narudžbu od 50.000 € s plaćanjem za 90 dana. Da je napravi, mora odmah platiti 30.000 € za drvo i radnike. Na papiru je zaradio 20.000 €. U banci mu fali 30.000 €.",
+        "why": "Ovo je jedan od najčešćih razloga zašto se mali biznisi zatvaraju. Kad pratiš novac, a ne samo dobit, štitiš se.",
+        "mixup": "Kad ponestane novca, to ne znači uvijek da je ideja loša. Često je to samo problem vremena koji bolje planiranje može riješiti."
+      }
+    }
+  ]
+}

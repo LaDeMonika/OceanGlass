@@ -1,0 +1,99 @@
+{
+  "slug": "financial-statements",
+  "title": { "en": "Financial statements", "bs": "Finansijski izvještaji" },
+  "summary": {
+    "en": "The three reports every business produces, and how to read them without being an accountant.",
+    "bs": "Tri izvještaja koja pravi svaka firma i kako ih čitati bez da si računovođa."
+  },
+  "concepts": [
+    {
+      "slug": "income-statement",
+      "term": "Income statement",
+      "local": "bilans uspjeha (račun dobiti i gubitka)",
+      "minutes": 7,
+      "youtubeQuery": "income statement explained simply for beginners",
+      "formula": { "en": "Revenue − Costs = Profit (or loss)", "bs": "Prihod − Troškovi = Dobit (ili gubitak)" },
+      "related": ["Revenue", "Gross profit", "Net profit", "Balance sheet"],
+      "en": {
+        "one": "The income statement shows whether a business made or lost money over a period of time.",
+        "explain": "It reads from top to bottom like a story: revenue at the top, then each type of cost is taken away, until you reach net profit at the bottom. It always covers a period, like a month or a year. It is also called the profit and loss statement, or P&L.",
+        "example": "Café, year 2025: revenue €120,000, product costs €35,000, rent and wages €70,000, other costs €5,000, taxes €2,000. Net profit: €8,000.",
+        "why": "It is the first report most people ask for. It answers: is this business actually earning money?",
+        "mixup": "The income statement covers a period of time. The balance sheet shows a single day."
+      },
+      "bs": {
+        "one": "Income statement (bilans uspjeha) pokazuje da li je firma zaradila ili izgubila novac u nekom periodu.",
+        "explain": "Čita se odozgo prema dole kao priča: prihod na vrhu, pa se oduzima svaka vrsta troška, dok ne dođeš do neto dobiti na dnu. Uvijek pokriva neki period, npr. mjesec ili godinu. Zove se još i račun dobiti i gubitka (P&L).",
+        "example": "Kafić, 2025. godina: prihod 120.000 €, trošak proizvoda 35.000 €, kirija i plate 70.000 €, ostali troškovi 5.000 €, porezi 2.000 €. Neto dobit: 8.000 €.",
+        "why": "To je prvi izvještaj koji većina ljudi traži. Odgovara na pitanje: da li ova firma stvarno zarađuje?",
+        "mixup": "Bilans uspjeha pokriva period. Bilans stanja pokazuje jedan dan."
+      }
+    },
+    {
+      "slug": "cash-flow-statement",
+      "term": "Cash flow statement",
+      "local": "izvještaj o novčanim tokovima",
+      "minutes": 7,
+      "youtubeQuery": "cash flow statement explained simply",
+      "related": ["Cash flow", "Income statement", "Balance sheet"],
+      "en": {
+        "one": "The cash flow statement shows where the real money came from and where it went.",
+        "explain": "It splits cash into three groups. Operating: cash from running the business day to day. Investing: cash spent on or received from things like machines and buildings. Financing: cash from loans and owners, or paid back to them.",
+        "example": "The café earned €15,000 cash from customers after paying its bills (operating), spent €6,000 on a new espresso machine (investing), and paid €4,000 off its loan (financing). Its cash went up by €5,000.",
+        "why": "It shows whether the business makes cash from its real work, or only survives on loans.",
+        "mixup": "A big positive number from financing is not a sign of health. It may just mean the business borrowed a lot."
+      },
+      "bs": {
+        "one": "Cash flow statement (izvještaj o novčanim tokovima) pokazuje odakle je stvarni novac došao i gdje je otišao.",
+        "explain": "Dijeli novac u tri grupe. Poslovne aktivnosti: novac od svakodnevnog rada firme. Investicijske aktivnosti: novac potrošen na ili dobijen od stvari kao što su mašine i zgrade. Finansijske aktivnosti: novac od kredita i vlasnika, ili vraćen njima.",
+        "example": "Kafić je od kupaca, nakon plaćanja računa, zaradio 15.000 € gotovine (poslovne), potrošio 6.000 € na novi aparat za kafu (investicijske) i vratio 4.000 € kredita (finansijske). Novac mu se povećao za 5.000 €.",
+        "why": "Pokazuje da li firma pravi novac od svog stvarnog posla ili preživljava samo na kreditima.",
+        "mixup": "Veliki pozitivan broj kod finansijskih aktivnosti nije znak zdravlja. Može samo značiti da je firma puno pozajmila."
+      }
+    },
+    {
+      "slug": "how-statements-connect",
+      "term": "How the three statements connect",
+      "local": "kako su tri izvještaja povezana",
+      "minutes": 8,
+      "youtubeQuery": "how the three financial statements are linked explained simply",
+      "related": ["Income statement", "Balance sheet", "Cash flow statement"],
+      "en": {
+        "one": "The three reports tell one story from three angles: profit, cash and what you own.",
+        "explain": "Net profit from the income statement is added to equity on the balance sheet. The cash flow statement starts from that profit, adjusts it to show real cash, and its ending cash is the cash on the balance sheet. Change one, and the others change too.",
+        "example": "The café makes €8,000 net profit. Equity on the balance sheet goes up by €8,000. Customers still owe €3,000, so the cash flow statement shows only €5,000 of new cash, and the balance sheet shows €3,000 more in money owed by customers.",
+        "why": "Once you see the links, the numbers stop being separate puzzles and start making sense together.",
+        "mixup": "You do not need to read all three at once. Start with the income statement, then check cash, then the balance sheet."
+      },
+      "bs": {
+        "one": "Tri izvještaja pričaju jednu priču iz tri ugla: dobit, novac i ono što posjeduješ.",
+        "explain": "Neto dobit iz bilansa uspjeha dodaje se kapitalu u bilansu stanja. Izvještaj o novčanim tokovima kreće od te dobiti, prilagodi je da pokaže stvarni novac, a njegov krajnji novac je novac u bilansu stanja. Promijeniš jedan, mijenjaju se i ostali.",
+        "example": "Kafić ostvari 8.000 € neto dobiti. Kapital u bilansu stanja poraste za 8.000 €. Kupci još duguju 3.000 €, pa izvještaj o novčanim tokovima pokazuje samo 5.000 € novog novca, a bilans stanja pokazuje 3.000 € više potraživanja od kupaca.",
+        "why": "Kad vidiš veze, brojevi prestaju biti odvojene zagonetke i počinju imati smisla zajedno.",
+        "mixup": "Ne moraš čitati sva tri odjednom. Počni s bilansom uspjeha, pa provjeri novac, pa bilans stanja."
+      }
+    },
+    {
+      "slug": "red-flags",
+      "term": "Red flags in a financial report",
+      "local": "znakovi upozorenja u izvještaju",
+      "minutes": 8,
+      "youtubeQuery": "red flags in financial statements for beginners",
+      "related": ["Cash flow", "Liability", "Net profit"],
+      "en": {
+        "one": "A few simple warning signs can tell you a business may be in trouble.",
+        "explain": "Watch for: profit going up while cash goes down, debts growing faster than revenue, customers taking longer and longer to pay, stock piling up in the warehouse, and the business needing new loans just to pay old ones.",
+        "example": "A company shows growing profit for three years, but its cash keeps falling and its unpaid customer invoices double each year. That is a signal to look closer.",
+        "why": "You do not need to be an accountant to ask good questions. Spotting these signs early protects your money.",
+        "mixup": "One red flag is not proof of a problem. Look for patterns over several periods."
+      },
+      "bs": {
+        "one": "Nekoliko jednostavnih znakova upozorenja može ti reći da je firma možda u problemu.",
+        "explain": "Pazi na: dobit raste, a novac pada; dugovi rastu brže od prihoda; kupci plaćaju sve sporije; zalihe se gomilaju u skladištu; firmi trebaju novi krediti samo da vrati stare.",
+        "example": "Firma tri godine pokazuje sve veću dobit, ali novac joj stalno pada, a neplaćene fakture kupaca se svake godine udvostruče. To je znak da treba bolje pogledati.",
+        "why": "Ne moraš biti računovođa da postaviš dobra pitanja. Kad rano uočiš ove znakove, štitiš svoj novac.",
+        "mixup": "Jedan znak upozorenja nije dokaz problema. Traži obrasce kroz više perioda."
+      }
+    }
+  ]
+}

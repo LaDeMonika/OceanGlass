@@ -1,0 +1,65 @@
+{
+  "slug": "business",
+  "icon": "briefcase",
+  "title": { "en": "Business", "bs": "Biznis" },
+  "description": {
+    "en": "Finance, accounting, economics, marketing, management and starting a business.",
+    "bs": "Finansije, računovodstvo, ekonomija, marketing, menadžment i pokretanje biznisa."
+  },
+  "degrees": [
+    {
+      "slug": "finance",
+      "icon": "coins",
+      "title": { "en": "Finance & Key Terms", "bs": "Finansije i ključni pojmovi" },
+      "description": {
+        "en": "Money, profit, cash flow and the words every business uses.",
+        "bs": "Novac, dobit, novčani tok i riječi koje koristi svaka firma."
+      }
+    },
+    {
+      "slug": "accounting",
+      "icon": "ledger",
+      "title": { "en": "Accounting Basics", "bs": "Osnove računovodstva" },
+      "description": {
+        "en": "How businesses record money coming in and going out.",
+        "bs": "Kako firme bilježe novac koji ulazi i izlazi."
+      }
+    },
+    {
+      "slug": "economics",
+      "icon": "globe",
+      "title": { "en": "Economics", "bs": "Ekonomija" },
+      "description": {
+        "en": "Why prices change and how markets work.",
+        "bs": "Zašto se cijene mijenjaju i kako tržišta rade."
+      }
+    },
+    {
+      "slug": "marketing",
+      "icon": "mega",
+      "title": { "en": "Marketing", "bs": "Marketing" },
+      "description": {
+        "en": "How businesses find customers and keep them.",
+        "bs": "Kako firme pronalaze kupce i zadržavaju ih."
+      }
+    },
+    {
+      "slug": "management",
+      "icon": "people",
+      "title": { "en": "Management & Leadership", "bs": "Menadžment i liderstvo" },
+      "description": {
+        "en": "Running a team and making good decisions.",
+        "bs": "Vođenje tima i donošenje dobrih odluka."
+      }
+    },
+    {
+      "slug": "entrepreneurship",
+      "icon": "rocket",
+      "title": { "en": "Entrepreneurship", "bs": "Preduzetništvo" },
+      "description": {
+        "en": "Turning an idea into a working business.",
+        "bs": "Kako ideju pretvoriti u biznis koji radi."
+      }
+    }
+  ]
+}
