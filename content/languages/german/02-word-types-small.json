@@ -1,0 +1,289 @@
+{
+  "slug": "word-types-small",
+  "title": {
+    "en": "Word types II: the small words",
+    "bs": "Vrste riječi II: male riječi"
+  },
+  "summary": {
+    "en": "Articles, prepositions, conjunctions, numbers, particles, and a method to identify any word.",
+    "bs": "Članovi, prijedlozi, veznici, brojevi, rječce i metod da prepoznaš bilo koju riječ."
+  },
+  "concepts": [
+    {
+      "slug": "artikel",
+      "term": "der Artikel",
+      "local": "član",
+      "minutes": 16,
+      "youtube": "3TrdPieQ0w4",
+      "youtubeQuery": "German articles der die das ein eine explained",
+      "related": [
+        "das Genus",
+        "das Nomen",
+        "kein"
+      ],
+      "en": {
+        "one": "The Artikel stands before a noun and shows its gender, number and case. Definite: der, die, das (the). Indefinite: ein, eine (a).",
+        "explain": "der = masculine, die = feminine, das = neuter, and die for all plurals. The article changes with the case: der Mann (subject), den Mann (object), dem Mann (to the man). That's why the article is your best tool for spotting the case.",
+        "example": "'Ein Hund spielt im Garten. Der Hund ist braun.' First mention: ein; then: der.",
+        "why": "Learn every noun with its article. 'Tisch' alone is useless; 'der Tisch' tells you how to use it.",
+        "mixup": "There's no indefinite article in the plural: 'ein Buch', but 'Bücher' (books), not 'eine Bücher'."
+      },
+      "bs": {
+        "one": "Artikel je član: stoji ispred imenice i pokazuje rod, broj i padež. Određeni: der, die, das. Neodređeni: ein, eine.",
+        "explain": "der = muški rod, die = ženski, das = srednji, i die za svu množinu. Član se mijenja po padežu: der Mann (subjekat), den Mann (objekat), dem Mann (muškarcu). Zato je član tvoj najbolji alat da prepoznaš padež.",
+        "example": "'Ein Hund spielt im Garten. Der Hund ist braun.' Prvi put: ein; poslije: der.",
+        "why": "Uči svaku imenicu s članom. Samo 'Tisch' ne pomaže; 'der Tisch' ti kaže kako je koristiti.",
+        "mixup": "U množini nema neodređenog člana: 'ein Buch', ali 'Bücher' (knjige), ne 'eine Bücher'."
+      }
+    },
+    {
+      "slug": "praeposition",
+      "term": "die Präposition",
+      "local": "prijedlog",
+      "minutes": 8,
+      "youtube": "gxJ2ghkTBCs",
+      "youtubeQuery": "German prepositions explained cases",
+      "related": [
+        "Präpositionen mit Akkusativ",
+        "Präpositionen mit Dativ",
+        "Wechselpräpositionen"
+      ],
+      "en": {
+        "one": "A Präposition is a small word before a noun that shows place, time or relation: in, auf, mit, für, nach, von, zu.",
+        "explain": "How to spot it: it is followed by a noun or pronoun group (mit dem Bus, für mich). The big German rule: every preposition decides the case of the noun after it. 'mit' always takes the dative, 'für' always takes the accusative.",
+        "example": "'Ich fahre mit dem Bus zur Arbeit.' mit and zu are prepositions; zur = zu + der.",
+        "why": "Prepositions are one of the main ways you meet cases in real sentences.",
+        "mixup": "Prepositions often merge with the article: in + dem = im, zu + der = zur, an + das = ans."
+      },
+      "bs": {
+        "one": "Präposition je prijedlog: kratka riječ ispred imenice koja pokazuje mjesto, vrijeme ili odnos: in, auf, mit, für, nach, von, zu.",
+        "explain": "Kako ga prepoznati: iza njega dolazi imenica ili zamjenica (mit dem Bus, für mich). Veliko njemačko pravilo: svaki prijedlog određuje padež imenice iza sebe, isto kao u bosanskom ('s + instrumental', 'bez + genitiv'). 'mit' uvijek traži dativ, 'für' akuzativ.",
+        "example": "'Ich fahre mit dem Bus zur Arbeit.' mit i zu su prijedlozi; zur = zu + der.",
+        "why": "Prijedlozi su jedan od glavnih načina kako ćeš sretati padeže u stvarnim rečenicama.",
+        "mixup": "Prijedlozi se često stapaju s članom: in + dem = im, zu + der = zur, an + das = ans."
+      }
+    },
+    {
+      "slug": "konjunktion",
+      "term": "die Konjunktion",
+      "local": "veznik",
+      "minutes": 20,
+      "youtube": "ixvgSNalFBg",
+      "youtubeQuery": "German conjunctions und aber denn weil dass",
+      "related": [
+        "der Nebensatz",
+        "die Satzstellung (V2)"
+      ],
+      "en": {
+        "one": "A Konjunktion links words or clauses: und, aber, oder, denn, weil, dass, wenn.",
+        "explain": "There are two kinds, and they change word order differently. 'und, aber, oder, denn, sondern' just connect; the word order stays normal. 'weil, dass, wenn, ob, obwohl' start a subordinate clause and push the verb to the very end.",
+        "example": "'Ich bleibe zu Hause, denn ich bin krank.' vs. 'Ich bleibe zu Hause, weil ich krank bin.' Same meaning, different verb position.",
+        "why": "Conjunctions are the gateway to longer sentences, and to the verb-at-the-end rule.",
+        "mixup": "'denn' and 'weil' both mean 'because', but only 'weil' sends the verb to the end."
+      },
+      "bs": {
+        "one": "Konjunktion je veznik: spaja riječi ili rečenice: und, aber, oder, denn, weil, dass, wenn.",
+        "explain": "Postoje dvije vrste i različito mijenjaju red riječi. 'und, aber, oder, denn, sondern' samo spajaju; red riječi ostaje normalan. 'weil, dass, wenn, ob, obwohl' počinju zavisnu rečenicu i guraju glagol na sam kraj.",
+        "example": "'Ich bleibe zu Hause, denn ich bin krank.' i 'Ich bleibe zu Hause, weil ich krank bin.' Isto značenje, drugo mjesto glagola.",
+        "why": "Veznici su ulaz u duže rečenice i u pravilo 'glagol na kraj'.",
+        "mixup": "'denn' i 'weil' znače 'jer', ali samo 'weil' šalje glagol na kraj."
+      }
+    },
+    {
+      "slug": "zahlwort",
+      "term": "das Zahlwort",
+      "local": "broj",
+      "minutes": 7,
+      "youtube": "QCGdeH4hYdo",
+      "youtubeQuery": "German numbers 1 to 100",
+      "related": [
+        "das Nomen",
+        "der Artikel"
+      ],
+      "en": {
+        "one": "Zahlwörter (Numerale) are number words: eins, zwei, drei (cardinal) and erste, zweite, dritte (ordinal).",
+        "explain": "Numbers 21 to 99 are said 'backwards': 21 = einundzwanzig (one-and-twenty). Ordinals add -te up to 19 (der vierte) and -ste from 20 (der zwanzigste), with exceptions: erste, dritte, siebte. Dates use ordinals: am dritten Mai.",
+        "example": "'Ich bin vierunddreißig Jahre alt und wohne im zweiten Stock.'",
+        "why": "Prices, times, ages, phone numbers and dates all need numbers, and the backwards order trips up everyone at first.",
+        "mixup": "Write numbers as one word: 'vierunddreißig', never 'vier und dreißig'."
+      },
+      "bs": {
+        "one": "Zahlwörter (Numerale) su brojevi: eins, zwei, drei (glavni) i erste, zweite, dritte (redni).",
+        "explain": "Brojevi od 21 do 99 se govore 'unazad': 21 = einundzwanzig (jedan-i-dvadeset). Redni brojevi dobijaju -te do 19 (der vierte) i -ste od 20 (der zwanzigste), s izuzecima: erste, dritte, siebte. Datumi koriste redne: am dritten Mai.",
+        "example": "'Ich bin vierunddreißig Jahre alt und wohne im zweiten Stock.'",
+        "why": "Cijene, sati, godine, telefoni i datumi trebaju brojeve, a obrnuti red u početku zbuni svakoga.",
+        "mixup": "Brojeve piši kao jednu riječ: 'vierunddreißig', nikad 'vier und dreißig'."
+      }
+    },
+    {
+      "slug": "partikel",
+      "term": "Partikeln und Interjektionen",
+      "local": "rječce i uzvici",
+      "minutes": 15,
+      "youtube": "q7stqA843Fg",
+      "youtubeQuery": "German modal particles doch mal ja",
+      "related": [
+        "das Adverb"
+      ],
+      "en": {
+        "one": "Partikeln are small words that add tone, not content: doch, mal, ja, denn, eben. Interjektionen are exclamations: ach, oh, au, na ja.",
+        "explain": "Particles never change form and can't start a sentence. They make German sound natural and polite. 'Komm mal her' is softer than 'Komm her'. 'Doch' also answers a negative question with 'yes': 'Kommst du nicht?' – 'Doch!'.",
+        "example": "'Das ist ja interessant!' (oh, that's interesting!) 'Mach doch mal Pause.' (why don't you take a break)",
+        "why": "Native speakers use particles all the time. Recognising them stops you trying to translate them word for word.",
+        "mixup": "'ja' as a particle isn't 'yes'. In 'Das ist ja toll', it just adds surprise."
+      },
+      "bs": {
+        "one": "Partikeln su rječce koje dodaju ton, ne sadržaj: doch, mal, ja, denn, eben. Interjektionen su uzvici: ach, oh, au, na ja.",
+        "explain": "Rječce nikad ne mijenjaju oblik i ne mogu početi rečenicu. Čine njemački prirodnim i ljubaznim. 'Komm mal her' je mekše od 'Komm her'. 'Doch' odgovara 'da' na negativno pitanje: 'Kommst du nicht?' – 'Doch!' (Pa dolazim!).",
+        "example": "'Das ist ja interessant!' (pa to je zanimljivo!) 'Mach doch mal Pause.' (de odmori malo)",
+        "why": "Izvorni govornici ih stalno koriste. Kad ih prepoznaš, nećeš ih pokušavati prevesti riječ po riječ.",
+        "mixup": "'ja' kao rječca nije 'da'. U 'Das ist ja toll' samo dodaje iznenađenje."
+      }
+    },
+    {
+      "slug": "wortart-erkennen",
+      "term": "Spotting the word type",
+      "local": "kako prepoznati vrstu riječi",
+      "minutes": 10,
+      "youtube": "n6db5VSUm2o",
+      "youtubeQuery": "German sentence structure parts of speech beginner",
+      "related": [
+        "die Wortarten",
+        "das Nomen",
+        "das Verb"
+      ],
+      "en": {
+        "one": "A quick method to find the type of any German word in four questions.",
+        "explain": "1. Capital letter in the middle of a sentence, or der/die/das/ein in front? → Nomen. 2. Does it change with ich/du/er, or end in -en in the dictionary? → Verb. 3. Does it describe a noun and take an ending before it? → Adjektiv. 4. Does it never change? Then it's an Adverb, Präposition (noun follows), Konjunktion (links clauses) or Partikel.",
+        "example": "'Im Sommer fahren wir oft mit dem Auto ans Meer.' Nouns: Sommer, Auto, Meer. Verb: fahren. Adverb: oft. Prepositions: im, mit, ans. Pronoun: wir.",
+        "why": "This habit turns long, scary sentences into pieces you can understand.",
+        "mixup": "Words can change type: 'das Essen' (the food, noun) and 'essen' (to eat, verb). The capital letter tells you which."
+      },
+      "bs": {
+        "one": "Brz metod da odrediš vrstu bilo koje njemačke riječi u četiri pitanja.",
+        "explain": "1. Veliko slovo usred rečenice ili der/die/das/ein ispred? → Nomen. 2. Mijenja li se s ich/du/er ili u rječniku završava na -en? → Verb. 3. Opisuje li imenicu i dobija nastavak ispred nje? → Adjektiv. 4. Nikad se ne mijenja? Onda je Adverb, Präposition (iza ide imenica), Konjunktion (spaja rečenice) ili Partikel.",
+        "example": "'Im Sommer fahren wir oft mit dem Auto ans Meer.' Imenice: Sommer, Auto, Meer. Glagol: fahren. Prilog: oft. Prijedlozi: im, mit, ans. Zamjenica: wir.",
+        "why": "Ova navika pretvara duge, strašne rečenice u dijelove koje razumiješ.",
+        "mixup": "Riječi mogu promijeniti vrstu: 'das Essen' (hrana, imenica) i 'essen' (jesti, glagol). Veliko slovo ti kaže koja je."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "Which article goes with a plural noun?",
+        "bs": "Koji član ide uz imenicu u množini?"
+      },
+      "options": [
+        {
+          "en": "der",
+          "bs": "der"
+        },
+        {
+          "en": "das",
+          "bs": "das"
+        },
+        {
+          "en": "ein",
+          "bs": "ein"
+        },
+        {
+          "en": "die",
+          "bs": "die"
+        }
+      ],
+      "answer": 3,
+      "explain": {
+        "en": "All plurals use 'die' in the nominative.",
+        "bs": "Sva množina koristi 'die' u nominativu."
+      }
+    },
+    {
+      "q": {
+        "en": "Which sentence is correct?",
+        "bs": "Koja rečenica je tačna?"
+      },
+      "options": [
+        {
+          "en": "Ich lerne, weil ich habe Zeit.",
+          "bs": "Ich lerne, weil ich habe Zeit."
+        },
+        {
+          "en": "Ich lerne, denn ich Zeit habe.",
+          "bs": "Ich lerne, denn ich Zeit habe."
+        },
+        {
+          "en": "Ich lerne, weil habe ich Zeit.",
+          "bs": "Ich lerne, weil habe ich Zeit."
+        },
+        {
+          "en": "Ich lerne, weil ich Zeit habe.",
+          "bs": "Ich lerne, weil ich Zeit habe."
+        }
+      ],
+      "answer": 3,
+      "explain": {
+        "en": "'weil' sends the verb to the end.",
+        "bs": "'weil' šalje glagol na kraj."
+      }
+    },
+    {
+      "q": {
+        "en": "How do you say 45?",
+        "bs": "Kako se kaže 45?"
+      },
+      "options": [
+        {
+          "en": "fünfundvierzig",
+          "bs": "fünfundvierzig"
+        },
+        {
+          "en": "vierzigfünf",
+          "bs": "vierzigfünf"
+        },
+        {
+          "en": "vierundfünfzig",
+          "bs": "vierundfünfzig"
+        },
+        {
+          "en": "fünf und vierzig",
+          "bs": "fünf und vierzig"
+        }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Ones first, then tens, written as one word.",
+        "bs": "Prvo jedinice, pa desetice, jednom riječju."
+      }
+    },
+    {
+      "q": {
+        "en": "In 'Wir essen um acht', what is 'essen'?",
+        "bs": "U 'Wir essen um acht', šta je 'essen'?"
+      },
+      "options": [
+        {
+          "en": "a verb",
+          "bs": "glagol"
+        },
+        {
+          "en": "a noun",
+          "bs": "imenica"
+        },
+        {
+          "en": "an adjective",
+          "bs": "pridjev"
+        },
+        {
+          "en": "a preposition",
+          "bs": "prijedlog"
+        }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Lower case and conjugated with 'wir': a verb.",
+        "bs": "Malim slovom i konjugiran uz 'wir': glagol."
+      }
+    }
+  ]
+}

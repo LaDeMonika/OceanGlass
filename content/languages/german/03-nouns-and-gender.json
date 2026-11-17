@@ -1,0 +1,287 @@
+{
+  "slug": "nouns-and-gender",
+  "title": {
+    "en": "Nouns, gender and plural",
+    "bs": "Imenice, rod i množina"
+  },
+  "summary": {
+    "en": "der, die or das? Clues for guessing the gender, the plural forms, ein and kein, and long compound nouns.",
+    "bs": "der, die ili das? Znakovi za rod, oblici množine, ein i kein, i duge složene imenice."
+  },
+  "concepts": [
+    {
+      "slug": "genus",
+      "term": "das Genus",
+      "local": "gramatički rod",
+      "minutes": 16,
+      "youtube": "IFsEX4ZY6bc",
+      "youtubeQuery": "German noun gender der die das explained",
+      "related": [
+        "der Artikel",
+        "Genus-Regeln"
+      ],
+      "en": {
+        "one": "Every German noun has a grammatical gender (Genus): masculine (der), feminine (die) or neuter (das).",
+        "explain": "Gender is grammatical, not about meaning: der Tisch (table) is masculine, die Lampe is feminine, das Mädchen (girl) is neuter. Bosnian/Croatian has genders too, but they often don't match German: die Sonne (sun) is feminine but 'sunce' is neuter.",
+        "example": "der Löffel (spoon), die Gabel (fork), das Messer (knife). Three pieces of cutlery, three genders.",
+        "why": "The gender decides the article, the adjective ending and the pronoun. A wrong gender ripples through the whole sentence.",
+        "mixup": "Never learn a noun without its article. Write it with colours if that helps: blue for der, red for die, green for das."
+      },
+      "bs": {
+        "one": "Svaka njemačka imenica ima gramatički rod (Genus): muški (der), ženski (die) ili srednji (das).",
+        "explain": "Rod je gramatički, ne po značenju: der Tisch (stol/sto) je muški, die Lampe ženski, das Mädchen (djevojčica) srednji. Bosanski/hrvatski isto ima rodove, ali se često ne poklapaju: die Sonne je ženski rod, a 'sunce' srednji.",
+        "example": "der Löffel (kašika/žlica), die Gabel (viljuška/vilica), das Messer (nož). Tri komada pribora, tri roda.",
+        "why": "Rod određuje član, nastavak pridjeva i zamjenicu. Pogrešan rod se prenosi kroz cijelu rečenicu.",
+        "mixup": "Nikad ne uči imenicu bez člana. Piši bojama ako pomaže: plavo za der, crveno za die, zeleno za das."
+      }
+    },
+    {
+      "slug": "genus-regeln",
+      "term": "Genus-Regeln",
+      "local": "pravila za rod",
+      "minutes": 8,
+      "youtube": "cyRDSqopIyA",
+      "youtubeQuery": "German noun gender rules endings",
+      "related": [
+        "das Genus",
+        "der Artikel"
+      ],
+      "en": {
+        "one": "You can't always guess the gender, but word endings give strong clues.",
+        "explain": "Always die: -ung, -heit, -keit, -schaft, -ion, -tät, -ei (die Zeitung, die Freiheit). Always das: -chen, -lein (das Häuschen), and most words with -um, -ment. Usually der: -er for people and tools (der Lehrer, der Computer), -ismus, -ling, days, months, seasons. Female people often end in -in: die Lehrerin.",
+        "example": "die Wohnung, die Gesundheit, die Universität, das Brötchen, der Montag, der Winter.",
+        "why": "These rules cover a large share of everyday nouns and save you lots of memorising.",
+        "mixup": "Compound nouns take the gender of the LAST part: das Haus + die Tür = die Haustür."
+      },
+      "bs": {
+        "one": "Rod ne možeš uvijek pogoditi, ali završeci riječi daju jake znakove.",
+        "explain": "Uvijek die: -ung, -heit, -keit, -schaft, -ion, -tät, -ei (die Zeitung, die Freiheit). Uvijek das: -chen, -lein (das Häuschen) i većina na -um, -ment. Obično der: -er za ljude i alate (der Lehrer, der Computer), -ismus, -ling, dani, mjeseci, godišnja doba. Žene često završavaju na -in: die Lehrerin.",
+        "example": "die Wohnung, die Gesundheit, die Universität, das Brötchen, der Montag, der Winter.",
+        "why": "Ova pravila pokrivaju veliki dio svakodnevnih imenica i štede ti mnogo učenja napamet.",
+        "mixup": "Složenice uzimaju rod ZADNJEG dijela: das Haus + die Tür = die Haustür."
+      }
+    },
+    {
+      "slug": "plural",
+      "term": "der Plural",
+      "local": "množina",
+      "minutes": 10,
+      "youtube": "3Aqc5WDKO9A",
+      "youtubeQuery": "German plural nouns rules",
+      "related": [
+        "der Artikel",
+        "das Nomen"
+      ],
+      "en": {
+        "one": "German has several plural endings, and the article in the plural is always 'die'.",
+        "explain": "The main patterns: -e (der Tag → die Tage), -er with umlaut (das Buch → die Bücher), -n/-en (die Frau → die Frauen), -s for foreign words (das Auto → die Autos), and no change for many -er/-el nouns (der Lehrer → die Lehrer). Feminine nouns mostly take -n/-en.",
+        "example": "ein Kind → zwei Kinder, eine Stadt → zwei Städte, ein Handy → zwei Handys.",
+        "why": "Plurals appear in every conversation, and in the dative plural they add an extra -n: mit den Kindern.",
+        "mixup": "Learn the plural together with the noun: 'der Tisch, die Tische'. Dictionaries always show it."
+      },
+      "bs": {
+        "one": "Njemački ima više nastavaka za množinu, a član u množini je uvijek 'die'.",
+        "explain": "Glavni obrasci: -e (der Tag → die Tage), -er s preglasom (das Buch → die Bücher), -n/-en (die Frau → die Frauen), -s za strane riječi (das Auto → die Autos), i bez promjene za mnoge na -er/-el (der Lehrer → die Lehrer). Ženski rod uglavnom dobija -n/-en.",
+        "example": "ein Kind → zwei Kinder, eine Stadt → zwei Städte, ein Handy → zwei Handys.",
+        "why": "Množina je u svakom razgovoru, a u dativu množine dodaje se još -n: mit den Kindern.",
+        "mixup": "Uči množinu zajedno s imenicom: 'der Tisch, die Tische'. Rječnici je uvijek pokazuju."
+      }
+    },
+    {
+      "slug": "ein-eine",
+      "term": "ein, eine (indefinite article)",
+      "local": "neodređeni član",
+      "minutes": 5,
+      "youtube": "6Of-BqbiNLM",
+      "youtubeQuery": "German indefinite article ein eine einen",
+      "related": [
+        "der Artikel",
+        "kein"
+      ],
+      "en": {
+        "one": "'ein' and 'eine' mean 'a/an'. Use them for something mentioned for the first time or not specific.",
+        "explain": "ein for masculine and neuter (ein Mann, ein Kind), eine for feminine (eine Frau). They also change with the case: Ich habe einen Bruder (masculine accusative). Germans leave out the article with jobs and nationalities: 'Ich bin Lehrer.'",
+        "example": "'Ich suche eine Wohnung. Die Wohnung soll einen Balkon haben.'",
+        "why": "You'll use 'ein' in nearly every description of what you have or need.",
+        "mixup": "No article before a job: 'Sie ist Ärztin', not 'Sie ist eine Ärztin' (English needs one, German doesn't)."
+      },
+      "bs": {
+        "one": "'ein' i 'eine' su neodređeni član ('neki, jedan'). Koristiš ih za nešto što spominješ prvi put ili nije određeno.",
+        "explain": "ein za muški i srednji rod (ein Mann, ein Kind), eine za ženski (eine Frau). I oni se mijenjaju po padežu: Ich habe einen Bruder (muški, akuzativ). Uz zanimanja i nacionalnosti Nijemci ne stavljaju član: 'Ich bin Lehrer.'",
+        "example": "'Ich suche eine Wohnung. Die Wohnung soll einen Balkon haben.'",
+        "why": "Koristićeš 'ein' u skoro svakom opisu šta imaš ili trebaš.",
+        "mixup": "Bez člana uz zanimanje: 'Sie ist Ärztin', ne 'Sie ist eine Ärztin'."
+      }
+    },
+    {
+      "slug": "kein",
+      "term": "kein (negative article)",
+      "local": "nijedan, nemam",
+      "minutes": 10,
+      "youtube": "vC_7XBaqsc4",
+      "youtubeQuery": "kein vs nicht German",
+      "related": [
+        "nicht",
+        "ein, eine (indefinite article)"
+      ],
+      "en": {
+        "one": "'kein' means 'no / not a / not any' and negates a noun that would otherwise have 'ein' or no article.",
+        "explain": "It works like ein: kein Mann, keine Frau, kein Kind, and keine for the plural. It takes the same case endings: Ich habe keinen Hunger. Rule: if the noun has ein or no article → kein. Everything else (verbs, adjectives, nouns with der/die/das) → nicht.",
+        "example": "'Ich habe ein Auto.' → 'Ich habe kein Auto.' 'Ich habe Zeit.' → 'Ich habe keine Zeit.'",
+        "why": "Saying what you don't have or don't want comes up all the time, and kein vs nicht is a classic beginner trap.",
+        "mixup": "Don't say 'Ich habe nicht ein Auto' or 'Ich habe nicht Zeit'. With nouns like these German uses 'kein'."
+      },
+      "bs": {
+        "one": "'kein' znači 'nijedan / nema' i negira imenicu koja bi inače imala 'ein' ili nikakav član.",
+        "explain": "Radi kao ein: kein Mann, keine Frau, kein Kind, i keine za množinu. Dobija iste padežne nastavke: Ich habe keinen Hunger. Pravilo: imenica s ein ili bez člana → kein. Sve ostalo (glagoli, pridjevi, imenice s der/die/das) → nicht.",
+        "example": "'Ich habe ein Auto.' → 'Ich habe kein Auto.' 'Ich habe Zeit.' → 'Ich habe keine Zeit.'",
+        "why": "Reći šta nemaš ili ne želiš je stalno potrebno, a kein ili nicht je klasična greška početnika.",
+        "mixup": "Ne govori 'Ich habe nicht ein Auto' ni 'Ich habe nicht Zeit'. Uz ovakve imenice ide 'kein'."
+      }
+    },
+    {
+      "slug": "komposita",
+      "term": "Komposita (compound nouns)",
+      "local": "složenice",
+      "minutes": 7,
+      "youtube": "iqArp8rLOI4",
+      "youtubeQuery": "German compound nouns explained",
+      "related": [
+        "Genus-Regeln",
+        "das Nomen"
+      ],
+      "en": {
+        "one": "German glues nouns together into one long word: das Kranken + das Haus = das Krankenhaus (hospital).",
+        "explain": "Read compounds from the end: the last part is the main thing, the parts before it describe it. die Haustür = a door of a house. The gender always comes from the last part. Sometimes a linking -s- or -n- appears: die Arbeitszeit, die Straßenbahn.",
+        "example": "der Kühlschrank (cool + cupboard = fridge), die Handschuhe (hand + shoes = gloves), das Lieblingsessen (favourite food).",
+        "why": "Instead of fearing long words, you can split them and often guess the meaning yourself.",
+        "mixup": "Write compounds as one word: 'Bushaltestelle', not 'Bus Haltestelle'."
+      },
+      "bs": {
+        "one": "Njemački lijepi imenice u jednu dugu riječ: das Kranken + das Haus = das Krankenhaus (bolnica).",
+        "explain": "Čitaj složenice od kraja: zadnji dio je glavna stvar, a dijelovi prije ga opisuju. die Haustür = vrata od kuće. Rod uvijek dolazi od zadnjeg dijela. Ponekad se pojavi spojno -s- ili -n-: die Arbeitszeit, die Straßenbahn.",
+        "example": "der Kühlschrank (hladni + ormar = frižider), die Handschuhe (ruka + cipele = rukavice), das Lieblingsessen (omiljeno jelo).",
+        "why": "Umjesto da se plašiš dugih riječi, možeš ih rastaviti i često sam pogoditi značenje.",
+        "mixup": "Složenice piši kao jednu riječ: 'Bushaltestelle', ne 'Bus Haltestelle'."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "What is the article of 'Zeitung'?",
+        "bs": "Koji je član riječi 'Zeitung'?"
+      },
+      "options": [
+        {
+          "en": "der",
+          "bs": "der"
+        },
+        {
+          "en": "das",
+          "bs": "das"
+        },
+        {
+          "en": "die",
+          "bs": "die"
+        },
+        {
+          "en": "den",
+          "bs": "den"
+        }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "Nouns ending in -ung are always feminine.",
+        "bs": "Imenice na -ung su uvijek ženskog roda."
+      }
+    },
+    {
+      "q": {
+        "en": "What is the gender of 'Haustür'?",
+        "bs": "Koji je rod riječi 'Haustür'?"
+      },
+      "options": [
+        {
+          "en": "das, from Haus",
+          "bs": "das, od Haus"
+        },
+        {
+          "en": "der",
+          "bs": "der"
+        },
+        {
+          "en": "it has none",
+          "bs": "nema roda"
+        },
+        {
+          "en": "die, from Tür",
+          "bs": "die, od Tür"
+        }
+      ],
+      "answer": 3,
+      "explain": {
+        "en": "Compounds take the gender of the last part.",
+        "bs": "Složenice uzimaju rod zadnjeg dijela."
+      }
+    },
+    {
+      "q": {
+        "en": "Which is correct?",
+        "bs": "Šta je tačno?"
+      },
+      "options": [
+        {
+          "en": "Ich habe keine Zeit.",
+          "bs": "Ich habe keine Zeit."
+        },
+        {
+          "en": "Ich habe nicht Zeit.",
+          "bs": "Ich habe nicht Zeit."
+        },
+        {
+          "en": "Ich habe nicht eine Zeit.",
+          "bs": "Ich habe nicht eine Zeit."
+        },
+        {
+          "en": "Ich habe kein Zeit.",
+          "bs": "Ich habe kein Zeit."
+        }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "A noun without an article is negated with kein; Zeit is feminine, so keine.",
+        "bs": "Imenica bez člana se negira s kein; Zeit je ženski rod, pa keine."
+      }
+    },
+    {
+      "q": {
+        "en": "Which is correct?",
+        "bs": "Šta je tačno?"
+      },
+      "options": [
+        {
+          "en": "Er ist Lehrer.",
+          "bs": "Er ist Lehrer."
+        },
+        {
+          "en": "Er ist ein Lehrer.",
+          "bs": "Er ist ein Lehrer."
+        },
+        {
+          "en": "Er ist der Lehrer von Beruf.",
+          "bs": "Er ist der Lehrer von Beruf."
+        },
+        {
+          "en": "Er Lehrer ist.",
+          "bs": "Er Lehrer ist."
+        }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "No article before a job.",
+        "bs": "Bez člana uz zanimanje."
+      }
+    }
+  ]
+}

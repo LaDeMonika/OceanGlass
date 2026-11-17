@@ -1,0 +1,219 @@
+{
+  "slug": "building-sentences",
+  "title": {
+    "en": "Building better sentences",
+    "bs": "Bolje i duže rečenice"
+  },
+  "summary": {
+    "en": "Comparatives, adverbs of frequency, in/on/at for time, the first conditional, relative clauses and linking words.",
+    "bs": "Poređenje, prilozi učestalosti, in/on/at za vrijeme, prvi kondicional, odnosne rečenice i riječi za povezivanje."
+  },
+  "concepts": [
+    {
+      "slug": "comparatives",
+      "term": "Comparatives and superlatives",
+      "local": "komparativ i superlativ",
+      "minutes": 10,
+      "youtube": "oGr7l3q7SMI",
+      "youtubeQuery": "comparative and superlative adjectives english rules",
+      "related": [
+        "Adjective"
+      ],
+      "bs": {
+        "one": "Komparativ poredi dvije stvari (bigger than), superlativ izdvaja najveću iz grupe (the biggest).",
+        "explain": "Kratki pridjevi: -er / the -est (cheap → cheaper → the cheapest; big → bigger, udvaja se suglasnik; happy → happier). Dugi pridjevi: more / the most (expensive → more expensive → the most expensive). Nepravilni: good → better → the best, bad → worse → the worst, far → further → the furthest. Poslije komparativa ide 'than'.",
+        "example": "'Zagreb is bigger than Mostar. Sarajevo is the biggest city in Bosnia.'",
+        "why": "Poređenje ti treba stalno: kupovina, posao, opis ljudi i mjesta.",
+        "mixup": "Ne kombinuj oba načina: 'more bigger' je pogrešno. Ili -er ili more, nikad oba."
+      }
+    },
+    {
+      "slug": "adverbs-of-frequency",
+      "term": "Adverbs of frequency",
+      "local": "prilozi učestalosti",
+      "minutes": 4,
+      "youtube": "NNHy0kzs0MU",
+      "youtubeQuery": "adverbs of frequency always usually often sometimes never",
+      "related": [
+        "Adverb",
+        "Present simple"
+      ],
+      "bs": {
+        "one": "Prilozi učestalosti kažu koliko često: always (uvijek), usually (obično), often (često), sometimes (ponekad), rarely (rijetko), never (nikad).",
+        "explain": "Mjesto u rečenici je važno: ispred glavnog glagola (I often cook), ali iza 'be' (She is always late). Uz pomoćni glagol stoje između: 'I have never been there', 'I don't usually eat breakfast'.",
+        "example": "'I always drink coffee in the morning, but I never drink it after 6.'",
+        "why": "Ovim pričaš o navikama, što je jedna od glavnih tema na početnim nivoima.",
+        "mixup": "'I go always to work by bus' je pogrešno. Prilog ide ispred glagola: 'I always go to work by bus'."
+      }
+    },
+    {
+      "slug": "prepositions-of-time",
+      "term": "In, on, at for time",
+      "local": "in, on, at za vrijeme",
+      "minutes": 5,
+      "youtube": "fRrVkXG0-v4",
+      "youtubeQuery": "prepositions of time in on at english",
+      "related": [
+        "Preposition"
+      ],
+      "bs": {
+        "one": "Za vrijeme engleski koristi tri prijedloga: at za tačno vrijeme, on za dane i datume, in za duže periode.",
+        "explain": "AT: at 5 o'clock, at night, at the weekend (brit.). ON: on Monday, on 3 May, on my birthday. IN: in May, in 2024, in summer, in the morning. Pravilo piramide: in (široko) → on (dan) → at (tačka). Bez prijedloga: today, tomorrow, yesterday, next week, last year, every day.",
+        "example": "'I start work at 8 on Mondays, but in summer I start at 7.'",
+        "why": "Ovo se koristi u gotovo svakom dogovoru i rasporedu.",
+        "mixup": "'In the morning' ali 'on Monday morning'. Kad se doda dan, prelazi se na 'on'."
+      }
+    },
+    {
+      "slug": "first-conditional",
+      "term": "First conditional (if)",
+      "local": "prvi kondicional",
+      "minutes": 5,
+      "youtube": "s59ygVYxpag",
+      "youtubeQuery": "first conditional english if will",
+      "related": [
+        "Will",
+        "Conjunction"
+      ],
+      "bs": {
+        "one": "Prvi kondicional govori o stvarnoj mogućnosti u budućnosti: If it rains, I will stay at home.",
+        "explain": "Formula: If + present simple, will + glagol. U dijelu s 'if' NE ide will, iako se radi o budućnosti. Dijelovi mogu zamijeniti mjesta: 'I will stay at home if it rains' (bez zareza). Postoji i nulti kondicional za opšte istine: If you heat ice, it melts (present + present).",
+        "example": "'If you finish early, we'll go to the cinema.' 'If I see Ana, I'll tell her.'",
+        "why": "Uslovi i dogovori na poslu i u životu svi koriste ovu strukturu.",
+        "mixup": "'If it will rain' je pogrešno. Poslije 'if' ide present: 'If it rains'."
+      }
+    },
+    {
+      "slug": "relative-clauses",
+      "term": "Relative clauses: who, which, that",
+      "local": "odnosne rečenice",
+      "minutes": 7,
+      "youtube": "eFmfoeTkhH0",
+      "youtubeQuery": "relative clauses who which that english grammar",
+      "related": [
+        "Conjunction",
+        "Pronoun"
+      ],
+      "bs": {
+        "one": "Odnosna rečenica daje više informacija o imenici, kao bosanski 'koji/koja/koje': the man who lives next door.",
+        "explain": "'Who' za ljude, 'which' za stvari i životinje, 'that' za oboje (razgovorno). 'Whose' = čiji. 'Where' = gdje. Kad je odnosna zamjenica objekat, možeš je izostaviti: 'the book (that) I read'. Kad je subjekat, ne možeš: 'the man who called'.",
+        "example": "'This is the colleague who helped me.' 'The car which I bought is blue.' 'The town where I was born is small.'",
+        "why": "Pomoću njih spajaš dvije kratke rečenice u jednu prirodnu.",
+        "mixup": "Ne koristi 'what' kao 'koji': 'the film what I saw' je pogrešno; treba 'the film that/which I saw'."
+      }
+    },
+    {
+      "slug": "linking-words",
+      "term": "Linking words",
+      "local": "riječi za povezivanje",
+      "minutes": 4,
+      "youtube": "TqC530O4zao",
+      "youtubeQuery": "linking words english however although because so",
+      "related": [
+        "Conjunction",
+        "Sentence"
+      ],
+      "bs": {
+        "one": "Riječi za povezivanje (linking words) povezuju ideje i pokazuju odnos: dodavanje, suprotnost, razlog, posljedica, redoslijed.",
+        "explain": "Dodavanje: and, also, too. Suprotnost: but, however, although. Razlog: because, because of. Posljedica: so, that's why. Redoslijed: first, then, after that, finally. 'However' obično počinje novu rečenicu i ima zarez: 'It was cheap. However, it was bad.'",
+        "example": "'First, I made coffee. Then I checked my emails. After that, I had a meeting. Finally, I went home.'",
+        "why": "Uz ove riječi tvoj govor i pisanje izgledaju organizovano, što je ključno za B1 nivo.",
+        "mixup": "'Because' + rečenica (because it rained), 'because of' + imenica (because of the rain)."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "bs": "Komparativ od 'good' je:"
+      },
+      "options": [
+        {
+          "bs": "gooder"
+        },
+        {
+          "bs": "better"
+        },
+        {
+          "bs": "more good"
+        },
+        {
+          "bs": "best"
+        }
+      ],
+      "answer": 1,
+      "explain": {
+        "bs": "Nepravilan pridjev: good – better – the best."
+      }
+    },
+    {
+      "q": {
+        "bs": "'I'll call you ___ Friday.'"
+      },
+      "options": [
+        {
+          "bs": "in"
+        },
+        {
+          "bs": "at"
+        },
+        {
+          "bs": "-"
+        },
+        {
+          "bs": "on"
+        }
+      ],
+      "answer": 3,
+      "explain": {
+        "bs": "Dani idu s 'on'."
+      }
+    },
+    {
+      "q": {
+        "bs": "'If it ___ tomorrow, we'll stay home.'"
+      },
+      "options": [
+        {
+          "bs": "will rain"
+        },
+        {
+          "bs": "rained"
+        },
+        {
+          "bs": "raining"
+        },
+        {
+          "bs": "rains"
+        }
+      ],
+      "answer": 3,
+      "explain": {
+        "bs": "Poslije 'if' u prvom kondicionalu ide present simple."
+      }
+    },
+    {
+      "q": {
+        "bs": "'The woman ___ lives upstairs is a nurse.'"
+      },
+      "options": [
+        {
+          "bs": "who"
+        },
+        {
+          "bs": "which"
+        },
+        {
+          "bs": "what"
+        },
+        {
+          "bs": "where"
+        }
+      ],
+      "answer": 0,
+      "explain": {
+        "bs": "Za ljude: who."
+      }
+    }
+  ]
+}

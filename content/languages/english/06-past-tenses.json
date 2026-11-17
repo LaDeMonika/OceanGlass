@@ -1,0 +1,222 @@
+{
+  "slug": "past-tenses",
+  "title": {
+    "en": "Past tenses",
+    "bs": "Prošla vremena"
+  },
+  "summary": {
+    "en": "Past simple, irregular verbs, was/were, past continuous and the present perfect.",
+    "bs": "Past simple, nepravilni glagoli, was/were, past continuous i present perfect."
+  },
+  "concepts": [
+    {
+      "slug": "past-simple",
+      "term": "Past simple",
+      "local": "prošlo jednostavno vrijeme",
+      "minutes": 6,
+      "youtube": "MI3S3kdkofo",
+      "youtubeQuery": "past simple tense english regular verbs ed",
+      "related": [
+        "Irregular verbs",
+        "Was and were",
+        "Present perfect"
+      ],
+      "bs": {
+        "one": "Past simple koristiš za završenu radnju u prošlosti, u poznato vrijeme: I worked yesterday.",
+        "explain": "Pravilni glagoli dobijaju -ed: work → worked, play → played, live → lived, stop → stopped, study → studied. Isti oblik za sve osobe. Pitanje: 'Did you work?' Negacija: 'I didn't work.' Poslije 'did' glagol je opet osnovni. Znakovi: yesterday, last week, in 2020, ago.",
+        "example": "'Yesterday I cleaned the flat and watched a film.' 'Did you call her?' 'No, I didn't call her.'",
+        "why": "Ovim vremenom pričaš priče, iskustva i šta si radio vikendom.",
+        "mixup": "'Did you went?' je pogrešno. Prošlost se pokazuje samo jednom: 'Did you go?'"
+      }
+    },
+    {
+      "slug": "irregular-verbs",
+      "term": "Irregular verbs",
+      "local": "nepravilni glagoli",
+      "minutes": 10,
+      "youtube": "lIkaqLavbU0",
+      "youtubeQuery": "most common irregular verbs english list pronunciation",
+      "related": [
+        "Past simple",
+        "Present perfect"
+      ],
+      "bs": {
+        "one": "Nepravilni glagoli (irregular verbs) ne dobijaju -ed u prošlosti, nego mijenjaju oblik: go → went, see → saw.",
+        "explain": "Uče se napamet u tri oblika: osnovni, past simple, particip (past participle). Na primjer: go – went – gone, eat – ate – eaten, have – had – had, make – made – made, take – took – taken, buy – bought – bought. Treći oblik ti treba za present perfect i pasiv.",
+        "example": "'Last summer we went to the sea. We ate fish and took lots of photos.'",
+        "why": "Najčešći engleski glagoli su upravo nepravilni. Bez njih ne možeš ispričati ni običan dan.",
+        "mixup": "Ne dodaji -ed nepravilnim glagolima: 'goed' i 'buyed' ne postoje. Uči po 10 glagola sedmično (tjedno) u sva tri oblika."
+      }
+    },
+    {
+      "slug": "was-were",
+      "term": "Was and were",
+      "local": "bio/bila/bili",
+      "minutes": 13,
+      "youtube": "fAsPrFwnQKk",
+      "youtubeQuery": "was and were past of to be english",
+      "related": [
+        "To be",
+        "Past simple"
+      ],
+      "bs": {
+        "one": "Prošlost od 'to be' ima dva oblika: was (I, he, she, it) i were (you, we, they).",
+        "explain": "Kao i u sadašnjosti, nema 'did': pitanje praviš zamjenom reda ('Were you at home?'), negaciju s 'not' (I wasn't, they weren't). Uz 'there': 'There was a problem', 'There were many people'.",
+        "example": "'I was tired yesterday. We were at a wedding. Was the food good?'",
+        "why": "Koristiš ga za opisivanje prošlih stanja, mjesta i osjećaja.",
+        "mixup": "'You was' je pogrešno, čak i kad misliš na jednu osobu: 'you' uvijek ide s 'were'."
+      }
+    },
+    {
+      "slug": "past-continuous",
+      "term": "Past continuous",
+      "local": "prošlo trajno vrijeme",
+      "minutes": 7,
+      "youtube": "RlEF3-onNWU",
+      "youtubeQuery": "past continuous tense english was were ing",
+      "related": [
+        "Past simple",
+        "Present continuous"
+      ],
+      "bs": {
+        "one": "Past continuous opisuje radnju koja je trajala u nekom trenutku u prošlosti: I was sleeping at 11.",
+        "explain": "Oblik: was/were + glagol s -ing. Često ide s past simple: duža radnja (continuous) je prekinuta kraćom (simple). Veznici: when (kad), while (dok).",
+        "example": "'I was cooking when the phone rang.' 'While we were walking, it started to rain.'",
+        "why": "Pomaže ti da u priči postaviš scenu: šta se dešavalo kad se nešto desilo.",
+        "mixup": "Kraća radnja koja prekida ide u past simple: 'when the phone rang', ne 'when the phone was ringing'."
+      }
+    },
+    {
+      "slug": "present-perfect",
+      "term": "Present perfect",
+      "local": "sadašnji perfekt",
+      "minutes": 6,
+      "youtube": "XySNOXSiBMo",
+      "youtubeQuery": "present perfect tense english explained have has",
+      "related": [
+        "Past simple",
+        "Irregular verbs"
+      ],
+      "bs": {
+        "one": "Present perfect povezuje prošlost sa sadašnjošću: I have finished (završio sam i to je važno sada).",
+        "explain": "Oblik: have/has + treći oblik glagola (worked, gone, seen). Koristiš ga za: iskustvo bez tačnog vremena (I have been to London), nešto što je upravo završeno (I've just eaten), i stanje koje traje do sada (I have lived here for 5 years). Riječi: ever, never, just, already, yet, for, since.",
+        "example": "'Have you ever eaten sushi?' 'I've lost my keys' (i još ih nemam). 'She has worked here since 2019.'",
+        "why": "Bosanski ovo kaže prošlim vremenom, pa je ovo jedno od najtežih pravila za naše govornike.",
+        "mixup": "'For' ide uz trajanje (for 3 years), 'since' uz početnu tačku (since 2020). 'I live here since 2020' je pogrešno; treba 'I have lived here since 2020'."
+      }
+    },
+    {
+      "slug": "perfect-vs-past",
+      "term": "Present perfect or past simple?",
+      "local": "perfekt ili prošlo vrijeme?",
+      "minutes": 9,
+      "youtube": "T09u75kiKGc",
+      "youtubeQuery": "present perfect vs past simple difference",
+      "related": [
+        "Present perfect",
+        "Past simple"
+      ],
+      "bs": {
+        "one": "Ako kažeš KADA se desilo (yesterday, in 2015, last week), koristi past simple. Ako vrijeme nije važno ili traje do sada, koristi present perfect.",
+        "explain": "Past simple = završeno, odvojeno od sada, poznato vrijeme. Present perfect = 'do sada', 'u životu', rezultat koji se vidi sada. Uz 'ago', 'yesterday' i 'when' nikad ne ide present perfect.",
+        "example": "'I have visited Rome.' (nekad u životu) → 'I visited Rome in 2019.' (poznato vrijeme)",
+        "why": "Ovo je granica koju izvorni govornici odmah čuju.",
+        "mixup": "'I have seen him yesterday' je pogrešno. 'Yesterday' traži past simple: 'I saw him yesterday'."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "bs": "Prošlost od 'buy' je:"
+      },
+      "options": [
+        {
+          "bs": "buyed"
+        },
+        {
+          "bs": "buied"
+        },
+        {
+          "bs": "bought"
+        },
+        {
+          "bs": "brought"
+        }
+      ],
+      "answer": 2,
+      "explain": {
+        "bs": "Nepravilan glagol: buy – bought – bought. (Brought je od 'bring'.)"
+      }
+    },
+    {
+      "q": {
+        "bs": "'Did you ___ the email?'"
+      },
+      "options": [
+        {
+          "bs": "sent"
+        },
+        {
+          "bs": "sending"
+        },
+        {
+          "bs": "sends"
+        },
+        {
+          "bs": "send"
+        }
+      ],
+      "answer": 3,
+      "explain": {
+        "bs": "Poslije 'did' ide osnovni glagol."
+      }
+    },
+    {
+      "q": {
+        "bs": "'I ___ TV when you called.'"
+      },
+      "options": [
+        {
+          "bs": "watched"
+        },
+        {
+          "bs": "am watching"
+        },
+        {
+          "bs": "was watching"
+        },
+        {
+          "bs": "have watched"
+        }
+      ],
+      "answer": 2,
+      "explain": {
+        "bs": "Radnja je trajala i bila je prekinuta: past continuous."
+      }
+    },
+    {
+      "q": {
+        "bs": "Koja je tačna?"
+      },
+      "options": [
+        {
+          "bs": "I met her last year."
+        },
+        {
+          "bs": "I have met her last year."
+        },
+        {
+          "bs": "I meet her last year."
+        },
+        {
+          "bs": "I have meet her last year."
+        }
+      ],
+      "answer": 0,
+      "explain": {
+        "bs": "'Last year' je tačno vrijeme: past simple."
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "slug": "languages",
+  "icon": "speech",
+  "title": {
+    "en": "Languages",
+    "bs": "Jezici"
+  },
+  "description": {
+    "en": "Grammar from the ground up in English, German and Bosnian/Croatian: word types, cases, tenses and sentence building.",
+    "bs": "Gramatika od samog početka na engleskom, njemačkom i bosanskom/hrvatskom: vrste riječi, padeži, vremena i građenje rečenica."
+  },
+  "degrees": [
+    {
+      "slug": "english",
+      "icon": "flag",
+      "explainIn": "bs",
+      "localLang": "bs",
+      "title": {
+        "en": "English Grammar",
+        "bs": "Engleska gramatika"
+      },
+      "description": {
+        "en": "English grammar explained in Bosnian/Croatian: word types first, then sentences, tenses and more.",
+        "bs": "Engleska gramatika objašnjena na bosanskom/hrvatskom: prvo vrste riječi, pa rečenice, vremena i dalje."
+      }
+    },
+    {
+      "slug": "german",
+      "icon": "flag",
+      "localLang": "bs",
+      "title": {
+        "en": "German Grammar",
+        "bs": "Njemačka gramatika"
+      },
+      "description": {
+        "en": "German grammar explained in English and Bosnian/Croatian: word types, the four cases, verbs and word order.",
+        "bs": "Njemačka gramatika objašnjena na engleskom i bosanskom/hrvatskom: vrste riječi, četiri padeža, glagoli i red riječi."
+      }
+    },
+    {
+      "slug": "bosnian-croatian",
+      "icon": "flag",
+      "explainIn": "en",
+      "localLang": "en",
+      "title": {
+        "en": "Bosnian/Croatian Grammar",
+        "bs": "Bosanska/hrvatska gramatika"
+      },
+      "description": {
+        "en": "Bosnian and Croatian grammar explained in English: word types, the seven cases, verbs and word order. Croatian words that differ are shown in brackets.",
+        "bs": "Bosanska i hrvatska gramatika objašnjena na engleskom: vrste riječi, sedam padeža, glagoli i red riječi. Hrvatske riječi koje se razlikuju su u zagradama."
+      }
+    }
+  ]
+}

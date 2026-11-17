@@ -1,0 +1,225 @@
+{
+  "slug": "cases-part-1",
+  "title": {
+    "en": "The cases, part 1",
+    "bs": "Padeži, prvi dio"
+  },
+  "summary": {
+    "en": "What the seven cases are, their questions, and the four main ones: nominative, genitive, dative and accusative.",
+    "bs": "Šta je sedam padeža, njihova pitanja i četiri glavna: nominativ, genitiv, dativ i akuzativ."
+  },
+  "concepts": [
+    {
+      "slug": "padezi",
+      "term": "Padeži",
+      "local": "grammatical cases",
+      "minutes": 13,
+      "youtube": "Yb_CMye0Xpo",
+      "youtubeQuery": "croatian cases explained",
+      "related": [
+        "Nominativ",
+        "Akuzativ",
+        "Prepoznavanje padeža"
+      ],
+      "en": {
+        "one": "Bosnian and Croatian have seven cases (padeži). A case is a change in a word's ending that shows its job in the sentence.",
+        "explain": "Each case has its questions. 1. Nominativ – ko? (tko?) šta? (što?) – the subject. 2. Genitiv – koga? čega? – of / from / without. 3. Dativ – kome? čemu? – to/for someone. 4. Akuzativ – koga? šta? (što?) – the direct object. 5. Vokativ – hej! – calling someone. 6. Lokativ – o kome? o čemu? (gdje?) – location, always after a preposition. 7. Instrumental – s kim? čim? – with whom / by means of what. Nouns, adjectives, pronouns and numbers all change.",
+        "example": "žena (N), žene (G), ženi (D), ženu (A), ženo! (V), o ženi (L), sa ženom (I).",
+        "why": "Because the ending shows who does what, word order is free. 'Marko voli Anu' and 'Anu voli Marko' mean the same.",
+        "mixup": "Many learners memorise tables. It's easier to learn the questions first, then one model word for each gender."
+      }
+    },
+    {
+      "slug": "nominativ",
+      "term": "Nominativ",
+      "local": "nominative",
+      "minutes": 8,
+      "youtube": "GcSUiF8pWKM",
+      "youtubeQuery": "croatian nominative case",
+      "related": [
+        "Padeži",
+        "Akuzativ"
+      ],
+      "en": {
+        "one": "The nominativ is the subject case and the dictionary form. Questions: ko? (tko?) šta? (što?).",
+        "explain": "It's the form you find in the dictionary: grad, žena, selo. It's used for the subject of the sentence and after 'biti' to say what something is: 'To je moj brat.' How to spot it: ask the verb 'ko (tko) radi?' / 'šta (što) se dešava (događa)?'",
+        "example": "'Moja sestra radi u banci.' Ko radi? Moja sestra → nominativ.",
+        "why": "It's your starting point: every other case is a change from the nominative.",
+        "mixup": "The subject isn't always first: 'Danas dolazi Amir.' Ko dolazi? Amir – still nominative at the end."
+      }
+    },
+    {
+      "slug": "genitiv",
+      "term": "Genitiv",
+      "local": "genitive",
+      "minutes": 21,
+      "youtube": "8zcr6sRcN8Q",
+      "youtubeQuery": "croatian genitive case",
+      "related": [
+        "Padeži",
+        "Imati i nemati",
+        "Brojevi i imenice"
+      ],
+      "en": {
+        "one": "The genitiv shows belonging, origin, quantity and absence. Questions: koga? čega?",
+        "explain": "Endings: masc./neut. -a (grada, sela), fem. -e (žene, kuće). Plural: mostly -a (gradova, žena, sela). Used after: 'nema' (Nema mlijeka), quantity words (malo, mnogo, čaša – glass of: čaša vode), numbers 5+ (pet gradova), and prepositions iz (from), od (from / of), bez (without), do (until / to), kod (at someone's place), blizu (near), poslije (after), prije (before).",
+        "example": "'Ja sam iz Sarajeva.' 'Kafa (kava) bez šećera.' 'Idem kod mame.' 'Molim čašu vode.'",
+        "why": "It's the most-used case after nominative and accusative, and it shows up with every 'from', 'without' and 'a glass of'.",
+        "mixup": "English 'of' isn't always genitive: 'pričam o filmu' (I talk about the film) uses the locative."
+      }
+    },
+    {
+      "slug": "dativ",
+      "term": "Dativ",
+      "local": "dative",
+      "minutes": 17,
+      "youtube": "8fjz4tNTcaY",
+      "youtubeQuery": "croatian dative case",
+      "related": [
+        "Padeži",
+        "Lokativ",
+        "Lične zamjenice po padežima"
+      ],
+      "en": {
+        "one": "The dativ is for the person who receives something or benefits. Questions: kome? čemu?",
+        "explain": "Endings: masc./neut. -u (bratu, djetetu), fem. -i (sestri, ženi). Plural: -ima/-ama (studentima, sestrama). Used with verbs of giving, saying and helping: dati, poslati, reći, pomoći, pokazati, and with prepositions prema (towards), k(a) (to). Many feelings are expressed with the dative: 'Hladno mi je' (I'm cold), 'Žao mi je' (I'm sorry), 'Sviđa mi se' (I like it).",
+        "example": "'Dajem knjigu bratu.' Kome dajem? bratu. 'Pomažem mami.' 'Sviđa mi se ovaj grad.'",
+        "why": "The dative turns up in feelings and likes, which you need from day one.",
+        "mixup": "Dative and locative have the same endings in the singular. Look for a preposition: no preposition (or k, prema) → dative; u, na, o, po, pri → locative."
+      }
+    },
+    {
+      "slug": "akuzativ",
+      "term": "Akuzativ",
+      "local": "accusative",
+      "minutes": 19,
+      "youtube": "mgCFd2PAfC8",
+      "youtubeQuery": "croatian accusative case",
+      "related": [
+        "Nominativ",
+        "Padeži",
+        "Prijedlozi i padeži"
+      ],
+      "en": {
+        "one": "The akuzativ is the direct object: the person or thing the action goes to. Questions: koga? šta? (što?).",
+        "explain": "Feminine -a → -u: žena → ženu, kafa → kafu (kava → kavu). Masculine: for things, same as nominative (vidim grad); for people and animals, same as genitive, -a (vidim brata, psa). Neuter: same as nominative (vidim selo). It's also used after u/na for movement towards a place: 'Idem u školu', 'Idem na posao'.",
+        "example": "'Pijem kafu (kavu).' 'Čekam autobus.' 'Volim svoga brata.' 'Idem u Mostar.'",
+        "why": "Almost every sentence with an object uses it. It's the case you'll use most after the nominative.",
+        "mixup": "Masculine living beings take -a: 'Vidim čovjeka', not 'Vidim čovjek'. Things don't: 'Vidim sto (stol)'."
+      }
+    },
+    {
+      "slug": "prepoznavanje-padeza",
+      "term": "Prepoznavanje padeža",
+      "local": "spotting the case",
+      "minutes": 22,
+      "youtube": "5FWJ66DgnkE",
+      "youtubeQuery": "padeži pitanja vježba",
+      "related": [
+        "Padeži",
+        "Prijedlozi i padeži"
+      ],
+      "en": {
+        "one": "A three-step method to identify the case of any noun.",
+        "explain": "1. Is there a preposition before it? The preposition narrows it down: bez/iz/od/do/kod → genitive; s(a) 'with' → instrumental; o/po/pri → locative; u/na → accusative (where to?) or locative (where?). 2. No preposition? Ask the verb: ko (tko)? → N; koga/šta (što)? → A; kome? → D; koga/čega? (of, quantity, nema) → G. 3. Check the ending against the model words: žena, žene, ženi, ženu, ženo, ženi, ženom.",
+        "example": "'Poslije posla dajem sestri knjigu.' poslije → genitive (posla). kome? sestri → dative. šta (što)? knjigu → accusative.",
+        "why": "With this routine you stop guessing and can work out any sentence step by step.",
+        "mixup": "Same ending, different cases: 'ženi' can be dative or locative. Only the question or preposition tells them apart."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "Which question belongs to the dative?"
+      },
+      "options": [
+        {
+          "en": "koga? čega?"
+        },
+        {
+          "en": "s kim? čim?"
+        },
+        {
+          "en": "o kome? o čemu?"
+        },
+        {
+          "en": "kome? čemu?"
+        }
+      ],
+      "answer": 3,
+      "explain": {
+        "en": "Dativ: kome? čemu?"
+      }
+    },
+    {
+      "q": {
+        "en": "'Ja sam iz ___.' (Zagreb)"
+      },
+      "options": [
+        {
+          "en": "Zagreba"
+        },
+        {
+          "en": "Zagreb"
+        },
+        {
+          "en": "Zagrebu"
+        },
+        {
+          "en": "Zagrebom"
+        }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "'iz' takes the genitive: iz Zagreba."
+      }
+    },
+    {
+      "q": {
+        "en": "'Vidim ___.' (brat)"
+      },
+      "options": [
+        {
+          "en": "brata"
+        },
+        {
+          "en": "brat"
+        },
+        {
+          "en": "bratu"
+        },
+        {
+          "en": "bratom"
+        }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "A masculine living being in the accusative takes -a."
+      }
+    },
+    {
+      "q": {
+        "en": "'Pijem ___.' (voda)"
+      },
+      "options": [
+        {
+          "en": "voda"
+        },
+        {
+          "en": "vodu"
+        },
+        {
+          "en": "vode"
+        },
+        {
+          "en": "vodom"
+        }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Direct object, feminine -a → -u: vodu."
+      }
+    }
+  ]
+}

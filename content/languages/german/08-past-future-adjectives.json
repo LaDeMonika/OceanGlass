@@ -1,0 +1,288 @@
+{
+  "slug": "past-future-adjectives",
+  "title": {
+    "en": "Past, future and adjectives",
+    "bs": "Prošlost, budućnost i pridjevi"
+  },
+  "summary": {
+    "en": "The Perfekt with haben and sein, the Präteritum, the future with werden, comparison and adjective endings.",
+    "bs": "Perfekt s haben i sein, Präteritum, budućnost s werden, poređenje i nastavci pridjeva."
+  },
+  "concepts": [
+    {
+      "slug": "perfekt-haben",
+      "term": "das Perfekt mit haben",
+      "local": "perfekt s haben",
+      "minutes": 26,
+      "youtube": "pEundIQVwmU",
+      "youtubeQuery": "German perfect tense haben Partizip II",
+      "related": [
+        "das Perfekt mit sein",
+        "die Satzklammer",
+        "sein und haben"
+      ],
+      "en": {
+        "one": "The Perfekt is the normal spoken past in German: haben (in position 2) + Partizip II (at the end). Ich habe gearbeitet.",
+        "explain": "Building the Partizip II: regular verbs: ge- + stem + -t (machen → gemacht, kaufen → gekauft). Irregular verbs: ge- + (often changed) stem + -en (sehen → gesehen, trinken → getrunken, schreiben → geschrieben). Separable verbs put ge inside (einkaufen → eingekauft). Verbs with be-, ver-, er- and -ieren have no ge- (besucht, verstanden, studiert).",
+        "example": "'Gestern habe ich lange gearbeitet und dann eine Pizza gegessen.' 'Hast du den Film gesehen?'",
+        "why": "Germans use the Perfekt for almost everything in the past when speaking. It's the past tense you need first.",
+        "mixup": "Most verbs use haben. Only verbs of movement or change of state use sein (next card)."
+      },
+      "bs": {
+        "one": "Perfekt je normalna govorna prošlost u njemačkom: haben (na 2. mjestu) + Partizip II (na kraju). Ich habe gearbeitet. Slično bosanskom 'radio sam'.",
+        "explain": "Pravljenje participa: pravilni glagoli: ge- + osnova + -t (machen → gemacht, kaufen → gekauft). Nepravilni: ge- + (često promijenjena) osnova + -en (sehen → gesehen, trinken → getrunken, schreiben → geschrieben). Odvojivi stavljaju ge u sredinu (einkaufen → eingekauft). Glagoli s be-, ver-, er- i na -ieren nemaju ge- (besucht, verstanden, studiert).",
+        "example": "'Gestern habe ich lange gearbeitet und dann eine Pizza gegessen.' 'Hast du den Film gesehen?'",
+        "why": "Nijemci u govoru koriste perfekt za skoro svu prošlost. To je prvo prošlo vrijeme koje ti treba.",
+        "mixup": "Većina glagola koristi haben. Samo glagoli kretanja ili promjene stanja koriste sein (sljedeća kartica)."
+      }
+    },
+    {
+      "slug": "perfekt-sein",
+      "term": "das Perfekt mit sein",
+      "local": "perfekt sa sein",
+      "minutes": 6,
+      "youtube": "50istPWib_g",
+      "youtubeQuery": "German perfekt with sein or haben",
+      "related": [
+        "das Perfekt mit haben",
+        "sein und haben"
+      ],
+      "en": {
+        "one": "Some verbs build the Perfekt with sein instead of haben: Ich bin gefahren.",
+        "explain": "Use sein with verbs of movement from A to B (gehen, fahren, fliegen, kommen, laufen), change of state (aufstehen, einschlafen, werden, sterben), and the verbs sein and bleiben themselves. These verbs usually have no Akkusativ object.",
+        "example": "'Ich bin nach Hause gegangen.' 'Wir sind um 6 Uhr aufgestanden.' 'Er ist zu Hause geblieben.' 'Wo bist du gewesen?'",
+        "why": "Choosing haben or sein is a classic mistake. This rule gets you right in most cases.",
+        "mixup": "'Ich habe gegangen' is wrong. gehen = movement → 'Ich bin gegangen'."
+      },
+      "bs": {
+        "one": "Neki glagoli prave perfekt sa sein umjesto haben: Ich bin gefahren.",
+        "explain": "Koristi sein uz glagole kretanja od A do B (gehen, fahren, fliegen, kommen, laufen), promjene stanja (aufstehen, einschlafen, werden, sterben), i same glagole sein i bleiben. Ovi glagoli obično nemaju objekat u akuzativu.",
+        "example": "'Ich bin nach Hause gegangen.' 'Wir sind um 6 Uhr aufgestanden.' 'Er ist zu Hause geblieben.' 'Wo bist du gewesen?'",
+        "why": "Biranje haben ili sein je klasična greška. Ovo pravilo te vodi tačno u većini slučajeva.",
+        "mixup": "'Ich habe gegangen' je pogrešno. gehen = kretanje → 'Ich bin gegangen'."
+      }
+    },
+    {
+      "slug": "praeteritum",
+      "term": "das Präteritum",
+      "local": "preterit",
+      "minutes": 11,
+      "youtube": "UCxRsIz7qQ8",
+      "youtubeQuery": "German simple past war hatte",
+      "related": [
+        "das Perfekt mit haben",
+        "Modal verbs"
+      ],
+      "en": {
+        "one": "The Präteritum is the written past (books, news). But in speech you need it for a few verbs: sein, haben and the modals.",
+        "explain": "sein: ich war, du warst, er war, wir waren. haben: ich hatte, du hattest, er hatte. Modals: ich konnte, musste, wollte, durfte, sollte (no umlaut). Regular verbs add -te: ich machte, er wohnte. Germans say 'Ich war müde' rather than 'Ich bin müde gewesen'.",
+        "example": "'Gestern war ich krank und hatte keine Zeit. Ich musste zu Hause bleiben.'",
+        "why": "You'll hear and use war, hatte and the modals every day, and you'll read the Präteritum in every story.",
+        "mixup": "ich and er/sie/es have the same form: ich war, er war; ich konnte, sie konnte. No -t at the end."
+      },
+      "bs": {
+        "one": "Präteritum je pisana prošlost (knjige, vijesti). Ali u govoru ti treba za nekoliko glagola: sein, haben i modalne.",
+        "explain": "sein: ich war, du warst, er war, wir waren. haben: ich hatte, du hattest, er hatte. Modalni: ich konnte, musste, wollte, durfte, sollte (bez preglasa). Pravilni glagoli dodaju -te: ich machte, er wohnte. Nijemci kažu 'Ich war müde' radije nego 'Ich bin müde gewesen'.",
+        "example": "'Gestern war ich krank und hatte keine Zeit. Ich musste zu Hause bleiben.'",
+        "why": "War, hatte i modalne ćeš čuti i koristiti svaki dan, a preterit ćeš čitati u svakoj priči.",
+        "mixup": "ich i er/sie/es imaju isti oblik: ich war, er war; ich konnte, sie konnte. Bez -t na kraju."
+      }
+    },
+    {
+      "slug": "futur",
+      "term": "das Futur I",
+      "local": "futur",
+      "minutes": 8,
+      "youtube": "4hzoxQbpZbg",
+      "youtubeQuery": "German future tense werden",
+      "related": [
+        "die Satzklammer",
+        "Modal verbs"
+      ],
+      "en": {
+        "one": "The future is built with werden (position 2) + infinitive (at the end): Ich werde arbeiten.",
+        "explain": "werden: ich werde, du wirst, er wird, wir werden, ihr werdet, sie werden. But Germans often just use the present with a time word for the future: 'Morgen fahre ich nach Wien.' Futur I is used for promises, predictions and when the future isn't clear from context.",
+        "example": "'Ich werde dich anrufen.' 'Es wird morgen regnen.' 'Nächstes Jahr mache ich einen Deutschkurs.' (present for future)",
+        "why": "Now you can talk about all three times: present, past (Perfekt) and future.",
+        "mixup": "'werden' alone means 'to become': 'Ich werde Lehrer' = I'm becoming a teacher. Only with an infinitive is it future."
+      },
+      "bs": {
+        "one": "Budućnost se pravi s werden (2. mjesto) + infinitiv (na kraju): Ich werde arbeiten. Slično bosanskom 'radit ću'.",
+        "explain": "werden: ich werde, du wirst, er wird, wir werden, ihr werdet, sie werden. Ali Nijemci često koriste prezent s riječju za vrijeme: 'Morgen fahre ich nach Wien.' Futur I se koristi za obećanja, predviđanja i kad budućnost nije jasna iz konteksta.",
+        "example": "'Ich werde dich anrufen.' 'Es wird morgen regnen.' 'Nächstes Jahr mache ich einen Deutschkurs.' (prezent za budućnost)",
+        "why": "Sada možeš pričati o sva tri vremena: sadašnjosti, prošlosti (perfekt) i budućnosti.",
+        "mixup": "'werden' samo znači 'postati': 'Ich werde Lehrer' = postajem učitelj. Samo s infinitivom je budućnost."
+      }
+    },
+    {
+      "slug": "komparativ",
+      "term": "der Komparativ und Superlativ",
+      "local": "komparativ i superlativ",
+      "minutes": 11,
+      "youtube": "SYWra2Qzch4",
+      "youtubeQuery": "German comparative superlative",
+      "related": [
+        "das Adjektiv"
+      ],
+      "en": {
+        "one": "Comparative: adjective + -er (schnell → schneller). Superlative: am + adjective + -sten (am schnellsten).",
+        "explain": "Many short adjectives add an umlaut: alt → älter → am ältesten, groß → größer → am größten, jung → jünger. Irregular: gut → besser → am besten, viel → mehr → am meisten, gern → lieber → am liebsten. Comparison uses 'als' (than); equality uses 'so … wie' (as … as).",
+        "example": "'Berlin ist größer als Wien.' 'Mein Bruder ist so alt wie ich.' 'Ich trinke lieber Tee als Kaffee.' 'Am liebsten esse ich Ćevapi.'",
+        "why": "Comparing is everyday language: prices, people, places and preferences.",
+        "mixup": "German never uses 'mehr' for short adjectives: 'mehr schnell' is wrong, always 'schneller'. And 'than' is 'als', not 'wie'."
+      },
+      "bs": {
+        "one": "Komparativ: pridjev + -er (schnell → schneller). Superlativ: am + pridjev + -sten (am schnellsten).",
+        "explain": "Mnogi kratki pridjevi dobijaju preglas: alt → älter → am ältesten, groß → größer → am größten, jung → jünger. Nepravilni: gut → besser → am besten, viel → mehr → am meisten, gern → lieber → am liebsten. Poređenje koristi 'als' (od, nego); jednakost 'so … wie' (isto kao).",
+        "example": "'Berlin ist größer als Wien.' 'Mein Bruder ist so alt wie ich.' 'Ich trinke lieber Tee als Kaffee.' 'Am liebsten esse ich Ćevapi.'",
+        "why": "Poređenje je svakodnevni jezik: cijene, ljudi, mjesta i šta više voliš.",
+        "mixup": "'größer wie' je česta greška. Nakon komparativa ide 'als': 'größer als'."
+      }
+    },
+    {
+      "slug": "adjektivendungen",
+      "term": "die Adjektivendungen",
+      "local": "nastavci pridjeva",
+      "minutes": 16,
+      "youtube": "SXKD5bQl-zQ",
+      "youtubeQuery": "German adjective endings explained",
+      "related": [
+        "das Adjektiv",
+        "What is a case?",
+        "der Artikel"
+      ],
+      "en": {
+        "one": "An adjective before a noun takes an ending that depends on the article, gender and case.",
+        "explain": "A simple start: 1. After der/die/das (definite): mostly -e in Nominativ (der gute Mann, die gute Frau, das gute Kind), and -en everywhere else (den guten Mann, dem guten Kind, die guten Kinder). 2. After ein/kein/mein: the adjective 'shows' the gender if the article doesn't: ein guter Mann, ein gutes Kind, eine gute Frau. 3. No article: the adjective takes the article's ending: guter Kaffee, gutes Wetter.",
+        "example": "'Der neue Kollege hat ein großes Büro und trinkt gern starken Kaffee.'",
+        "why": "This is the last big piece of A2–B1 grammar. Even native-like accuracy here is a strong sign of a good level.",
+        "mixup": "Don't try to learn the full table at once. Start with the rule 'after der/die/das: -e or -en', and add the rest step by step."
+      },
+      "bs": {
+        "one": "Pridjev ispred imenice dobija nastavak koji zavisi od člana, roda i padeža.",
+        "explain": "Jednostavan početak: 1. Iza der/die/das (određeni član): uglavnom -e u nominativu (der gute Mann, die gute Frau, das gute Kind), a -en svuda drugo (den guten Mann, dem guten Kind, die guten Kinder). 2. Iza ein/kein/mein: pridjev 'pokazuje' rod ako ga član ne pokazuje: ein guter Mann, ein gutes Kind, eine gute Frau. 3. Bez člana: pridjev uzima nastavak člana: guter Kaffee, gutes Wetter.",
+        "example": "'Der neue Kollege hat ein großes Büro und trinkt gern starken Kaffee.'",
+        "why": "Ovo je zadnji veliki dio gramatike A2–B1. Tačnost ovdje je jak znak dobrog nivoa.",
+        "mixup": "Ne pokušavaj odjednom naučiti cijelu tabelu. Počni s pravilom 'iza der/die/das: -e ili -en' i dodaj ostalo korak po korak."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "'Ich ___ gestern nach Berlin gefahren.'",
+        "bs": "'Ich ___ gestern nach Berlin gefahren.'"
+      },
+      "options": [
+        {
+          "en": "habe",
+          "bs": "habe"
+        },
+        {
+          "en": "war",
+          "bs": "war"
+        },
+        {
+          "en": "werde",
+          "bs": "werde"
+        },
+        {
+          "en": "bin",
+          "bs": "bin"
+        }
+      ],
+      "answer": 3,
+      "explain": {
+        "en": "fahren = movement → sein: bin gefahren.",
+        "bs": "fahren = kretanje → sein: bin gefahren."
+      }
+    },
+    {
+      "q": {
+        "en": "Partizip II of 'kaufen':",
+        "bs": "Partizip II od 'kaufen':"
+      },
+      "options": [
+        {
+          "en": "gekaufen",
+          "bs": "gekaufen"
+        },
+        {
+          "en": "kaufte",
+          "bs": "kaufte"
+        },
+        {
+          "en": "gekauf",
+          "bs": "gekauf"
+        },
+        {
+          "en": "gekauft",
+          "bs": "gekauft"
+        }
+      ],
+      "answer": 3,
+      "explain": {
+        "en": "Regular verb: ge- + kauf + -t.",
+        "bs": "Pravilan glagol: ge- + kauf + -t."
+      }
+    },
+    {
+      "q": {
+        "en": "'Mein Auto ist ___ als dein Auto.'",
+        "bs": "'Mein Auto ist ___ als dein Auto.'"
+      },
+      "options": [
+        {
+          "en": "mehr alt",
+          "bs": "mehr alt"
+        },
+        {
+          "en": "alter",
+          "bs": "alter"
+        },
+        {
+          "en": "am ältesten",
+          "bs": "am ältesten"
+        },
+        {
+          "en": "älter",
+          "bs": "älter"
+        }
+      ],
+      "answer": 3,
+      "explain": {
+        "en": "alt → älter, with umlaut.",
+        "bs": "alt → älter, s preglasom."
+      }
+    },
+    {
+      "q": {
+        "en": "'Das ist ein ___ Haus.' (schön)",
+        "bs": "'Das ist ein ___ Haus.' (schön)"
+      },
+      "options": [
+        {
+          "en": "schönes",
+          "bs": "schönes"
+        },
+        {
+          "en": "schön",
+          "bs": "schön"
+        },
+        {
+          "en": "schöne",
+          "bs": "schöne"
+        },
+        {
+          "en": "schönen",
+          "bs": "schönen"
+        }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "das Haus after 'ein': the adjective shows the neuter: -es.",
+        "bs": "das Haus iza 'ein': pridjev pokazuje srednji rod: -es."
+      }
+    }
+  ]
+}

@@ -1,0 +1,290 @@
+{
+  "slug": "the-four-cases",
+  "title": {
+    "en": "The four cases",
+    "bs": "Četiri padeža"
+  },
+  "summary": {
+    "en": "Nominativ, Akkusativ, Dativ and Genitiv: what each case does, its question word, and how to spot it.",
+    "bs": "Nominativ, Akkusativ, Dativ i Genitiv: šta radi svaki padež, njegovo pitanje i kako ga prepoznati."
+  },
+  "concepts": [
+    {
+      "slug": "was-ist-ein-fall",
+      "term": "What is a case?",
+      "local": "šta je padež?",
+      "minutes": 16,
+      "youtube": "_F_zkRPRX6A",
+      "youtubeQuery": "German cases explained nominative accusative dative genitive",
+      "related": [
+        "der Nominativ",
+        "der Akkusativ",
+        "der Dativ"
+      ],
+      "en": {
+        "one": "A case (Fall, Kasus) shows the job a noun has in the sentence: who does it, who it's done to, who gets something, whose it is.",
+        "explain": "German has four cases, each with a question: Nominativ – Wer? Was? (who/what does it). Akkusativ – Wen? Was? (whom/what is affected). Dativ – Wem? (to/for whom). Genitiv – Wessen? (whose). The case mostly shows on the ARTICLE, not the noun: der → den → dem → des. Bosnian/Croatian has seven cases, so you already know the idea.",
+        "example": "'Der Vater (Nom.) gibt dem Kind (Dat.) den Ball (Akk.) des Bruders (Gen.).' The father gives the child the brother's ball.",
+        "why": "Cases are what make German word order flexible. Read the article and you know who does what, wherever the words stand.",
+        "mixup": "Don't look at the noun ending first. In German, the case is mostly carried by the article and adjective."
+      },
+      "bs": {
+        "one": "Padež (Fall, Kasus) pokazuje posao imenice u rečenici: ko radi, na koga ide radnja, ko nešto dobija, čije je.",
+        "explain": "Njemački ima četiri padeža, svaki sa svojim pitanjem: Nominativ – Wer? Was? (ko? šta?). Akkusativ – Wen? Was? (koga? šta?). Dativ – Wem? (kome?). Genitiv – Wessen? (čiji? čega?). Padež se uglavnom vidi na ČLANU, ne na imenici: der → den → dem → des. Bosanski/hrvatski ima sedam padeža, pa ideju već znaš.",
+        "example": "'Der Vater (Nom.) gibt dem Kind (Dat.) den Ball (Akk.) des Bruders (Gen.).' Otac daje djetetu bratovu loptu.",
+        "why": "Padeži čine njemački red riječi fleksibilnim. Pročitaj član i znaš ko šta radi, gdje god riječi stajale.",
+        "mixup": "Ne gledaj prvo nastavak imenice kao u bosanskom. U njemačkom padež uglavnom nosi član i pridjev."
+      }
+    },
+    {
+      "slug": "nominativ",
+      "term": "der Nominativ",
+      "local": "nominativ",
+      "minutes": 13,
+      "youtube": "I7vsv8DN9EE",
+      "youtubeQuery": "German nominative case explained",
+      "related": [
+        "What is a case?",
+        "der Akkusativ"
+      ],
+      "en": {
+        "one": "The Nominativ is the case of the subject: the person or thing doing the action. Question: Wer? or Was?",
+        "explain": "Articles: der / die / das / die (plural); ein / eine / ein. It's the 'dictionary' form. It's also used after sein, werden and heißen: 'Das ist der Chef.' How to spot it: ask the verb 'Wer?' The answer is the Nominativ, and the verb agrees with it.",
+        "example": "'Der Hund bellt.' Wer bellt? Der Hund → Nominativ. 'Mein Bruder ist ein Lehrer.' Both parts are Nominativ.",
+        "why": "Every sentence has a subject, so the Nominativ is your anchor for finding the other cases.",
+        "mixup": "The subject isn't always first: 'Heute kommt der Chef.' Ask 'Wer kommt?' – der Chef, even though it's at the end."
+      },
+      "bs": {
+        "one": "Nominativ je padež subjekta: osobe ili stvari koja radi radnju. Pitanje: Wer? (ko?) ili Was? (šta?).",
+        "explain": "Članovi: der / die / das / die (množina); ein / eine / ein. To je 'rječnički' oblik. Koristi se i iza sein, werden i heißen: 'Das ist der Chef.' Kako ga prepoznati: pitaj glagol 'Wer?'. Odgovor je nominativ, a glagol se slaže s njim. Isto kao bosanski nominativ.",
+        "example": "'Der Hund bellt.' Wer bellt? Der Hund → nominativ. 'Mein Bruder ist ein Lehrer.' Oba dijela su nominativ.",
+        "why": "Svaka rečenica ima subjekat, pa je nominativ tvoje sidro za pronalaženje ostalih padeža.",
+        "mixup": "Subjekat nije uvijek prvi: 'Heute kommt der Chef.' Pitaj 'Wer kommt?' – der Chef, iako je na kraju."
+      }
+    },
+    {
+      "slug": "akkusativ",
+      "term": "der Akkusativ",
+      "local": "akuzativ",
+      "minutes": 13,
+      "youtube": "fPKH95g_9cs",
+      "youtubeQuery": "German accusative case explained",
+      "related": [
+        "der Nominativ",
+        "der Dativ",
+        "Präpositionen mit Akkusativ"
+      ],
+      "en": {
+        "one": "The Akkusativ is the case of the direct object: the person or thing the action goes to. Question: Wen? or Was?",
+        "explain": "Good news: only the masculine changes! der → den, ein → einen. Feminine, neuter and plural stay the same as Nominativ (die, das, die; eine, ein). Most verbs take an Akkusativ object: haben, sehen, kaufen, brauchen, essen, lieben. The phrase 'es gibt' (there is) also takes Akkusativ.",
+        "example": "'Ich sehe den Mann.' Wen sehe ich? den Mann. 'Ich kaufe einen Tisch, eine Lampe und ein Bett.'",
+        "why": "This is the most common case after Nominativ. If you only remember 'der → den', you've already got most of it.",
+        "mixup": "'Es gibt einen Park', not 'Es gibt ein Park'. 'es gibt' always takes the Akkusativ."
+      },
+      "bs": {
+        "one": "Akkusativ je padež direktnog objekta: osobe ili stvari na koju ide radnja. Pitanje: Wen? (koga?) ili Was? (šta?).",
+        "explain": "Dobra vijest: mijenja se samo muški rod! der → den, ein → einen. Ženski, srednji i množina ostaju isti kao u nominativu (die, das, die; eine, ein). Većina glagola traži akuzativ: haben, sehen, kaufen, brauchen, essen, lieben. I 'es gibt' (ima, postoji) traži akuzativ. Odgovara bosanskom akuzativu.",
+        "example": "'Ich sehe den Mann.' Wen sehe ich? den Mann (vidim čovjeka). 'Ich kaufe einen Tisch, eine Lampe und ein Bett.'",
+        "why": "Ovo je najčešći padež poslije nominativa. Ako zapamtiš samo 'der → den', već znaš većinu.",
+        "mixup": "'Es gibt einen Park', ne 'Es gibt ein Park'. 'es gibt' uvijek traži akuzativ."
+      }
+    },
+    {
+      "slug": "dativ",
+      "term": "der Dativ",
+      "local": "dativ",
+      "minutes": 15,
+      "youtube": "G-dgLzu18EU",
+      "youtubeQuery": "German dative case explained",
+      "related": [
+        "der Akkusativ",
+        "Präpositionen mit Dativ",
+        "Verben mit Dativ"
+      ],
+      "en": {
+        "one": "The Dativ is the case of the indirect object: the person who receives something or benefits. Question: Wem?",
+        "explain": "All genders change: der → dem, die → der, das → dem, die (plural) → den + -n on the noun. ein → einem, eine → einer. Verbs of giving and telling use it for the person: geben, schenken, zeigen, sagen, erklären. Typical pattern: person in Dativ, thing in Akkusativ.",
+        "example": "'Ich gebe dem Kind (Wem?) einen Apfel (Was?).' 'Ich helfe meiner Mutter.' 'mit den Kindern'.",
+        "why": "The Dativ appears after many common prepositions (mit, bei, von, zu, nach), so you'll meet it constantly.",
+        "mixup": "'der' can be Nominativ masculine OR Dativ feminine. 'Ich helfe der Frau' is Dativ, because 'Wem helfe ich?'"
+      },
+      "bs": {
+        "one": "Dativ je padež indirektnog objekta: osobe koja nešto prima ili kojoj nešto koristi. Pitanje: Wem? (kome?).",
+        "explain": "Mijenjaju se svi rodovi: der → dem, die → der, das → dem, die (množina) → den + -n na imenici. ein → einem, eine → einer. Glagoli davanja i govorenja ga koriste za osobu: geben, schenken, zeigen, sagen, erklären. Tipičan obrazac: osoba u dativu, stvar u akuzativu. Kao bosanski: 'dajem djetetu jabuku'.",
+        "example": "'Ich gebe dem Kind (Wem?) einen Apfel (Was?).' 'Ich helfe meiner Mutter.' 'mit den Kindern'.",
+        "why": "Dativ dolazi iza mnogih čestih prijedloga (mit, bei, von, zu, nach), pa ćeš ga stalno sretati.",
+        "mixup": "'der' može biti nominativ muškog roda ILI dativ ženskog. 'Ich helfe der Frau' je dativ, jer 'Wem helfe ich?'"
+      }
+    },
+    {
+      "slug": "genitiv",
+      "term": "der Genitiv",
+      "local": "genitiv",
+      "minutes": 4,
+      "youtube": "tdIarhdlFsU",
+      "youtubeQuery": "German genitive case explained",
+      "related": [
+        "der Dativ",
+        "What is a case?"
+      ],
+      "en": {
+        "one": "The Genitiv shows belonging: whose something is. Question: Wessen?",
+        "explain": "Articles: des (masc./neuter, + -s or -es on the noun), der (fem. and plural). eines, einer. Names just take -s: Annas Auto. In everyday speech Germans often replace it with 'von + Dativ': das Auto von meinem Bruder. It's still used in writing and after some prepositions: wegen, trotz, während.",
+        "example": "'das Auto des Vaters' = the father's car. 'die Farbe der Tür' = the colour of the door. 'wegen des Wetters' = because of the weather.",
+        "why": "At A1–B1 you need to recognise it more than produce it, especially in texts, news and forms.",
+        "mixup": "Don't add an apostrophe to names: 'Annas Buch', not 'Anna's Buch'."
+      },
+      "bs": {
+        "one": "Genitiv pokazuje pripadanje: čije je nešto. Pitanje: Wessen? (čiji? čije?).",
+        "explain": "Članovi: des (muški/srednji, + -s ili -es na imenici), der (ženski i množina). eines, einer. Imena dobijaju samo -s: Annas Auto. U svakodnevnom govoru Nijemci ga često zamijene s 'von + dativ': das Auto von meinem Bruder. Još se koristi u pisanju i iza nekih prijedloga: wegen, trotz, während.",
+        "example": "'das Auto des Vaters' = očevo auto. 'die Farbe der Tür' = boja vrata. 'wegen des Wetters' = zbog vremena.",
+        "why": "Na nivoima A1–B1 treba ga više prepoznati nego koristiti, posebno u tekstovima, vijestima i formularima.",
+        "mixup": "Ne dodaji apostrof imenima: 'Annas Buch', ne 'Anna's Buch'."
+      }
+    },
+    {
+      "slug": "fall-erkennen",
+      "term": "How to spot the case",
+      "local": "kako prepoznati padež",
+      "minutes": 21,
+      "youtube": "-XjraxIEzrk",
+      "youtubeQuery": "how to identify German cases in a sentence",
+      "related": [
+        "What is a case?",
+        "die Präposition"
+      ],
+      "en": {
+        "one": "A three-step method to work out the case of any noun.",
+        "explain": "1. Is there a preposition in front? Then the preposition decides (mit → Dativ, für → Akkusativ). 2. If not, find the verb and ask Wer? → Nominativ; Wen/Was? → Akkusativ; Wem? → Dativ; Wessen? → Genitiv. 3. Check the article against the table. Masc: der / den / dem / des. Fem: die / die / der / der. Neut: das / das / dem / des. Plural: die / die / den / der.",
+        "example": "'Am Wochenende schenkt mir meine Freundin ein Buch.' am = an + dem → Dativ (preposition). Wer schenkt? meine Freundin → Nom. Wem? mir → Dativ. Was? ein Buch → Akk.",
+        "why": "With this routine, cases stop being guesswork and become a quick check you can do in your head.",
+        "mixup": "Feminine and neuter look the same in Nominativ and Akkusativ. Only the question (Wer? vs Wen?) tells them apart."
+      },
+      "bs": {
+        "one": "Metod u tri koraka da odrediš padež bilo koje imenice.",
+        "explain": "1. Ima li prijedlog ispred? Onda prijedlog odlučuje (mit → dativ, für → akuzativ). 2. Ako nema, nađi glagol i pitaj Wer? → nominativ; Wen/Was? → akuzativ; Wem? → dativ; Wessen? → genitiv. 3. Provjeri član u tabeli (tablici). Muški: der / den / dem / des. Ženski: die / die / der / der. Srednji: das / das / dem / des. Množina: die / die / den / der.",
+        "example": "'Am Wochenende schenkt mir meine Freundin ein Buch.' am = an + dem → dativ (prijedlog). Wer schenkt? meine Freundin → nom. Wem? mir → dativ. Was? ein Buch → akuzativ.",
+        "why": "S ovom rutinom padeži prestaju biti pogađanje i postaju brza provjera u glavi.",
+        "mixup": "Ženski i srednji rod izgledaju isto u nominativu i akuzativu. Samo pitanje (Wer? ili Wen?) ih razlikuje."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "Which question asks for the Dativ?",
+        "bs": "Koje pitanje traži dativ?"
+      },
+      "options": [
+        {
+          "en": "Wer?",
+          "bs": "Wer?"
+        },
+        {
+          "en": "Wen?",
+          "bs": "Wen?"
+        },
+        {
+          "en": "Wem?",
+          "bs": "Wem?"
+        },
+        {
+          "en": "Wessen?",
+          "bs": "Wessen?"
+        }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "Wem? = to whom → Dativ.",
+        "bs": "Wem? = kome → dativ."
+      }
+    },
+    {
+      "q": {
+        "en": "'Ich brauche ___ neuen Computer.'",
+        "bs": "'Ich brauche ___ neuen Computer.'"
+      },
+      "options": [
+        {
+          "en": "einen",
+          "bs": "einen"
+        },
+        {
+          "en": "ein",
+          "bs": "ein"
+        },
+        {
+          "en": "einem",
+          "bs": "einem"
+        },
+        {
+          "en": "eines",
+          "bs": "eines"
+        }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "brauchen takes Akkusativ; der Computer → einen.",
+        "bs": "brauchen traži akuzativ; der Computer → einen."
+      }
+    },
+    {
+      "q": {
+        "en": "In 'Ich helfe der Frau', 'der Frau' is:",
+        "bs": "U 'Ich helfe der Frau', 'der Frau' je:"
+      },
+      "options": [
+        {
+          "en": "Nominativ",
+          "bs": "Nominativ"
+        },
+        {
+          "en": "Akkusativ",
+          "bs": "Akkusativ"
+        },
+        {
+          "en": "Genitiv",
+          "bs": "Genitiv"
+        },
+        {
+          "en": "Dativ",
+          "bs": "Dativ"
+        }
+      ],
+      "answer": 3,
+      "explain": {
+        "en": "Wem helfe ich? der Frau. Feminine Dativ = der.",
+        "bs": "Wem helfe ich? der Frau. Ženski dativ = der."
+      }
+    },
+    {
+      "q": {
+        "en": "'Heute besucht uns der Onkel.' Who visits?",
+        "bs": "'Heute besucht uns der Onkel.' Ko dolazi u posjetu?"
+      },
+      "options": [
+        {
+          "en": "we do",
+          "bs": "mi"
+        },
+        {
+          "en": "nobody",
+          "bs": "niko"
+        },
+        {
+          "en": "the uncle",
+          "bs": "ujak/stric"
+        },
+        {
+          "en": "it's unclear",
+          "bs": "nejasno je"
+        }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "'der Onkel' is Nominativ, the subject, even at the end.",
+        "bs": "'der Onkel' je nominativ, subjekat, iako je na kraju."
+      }
+    }
+  ]
+}

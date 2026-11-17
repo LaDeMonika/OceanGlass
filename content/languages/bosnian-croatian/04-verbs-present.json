@@ -1,0 +1,225 @@
+{
+  "slug": "verbs-present",
+  "title": {
+    "en": "Verbs in the present",
+    "bs": "Glagoli u prezentu"
+  },
+  "summary": {
+    "en": "The infinitive, the three present-tense patterns, biti and imati, negation and asking questions.",
+    "bs": "Infinitiv, tri obrasca prezenta, biti i imati, negacija i postavljanje pitanja."
+  },
+  "concepts": [
+    {
+      "slug": "infinitiv",
+      "term": "Infinitiv",
+      "local": "infinitive",
+      "minutes": 9,
+      "youtube": "iy3SxYfYepM",
+      "youtubeQuery": "croatian verbs infinitive",
+      "related": [
+        "Glagol",
+        "Prezent"
+      ],
+      "en": {
+        "one": "The infinitive (infinitiv) is the dictionary form of the verb. It ends in -ti or -ći.",
+        "explain": "-ti: raditi (to work), čitati (to read), pisati (to write), piti (to drink). -ći: ići (to go), moći (can), doći (to come), peći (to bake). It's used after other verbs: 'Volim čitati', 'Moram ići'. In Croatian the infinitive is strongly preferred; in Bosnian you'll often hear 'da + present' instead: 'Moram da idem' (Moram ići).",
+        "example": "'Želim naučiti bosanski.' 'Mogu li platiti karticom?'",
+        "why": "You need the infinitive for modal verbs, for the future (radit ću) and to look up any verb.",
+        "mixup": "The infinitive doesn't show the stem clearly: pisati → pišem, ići → idem. Learn the 'ja' form together with the infinitive."
+      }
+    },
+    {
+      "slug": "prezent",
+      "term": "Prezent",
+      "local": "present tense",
+      "minutes": 26,
+      "youtube": "2jGSKDvUr-8",
+      "youtubeQuery": "croatian present tense verbs",
+      "related": [
+        "Infinitiv",
+        "Glagol",
+        "Biti"
+      ],
+      "en": {
+        "one": "The present tense (prezent) has three main patterns, named after the 'ja' ending: -am, -im and -em.",
+        "explain": "-am (čitati): čitam, čitaš, čita, čitamo, čitate, čitaju. -im (raditi): radim, radiš, radi, radimo, radite, rade. -em (pisati): pišem, pišeš, piše, pišemo, pišete, pišu. The endings for ti (-š), mi (-mo) and vi (-te) are always the same; only the vowel changes. The present covers both 'I work' and 'I'm working'.",
+        "example": "'Šta (što) radiš?' – 'Pišem mejl (e-mail) i pijem čaj.'",
+        "why": "One tense does the job of two English ones, and the endings tell you who's acting, so you can drop the pronoun.",
+        "mixup": "Don't build -em verbs from the infinitive: pisati → pišem (not pisam), ići → idem, piti → pijem."
+      }
+    },
+    {
+      "slug": "biti",
+      "term": "Biti",
+      "local": "to be",
+      "minutes": 15,
+      "youtube": "c7A3MDYqxss",
+      "youtubeQuery": "croatian verb biti to be",
+      "related": [
+        "Prezent",
+        "Enklitike",
+        "Perfekat (perfekt)"
+      ],
+      "en": {
+        "one": "'Biti' (to be) has short forms you use constantly and long forms for emphasis and questions.",
+        "explain": "Short (unstressed): sam, si, je, smo, ste, su. Long (stressed): jesam, jesi, jest(e), jesmo, jeste, jesu. Negative: nisam, nisi, nije, nismo, niste, nisu. Short forms can't start a sentence: 'Umoran sam' or 'Ja sam umoran', never 'Sam umoran'. 'biti' also helps build the past: radio sam (I worked).",
+        "example": "'Ja sam iz Bihaća. Jesi li ti student?' – 'Jesam.' / 'Nisam.'",
+        "why": "Short forms of biti are the most common words in the language and they follow the special 'second position' rule.",
+        "mixup": "Answering a question with just 'Sam' is wrong. Use the long form: 'Jesam' (Yes, I am)."
+      }
+    },
+    {
+      "slug": "imati",
+      "term": "Imati i nemati",
+      "local": "to have / not have",
+      "minutes": 2,
+      "youtube": "ZNtcBqQP1y4",
+      "youtubeQuery": "croatian verb imati to have",
+      "related": [
+        "Prezent",
+        "Negacija",
+        "Genitiv"
+      ],
+      "en": {
+        "one": "'Imati' (to have) follows the -am pattern, and its negative is one word: nemati.",
+        "explain": "imam, imaš, ima, imamo, imate, imaju. Negative: nemam, nemaš, nema, nemamo, nemate, nemaju. 'Ima' and 'nema' also mean 'there is / there isn't': 'Ima li kafe (kave)?' After 'nema' the thing goes in the genitive: 'Nema hljeba (kruha).'",
+        "example": "'Imam dvoje djece.' 'Nemam vremena.' 'U sobi nema nikoga.'",
+        "why": "'Nema' with the genitive is one of the most frequent patterns, and your first real use of the genitive case.",
+        "mixup": "Don't say 'ne imam'. The negative is fused: 'nemam'."
+      }
+    },
+    {
+      "slug": "negacija",
+      "term": "Negacija",
+      "local": "negation",
+      "minutes": 1,
+      "youtube": "jirwecsjpO8",
+      "youtubeQuery": "croatian negation",
+      "related": [
+        "Biti",
+        "Imati i nemati"
+      ],
+      "en": {
+        "one": "To negate a verb, put 'ne' right before it, written separately: ne radim, ne znam.",
+        "explain": "Three verbs fuse with ne: biti → nisam, imati → nemam, htjeti → neću. Double negatives are normal and required: 'Ne znam ništa' (I don't know anything, literally I don't know nothing). 'Niko (nitko)', 'ništa', 'nikad', 'nigdje' always come with 'ne' on the verb.",
+        "example": "'Ne pijem kafu (kavu).' 'Nisam umoran.' 'Nikad ne idem tamo.' 'Neću!'",
+        "why": "Negation is essential, and the double negative is the opposite of the English rule, so it needs practice.",
+        "mixup": "'ne' is written separately from verbs ('ne znam'), but together with nouns and adjectives when it forms a new word: neznanje, nesretan."
+      }
+    },
+    {
+      "slug": "pitanja",
+      "term": "Pitanja",
+      "local": "questions",
+      "minutes": 6,
+      "youtube": "gDLOyNhM6jQ",
+      "youtubeQuery": "croatian questions je li da li",
+      "related": [
+        "Rječca (čestica)",
+        "Bosanski i hrvatski",
+        "Biti"
+      ],
+      "en": {
+        "one": "Yes/no questions are made in three ways: with 'da li', with verb + 'li', or just by intonation.",
+        "explain": "1. Da li + statement: 'Da li radiš danas?' (common in Bosnian, less in Croatian). 2. Verb + li: 'Radiš li danas?' (standard in both). With biti: 'Je li on tu?', 'Jesi li gladan?' 3. Intonation only: 'Radiš danas?' Question words: ko (tko), šta (što), gdje, kada, zašto, kako, koliko, koji, čiji.",
+        "example": "Bosnian: 'Da li imaš vremena?' Croatian: 'Imaš li vremena?' Both: 'Gdje živiš?'",
+        "why": "You'll ask questions constantly, and recognising both styles helps you understand speakers from both countries.",
+        "mixup": "Croatian standard avoids 'da li je' and uses 'je li': 'Je li to istina?' Bosnian accepts both."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "'Ja ___ (pisati) pismo.'"
+      },
+      "options": [
+        {
+          "en": "pisam"
+        },
+        {
+          "en": "piše"
+        },
+        {
+          "en": "pisim"
+        },
+        {
+          "en": "pišem"
+        }
+      ],
+      "answer": 3,
+      "explain": {
+        "en": "pisati is an -em verb with a stem change: pišem."
+      }
+    },
+    {
+      "q": {
+        "en": "How do you say 'I don't have time'?"
+      },
+      "options": [
+        {
+          "en": "Nemam vremena."
+        },
+        {
+          "en": "Ne imam vremena."
+        },
+        {
+          "en": "Nemam vrijeme."
+        },
+        {
+          "en": "Nisam vremena."
+        }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "imati fuses with ne (nemam), and the thing goes in the genitive: vremena."
+      }
+    },
+    {
+      "q": {
+        "en": "Which answer to 'Jesi li umoran?' is correct?"
+      },
+      "options": [
+        {
+          "en": "Sam."
+        },
+        {
+          "en": "Jesam."
+        },
+        {
+          "en": "Je."
+        },
+        {
+          "en": "Smo."
+        }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Short forms can't stand alone. Use the long form: Jesam."
+      }
+    },
+    {
+      "q": {
+        "en": "'I never go there' is:"
+      },
+      "options": [
+        {
+          "en": "Nikad ne idem tamo."
+        },
+        {
+          "en": "Nikad idem tamo."
+        },
+        {
+          "en": "Ne nikad idem tamo."
+        },
+        {
+          "en": "Idem nikad tamo."
+        }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Double negation is required: nikad + ne."
+      }
+    }
+  ]
+}

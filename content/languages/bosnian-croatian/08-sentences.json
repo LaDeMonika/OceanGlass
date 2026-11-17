@@ -1,0 +1,223 @@
+{
+  "slug": "sentences",
+  "title": {
+    "en": "Building sentences",
+    "bs": "Građenje rečenica"
+  },
+  "summary": {
+    "en": "Free word order, the second-position rule, reflexive se, numbers with nouns, subordinate clauses and comparison.",
+    "bs": "Slobodan red riječi, pravilo drugog mjesta, povratno se, brojevi s imenicama, zavisne rečenice i poređenje."
+  },
+  "concepts": [
+    {
+      "slug": "red-rijeci",
+      "term": "Red riječi",
+      "local": "word order",
+      "minutes": 6,
+      "youtube": "6ZrDGmOiurg",
+      "youtubeQuery": "croatian word order",
+      "related": [
+        "Padeži",
+        "Enklitike"
+      ],
+      "en": {
+        "one": "Word order is free because the case endings show who does what. The neutral order is subject-verb-object, but you can move words for emphasis.",
+        "explain": "New or important information tends to come at the end. 'Marko je kupio auto' (neutral). 'Auto je kupio Marko' (it was Marko who bought the car). 'Kupio je Marko auto' (yes, he really did buy it). The only fixed rule is for the small words (next card).",
+        "example": "'Danas idem u grad.' = 'U grad idem danas.' = 'Idem danas u grad.' All correct, with slightly different focus.",
+        "why": "Free order lets you stress anything without changing words. It also means you must read the endings, not the positions.",
+        "mixup": "Free doesn't mean random. Adjectives still come before their noun ('lijepa kuća'), and prepositions before theirs."
+      }
+    },
+    {
+      "slug": "enklitike",
+      "term": "Enklitike",
+      "local": "clitics (second-position words)",
+      "minutes": 3,
+      "youtube": "1p_hXUnYocE",
+      "youtubeQuery": "croatian clitics word order",
+      "related": [
+        "Biti",
+        "Lične zamjenice po padežima",
+        "Red riječi"
+      ],
+      "en": {
+        "one": "Enklitike are short unstressed words that must sit in the SECOND position of the sentence: sam, si, je, ću, ćeš, bih, li, me, mi, ga, mu, se and others.",
+        "explain": "They go after the first word or first phrase, and when several meet, they follow a fixed order: li → verb forms (sam, si, ću, bih…) → dative (mi, ti, mu) → accusative (me, te, ga) → se → je. 'Dao sam mu ga.' (I gave it to him.) 'Je li ti se svidjelo?'",
+        "example": "'Ja sam ti to rekao.' / 'Rekao sam ti to.' / 'Juče (jučer) sam ti to rekao.' The group 'sam ti' always comes second.",
+        "why": "This is the rule that makes your sentences sound native rather than translated.",
+        "mixup": "Don't put clitics first: 'Sam umoran' and 'Mi je drago' are wrong. Say 'Umoran sam' and 'Drago mi je'."
+      }
+    },
+    {
+      "slug": "povratni-glagoli",
+      "term": "Povratni glagoli",
+      "local": "reflexive verbs",
+      "minutes": 1,
+      "youtube": "U8-ZQWmoxTw",
+      "youtubeQuery": "croatian reflexive verbs se",
+      "related": [
+        "Enklitike",
+        "Glagol"
+      ],
+      "en": {
+        "one": "Many verbs come with 'se': zvati se (to be called), smijati se (to laugh), sjećati se (to remember), osjećati se (to feel).",
+        "explain": "'se' is a clitic, so it goes in second position: 'Zovem se Mo.' 'Kako se zoveš?' Some verbs are reflexive only in meaning (umivati se – to wash one's face), others always have se without a 'self' meaning (bojati se – to be afraid, nadati se – to hope). 'se' also makes impersonal sentences: 'Ovdje se ne puši' (No smoking here).",
+        "example": "'Kako se osjećaš?' – 'Osjećam se dobro.' 'Sviđa mi se.' 'Vidimo se sutra!'",
+        "why": "You use them in introductions and greetings from the very first conversation.",
+        "mixup": "'se' is the same for all persons: ja se zovem, ti se zoveš, oni se zovu. It never changes to 'me se'."
+      }
+    },
+    {
+      "slug": "brojevi-imenice",
+      "term": "Brojevi i imenice",
+      "local": "numbers and nouns",
+      "minutes": 2,
+      "youtube": "nSMVA_t8LNg",
+      "youtubeQuery": "croatian numbers with nouns",
+      "related": [
+        "Broj",
+        "Genitiv",
+        "Množina"
+      ],
+      "en": {
+        "one": "After a number, the noun changes its form. There are three groups: 1, 2–4, and 5 and up.",
+        "explain": "1 (and 21, 31…): nominative singular → jedan stol (sto), jedna kuća. 2, 3, 4 (and 22–24…): a special form that looks like genitive singular → dva grada, tri kuće, četiri sela. 5–20 and 25–30…, plus mnogo, malo, koliko: genitive plural → pet gradova, deset kuća, mnogo ljudi.",
+        "example": "'jedan sat, dva sata, pet sati' (one hour, two hours, five hours). 'jedna godina, dvije godine, pet godina' (years).",
+        "why": "Times, prices and ages use this rule constantly: 'Imam trideset i pet godina.'",
+        "mixup": "It's the LAST digit that counts: 21 = jedan (dvadeset i jedan grad), 22 = dva (dvadeset dva grada), but 11–19 always take the genitive plural (jedanaest gradova)."
+      }
+    },
+    {
+      "slug": "zavisne-recenice",
+      "term": "Zavisne rečenice",
+      "local": "subordinate clauses",
+      "minutes": 8,
+      "youtube": "nKBo65zb7o0",
+      "youtubeQuery": "croatian relative clauses koji",
+      "related": [
+        "Veznik",
+        "Red riječi"
+      ],
+      "en": {
+        "one": "Subordinate clauses add reasons, facts, conditions and descriptions. Unlike German, the word order inside them doesn't change.",
+        "explain": "da (that): 'Mislim da je to istina.' jer (because): 'Ne dolazim jer sam bolestan.' kad(a) (when) and ako (if): 'Ako imaš vremena, dođi.' koji/koja/koje (who/which), agreeing with the noun: 'Žena koja radi ovdje…', 'Grad u kojem (kome) živim…'. Clitics still go second inside the clause: 'Mislim da sam ti rekao.'",
+        "example": "'Kupila sam kuću koja ima veliku baštu (vrt).' 'Znam da si umoran, ali moramo ići.'",
+        "why": "Clauses let you explain, describe and argue: the step from A2 to B1.",
+        "mixup": "'koji' changes case for its role in its own clause: 'Čovjek kojeg (koga) sam vidio' (accusative), 'Čovjek kojem (kome) sam dao knjigu' (dative)."
+      }
+    },
+    {
+      "slug": "komparacija",
+      "term": "Komparacija pridjeva",
+      "local": "comparison of adjectives",
+      "minutes": 18,
+      "youtube": "pUv2BnpJ5XA",
+      "youtubeQuery": "croatian comparative adjectives",
+      "related": [
+        "Pridjev",
+        "Slaganje pridjeva"
+      ],
+      "en": {
+        "one": "Comparative: add -iji, -ji or -ši (star → stariji). Superlative: add naj- to the comparative (najstariji).",
+        "explain": "-iji: star → stariji, nov → noviji. -ji (with sound changes): mlad → mlađi, jak → jači, skup → skuplji. -ši: lak → lakši, mek → mekši. Irregular: dobar → bolji → najbolji, loš (zao) → gori → najgori, velik → veći → najveći, mali → manji → najmanji. 'than' = od + genitive or nego/nego što + nominative.",
+        "example": "'Sarajevo je veće od Mostara.' 'Moj brat je stariji nego ja.' 'Ovo je najbolja pita u gradu.'",
+        "why": "Comparison is everyday language: prices, people, places and food.",
+        "mixup": "'Više bolji' and 'najviše dobar' are wrong. bolji already means 'better'."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "Which sentence is correct?"
+      },
+      "options": [
+        {
+          "en": "Mi je drago."
+        },
+        {
+          "en": "Drago mi je."
+        },
+        {
+          "en": "Drago je mi."
+        },
+        {
+          "en": "Je mi drago."
+        }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Clitics (mi, je) must be in second position, in the order dative → je."
+      }
+    },
+    {
+      "q": {
+        "en": "'Five years':"
+      },
+      "options": [
+        {
+          "en": "pet godina"
+        },
+        {
+          "en": "pet godine"
+        },
+        {
+          "en": "pet godinu"
+        },
+        {
+          "en": "pet godinama"
+        }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "5+ takes the genitive plural: godina."
+      }
+    },
+    {
+      "q": {
+        "en": "'What's your name?' (informal)"
+      },
+      "options": [
+        {
+          "en": "Kako ti je ime se?"
+        },
+        {
+          "en": "Kako zoveš?"
+        },
+        {
+          "en": "Kako se zoveš?"
+        },
+        {
+          "en": "Se kako zoveš?"
+        }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "zvati se, with se in second position."
+      }
+    },
+    {
+      "q": {
+        "en": "'Sarajevo is bigger than Mostar':"
+      },
+      "options": [
+        {
+          "en": "Sarajevo je više veliko od Mostar."
+        },
+        {
+          "en": "Sarajevo je veće od Mostara."
+        },
+        {
+          "en": "Sarajevo je najveće Mostar."
+        },
+        {
+          "en": "Sarajevo je veliko nego Mostara."
+        }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "velik → veći (neuter veće), and od + genitive."
+      }
+    }
+  ]
+}

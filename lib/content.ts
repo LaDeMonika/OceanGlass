@@ -3,7 +3,7 @@ import fs from "node:fs";
 import path from "node:path";
 import type { Lang } from "./i18n";
 
-export type L = { en: string; bs: string };
+export type L = { en?: string; bs?: string };
 
 export interface ConceptText {
   one: string;
@@ -22,8 +22,9 @@ export interface Concept {
   youtubeQuery: string;
   formula?: L;
   related: string[];
-  en: ConceptText;
-  bs: ConceptText;
+  /** Programs with a fixed `explainIn` only need that one language. */
+  en?: ConceptText;
+  bs?: ConceptText;
 }
 
 export interface QuizQuestion {
@@ -48,6 +49,14 @@ export interface Degree {
   icon: string;
   title: L;
   description: L;
+  /**
+   * Language programs: concept cards and quizzes are always explained in this
+   * language, whatever the app language is (e.g. English is explained in "bs").
+   * Leave it out to follow the app language, as Business does.
+   */
+  explainIn?: Lang;
+  /** Language of each concept's `local` word. Defaults to "bs". */
+  localLang?: Lang;
   topics: Topic[];
 }
 
@@ -151,5 +160,15 @@ export function allConcepts(): FlatConcept[] {
 }
 
 export function tr(l: L, lang: Lang) {
-  return l[lang] || l.en;
+  return l[lang] || l.en || l.bs || "";
+}
+
+/** The concept text in `lang`, falling back to whichever language exists. */
+export function conceptText(c: Concept, lang: Lang): ConceptText {
+  return (c[lang] ?? c.en ?? c.bs)!;
+}
+
+/** The language a program's cards and quizzes are shown in. */
+export function cardLang(d: Degree, uiLang: Lang): Lang {
+  return d.explainIn ?? uiLang;
 }

@@ -1,0 +1,227 @@
+{
+  "slug": "sentence-basics",
+  "title": {
+    "en": "Sentence basics",
+    "bs": "Osnove rečenice"
+  },
+  "summary": {
+    "en": "How an English sentence is built: subject, verb, object, the verb 'to be', questions and negatives.",
+    "bs": "Kako se gradi engleska rečenica: subjekat, glagol, objekat, glagol 'to be', pitanja i negacija."
+  },
+  "concepts": [
+    {
+      "slug": "sentence",
+      "term": "Sentence",
+      "local": "rečenica",
+      "minutes": 21,
+      "youtube": "jul2urONzOQ",
+      "youtubeQuery": "english sentence structure for beginners subject verb",
+      "related": [
+        "Subject",
+        "Verb",
+        "Word order"
+      ],
+      "bs": {
+        "one": "Rečenica (sentence) je grupa riječi s potpunim smislom. U engleskom joj gotovo uvijek trebaju subjekat i glagol.",
+        "explain": "Najkraća rečenica je npr. 'She sleeps.' Može biti izjavna (I like tea.), upitna (Do you like tea?), zapovjedna (Drink your tea!) ili uzvična (What a nice tea!). Počinje velikim slovom i završava tačkom, upitnikom ili uzvičnikom. Zapovjedna rečenica jedina nema izgovoren subjekat.",
+        "example": "'It is raining.' Čak i ovdje engleski traži subjekat 'it', iako u bosanskom kažemo samo 'Pada kiša'.",
+        "why": "Ako rečenici fali subjekat ili glagol, Englezi je osjete kao nedovršenu.",
+        "mixup": "'Is cold' nije rečenica. Treba 'It is cold.' Engleski ne dozvoljava izostaviti subjekat kao bosanski ('Hladno je')."
+      }
+    },
+    {
+      "slug": "word-order",
+      "term": "Word order (SVO)",
+      "local": "red riječi",
+      "minutes": 7,
+      "youtube": "3a8H6JDI_aE",
+      "youtubeQuery": "english word order subject verb object",
+      "related": [
+        "Subject",
+        "Object",
+        "Sentence"
+      ],
+      "bs": {
+        "one": "Osnovni red riječi u engleskom je S-V-O: subjekat (ko), glagol (šta radi), objekat (koga/šta).",
+        "explain": "U bosanskom red riječi je slobodan jer padeži pokazuju ko šta radi. U engleskom nema padežnih nastavaka, pa red riječi nosi značenje. Iza objekta obično dolazi mjesto, pa vrijeme: S + V + O + mjesto + vrijeme.",
+        "example": "'The dog bit the man' i 'The man bit the dog' imaju iste riječi, ali potpuno drugo značenje. 'I met Amir at the café yesterday.'",
+        "why": "Ako zapamtiš SVO, većina tvojih rečenica će odmah biti tačna.",
+        "mixup": "Ne stavljaj vrijeme između glagola i objekta: 'I play every day football' je pogrešno, treba 'I play football every day'."
+      }
+    },
+    {
+      "slug": "subject-object",
+      "term": "Subject and object",
+      "local": "subjekat i objekat",
+      "minutes": 8,
+      "youtube": "M5gh28-Rt3I",
+      "youtubeQuery": "subject and object in english grammar",
+      "related": [
+        "Word order",
+        "Subject and object pronouns",
+        "Verb"
+      ],
+      "bs": {
+        "one": "Subjekat (subject) je onaj ko radi radnju. Objekat (object) je onaj na koga ili šta radnja ide.",
+        "explain": "Kako ih prepoznati: pitaj glagol 'Ko?' za subjekat i 'Koga/Šta?' za objekat. Subjekat stoji ispred glagola, objekat iza. Ovo odgovara bosanskom nominativu (subjekat) i akuzativu (objekat).",
+        "example": "'Lejla reads a book.' Ko čita? Lejla (subjekat). Šta čita? A book (objekat).",
+        "why": "Kod zamjenica se oblik mijenja: subjekat 'I/he/she', objekat 'me/him/her'. Bez ovoga ćeš govoriti 'Him likes I'.",
+        "mixup": "Nema svaki glagol objekat: 'She sleeps' nema objekta. A u 'She is a doctor' riječ 'doctor' nije objekat nego dopuna uz 'is'."
+      }
+    },
+    {
+      "slug": "to-be",
+      "term": "The verb 'to be'",
+      "local": "glagol biti",
+      "minutes": 7,
+      "youtube": "mKxKVi0N6yc",
+      "youtubeQuery": "verb to be am is are english grammar",
+      "related": [
+        "Verb",
+        "Questions",
+        "Negatives"
+      ],
+      "bs": {
+        "one": "'To be' (biti) je najvažniji engleski glagol. U sadašnjem vremenu ima tri oblika: am, is, are.",
+        "explain": "I am (I'm), you are (you're), he/she/it is (he's), we are, they are. Koristiš ga za ime, porijeklo, godine, zanimanje, osjećaje i mjesto. Pitanje praviš premještanjem: 'You are tired' → 'Are you tired?' Negaciju dodavanjem 'not': 'I am not tired.'",
+        "example": "'I am 30. I am from Tuzla. My brother is a driver. We are happy.' Za godine engleski koristi 'be', ne 'have': 'I am 30', ne 'I have 30'.",
+        "why": "'Be' je i pomoćni glagol za trajno vrijeme (I am working) i pasiv. Bez njega ne ide dalje.",
+        "mixup": "Godine, glad i hladnoću engleski izražava s 'be': 'I am hungry', 'I am cold', 'I am 25'. Ne prevodi bosanski 'imam' doslovno."
+      }
+    },
+    {
+      "slug": "questions",
+      "term": "Questions with do/does",
+      "local": "pitanja s do/does",
+      "minutes": 7,
+      "youtube": "PvFVRNr3M_Q",
+      "youtubeQuery": "english questions with do and does explained",
+      "related": [
+        "To be",
+        "Present simple",
+        "Negatives"
+      ],
+      "bs": {
+        "one": "Većina engleskih pitanja u sadašnjem vremenu pravi se pomoćnim glagolom 'do' ili 'does' na početku.",
+        "explain": "Formula: (upitna riječ) + do/does + subjekat + osnovni glagol? 'Do you work?' 'Where does she live?' 'Does' je za he/she/it, i tada glavni glagol gubi -s. Izuzeci: s 'be' i modalnim glagolima (can, will) nema 'do', samo se zamijeni red: 'Are you…?', 'Can you…?'. Upitne riječi: what (šta), who (ko), where (gdje), when (kad), why (zašto), how (kako).",
+        "example": "'You like coffee.' → 'Do you like coffee?' 'He plays tennis.' → 'Does he play tennis?' (ne 'Does he plays').",
+        "why": "Bez pitanja nema razgovora. U bosanskom samo podigneš glas ili dodaš 'da li', a u engleskom moraš promijeniti strukturu.",
+        "mixup": "'Does she likes?' je česta greška. -s ide samo jednom: na 'does'. Tačno je 'Does she like?'"
+      }
+    },
+    {
+      "slug": "negatives",
+      "term": "Negatives with don't/doesn't",
+      "local": "negacija s don't/doesn't",
+      "minutes": 9,
+      "youtube": "ju0doaSfE0s",
+      "youtubeQuery": "english negative sentences don't doesn't",
+      "related": [
+        "Questions",
+        "To be",
+        "Present simple"
+      ],
+      "bs": {
+        "one": "Negaciju u sadašnjem vremenu praviš s 'do not (don't)' ili 'does not (doesn't)' ispred glavnog glagola.",
+        "explain": "I/you/we/they don't work. He/she/it doesn't work. Kao kod pitanja, glavni glagol ostaje u osnovnom obliku. S 'be' i modalnim glagolima samo dodaš 'not': 'I'm not', 'She can't'. Engleski ne voli dvostruku negaciju: jedna negacija je dovoljna.",
+        "example": "'I don't eat meat.' 'My father doesn't drink coffee.' 'I don't know anything' (ne 'I don't know nothing').",
+        "why": "Negacija ti treba stalno: da odbiješ, ispraviš ili kažeš šta ne znaš.",
+        "mixup": "U bosanskom kažemo 'Ne znam ništa' (dvije negacije). U engleskom je to 'I don't know anything' ili 'I know nothing', nikad oboje."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "bs": "Koji je tačan red riječi?"
+      },
+      "options": [
+        {
+          "bs": "I every day drink coffee."
+        },
+        {
+          "bs": "Drink I coffee every day."
+        },
+        {
+          "bs": "I drink every day coffee."
+        },
+        {
+          "bs": "I drink coffee every day."
+        }
+      ],
+      "answer": 3,
+      "explain": {
+        "bs": "S + V + O, a vrijeme na kraju."
+      }
+    },
+    {
+      "q": {
+        "bs": "U 'Tarik calls his mother', šta je objekat?"
+      },
+      "options": [
+        {
+          "bs": "Tarik"
+        },
+        {
+          "bs": "calls"
+        },
+        {
+          "bs": "his mother"
+        },
+        {
+          "bs": "nema objekta"
+        }
+      ],
+      "answer": 2,
+      "explain": {
+        "bs": "Koga zove? Svoju majku: to je objekat."
+      }
+    },
+    {
+      "q": {
+        "bs": "Kako se kaže 'Imam 30 godina'?"
+      },
+      "options": [
+        {
+          "bs": "I have 30 years."
+        },
+        {
+          "bs": "I have 30."
+        },
+        {
+          "bs": "Me is 30."
+        },
+        {
+          "bs": "I am 30."
+        }
+      ],
+      "answer": 3,
+      "explain": {
+        "bs": "Za godine engleski koristi 'be'."
+      }
+    },
+    {
+      "q": {
+        "bs": "Koje pitanje je tačno?"
+      },
+      "options": [
+        {
+          "bs": "Does she works here?"
+        },
+        {
+          "bs": "Do she work here?"
+        },
+        {
+          "bs": "She does work here?"
+        },
+        {
+          "bs": "Does she work here?"
+        }
+      ],
+      "answer": 3,
+      "explain": {
+        "bs": "'Does' uz he/she/it, a glagol bez -s."
+      }
+    }
+  ]
+}
