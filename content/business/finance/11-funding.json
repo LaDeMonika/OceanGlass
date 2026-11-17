@@ -1,0 +1,106 @@
+{
+  "slug": "funding",
+  "title": { "en": "Funding a business", "bs": "Finansiranje biznisa" },
+  "summary": {
+    "en": "Where the money to start or grow a business comes from, and what each option costs you.",
+    "bs": "Odakle dolazi novac za pokretanje ili rast biznisa i šta te svaka opcija košta."
+  },
+  "concepts": [
+    {
+      "slug": "debt-vs-equity",
+      "term": "Debt vs. equity financing",
+      "local": "finansiranje dugom ili kapitalom",
+      "minutes": 6,
+      "youtube": "z1QVjiJFyMA",
+      "youtubeQuery": "debt vs equity financing explained simply",
+      "related": ["Loan", "Equity", "Dilution"],
+      "en": {
+        "one": "You can fund a business by borrowing money (debt) or by selling a piece of it (equity).",
+        "explain": "With debt, a bank or lender gives you money and you pay it back with interest, but the business stays 100% yours. With equity, an investor gives you money in exchange for part of the business. You pay nothing back, but they own a share of the profits and often get a say in decisions.",
+        "example": "You need €50,000. Debt: a bank loan at 7%, about €1,000 a month for 5 years. Equity: an investor gives €50,000 for 25% of your company, forever.",
+        "why": "This choice decides who controls the business and how much of its future success you keep.",
+        "mixup": "Equity is not 'free money'. If the business becomes very valuable, giving away 25% can cost far more than any loan."
+      },
+      "bs": {
+        "one": "Biznis možeš finansirati tako da pozajmiš novac (dug) ili da prodaš dio firme (kapital).",
+        "explain": "Kod duga ti banka ili zajmodavac da novac, a ti ga vraćaš s kamatom, ali firma ostaje 100% tvoja. Kod kapitala ti investitor da novac u zamjenu za dio firme. Ne vraćaš ništa, ali on posjeduje dio dobiti i često ima pravo glasa u odlukama.",
+        "example": "Treba ti 50.000 €. Dug: kredit u banci uz 7%, oko 1.000 € mjesečno 5 godina. Kapital: investitor da 50.000 € za 25% tvoje firme, zauvijek.",
+        "why": "Ovaj izbor odlučuje ko kontroliše firmu i koliko njenog budućeg uspjeha zadržavaš ti.",
+        "mixup": "Kapital nije 'besplatan novac'. Ako firma postane jako vrijedna, davanje 25% može koštati mnogo više od bilo kojeg kredita."
+      }
+    },
+    {
+      "slug": "bootstrapping",
+      "term": "Bootstrapping",
+      "local": "samofinansiranje",
+      "minutes": 5,
+      "youtube": "MSpH69ijZpk",
+      "youtubeQuery": "bootstrapping a business explained",
+      "related": ["Debt vs. equity financing", "Cash flow", "Saving"],
+      "en": {
+        "one": "Bootstrapping means building a business with your own savings and the money customers pay you, without loans or investors.",
+        "explain": "You start small, spend carefully and use each sale to fund the next step. Growth is often slower, but you keep full ownership and nobody can tell you what to do.",
+        "example": "A graphic designer starts freelancing next to her job, saves the first €8,000 she earns, then quits and uses that money to rent a small studio.",
+        "why": "Most small businesses in the world are bootstrapped. It forces you to make money early, which is a very healthy habit.",
+        "mixup": "Bootstrapping is not 'no risk'. You risk your own savings, and growing too slowly can let a better-funded competitor win."
+      },
+      "bs": {
+        "one": "Bootstrapping (samofinansiranje) znači graditi biznis vlastitom ušteđevinom i novcem koji ti plaćaju kupci, bez kredita i investitora.",
+        "explain": "Počneš malo, trošiš pažljivo i svaku prodaju koristiš da platiš sljedeći korak. Rast je često sporiji, ali zadržavaš cijelo vlasništvo i niko ti ne govori šta da radiš.",
+        "example": "Grafička dizajnerica počne raditi honorarno pored posla, uštedi prvih 8.000 € koje zaradi, a onda da otkaz i tim novcem iznajmi mali studio.",
+        "why": "Većina malih firmi na svijetu je samofinansirana. To te tjera da rano zarađuješ, a to je jako zdrava navika.",
+        "mixup": "Samofinansiranje nije 'bez rizika'. Rizikuješ vlastitu ušteđevinu, a presporo rastenje može pustiti bolje finansiranu konkurenciju da pobijedi."
+      }
+    },
+    {
+      "slug": "valuation",
+      "term": "Valuation",
+      "local": "procjena vrijednosti firme",
+      "minutes": 6,
+      "youtube": "zdXGbY71iA8",
+      "youtubeQuery": "startup valuation pre-money post-money explained simply",
+      "formula": {
+        "en": "Post-money valuation = Pre-money valuation + Money invested",
+        "bs": "Vrijednost poslije ulaganja = Vrijednost prije ulaganja + Uloženi novac"
+      },
+      "related": ["Debt vs. equity financing", "Dilution", "EBITDA"],
+      "en": {
+        "one": "Valuation is what a business is worth, usually agreed between the owner and an investor or buyer.",
+        "explain": "For a running business, people look at profit, often as a multiple of EBITDA. For a young startup with little profit, it is mostly a negotiation about future potential. 'Pre-money' is the value before new money comes in; 'post-money' is after.",
+        "example": "An investor puts €100,000 into your startup valued at €400,000 pre-money. Post-money it is worth €500,000, so the investor owns 100,000 ÷ 500,000 = 20%.",
+        "why": "Valuation decides how much of your business you give away for each euro you raise.",
+        "mixup": "A high valuation is not money in your pocket. It is a price on paper, and a too-high one can make the next round of funding much harder."
+      },
+      "bs": {
+        "one": "Valuation (procjena vrijednosti) je koliko firma vrijedi, obično dogovoreno između vlasnika i investitora ili kupca.",
+        "explain": "Za firmu koja već radi, ljudi gledaju dobit, često kao višestruki iznos EBITDA. Za mladi startup s malo dobiti, to je uglavnom pregovor o budućem potencijalu. 'Pre-money' je vrijednost prije novog novca, 'post-money' je poslije.",
+        "example": "Investitor uloži 100.000 € u tvoj startup procijenjen na 400.000 € prije ulaganja. Poslije ulaganja vrijedi 500.000 €, pa investitor posjeduje 100.000 ÷ 500.000 = 20%.",
+        "why": "Procjena vrijednosti odlučuje koliki dio firme daješ za svaki euro koji dobiješ.",
+        "mixup": "Visoka procjena nije novac u džepu. To je cijena na papiru, a previsoka može jako otežati sljedeće prikupljanje novca."
+      }
+    },
+    {
+      "slug": "dilution",
+      "term": "Dilution",
+      "local": "razvodnjavanje vlasništva",
+      "minutes": 5,
+      "youtube": "5vaXt-Awuq4",
+      "youtubeQuery": "equity dilution explained simply",
+      "related": ["Valuation", "Debt vs. equity financing", "Equity"],
+      "en": {
+        "one": "Dilution is when your percentage of a company gets smaller because new shares are given to someone else.",
+        "explain": "Each time a company brings in a new investor or gives shares to employees, the pie is cut into more pieces. You keep the same number of shares, but they are a smaller part of the whole. If the pie grew enough, your smaller slice can still be worth more.",
+        "example": "You own 100% of a company worth €400,000. An investor buys 20%. You now own 80%, but of a company worth €500,000, so your part is still worth €400,000.",
+        "why": "Founders who raise money many times can end up owning only a small part of the company they started. Knowing this helps you raise only what you need.",
+        "mixup": "Dilution does not always mean you lost money. It is bad only if the company's value does not grow enough to make up for it."
+      },
+      "bs": {
+        "one": "Dilution (razvodnjavanje) je kad se tvoj procenat firme smanji jer se nove dionice daju nekom drugom.",
+        "explain": "Svaki put kad firma uzme novog investitora ili da dionice zaposlenima, pita se reže na više komada. Ti imaš isti broj dionica, ali su one manji dio cjeline. Ako je pita dovoljno narasla, tvoj manji komad i dalje može vrijediti više.",
+        "example": "Posjeduješ 100% firme koja vrijedi 400.000 €. Investitor kupi 20%. Sada imaš 80%, ali firme koja vrijedi 500.000 €, pa tvoj dio i dalje vrijedi 400.000 €.",
+        "why": "Osnivači koji mnogo puta prikupljaju novac mogu na kraju posjedovati samo mali dio firme koju su pokrenuli. Kad to znaš, uzimaš samo koliko ti treba.",
+        "mixup": "Razvodnjavanje ne znači uvijek da si izgubio novac. Loše je samo ako vrijednost firme ne naraste dovoljno da to nadoknadi."
+      }
+    }
+  ]
+}

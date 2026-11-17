@@ -1,0 +1,107 @@
+{
+  "slug": "pricing-unit-economics",
+  "title": { "en": "Pricing & unit economics", "bs": "Cijene i ekonomija po jedinici" },
+  "summary": {
+    "en": "How to set a price, and how to check that every single sale actually earns you money.",
+    "bs": "Kako odrediti cijenu i kako provjeriti da ti svaka pojedinačna prodaja zaista donosi novac."
+  },
+  "concepts": [
+    {
+      "slug": "markup",
+      "term": "Markup",
+      "local": "marža na trošak, nabavna marža",
+      "minutes": 5,
+      "youtube": "dFWL_hUg20s",
+      "youtubeQuery": "markup vs margin explained simply",
+      "formula": { "en": "Markup % = (Price − Cost) ÷ Cost × 100", "bs": "Markup % = (Cijena − Trošak) ÷ Trošak × 100" },
+      "related": ["Margin", "Cost", "Pricing strategies"],
+      "en": {
+        "one": "Markup is how much you add on top of what something cost you.",
+        "explain": "You take your cost and add a percentage to get the selling price. Shops do this all the time: buy for €10, add 50%, sell for €15. Markup is always measured against the cost.",
+        "example": "A shop buys a T-shirt for €10 and sells it for €15. The extra €5 is half of the cost, so the markup is 50%.",
+        "why": "Markup is the quickest way to set a price that covers your costs and leaves something for you.",
+        "mixup": "Markup and margin are not the same. In the example the markup is 50%, but the margin is only 33%, because margin compares the €5 to the price (€15), not the cost."
+      },
+      "bs": {
+        "one": "Markup (marža na trošak) je koliko dodaješ na ono što te nešto koštalo.",
+        "explain": "Uzmeš svoj trošak i dodaš procenat da dobiješ prodajnu cijenu. Prodavnice to rade stalno: kupe za 10 €, dodaju 50%, prodaju za 15 €. Markup se uvijek mjeri u odnosu na trošak.",
+        "example": "Prodavnica kupi majicu za 10 € i proda je za 15 €. Dodatnih 5 € je pola troška, pa je markup 50%.",
+        "why": "Markup je najbrži način da odrediš cijenu koja pokriva troškove i ostavlja nešto i tebi.",
+        "mixup": "Markup i marža nisu isto. U primjeru je markup 50%, ali je marža samo 33%, jer marža poredi 5 € s cijenom (15 €), a ne s troškom."
+      }
+    },
+    {
+      "slug": "contribution-margin",
+      "term": "Contribution margin",
+      "local": "doprinos pokrića, kontribucijska marža",
+      "minutes": 6,
+      "youtube": "CN7dJSmnWAM",
+      "youtubeQuery": "contribution margin explained simply",
+      "formula": {
+        "en": "Contribution margin = Price − Variable cost per unit",
+        "bs": "Doprinos pokrića = Cijena − Varijabilni trošak po komadu"
+      },
+      "related": ["Fixed vs. variable costs", "Break-even", "Unit economics"],
+      "en": {
+        "one": "Contribution margin is what each sale leaves over to pay your fixed costs, and then to become profit.",
+        "explain": "From the price you take away only the costs that come with that one sale, like materials and packaging. What is left goes into a pot. First the pot pays for rent, wages and other fixed costs. Once those are covered, everything extra is profit.",
+        "example": "A pizza sells for €10 and its ingredients and box cost €3. Each pizza contributes €7. With €2,100 rent a month, the first 300 pizzas pay the rent and pizza 301 starts making profit.",
+        "why": "It tells you which products really help the business and how many you must sell to stop losing money.",
+        "mixup": "Contribution margin is not profit. A product can have a nice contribution margin and the business can still lose money if it does not sell enough to cover fixed costs."
+      },
+      "bs": {
+        "one": "Contribution margin (doprinos pokrića) je ono što ti svaka prodaja ostavi da platiš fiksne troškove, a onda i da postane dobit.",
+        "explain": "Od cijene oduzmeš samo troškove koji dolaze s tom jednom prodajom, npr. materijal i ambalažu. Ono što ostane ide u zajednički lonac. Iz lonca se prvo plaća kirija, plate i ostali fiksni troškovi. Kad su oni pokriveni, sve dodatno je dobit.",
+        "example": "Pica se prodaje za 10 €, a sastojci i kutija koštaju 3 €. Svaka pica donosi 7 €. Uz kiriju od 2.100 € mjesečno, prvih 300 pica plati kiriju, a 301. pica počinje donositi dobit.",
+        "why": "Pokazuje koji proizvodi stvarno pomažu firmi i koliko ih moraš prodati da prestaneš gubiti novac.",
+        "mixup": "Doprinos pokrića nije dobit. Proizvod može imati dobar doprinos, a firma ipak gubiti novac ako ne proda dovoljno da pokrije fiksne troškove."
+      }
+    },
+    {
+      "slug": "unit-economics",
+      "term": "Unit economics",
+      "local": "ekonomija po jedinici",
+      "minutes": 6,
+      "youtube": "8Jqv5TkE4S0",
+      "youtubeQuery": "unit economics explained simply",
+      "related": ["Contribution margin", "Customer lifetime value", "Customer acquisition cost"],
+      "en": {
+        "one": "Unit economics asks one simple question: do you make or lose money on one unit, one order or one customer?",
+        "explain": "Instead of looking at the whole business, you zoom in on a single sale. You add up everything that one sale brings in and everything it costs, including delivery, payment fees and what you spent to find that customer. If one unit loses money, selling more units only loses more.",
+        "example": "An online shop sells a €40 lamp. The lamp costs €18, shipping €6, card fees €1 and ads cost about €12 per order. That leaves €3 per order. Thin, but positive.",
+        "why": "Growing a business with bad unit economics is like filling a bucket with a hole. Investors and banks look at this first.",
+        "mixup": "More sales do not fix negative unit economics. Big volume only helps once each single sale already makes money."
+      },
+      "bs": {
+        "one": "Unit economics (ekonomija po jedinici) postavlja jedno jednostavno pitanje: da li zarađuješ ili gubiš na jednom komadu, jednoj narudžbi ili jednom kupcu?",
+        "explain": "Umjesto cijele firme, gledaš samo jednu prodaju. Sabereš sve što ta jedna prodaja donese i sve što košta, uključujući dostavu, naknade za plaćanje i ono što si potrošio da nađeš tog kupca. Ako jedan komad gubi novac, veća prodaja samo znači veći gubitak.",
+        "example": "Online prodavnica prodaje lampu za 40 €. Lampa košta 18 €, dostava 6 €, naknada za karticu 1 €, a reklame oko 12 € po narudžbi. Ostaje 3 € po narudžbi. Malo, ali pozitivno.",
+        "why": "Rasti s lošom ekonomijom po jedinici je kao puniti kantu koja ima rupu. Investitori i banke ovo gledaju prvo.",
+        "mixup": "Veća prodaja ne popravlja negativnu ekonomiju po jedinici. Velika količina pomaže tek kad svaka pojedinačna prodaja već donosi novac."
+      }
+    },
+    {
+      "slug": "pricing-strategies",
+      "term": "Pricing strategies",
+      "local": "strategije određivanja cijena",
+      "minutes": 7,
+      "youtube": "MN-Nw7FQmNI",
+      "youtubeQuery": "pricing strategies explained simply",
+      "related": ["Markup", "Value proposition", "Competition"],
+      "en": {
+        "one": "A pricing strategy is the way you decide your price: from your costs, from your competitors, or from what the customer thinks it is worth.",
+        "explain": "Cost-plus: take your cost and add a markup. Competitor-based: look at what others charge and go a bit above or below. Value-based: charge what the result is worth to the customer. Most businesses mix these. There are also tactics like discounts, bundles and prices ending in .99.",
+        "example": "A web designer's costs for a site are €300. Cost-plus says €450. Competitors charge €800. But for a client, a good site brings €5,000 of new sales a year, so value-based pricing could justify €1,500.",
+        "why": "Price is the fastest way to change profit. Raising the price by 5% often does more than selling 5% more.",
+        "mixup": "The lowest price does not always win. A price that is too low can make people think the product is poor, and leaves no money to grow."
+      },
+      "bs": {
+        "one": "Pricing strategy (strategija cijena) je način na koji odlučuješ cijenu: prema svojim troškovima, prema konkurenciji ili prema tome koliko kupac misli da nešto vrijedi.",
+        "explain": "Trošak plus: uzmeš trošak i dodaš markup. Prema konkurenciji: pogledaš koliko drugi naplaćuju i odeš malo iznad ili ispod. Prema vrijednosti: naplatiš koliko rezultat vrijedi kupcu. Većina firmi ih miješa. Postoje i taktike kao popusti, paketi i cijene koje završavaju na ,99.",
+        "example": "Web dizajnera izrada stranice košta 300 €. Trošak plus kaže 450 €. Konkurencija naplaćuje 800 €. Ali klijentu dobra stranica donese 5.000 € nove prodaje godišnje, pa cijena prema vrijednosti može opravdati 1.500 €.",
+        "why": "Cijena je najbrži način da promijeniš dobit. Podići cijenu za 5% često znači više nego prodati 5% više.",
+        "mixup": "Najniža cijena ne pobjeđuje uvijek. Preniska cijena može ljudima reći da je proizvod loš i ne ostavlja novac za rast."
+      }
+    }
+  ]
+}

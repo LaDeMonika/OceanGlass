@@ -1,0 +1,125 @@
+{
+  "slug": "investing-risk",
+  "title": { "en": "Investing & risk", "bs": "Ulaganje i rizik" },
+  "summary": {
+    "en": "The basic ways money is invested, and why more possible gain always comes with more risk.",
+    "bs": "Osnovni načini ulaganja novca i zašto veća moguća zarada uvijek dolazi s većim rizikom."
+  },
+  "concepts": [
+    {
+      "slug": "stocks-bonds",
+      "term": "Stocks & bonds",
+      "local": "dionice i obveznice",
+      "minutes": 6,
+      "youtube": "upxvdTxIQYI",
+      "youtubeQuery": "stocks vs bonds explained simply",
+      "related": ["Dividend", "Risk vs. return", "Debt vs. equity financing"],
+      "en": {
+        "one": "A stock is a small piece of ownership in a company. A bond is a loan you give to a company or a government.",
+        "explain": "When you buy a stock (also called a share), you own a tiny part of the company. If it does well, the stock price can rise; if it does badly, it can fall a lot. When you buy a bond, you lend money for a fixed time and get regular interest, then your money back at the end. Bonds usually move less than stocks.",
+        "example": "You put €1,000 into a company's stock: in a year it could be €1,300 or €700. You put €1,000 into a 5-year government bond at 3%: you get €30 every year and your €1,000 back after 5 years.",
+        "why": "These are the two main building blocks of almost every investment, pension fund and savings plan.",
+        "mixup": "Bonds are safer, not completely safe. If the company or country cannot pay, you can lose money on a bond too."
+      },
+      "bs": {
+        "one": "Stock (dionica) je mali dio vlasništva u firmi. Bond (obveznica) je kredit koji ti daješ firmi ili državi.",
+        "explain": "Kad kupiš dionicu, posjeduješ mali dio firme. Ako firmi ide dobro, cijena dionice može rasti; ako ide loše, može jako pasti. Kad kupiš obveznicu, pozajmljuješ novac na određeno vrijeme i dobijaš redovnu kamatu, a na kraju ti se novac vrati. Obveznice se obično manje mijenjaju od dionica.",
+        "example": "Uložiš 1.000 € u dionice firme: za godinu to može biti 1.300 € ili 700 €. Uložiš 1.000 € u državnu obveznicu na 5 godina uz 3%: dobijaš 30 € svake godine i 1.000 € nazad nakon 5 godina.",
+        "why": "To su dva glavna dijela skoro svakog ulaganja, penzionog fonda i plana štednje.",
+        "mixup": "Obveznice su sigurnije, ali ne potpuno sigurne. Ako firma ili država ne može platiti, i na obveznici možeš izgubiti novac."
+      }
+    },
+    {
+      "slug": "dividend",
+      "term": "Dividend",
+      "local": "dividenda",
+      "minutes": 4,
+      "youtube": "9R9TOeyFrxs",
+      "youtubeQuery": "what is a dividend explained simply",
+      "related": ["Stocks & bonds", "Net profit", "Equity"],
+      "en": {
+        "one": "A dividend is a part of a company's profit paid out in cash to the people who own its shares.",
+        "explain": "When a company makes a profit, it can keep the money to grow, or share some with its owners. The shared part is the dividend, usually paid a few times a year as an amount per share. Not every company pays one.",
+        "example": "A company pays a €2 dividend per share. You own 50 shares, so you receive €100.",
+        "why": "Dividends give investors regular income without selling anything. For small business owners, a dividend is one common way to take profit out of their own company.",
+        "mixup": "A high dividend is not always a good sign. Sometimes a company pays out money it should be using to stay healthy, or the share price has dropped a lot."
+      },
+      "bs": {
+        "one": "Dividend (dividenda) je dio dobiti firme koji se isplati u novcu vlasnicima njenih dionica.",
+        "explain": "Kad firma ostvari dobit, može zadržati novac za rast ili dio podijeliti s vlasnicima. Podijeljeni dio je dividenda, obično isplaćena nekoliko puta godišnje kao iznos po dionici. Ne isplaćuje je svaka firma.",
+        "example": "Firma isplati dividendu od 2 € po dionici. Ti imaš 50 dionica, pa dobiješ 100 €.",
+        "why": "Dividende investitorima daju redovan prihod bez prodaje. Vlasnicima malih firmi dividenda je čest način da izvuku dobit iz vlastite firme.",
+        "mixup": "Visoka dividenda nije uvijek dobar znak. Ponekad firma isplaćuje novac koji bi trebala koristiti da ostane zdrava, ili je cijena dionice jako pala."
+      }
+    },
+    {
+      "slug": "risk-return",
+      "term": "Risk vs. return",
+      "local": "rizik i prinos",
+      "minutes": 5,
+      "youtube": "B7_bzCIZ1HY",
+      "youtubeQuery": "risk and return explained simply",
+      "related": ["Diversification", "Stocks & bonds", "ROI (Return on investment)"],
+      "en": {
+        "one": "The more an investment could earn, the more you could lose. Higher return always comes with higher risk.",
+        "explain": "Return is what you earn. Risk is how unsure that is, and how much you could lose. A savings account pays little but almost never loses. Stocks have paid more over long periods but can drop 30% in a bad year. Nobody pays you extra for taking no risk.",
+        "example": "Savings at 2% turns €10,000 into about €10,200. A stock fund might give +€1,000 in a good year or −€2,000 in a bad one.",
+        "why": "Before any investment, ask: how much can I lose, and could I live with that? It keeps you away from bad decisions and scams.",
+        "mixup": "'High return, no risk' does not exist. When someone promises it, it is almost always a scam."
+      },
+      "bs": {
+        "one": "Što više ulaganje može zaraditi, to više možeš izgubiti. Veći prinos uvijek dolazi s većim rizikom.",
+        "explain": "Prinos je ono što zaradiš. Rizik je koliko je to nesigurno i koliko možeš izgubiti. Štedni račun daje malo, ali skoro nikad ne gubi. Dionice su kroz duži period donosile više, ali mogu pasti 30% u lošoj godini. Niko ti ne plaća dodatno ako ne preuzimaš rizik.",
+        "example": "Štednja uz 2% pretvori 10.000 € u oko 10.200 €. Fond dionica može donijeti +1.000 € u dobroj godini ili −2.000 € u lošoj.",
+        "why": "Prije svakog ulaganja pitaj: koliko mogu izgubiti i mogu li s tim živjeti? To te čuva od loših odluka i prevara.",
+        "mixup": "'Visok prinos bez rizika' ne postoji. Kad ti to neko obeća, skoro uvijek je prevara."
+      }
+    },
+    {
+      "slug": "diversification",
+      "term": "Diversification",
+      "local": "diverzifikacija, raspodjela rizika",
+      "minutes": 5,
+      "youtube": "0zP4yQGAiL4",
+      "youtubeQuery": "diversification explained simply",
+      "related": ["Risk vs. return", "Index fund", "Stocks & bonds"],
+      "en": {
+        "one": "Diversification means not putting all your eggs in one basket.",
+        "explain": "You spread your money over many different investments, so one bad one cannot ruin you. When some go down, others often stay flat or go up. The same idea works in business: many small customers are safer than one big one.",
+        "example": "You put €5,000 into one company and it goes bankrupt: you lose €5,000. You spread €5,000 over 100 companies and one goes bankrupt: you lose about €50.",
+        "why": "It lowers your risk without lowering your expected return much. It is often called the only free lunch in investing.",
+        "mixup": "Owning ten companies from the same industry is not real diversification. If that industry has a bad year, they all fall together."
+      },
+      "bs": {
+        "one": "Diversification (diverzifikacija) znači ne stavljati sva jaja u jednu korpu.",
+        "explain": "Novac raspodijeliš na mnogo različitih ulaganja, pa te jedno loše ne može uništiti. Kad neka padnu, druga često ostanu ista ili porastu. Ista ideja radi i u biznisu: mnogo malih kupaca je sigurnije od jednog velikog.",
+        "example": "Uložiš 5.000 € u jednu firmu i ona bankrotira: izgubiš 5.000 €. Raspodijeliš 5.000 € na 100 firmi i jedna bankrotira: izgubiš oko 50 €.",
+        "why": "Smanjuje rizik, a da ne smanji mnogo očekivani prinos. Često se kaže da je to jedini besplatan ručak u ulaganju.",
+        "mixup": "Deset firmi iz iste industrije nije prava diverzifikacija. Ako ta industrija ima lošu godinu, sve padnu zajedno."
+      }
+    },
+    {
+      "slug": "index-fund",
+      "term": "Index fund",
+      "local": "indeksni fond",
+      "minutes": 5,
+      "youtube": "ipuv-SrBz1U",
+      "youtubeQuery": "index funds explained simply",
+      "related": ["Diversification", "Stocks & bonds", "Compound interest"],
+      "en": {
+        "one": "An index fund is one investment that buys a little of every company in a market list, like the 500 biggest US companies.",
+        "explain": "An index is a list of companies, for example the S&P 500. An index fund simply copies that list, so with one purchase you own small parts of hundreds of companies. Nobody tries to pick winners, so fees stay very low. Many index funds are traded like stocks and are called ETFs.",
+        "example": "You put €100 a month into a world index fund. You now own tiny pieces of thousands of companies in dozens of countries, for a fee of about 0.2% a year.",
+        "why": "Low fees, automatic diversification and little work make index funds the most common advice for beginners who invest for the long term.",
+        "mixup": "An index fund still goes down when the whole market goes down. It protects you from one company failing, not from a bad year for everyone."
+      },
+      "bs": {
+        "one": "Index fund (indeksni fond) je jedno ulaganje koje kupi malo od svake firme s nekog tržišnog spiska, npr. 500 najvećih američkih firmi.",
+        "explain": "Indeks je spisak firmi, npr. S&P 500. Indeksni fond samo kopira taj spisak, pa jednom kupovinom posjeduješ male dijelove stotina firmi. Niko ne pokušava birati pobjednike, pa su naknade jako niske. Mnogi indeksni fondovi se kupuju kao dionice i zovu se ETF.",
+        "example": "Uplaćuješ 100 € mjesečno u svjetski indeksni fond. Sada posjeduješ male dijelove hiljada firmi u desetinama država, uz naknadu od oko 0,2% godišnje.",
+        "why": "Niske naknade, automatska diverzifikacija i malo posla su razlog zašto su indeksni fondovi najčešći savjet za početnike koji ulažu dugoročno.",
+        "mixup": "Indeksni fond i dalje pada kad padne cijelo tržište. Štiti te od propasti jedne firme, ne od loše godine za sve."
+      }
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "slug": "financial-ratios",
+  "title": { "en": "Financial ratios", "bs": "Finansijski pokazatelji" },
+  "summary": {
+    "en": "Simple divisions that turn a pile of numbers into a quick health check of a business.",
+    "bs": "Jednostavna dijeljenja koja gomilu brojeva pretvaraju u brzu provjeru zdravlja firme."
+  },
+  "concepts": [
+    {
+      "slug": "roi",
+      "term": "ROI (Return on investment)",
+      "local": "povrat na ulaganje",
+      "minutes": 5,
+      "youtube": "wPVZBPWYYXY",
+      "youtubeQuery": "return on investment ROI explained simply",
+      "formula": { "en": "ROI % = (Gain − Cost) ÷ Cost × 100", "bs": "ROI % = (Zarada − Ulaganje) ÷ Ulaganje × 100" },
+      "related": ["Net profit", "Payback period", "Risk vs. return"],
+      "en": {
+        "one": "ROI tells you how much you got back for every euro you put in, as a percentage.",
+        "explain": "You compare what you gained with what you spent. A positive ROI means you got back more than you put in. It works for anything: a machine, an ad campaign, a course, a stock.",
+        "example": "You spend €1,000 on ads and they bring €1,600 of extra profit. You gained €600 on €1,000, so the ROI is 60%.",
+        "why": "Money is limited. ROI helps you compare options and put money where it works hardest.",
+        "mixup": "ROI does not show time. 60% in one month is amazing; 60% over ten years is weak. Always ask: over how long?"
+      },
+      "bs": {
+        "one": "ROI (povrat na ulaganje) pokazuje koliko si dobio nazad za svaki uloženi euro, u procentima.",
+        "explain": "Porediš ono što si zaradio s onim što si potrošio. Pozitivan ROI znači da si dobio više nego što si uložio. Radi za sve: mašinu, reklamnu kampanju, kurs, dionicu.",
+        "example": "Potrošiš 1.000 € na reklame i one donesu 1.600 € dodatne dobiti. Zaradio si 600 € na 1.000 €, pa je ROI 60%.",
+        "why": "Novac je ograničen. ROI ti pomaže da porediš opcije i staviš novac tamo gdje najviše radi.",
+        "mixup": "ROI ne pokazuje vrijeme. 60% za jedan mjesec je odlično, 60% za deset godina je slabo. Uvijek pitaj: za koliko vremena?"
+      }
+    },
+    {
+      "slug": "current-ratio",
+      "term": "Current ratio",
+      "local": "koeficijent tekuće likvidnosti",
+      "minutes": 5,
+      "youtube": "sWWnsvuQ3kk",
+      "youtubeQuery": "current ratio liquidity explained simply",
+      "formula": {
+        "en": "Current ratio = Current assets ÷ Current liabilities",
+        "bs": "Tekuća likvidnost = Kratkoročna imovina ÷ Kratkoročne obaveze"
+      },
+      "related": ["Working capital", "Liquidity", "Balance sheet"],
+      "en": {
+        "one": "The current ratio shows if a business can pay the bills due this year with what it has or will get this year.",
+        "explain": "Current assets are cash and things that turn into cash within a year, like money customers owe you and stock. Current liabilities are bills due within a year. Divide the first by the second. Above 1 means you have more coming in than going out soon. This idea of having cash ready is called liquidity.",
+        "example": "A shop has €30,000 in cash, stock and customer payments, and €20,000 in bills due this year. 30,000 ÷ 20,000 = 1.5. It looks safe.",
+        "why": "Many businesses do not fail because they are unprofitable. They fail because they cannot pay next month's bills. This ratio warns you early.",
+        "mixup": "Higher is not always better. A very high ratio can mean too much cash sitting idle or too much stock that is not selling."
+      },
+      "bs": {
+        "one": "Current ratio (tekuća likvidnost) pokazuje može li firma platiti račune koji dospijevaju ove godine onim što ima ili će dobiti ove godine.",
+        "explain": "Kratkoročna imovina je novac i stvari koje postaju novac u roku od godinu dana, npr. novac koji ti kupci duguju i zalihe. Kratkoročne obaveze su računi koji dospijevaju u roku od godinu dana. Prvo podijeliš s drugim. Iznad 1 znači da ti uskoro više dolazi nego što odlazi. Ta ideja da imaš novac spreman zove se likvidnost.",
+        "example": "Prodavnica ima 30.000 € u novcu, zalihama i potraživanjima, a 20.000 € računa koji dospijevaju ove godine. 30.000 ÷ 20.000 = 1,5. Izgleda sigurno.",
+        "why": "Mnoge firme ne propadnu zato što nemaju dobit, nego zato što ne mogu platiti račune idući mjesec. Ovaj pokazatelj te upozori na vrijeme.",
+        "mixup": "Veće nije uvijek bolje. Jako visok broj može značiti da previše novca stoji neiskorišteno ili da imaš previše robe koja se ne prodaje."
+      }
+    },
+    {
+      "slug": "debt-to-equity",
+      "term": "Debt-to-equity ratio",
+      "local": "odnos duga i kapitala",
+      "minutes": 5,
+      "youtube": "l35sEbdHx3A",
+      "youtubeQuery": "debt to equity ratio explained simply",
+      "formula": { "en": "Debt-to-equity = Total debt ÷ Equity", "bs": "Dug / kapital = Ukupan dug ÷ Kapital" },
+      "related": ["Liability", "Equity", "Debt vs. equity"],
+      "en": {
+        "one": "Debt-to-equity shows how much of the business is paid for with borrowed money compared with the owners' own money.",
+        "explain": "Take all the debt and divide by equity, the part that really belongs to the owners. A result of 1 means equal parts borrowed and owned. A result of 3 means three euros borrowed for every euro of your own.",
+        "example": "A company has €200,000 of loans and €100,000 of equity. 200,000 ÷ 100,000 = 2. For every €1 of its own, it owes €2.",
+        "why": "Debt has to be paid back with interest, in good months and bad. The more debt, the less room for mistakes. Banks check this before lending.",
+        "mixup": "Debt is not always bad. Borrowing to buy a machine that earns more than the interest can make the owners richer. The problem is too much debt."
+      },
+      "bs": {
+        "one": "Debt-to-equity (odnos duga i kapitala) pokazuje koliko je firme plaćeno pozajmljenim novcem u odnosu na vlastiti novac vlasnika.",
+        "explain": "Uzmeš sav dug i podijeliš ga s kapitalom, dijelom koji zaista pripada vlasnicima. Rezultat 1 znači podjednako pozajmljeno i svoje. Rezultat 3 znači tri pozajmljena eura na svaki svoj euro.",
+        "example": "Firma ima 200.000 € kredita i 100.000 € kapitala. 200.000 ÷ 100.000 = 2. Na svaki svoj 1 € duguje 2 €.",
+        "why": "Dug se mora vratiti s kamatom, i u dobrim i u lošim mjesecima. Što više duga, to manje prostora za greške. Banke ovo provjeravaju prije nego daju kredit.",
+        "mixup": "Dug nije uvijek loš. Kredit za mašinu koja zaradi više od kamate može vlasnike učiniti bogatijim. Problem je previše duga."
+      }
+    },
+    {
+      "slug": "ebitda",
+      "term": "EBITDA",
+      "local": "dobit prije kamata, poreza i amortizacije",
+      "minutes": 6,
+      "youtube": "aj1QedOUHvA",
+      "youtubeQuery": "EBITDA explained simply",
+      "formula": {
+        "en": "EBITDA = Net profit + Interest + Taxes + Depreciation + Amortization",
+        "bs": "EBITDA = Neto dobit + Kamate + Porezi + Amortizacija"
+      },
+      "related": ["Net profit", "Depreciation", "Income statement"],
+      "en": {
+        "one": "EBITDA is the profit from the daily business before interest, taxes and the slow wearing-out of equipment are taken away.",
+        "explain": "The letters mean Earnings Before Interest, Taxes, Depreciation and Amortization. Interest depends on how you borrowed, taxes on the country, and depreciation is an accounting cost, not cash going out this month. Removing them lets you compare how well two businesses run, no matter how they are financed.",
+        "example": "A café has €20,000 net profit. It paid €5,000 interest, €4,000 tax and wrote down €6,000 for its coffee machines. EBITDA is €35,000.",
+        "why": "People use EBITDA to compare companies and to price them when they are sold, often as 'five times EBITDA'.",
+        "mixup": "EBITDA is not cash and not real profit. Interest, taxes and new machines still must be paid. A company can look good on EBITDA and still go broke."
+      },
+      "bs": {
+        "one": "EBITDA je dobit od svakodnevnog poslovanja prije nego što se oduzmu kamate, porezi i postepeno trošenje opreme.",
+        "explain": "Slova znače Earnings Before Interest, Taxes, Depreciation and Amortization, tj. zarada prije kamata, poreza i amortizacije. Kamate zavise od toga kako si se zadužio, porezi od države, a amortizacija je računovodstveni trošak, ne novac koji izlazi ovaj mjesec. Kad ih makneš, možeš porediti koliko dobro dvije firme rade, bez obzira kako su finansirane.",
+        "example": "Kafić ima 20.000 € neto dobiti. Platio je 5.000 € kamata, 4.000 € poreza i otpisao 6.000 € za aparate za kafu. EBITDA je 35.000 €.",
+        "why": "Ljudi koriste EBITDA da porede firme i da odrede cijenu kad se firma prodaje, često kao 'pet puta EBITDA'.",
+        "mixup": "EBITDA nije novac i nije prava dobit. Kamate, porezi i nove mašine se ipak moraju platiti. Firma može lijepo izgledati po EBITDA, a ipak propasti."
+      }
+    }
+  ]
+}
