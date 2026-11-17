@@ -5,7 +5,7 @@ export const SESSION_DAYS = 30;
 
 export interface SessionPayload {
   uid: number;
-  role: "student" | "admin";
+  role: "student" | "admin" | "guest";
   sv: number; // session version; bumps on password change to log out other devices
 }
 
@@ -30,7 +30,7 @@ export async function verifySession(token: string | undefined): Promise<SessionP
   try {
     const { payload } = await jwtVerify(token, key(), { algorithms: ["HS256"] });
     if (typeof payload.uid !== "number" || typeof payload.sv !== "number") return null;
-    if (payload.role !== "student" && payload.role !== "admin") return null;
+    if (payload.role !== "student" && payload.role !== "admin" && payload.role !== "guest") return null;
     return { uid: payload.uid, role: payload.role, sv: payload.sv };
   } catch {
     return null;

@@ -135,6 +135,8 @@ export default async function DegreePage({
           prevHref={cIdx > 0 ? `${topicHref}&concept=${topic.concepts[cIdx - 1].slug}` : undefined}
           nextHref={cIdx < topic.concepts.length - 1 ? `${topicHref}&concept=${topic.concepts[cIdx + 1].slug}` : undefined}
           videoId={videoId}
+          readOnly={user.role === "guest"}
+          isAdmin={user.role === "admin"}
         />
       )}
     </>

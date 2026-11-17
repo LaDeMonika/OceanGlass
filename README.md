@@ -2,7 +2,7 @@
 
 A private business learning app, built for one learner. It has curriculums, degree programs, topics and concept cards, each with plain-language explanations in **English** and **Bosnian/Croatian**, plus a YouTube video for each concept.
 
-Only two accounts exist: `msimic` (student) and `admin`. There is no sign-up page. Every page needs a login.
+Only two accounts exist: `msimic` (student) and `admin`, plus an optional read-only `guest` account for showing the app to others. There is no sign-up page. Every page needs a login.
 
 ## What's inside
 
@@ -143,9 +143,19 @@ Stopping the app (`docker compose stop`) or rebuilding it never deletes your dat
 docker compose exec app node scripts/set-password.mjs msimic "a new long password"
 ```
 
+## Guest account
+
+To let someone look around, set `GUEST_PASSWORD='something-simple'` in `.env` and run `docker compose up -d`. They sign in as `guest` with that password.
+
+- Guests can open every curriculum, topic, concept card, video and the glossary.
+- Nothing they do is saved: no progress, no language choice, and no password changes.
+- They cannot open My progress, Settings or Admin. A banner tells them they're in guest mode.
+
+To change the guest password, edit `.env` and run `docker compose up -d` again. To turn the guest account off, empty `GUEST_PASSWORD` and do the same.
+
 ## Security notes
 
-- Only `msimic` and `admin` can ever exist. Any other account in the database is removed on start.
+- Only `msimic`, `admin` and (when `GUEST_PASSWORD` is set) `guest` can ever exist. Any other account in the database is removed on start.
 - All pages are checked twice: once by `proxy.ts` and again on the server against the database.
 - After 5 wrong logins in 15 minutes, logins from that address are paused.
 - Changing a password signs out every other device.

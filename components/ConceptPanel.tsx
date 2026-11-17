@@ -21,6 +21,8 @@ export default function ConceptPanel({
   prevHref,
   nextHref,
   videoId,
+  readOnly = false,
+  isAdmin = false,
 }: {
   id: string;
   concept: Concept;
@@ -34,6 +36,8 @@ export default function ConceptPanel({
   prevHref?: string;
   nextHref?: string;
   videoId?: string;
+  readOnly?: boolean;
+  isAdmin?: boolean;
 }) {
   const L = concept[lang] ?? concept.en;
   const searchUrl = `https://www.youtube.com/results?search_query=${encodeURIComponent(concept.youtubeQuery)}`;
@@ -49,7 +53,7 @@ export default function ConceptPanel({
     <div className="overlay">
       <Link href={closeHref} scroll={false} className="overlay-close" aria-label={t.close} tabIndex={-1} />
       <article className="lesson" role="dialog" aria-modal="true" aria-labelledby="lessonTitle">
-        <PanelBehaviour id={id} closeHref={closeHref} markStarted={status === "new"} />
+        <PanelBehaviour id={id} closeHref={closeHref} markStarted={!readOnly && status === "new"} />
         <div className="lesson-head">
           <div>
             <div className="crumbs" style={{ marginBottom: 8 }}>
@@ -58,8 +62,12 @@ export default function ConceptPanel({
               <span>
                 {index + 1} {t.of} {total}
               </span>
-              <span aria-hidden="true">·</span>
-              <StatusChip status={status === "new" ? "started" : status} t={t} />
+              {!readOnly && (
+                <>
+                  <span aria-hidden="true">·</span>
+                  <StatusChip status={status === "new" ? "started" : status} t={t} />
+                </>
+              )}
             </div>
             <h2 id="lessonTitle">{concept.term}</h2>
             <div className="term-local">
@@ -80,11 +88,22 @@ export default function ConceptPanel({
           ) : (
             <div className="video">
               <div className="video-empty">
-                <a className="btn btn-primary" href={searchUrl} target="_blank" rel="noopener noreferrer">
-                  <Icon name="external" />
-                  {t.findVideo}
-                </a>
-                <p>{t.noVideoYet}</p>
+                {isAdmin ? (
+                  <>
+                    <a className="btn btn-primary" href={searchUrl} target="_blank" rel="noopener noreferrer">
+                      <Icon name="external" />
+                      {t.findVideo}
+                    </a>
+                    <p>{t.noVideoYet}</p>
+                  </>
+                ) : (
+                  <>
+                    <span className="play" aria-hidden="true">
+                      <Icon name="play" />
+                    </span>
+                    <p>{t.videoSoon}</p>
+                  </>
+                )}
               </div>
             </div>
           )}
@@ -122,7 +141,9 @@ export default function ConceptPanel({
             )}
           </div>
           <div className="right">
-            <DoneButton id={id} done={status === "done"} labels={{ mark: t.markDone, done: t.markedDone, undo: t.undo }} />
+            {!readOnly && (
+              <DoneButton id={id} done={status === "done"} labels={{ mark: t.markDone, done: t.markedDone, undo: t.undo }} />
+            )}
             {nextHref && (
               <Link href={nextHref} scroll={false} className="btn btn-primary">
                 {t.nextConcept}
