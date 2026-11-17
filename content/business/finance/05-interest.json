@@ -11,6 +11,7 @@
       "term": "Interest",
       "local": "kamata",
       "minutes": 4,
+  "youtube": "Rmol9IzSDXk",
       "youtubeQuery": "what is interest explained simply",
       "related": ["Interest rate", "Loan", "Saving"],
       "en": {
@@ -33,6 +34,7 @@
       "term": "Interest rate",
       "local": "kamatna stopa",
       "minutes": 5,
+      "youtube": "5OK30EpMiLw",
       "youtubeQuery": "interest rate explained simply",
       "formula": { "en": "Yearly interest = Amount × Interest rate", "bs": "Godišnja kamata = Iznos × Kamatna stopa" },
       "related": ["Interest", "Inflation", "Loan"],
@@ -56,6 +58,7 @@
       "term": "Compound interest",
       "local": "složena kamata",
       "minutes": 6,
+      "youtube": "Rm6UdfRs3gw",
       "youtubeQuery": "compound interest explained simply",
       "formula": { "en": "End amount = Start × (1 + rate)^years", "bs": "Krajnji iznos = Početni × (1 + stopa)^godine" },
       "related": ["Interest", "Saving", "Interest rate"],
@@ -79,6 +82,7 @@
       "term": "Loan",
       "local": "kredit, zajam",
       "minutes": 6,
+      "youtube": "nVwwnwjGQcM",
       "youtubeQuery": "how business loans work explained simply",
       "related": ["Interest", "Interest rate", "Liability"],
       "en": {

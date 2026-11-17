@@ -1,0 +1,114 @@
+{
+  "slug": "time-value-of-money",
+  "title": { "en": "Time value of money", "bs": "Vremenska vrijednost novca" },
+  "summary": {
+    "en": "Why €100 today is worth more than €100 next year, and how that helps you judge any investment.",
+    "bs": "Zašto 100 € danas vrijedi više od 100 € iduće godine i kako ti to pomaže da procijeniš svako ulaganje."
+  },
+  "concepts": [
+    {
+      "slug": "time-value-of-money",
+      "term": "Time value of money",
+      "local": "vremenska vrijednost novca",
+      "minutes": 5,
+      "youtube": "DQN9NquSKJE",
+      "youtubeQuery": "time value of money explained simply",
+      "related": ["Compound interest", "Inflation", "Present value"],
+      "en": {
+        "one": "Money you have today is worth more than the same amount later.",
+        "explain": "There are three reasons. You can put today's money to work, in a bank or a business, so it grows. Inflation makes future money buy less. And a promise of money later might not be kept. So waiting for money always has a cost.",
+        "example": "A customer offers to pay you €1,000 now or €1,000 in a year. Take it now: put it in savings at 4% and in a year you have €1,040.",
+        "why": "Almost every money decision compares now and later: loans, investments, payment terms, salaries. This idea is the base of all of them.",
+        "mixup": "It is not only about inflation. Even with zero inflation, money now is better, because it can earn and because the future is never certain."
+      },
+      "bs": {
+        "one": "Time value of money (vremenska vrijednost novca) znači da novac koji imaš danas vrijedi više od istog iznosa kasnije.",
+        "explain": "Tri su razloga. Današnji novac možeš staviti da radi, u banku ili posao, pa raste. Inflacija čini da budući novac kupuje manje. I obećanje novca kasnije možda neće biti ispunjeno. Zato čekanje na novac uvijek ima cijenu.",
+        "example": "Kupac ti ponudi da plati 1.000 € sada ili 1.000 € za godinu dana. Uzmi sada: stavi ih na štednju uz 4% i za godinu imaš 1.040 €.",
+        "why": "Skoro svaka odluka o novcu poredi sada i kasnije: krediti, ulaganja, rokovi plaćanja, plate. Ova ideja je osnova svih njih.",
+        "mixup": "Ne radi se samo o inflaciji. I bez inflacije, novac sada je bolji, jer može zarađivati i jer budućnost nikad nije sigurna."
+      }
+    },
+    {
+      "slug": "present-value",
+      "term": "Present value & discounting",
+      "local": "sadašnja vrijednost i diskontovanje",
+      "minutes": 7,
+      "youtube": "ks33lMoxst0",
+      "youtubeQuery": "present value and discounting explained simply",
+      "formula": {
+        "en": "Present value = Future amount ÷ (1 + rate)^years",
+        "bs": "Sadašnja vrijednost = Budući iznos ÷ (1 + stopa)^godine"
+      },
+      "related": ["Time value of money", "Compound interest", "Net present value (NPV)"],
+      "en": {
+        "one": "Present value is what a future amount of money is worth to you today.",
+        "explain": "Compound interest moves money forward in time: €100 today becomes €110 next year at 10%. Discounting does the opposite: it moves future money back to today. €110 next year, at 10%, is worth €100 now. The rate you use is called the discount rate, and it is the return you could get elsewhere.",
+        "example": "Someone promises you €5,000 in 3 years. If you could earn 8% a year elsewhere: 5,000 ÷ 1.08³ ≈ €3,970. That promise is worth about €3,970 today.",
+        "why": "It lets you compare money that arrives at different times, which is the only fair way to compare most deals.",
+        "mixup": "A higher discount rate makes future money worth less today, not more. Riskier promises get a higher rate, so they are worth less now."
+      },
+      "bs": {
+        "one": "Present value (sadašnja vrijednost) je koliko ti budući iznos novca vrijedi danas.",
+        "explain": "Složena kamata pomjera novac naprijed u vremenu: 100 € danas postane 110 € iduće godine uz 10%. Diskontovanje radi suprotno: vraća budući novac u danas. 110 € iduće godine, uz 10%, vrijedi 100 € sada. Stopa koju koristiš zove se diskontna stopa i to je povrat koji bi mogao dobiti negdje drugo.",
+        "example": "Neko ti obeća 5.000 € za 3 godine. Ako bi drugdje mogao zaraditi 8% godišnje: 5.000 ÷ 1,08³ ≈ 3.970 €. To obećanje danas vrijedi oko 3.970 €.",
+        "why": "Omogućava ti da porediš novac koji stiže u različito vrijeme, a to je jedini pošten način da porediš većinu poslova.",
+        "mixup": "Veća diskontna stopa čini budući novac manje vrijednim danas, ne više. Rizičnija obećanja dobiju veću stopu, pa sada vrijede manje."
+      }
+    },
+    {
+      "slug": "npv",
+      "term": "Net present value (NPV)",
+      "local": "neto sadašnja vrijednost",
+      "minutes": 7,
+      "youtube": "NJ2ajp9Nu4o",
+      "youtubeQuery": "net present value NPV explained simply",
+      "formula": {
+        "en": "NPV = Present value of all money coming in − Money paid today",
+        "bs": "NPV = Sadašnja vrijednost svih priliva − Novac uložen danas"
+      },
+      "related": ["Present value & discounting", "ROI (Return on investment)", "Payback period"],
+      "en": {
+        "one": "NPV tells you if an investment is worth more than it costs, after counting that future money is worth less.",
+        "explain": "You list all the money the investment will bring in each year, turn each amount into today's value, and add them up. Then you subtract what you pay today. Positive NPV: the investment beats your other options. Negative: you would do better elsewhere.",
+        "example": "A new oven costs €10,000 and brings €4,000 extra each year for 3 years. At 8%, those €12,000 are worth about €10,300 today. NPV ≈ +€300. Just worth it.",
+        "why": "It is the standard way companies decide which projects to do. It forces you to count both time and risk.",
+        "mixup": "Adding up the future money without discounting (€12,000 vs €10,000) makes a project look much better than it really is."
+      },
+      "bs": {
+        "one": "NPV (neto sadašnja vrijednost) ti kaže da li ulaganje vrijedi više nego što košta, kad uračunaš da budući novac vrijedi manje.",
+        "explain": "Zapišeš sav novac koji će ulaganje donijeti svake godine, svaki iznos pretvoriš u današnju vrijednost i sabereš. Onda oduzmeš ono što plaćaš danas. Pozitivan NPV: ulaganje je bolje od tvojih drugih opcija. Negativan: bolje bi prošao negdje drugo.",
+        "example": "Nova peć košta 10.000 € i donosi 4.000 € više svake godine, 3 godine. Uz 8%, tih 12.000 € danas vrijedi oko 10.300 €. NPV ≈ +300 €. Jedva se isplati.",
+        "why": "To je standardan način na koji firme odlučuju koje projekte da rade. Tjera te da računaš i vrijeme i rizik.",
+        "mixup": "Ako samo sabereš budući novac bez diskontovanja (12.000 € naspram 10.000 €), projekat izgleda mnogo bolje nego što zaista jeste."
+      }
+    },
+    {
+      "slug": "payback-period",
+      "term": "Payback period",
+      "local": "period povrata",
+      "minutes": 4,
+      "youtube": "WMT6kRSqkpg",
+      "youtubeQuery": "payback period explained simply",
+      "formula": {
+        "en": "Payback period = Investment ÷ Money it brings in per year",
+        "bs": "Period povrata = Ulaganje ÷ Godišnji priliv"
+      },
+      "related": ["Net present value (NPV)", "ROI (Return on investment)", "Cash flow"],
+      "en": {
+        "one": "The payback period is how long it takes to get back the money you put into something.",
+        "explain": "You count how many months or years until the money coming in equals what you spent. Shorter is safer, because your money is at risk for less time. It is easy to understand, which is why small businesses love it.",
+        "example": "Solar panels for a workshop cost €12,000 and save €3,000 a year on electricity. The payback period is 4 years.",
+        "why": "When cash is tight, you want your money back fast. Payback shows that at a glance.",
+        "mixup": "Payback ignores everything after the money is back. A project with a short payback can still earn much less in total than one with a longer payback."
+      },
+      "bs": {
+        "one": "Payback period (period povrata) je koliko treba vremena da ti se vrati novac koji si uložio.",
+        "explain": "Brojiš mjesece ili godine dok novac koji dolazi ne bude jednak onome što si potrošio. Kraće je sigurnije, jer je tvoj novac kraće vrijeme u riziku. Lako se razumije, pa ga male firme vole.",
+        "example": "Solarni paneli za radionicu koštaju 12.000 € i štede 3.000 € godišnje na struji. Period povrata je 4 godine.",
+        "why": "Kad je novca malo, želiš ga brzo nazad. Period povrata to pokaže na prvi pogled.",
+        "mixup": "Period povrata ne gleda ništa nakon što se novac vrati. Projekat s kratkim povratom može ukupno zaraditi mnogo manje od projekta s dužim povratom."
+      }
+    }
+  ]
+}

@@ -11,6 +11,7 @@
       "term": "Income statement",
       "local": "bilans uspjeha (račun dobiti i gubitka)",
       "minutes": 7,
+      "youtube": "wcvyJhRUpno",
       "youtubeQuery": "income statement explained simply for beginners",
       "formula": { "en": "Revenue − Costs = Profit (or loss)", "bs": "Prihod − Troškovi = Dobit (ili gubitak)" },
       "related": ["Revenue", "Gross profit", "Net profit", "Balance sheet"],
@@ -34,6 +35,7 @@
       "term": "Cash flow statement",
       "local": "izvještaj o novčanim tokovima",
       "minutes": 7,
+      "youtube": "DiVPAjgmnj0",
       "youtubeQuery": "cash flow statement explained simply",
       "related": ["Cash flow", "Income statement", "Balance sheet"],
       "en": {
@@ -56,6 +58,7 @@
       "term": "How the three statements connect",
       "local": "kako su tri izvještaja povezana",
       "minutes": 8,
+      "youtube": "AXBuC2gi1N0",
       "youtubeQuery": "how the three financial statements are linked explained simply",
       "related": ["Income statement", "Balance sheet", "Cash flow statement"],
       "en": {
@@ -78,6 +81,7 @@
       "term": "Red flags in a financial report",
       "local": "znakovi upozorenja u izvještaju",
       "minutes": 8,
+      "youtube": "jHPbSCqPuOM",
       "youtubeQuery": "red flags in financial statements for beginners",
       "related": ["Cash flow", "Liability", "Net profit"],
       "en": {
