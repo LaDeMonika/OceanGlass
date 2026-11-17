@@ -1,0 +1,125 @@
+{
+  "slug": "taxes",
+  "title": { "en": "Taxes for small business", "bs": "Porezi za male biznise" },
+  "summary": {
+    "en": "The main taxes a small business meets, explained without the legal language. Rates change, so always check the current ones.",
+    "bs": "Glavni porezi s kojima se mali biznis susreće, objašnjeni bez pravnog jezika. Stope se mijenjaju, pa uvijek provjeri trenutne."
+  },
+  "concepts": [
+    {
+      "slug": "profit-tax",
+      "term": "Profit tax",
+      "local": "porez na dobit",
+      "minutes": 5,
+      "youtube": "KBdyfVUxl1M",
+      "youtubeQuery": "corporate income tax explained simply",
+      "related": ["Net profit", "Deductible expenses", "Tax vs. accounting profit"],
+      "en": {
+        "one": "Profit tax is the tax a company pays on its yearly profit.",
+        "explain": "A company (like a d.o.o.) adds up its income, takes away the costs the law accepts, and pays a percentage of what is left. In Bosnia and Herzegovina the usual rate is 10%; in Croatia it is 10% for smaller companies and 18% for larger ones. The owner pays separate tax later when taking money out, for example on dividends.",
+        "example": "A Croatian d.o.o. with €60,000 taxable profit at 10% pays €6,000 profit tax and keeps €54,000.",
+        "why": "It is often the biggest single tax bill of the year. Plan for it so it does not surprise you.",
+        "mixup": "Profit tax is paid on profit, not on revenue. A company with big sales and no profit pays little or none."
+      },
+      "bs": {
+        "one": "Porez na dobit je porez koji firma plaća na svoju godišnju dobit.",
+        "explain": "Firma (npr. d.o.o.) sabere prihode, oduzme troškove koje zakon priznaje i plati procenat onoga što ostane. U BiH je uobičajena stopa 10%; u Hrvatskoj 10% za manje firme i 18% za veće. Vlasnik kasnije plaća poseban porez kad izvlači novac, npr. na dividende.",
+        "example": "Hrvatski d.o.o. s 60.000 € oporezive dobiti uz 10% plati 6.000 € poreza na dobit i zadrži 54.000 €.",
+        "why": "Često je to najveći pojedinačni porez u godini. Planiraj ga da te ne iznenadi.",
+        "mixup": "Porez na dobit se plaća na dobit, a ne na prihod. Firma s velikom prodajom i bez dobiti plaća malo ili ništa."
+      }
+    },
+    {
+      "slug": "sole-trader-tax",
+      "term": "Sole trader vs. company tax",
+      "local": "porez obrta i firme",
+      "minutes": 6,
+      "youtube": "8yrZnRSK-_c",
+      "youtubeQuery": "sole proprietor vs limited company tax explained",
+      "related": ["Profit tax", "Payroll taxes", "Legal forms"],
+      "en": {
+        "one": "A sole trader (obrt) pays personal income tax on the business profit. A company (d.o.o.) pays profit tax, and the owner pays more tax when taking money out.",
+        "explain": "For a sole trader, the business and the person are the same for tax: profit is taxed as the owner's income, often with contributions for pension and health. Some small sole traders can pay a fixed flat tax (paušal) instead. A company is a separate person: it pays its own profit tax, then the owner pays tax on salary or dividends.",
+        "example": "Two people each make €40,000 profit. One as an obrt pays income tax and contributions on all €40,000. The other's d.o.o. pays profit tax, and the owner then pays tax only on what they take out.",
+        "why": "This choice changes how much tax you pay and how much paperwork you have. Ask an accountant before you register.",
+        "mixup": "No form is always cheaper. It depends on how much you earn and how much you take out."
+      },
+      "bs": {
+        "one": "Obrtnik plaća porez na dohodak na dobit od posla. Firma (d.o.o.) plaća porez na dobit, a vlasnik plaća još poreza kad izvlači novac.",
+        "explain": "Kod obrta su posao i osoba isti za porez: dobit se oporezuje kao dohodak vlasnika, često uz doprinose za penziju i zdravstvo. Neki mali obrti mogu umjesto toga plaćati fiksni paušalni porez. Firma je posebna osoba: plaća svoj porez na dobit, a vlasnik onda plaća porez na platu ili dividende.",
+        "example": "Dvoje ljudi zaradi po 40.000 € dobiti. Obrtnik plaća porez na dohodak i doprinose na svih 40.000 €. Kod drugog d.o.o. plati porez na dobit, a vlasnik onda plaća porez samo na ono što izvuče.",
+        "why": "Ovaj izbor mijenja koliko poreza plaćaš i koliko imaš papirologije. Pitaj računovođu prije registracije.",
+        "mixup": "Nijedan oblik nije uvijek jeftiniji. Zavisi koliko zarađuješ i koliko izvlačiš."
+      }
+    },
+    {
+      "slug": "payroll-taxes",
+      "term": "Payroll taxes & contributions",
+      "local": "porezi i doprinosi na plate",
+      "minutes": 6,
+      "youtube": "Ws2-_pDgwvM",
+      "youtubeQuery": "payroll taxes explained simply gross vs net salary",
+      "related": ["Profit tax", "Accrued expenses", "Hiring process"],
+      "en": {
+        "one": "Payroll taxes and contributions are the amounts the state takes from and on top of each salary.",
+        "explain": "From the gross salary, contributions for pension and health and income tax are taken, and the employee gets the net salary. In some countries the employer also pays contributions on top of the gross. The employer calculates all of it, pays it to the state and sends a monthly report.",
+        "example": "A worker's gross salary is €1,500. After contributions and tax they receive roughly €1,100 to €1,150 net, depending on the country and city. The employer's total cost can be higher than €1,500.",
+        "why": "The real cost of an employee is much more than the net salary they see. Plan hiring with the total cost.",
+        "mixup": "Gross and net are not the same. Always ask which one an offer or a salary talk means."
+      },
+      "bs": {
+        "one": "Porezi i doprinosi na plate su iznosi koje država uzima iz plate i na platu.",
+        "explain": "Iz bruto plate se odbiju doprinosi za penziju i zdravstvo i porez na dohodak, a radnik dobije neto platu. U nekim zemljama poslodavac plaća i doprinose na bruto. Poslodavac sve izračuna, uplati državi i šalje mjesečni izvještaj.",
+        "example": "Bruto plata radnika je 1.500 €. Nakon doprinosa i poreza dobije otprilike 1.100 do 1.150 € neto, zavisno od države i grada. Ukupni trošak za poslodavca može biti veći od 1.500 €.",
+        "why": "Stvarni trošak radnika je mnogo veći od neto plate koju on vidi. Zapošljavanje planiraj s ukupnim troškom.",
+        "mixup": "Bruto i neto nisu isto. Uvijek pitaj na koje se misli u ponudi ili razgovoru o plati."
+      }
+    },
+    {
+      "slug": "deductible-expenses",
+      "term": "Deductible expenses",
+      "local": "porezno priznati troškovi",
+      "minutes": 5,
+      "youtube": "-ssw-cu9c5A",
+      "youtubeQuery": "tax deductible business expenses explained",
+      "related": ["Profit tax", "Source documents", "Net profit"],
+      "en": {
+        "one": "Deductible expenses are business costs the tax office lets you subtract before calculating tax.",
+        "explain": "Most normal costs of doing business count: rent, materials, wages, depreciation, software. Some costs count only partly, like entertaining clients or a car also used privately, and fines never count. Every deductible cost needs a proper document.",
+        "example": "Your profit before tax is €50,000, but €2,000 of it was client dinners, of which only half is deductible. Taxable profit becomes €51,000.",
+        "why": "Knowing what counts lowers your tax legally and stops nasty surprises in an inspection.",
+        "mixup": "Deductible does not mean free. A €1,000 deductible cost at 10% tax still costs you €900."
+      },
+      "bs": {
+        "one": "Deductible expenses (porezno priznati troškovi) su poslovni troškovi koje ti poreska uprava dozvoli da oduzmeš prije računanja poreza.",
+        "explain": "Većina normalnih troškova poslovanja se priznaje: kirija, materijal, plate, amortizacija, softver. Neki se priznaju samo djelimično, npr. reprezentacija ili auto koji se koristi i privatno, a kazne se nikad ne priznaju. Svaki priznati trošak treba pravu ispravu.",
+        "example": "Dobit prije poreza ti je 50.000 €, ali 2.000 € od toga su večere s klijentima, a priznaje se samo pola. Oporeziva dobit postaje 51.000 €.",
+        "why": "Kad znaš šta se priznaje, legalno smanjuješ porez i izbjegavaš neugodna iznenađenja u kontroli.",
+        "mixup": "Priznat ne znači besplatan. Priznati trošak od 1.000 € uz porez od 10% te i dalje košta 900 €."
+      }
+    },
+    {
+      "slug": "input-output-vat",
+      "term": "Input & output VAT",
+      "local": "ulazni i izlazni PDV",
+      "minutes": 5,
+      "youtube": "IEf5W-nuv6A",
+      "youtubeQuery": "input VAT and output VAT explained",
+      "related": ["VAT (Value added tax)", "Invoice", "Cash flow"],
+      "en": {
+        "one": "Output VAT is the VAT you charge customers. Input VAT is the VAT you pay suppliers. You pay the state the difference.",
+        "explain": "Every VAT period (monthly or quarterly) you add up output VAT from your sales invoices and input VAT from your purchase invoices. If output is bigger, you pay the difference. If input is bigger, for example in a month with a big machine purchase, the state owes you a refund.",
+        "example": "In a month, sales invoices show €5,000 output VAT and purchase invoices €1,800 input VAT. You pay €3,200 to the state.",
+        "why": "VAT is due even if your customers have not paid you yet, so it can hit your cash hard.",
+        "mixup": "You can only deduct input VAT with a correct invoice from a VAT-registered supplier. A missing or wrong invoice means the VAT is just a cost."
+      },
+      "bs": {
+        "one": "Izlazni PDV je PDV koji naplaćuješ kupcima. Ulazni PDV je PDV koji plaćaš dobavljačima. Državi plaćaš razliku.",
+        "explain": "Svaki PDV period (mjesečno ili kvartalno) sabereš izlazni PDV s izlaznih faktura i ulazni PDV s ulaznih faktura. Ako je izlazni veći, plaćaš razliku. Ako je ulazni veći, npr. u mjesecu kad si kupio veliku mašinu, država tebi duguje povrat.",
+        "example": "U mjesecu izlazne fakture pokazuju 5.000 € izlaznog PDV-a, a ulazne 1.800 € ulaznog. Državi plaćaš 3.200 €.",
+        "why": "PDV se duguje čak i ako ti kupci još nisu platili, pa može jako udariti na novčani tok.",
+        "mixup": "Ulazni PDV možeš odbiti samo uz ispravnu fakturu dobavljača koji je u sistemu PDV-a. Bez ispravne fakture PDV je samo trošak."
+      }
+    }
+  ]
+}

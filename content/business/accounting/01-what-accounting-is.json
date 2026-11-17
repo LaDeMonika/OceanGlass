@@ -1,0 +1,149 @@
+{
+  "slug": "what-accounting-is",
+  "title": { "en": "What accounting is for", "bs": "Čemu služi računovodstvo" },
+  "summary": {
+    "en": "The language of business: how every money event gets written down so anyone can understand it.",
+    "bs": "Jezik biznisa: kako se svaki događaj s novcem zapiše da ga svako može razumjeti."
+  },
+  "concepts": [
+    {
+      "slug": "bookkeeping-vs-accounting",
+      "term": "Bookkeeping vs. accounting",
+      "local": "knjigovodstvo i računovodstvo",
+      "minutes": 5,
+      "youtube": "qRvHSeC1skg",
+      "youtubeQuery": "bookkeeping vs accounting difference explained",
+      "related": ["Journal", "General ledger", "Financial statements"],
+      "en": {
+        "one": "Bookkeeping is writing down every money event. Accounting is making sense of those records.",
+        "explain": "A bookkeeper records each sale, bill and payment, every day. An accountant takes those records, checks them, prepares the financial statements and taxes, and explains what the numbers mean for the business.",
+        "example": "A bakery's bookkeeper enters 200 receipts a week. At year end the accountant turns them into a profit report and tells the owner that flour costs grew faster than sales.",
+        "why": "Good decisions need good records. If the bookkeeping is messy, every report built on it is wrong.",
+        "mixup": "Accounting is not only about taxes. Taxes are one use of the records; running the business better is the bigger one."
+      },
+      "bs": {
+        "one": "Bookkeeping (knjigovodstvo) je zapisivanje svakog događaja s novcem. Accounting (računovodstvo) je davanje smisla tim zapisima.",
+        "explain": "Knjigovođa svakodnevno bilježi svaku prodaju, račun i uplatu. Računovođa uzme te zapise, provjeri ih, pripremi finansijske izvještaje i poreze i objasni šta brojevi znače za firmu.",
+        "example": "Knjigovođa pekare unese 200 računa sedmično. Na kraju godine računovođa ih pretvori u izvještaj o dobiti i kaže vlasniku da troškovi brašna rastu brže od prodaje.",
+        "why": "Dobre odluke traže dobre zapise. Ako je knjigovodstvo neuredno, svaki izvještaj napravljen iz njega je pogrešan.",
+        "mixup": "Računovodstvo nije samo porez. Porez je jedna upotreba zapisa; bolje vođenje firme je važnija."
+      }
+    },
+    {
+      "slug": "accounting-equation",
+      "term": "Accounting equation",
+      "local": "računovodstvena jednačina",
+      "minutes": 5,
+      "youtube": "twLzWucjceE",
+      "youtubeQuery": "accounting equation explained simply",
+      "formula": { "en": "Assets = Liabilities + Equity", "bs": "Imovina = Obaveze + Kapital" },
+      "related": ["Asset", "Liability", "Equity"],
+      "en": {
+        "one": "Everything a business owns was paid for either by borrowing or by the owners. So assets always equal liabilities plus equity.",
+        "explain": "This one rule holds after every single transaction. If you buy a van with a loan, assets go up and liabilities go up by the same amount. If the owner puts in cash, assets and equity both go up. The two sides always stay equal, which is why the balance sheet 'balances'.",
+        "example": "You start a company with €5,000 of your own money and a €10,000 loan. Assets: €15,000 in the bank. Liabilities €10,000 + equity €5,000 = €15,000.",
+        "why": "It is the base of all bookkeeping. Once you understand it, double-entry and the balance sheet make sense.",
+        "mixup": "It does not say the business is doing well. A company can balance perfectly and still be losing money."
+      },
+      "bs": {
+        "one": "Sve što firma posjeduje plaćeno je ili pozajmljenim novcem ili novcem vlasnika. Zato je imovina uvijek jednaka obavezama plus kapital.",
+        "explain": "Ovo pravilo vrijedi nakon svake transakcije. Ako kupiš kombi na kredit, imovina i obaveze porastu za isti iznos. Ako vlasnik uloži novac, rastu imovina i kapital. Dvije strane uvijek ostaju jednake, zato bilans stanja 'stoji u ravnoteži'.",
+        "example": "Osnuješ firmu s 5.000 € svog novca i 10.000 € kredita. Imovina: 15.000 € na računu. Obaveze 10.000 € + kapital 5.000 € = 15.000 €.",
+        "why": "To je osnova cijelog knjigovodstva. Kad je razumiješ, dvojno knjigovodstvo i bilans stanja imaju smisla.",
+        "mixup": "Jednačina ne kaže da firmi ide dobro. Firma može biti savršeno uravnotežena i ipak gubiti novac."
+      }
+    },
+    {
+      "slug": "accounting-period",
+      "term": "Accounting period",
+      "local": "obračunski period",
+      "minutes": 4,
+      "youtube": "0_yzQURAsKA",
+      "youtubeQuery": "accounting period fiscal year explained",
+      "related": ["Income statement", "Month-end close", "Accrual accounting"],
+      "en": {
+        "one": "An accounting period is the stretch of time a report covers, usually a month, a quarter or a year.",
+        "explain": "Business never stops, so we cut time into pieces to measure it. Profit is always 'profit for a period'. The yearly period is called the financial or fiscal year. In Bosnia and Croatia it is usually the calendar year.",
+        "example": "A shop reports €4,000 profit for March and €48,000 for the whole year 2025.",
+        "why": "Without a fixed period you cannot compare months, spot trends or file taxes on time.",
+        "mixup": "A fiscal year does not have to start in January. Some companies run theirs from July to June."
+      },
+      "bs": {
+        "one": "Accounting period (obračunski period) je dio vremena koji izvještaj pokriva, obično mjesec, kvartal ili godina.",
+        "explain": "Posao nikad ne staje, pa vrijeme siječemo na dijelove da bismo ga mjerili. Dobit je uvijek 'dobit za neki period'. Godišnji period se zove poslovna ili fiskalna godina. U BiH i Hrvatskoj to je obično kalendarska godina.",
+        "example": "Prodavnica prijavi 4.000 € dobiti za mart i 48.000 € za cijelu 2025. godinu.",
+        "why": "Bez fiksnog perioda ne možeš porediti mjesece, vidjeti trendove ni predati porez na vrijeme.",
+        "mixup": "Fiskalna godina ne mora počinjati u januaru. Neke firme imaju godinu od jula do juna."
+      }
+    },
+    {
+      "slug": "chart-of-accounts",
+      "term": "Chart of accounts",
+      "local": "kontni plan",
+      "minutes": 5,
+      "youtube": "Pht5sztAuP0",
+      "youtubeQuery": "chart of accounts explained simply",
+      "related": ["General ledger", "Journal", "Accounting equation"],
+      "en": {
+        "one": "The chart of accounts is the list of all the 'boxes' a business uses to sort its money events.",
+        "explain": "Each box is an account with a number and a name: cash, sales, rent, wages, loans and so on. Every transaction is put into the right boxes. In Bosnia and Croatia the numbering follows a standard national plan, so accountants everywhere understand it.",
+        "example": "A café might have accounts like 1000 Cash, 4000 Coffee sales, 5100 Rent and 5200 Wages. Paying rent moves money from 1000 to 5100.",
+        "why": "A clear list means every euro lands in the same place every time, so reports can be trusted and compared.",
+        "mixup": "More accounts is not better. Too many tiny accounts make reports hard to read."
+      },
+      "bs": {
+        "one": "Chart of accounts (kontni plan) je spisak svih 'kutija' koje firma koristi da razvrsta događaje s novcem.",
+        "explain": "Svaka kutija je konto s brojem i nazivom: blagajna, prodaja, kirija, plate, krediti itd. Svaka transakcija ide u prave kutije. U BiH i Hrvatskoj numeracija prati standardni kontni plan, pa ga razumiju svi računovođe.",
+        "example": "Kafić može imati konta kao 1000 Blagajna, 4000 Prodaja kafe, 5100 Kirija i 5200 Plate. Plaćanje kirije prebaci novac s 1000 na 5100.",
+        "why": "Jasan spisak znači da svaki euro uvijek završi na istom mjestu, pa se izvještajima može vjerovati i porediti ih.",
+        "mixup": "Više konta nije bolje. Previše sitnih konta čini izvještaje teškim za čitanje."
+      }
+    },
+    {
+      "slug": "financial-vs-managerial",
+      "term": "Financial vs. managerial accounting",
+      "local": "finansijsko i upravljačko računovodstvo",
+      "minutes": 5,
+      "youtube": "Ep7DqVxFHaY",
+      "youtubeQuery": "financial vs managerial accounting explained",
+      "related": ["Bookkeeping vs. accounting", "Budget", "Financial statements"],
+      "en": {
+        "one": "Financial accounting makes reports for people outside the business. Managerial accounting makes reports for the people running it.",
+        "explain": "Financial accounting follows strict rules, because banks, tax offices and investors need reports they can trust and compare. Managerial accounting has no fixed rules: it answers inside questions like which product earns most or what a new shift would cost.",
+        "example": "The yearly balance sheet sent to the tax office is financial accounting. A weekly report showing profit per menu item is managerial accounting.",
+        "why": "Knowing the difference tells you which reports must be exact and on time, and which ones you can shape to help you decide.",
+        "mixup": "Managerial reports are not 'less true'. They use the same data, just sliced to answer a specific question."
+      },
+      "bs": {
+        "one": "Financial accounting (finansijsko računovodstvo) pravi izvještaje za ljude izvan firme. Managerial accounting (upravljačko računovodstvo) pravi izvještaje za one koji vode firmu.",
+        "explain": "Finansijsko računovodstvo prati stroga pravila, jer banke, poreska uprava i investitori trebaju izvještaje kojima mogu vjerovati i porediti ih. Upravljačko nema fiksna pravila: odgovara na unutrašnja pitanja, npr. koji proizvod najviše zarađuje ili koliko bi koštala nova smjena.",
+        "example": "Godišnji bilans poslan poreskoj upravi je finansijsko računovodstvo. Sedmični izvještaj o dobiti po jelu s menija je upravljačko računovodstvo.",
+        "why": "Kad znaš razliku, znaš koji izvještaji moraju biti tačni i na vrijeme, a koje možeš prilagoditi da ti pomognu odlučiti.",
+        "mixup": "Upravljački izvještaji nisu 'manje tačni'. Koriste iste podatke, samo podijeljene da odgovore na određeno pitanje."
+      }
+    },
+    {
+      "slug": "source-documents",
+      "term": "Source documents",
+      "local": "knjigovodstvene isprave",
+      "minutes": 4,
+      "youtube": "hWrPKnbRtZc",
+      "youtubeQuery": "source documents in accounting explained",
+      "related": ["Invoice", "Journal", "Audit"],
+      "en": {
+        "one": "Source documents are the papers or files that prove a money event really happened.",
+        "explain": "Invoices, receipts, bank statements, contracts and payslips are all source documents. Every line in the books should point back to one. Without proof, the tax office can refuse a cost and an auditor cannot check the books.",
+        "example": "You buy a laptop for the business. The supplier's invoice is the source document that lets you record it and deduct it.",
+        "why": "Keeping documents in order saves you money at tax time and protects you in a dispute.",
+        "mixup": "A card payment line on your bank statement is not always enough. For most business costs you still need the proper invoice."
+      },
+      "bs": {
+        "one": "Source documents (knjigovodstvene isprave) su papiri ili fajlovi koji dokazuju da se događaj s novcem zaista desio.",
+        "explain": "Fakture, računi, izvodi iz banke, ugovori i platne liste su knjigovodstvene isprave. Svaki red u knjigama treba upućivati na jednu od njih. Bez dokaza poreska uprava može odbiti trošak, a revizor ne može provjeriti knjige.",
+        "example": "Kupiš laptop za firmu. Faktura dobavljača je isprava koja ti dozvoljava da ga proknjižiš i odbiješ kao trošak.",
+        "why": "Uredne isprave ti štede novac kod poreza i štite te u sporu.",
+        "mixup": "Red s plaćanjem karticom na izvodu nije uvijek dovoljan. Za većinu poslovnih troškova i dalje trebaš pravu fakturu."
+      }
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "slug": "inventory",
+  "title": { "en": "Inventory", "bs": "Zalihe" },
+  "summary": {
+    "en": "The goods waiting to be sold: how to count them, value them and keep them from eating your cash.",
+    "bs": "Roba koja čeka prodaju: kako je brojati, vrednovati i spriječiti da ti pojede novac."
+  },
+  "concepts": [
+    {
+      "slug": "inventory",
+      "term": "Inventory",
+      "local": "zalihe",
+      "minutes": 5,
+      "youtube": "3-Bjr6QJtCQ",
+      "youtubeQuery": "what is inventory in accounting explained",
+      "related": ["Cost of goods sold (COGS)", "Asset", "Cash conversion cycle"],
+      "en": {
+        "one": "Inventory is everything a business holds to sell: finished products, goods bought for resale, and raw materials.",
+        "explain": "Inventory is an asset until it is sold. Then its cost moves to the income statement as cost of goods sold. Holding stock costs money: storage, insurance, damage, and cash that is stuck on a shelf.",
+        "example": "A bike shop has 40 bikes in the back worth €12,000 at cost. That €12,000 is inventory on the balance sheet.",
+        "why": "Too little stock loses sales. Too much stock ties up cash and may go out of fashion or expire.",
+        "mixup": "Inventory is valued at what it cost you, not at the price you hope to sell it for."
+      },
+      "bs": {
+        "one": "Inventory (zalihe) su sve što firma drži da bi prodala: gotovi proizvodi, roba kupljena za preprodaju i sirovine.",
+        "explain": "Zalihe su imovina dok se ne prodaju. Tada njihov trošak prelazi u bilans uspjeha kao trošak prodane robe. Držanje zaliha košta: skladište, osiguranje, oštećenja i novac koji stoji na polici.",
+        "example": "Prodavnica bicikala u magacinu ima 40 bicikala nabavne vrijednosti 12.000 €. Tih 12.000 € su zalihe u bilansu stanja.",
+        "why": "Premalo zaliha gubi prodaju. Previše zaliha veže novac i roba može izaći iz mode ili isteći.",
+        "mixup": "Zalihe se vrednuju po onome što su te koštale, a ne po cijeni po kojoj se nadaš prodati."
+      }
+    },
+    {
+      "slug": "cogs",
+      "term": "Cost of goods sold (COGS)",
+      "local": "trošak prodane robe",
+      "minutes": 5,
+      "youtube": "jEUnCe_9I-s",
+      "youtubeQuery": "cost of goods sold COGS explained simply",
+      "formula": {
+        "en": "COGS = Start stock + Purchases − End stock",
+        "bs": "Trošak prodane robe = Početne zalihe + Nabavke − Krajnje zalihe"
+      },
+      "related": ["Inventory", "Gross profit", "Matching principle"],
+      "en": {
+        "one": "COGS is what the products you actually sold this period cost you.",
+        "explain": "Only the goods that left the shop count, not everything you bought. You take stock at the start, add what you bought, and subtract what is still left at the end. Revenue minus COGS is gross profit.",
+        "example": "Start stock €5,000 + purchases €20,000 − end stock €7,000 = COGS €18,000.",
+        "why": "It decides your gross profit. If COGS is wrong, every profit number after it is wrong too.",
+        "mixup": "Buying a lot of stock does not raise COGS. COGS only grows when that stock is sold."
+      },
+      "bs": {
+        "one": "COGS (trošak prodane robe) je koliko su te koštali proizvodi koje si zaista prodao u ovom periodu.",
+        "explain": "Računa se samo roba koja je izašla iz radnje, ne sve što si kupio. Uzmeš početne zalihe, dodaš nabavke i oduzmeš ono što je ostalo na kraju. Prihod minus COGS je bruto dobit.",
+        "example": "Početne zalihe 5.000 € + nabavke 20.000 € − krajnje zalihe 7.000 € = COGS 18.000 €.",
+        "why": "Određuje tvoju bruto dobit. Ako je COGS pogrešan, svaki broj dobiti poslije njega je pogrešan.",
+        "mixup": "Kupovina velike količine robe ne povećava COGS. COGS raste tek kad se ta roba proda."
+      }
+    },
+    {
+      "slug": "fifo",
+      "term": "FIFO & average cost",
+      "local": "FIFO i prosječna cijena",
+      "minutes": 6,
+      "youtube": "fGM-aorTJx8",
+      "youtubeQuery": "FIFO vs weighted average inventory explained",
+      "related": ["Inventory", "Cost of goods sold (COGS)", "Inflation"],
+      "en": {
+        "one": "FIFO and average cost are two ways to decide which purchase price you use when you sell identical goods bought at different prices.",
+        "explain": "FIFO means first in, first out: you treat the oldest units as sold first. Average cost means you mix all purchase prices into one average. When prices rise, FIFO shows lower COGS and higher profit; average cost sits in between. Both are allowed under IFRS (LIFO is not).",
+        "example": "You buy 10 phone cases at €2 and then 10 at €3, and sell 10. FIFO: COGS €20. Average: €2.50 each, COGS €25.",
+        "why": "The method changes your profit and tax, so you choose one and stick with it.",
+        "mixup": "FIFO is about the numbers in the books, not which box physically leaves the shelf first."
+      },
+      "bs": {
+        "one": "FIFO i prosječna cijena su dva načina da odlučiš koju nabavnu cijenu koristiš kad prodaješ istu robu kupljenu po različitim cijenama.",
+        "explain": "FIFO znači prvi ulaz, prvi izlaz: smatraš da su najstariji komadi prodani prvi. Prosječna cijena znači da sve nabavne cijene spojiš u jedan prosjek. Kad cijene rastu, FIFO pokazuje manji COGS i veću dobit; prosjek je između. Oba su dozvoljena po MSFI (LIFO nije).",
+        "example": "Kupiš 10 maski za telefon po 2 €, pa 10 po 3 €, i prodaš 10. FIFO: COGS 20 €. Prosjek: 2,50 € komad, COGS 25 €.",
+        "why": "Metod mijenja dobit i porez, pa izabereš jedan i držiš ga se.",
+        "mixup": "FIFO se odnosi na brojeve u knjigama, a ne na to koja kutija fizički prva izađe s police."
+      }
+    },
+    {
+      "slug": "stock-count",
+      "term": "Stock count",
+      "local": "popis zaliha, inventura",
+      "minutes": 4,
+      "youtube": "Ue8oCPQjU8o",
+      "youtubeQuery": "stock take inventory count explained",
+      "related": ["Inventory", "Inventory write-off", "Internal controls"],
+      "en": {
+        "one": "A stock count is physically counting what is really on the shelves and comparing it with the books.",
+        "explain": "Over time the records and reality drift apart because of theft, damage, wrong deliveries and typing mistakes. A count, usually at year end and often more often, fixes the books to match reality. In the region the yearly count (inventura) is required by law.",
+        "example": "The system says 120 bottles of olive oil. The count finds 112. The 8 missing bottles are written off as a loss.",
+        "why": "Wrong stock numbers mean wrong profit, wrong orders and hidden theft.",
+        "mixup": "A count is not just for the tax office. Big differences tell you something is broken in your process."
+      },
+      "bs": {
+        "one": "Stock count (popis zaliha, inventura) je fizičko brojanje onoga što je zaista na policama i poređenje s knjigama.",
+        "explain": "Vremenom se zapisi i stvarnost razilaze zbog krađe, oštećenja, pogrešnih isporuka i grešaka pri unosu. Popis, obično krajem godine, a često i češće, ispravlja knjige da odgovaraju stvarnosti. U regiji je godišnja inventura zakonska obaveza.",
+        "example": "Sistem kaže 120 flaša maslinovog ulja. Popis nađe 112. Osam flaša koje nedostaju otpisuje se kao manjak.",
+        "why": "Pogrešne zalihe znače pogrešnu dobit, pogrešne narudžbe i skrivenu krađu.",
+        "mixup": "Popis nije samo za poresku upravu. Velike razlike ti govore da nešto u procesu ne valja."
+      }
+    },
+    {
+      "slug": "inventory-write-off",
+      "term": "Inventory write-off",
+      "local": "otpis zaliha",
+      "minutes": 4,
+      "youtube": "rP0I5XiaL9U",
+      "youtubeQuery": "inventory write off write down explained",
+      "related": ["Inventory", "Stock count", "Net profit"],
+      "en": {
+        "one": "A write-off removes stock that is lost, broken, expired or can no longer be sold at its cost.",
+        "explain": "If goods are gone or worthless, keeping them in the books overstates your assets. You lower the inventory and record the loss as a cost. If goods can still be sold, but only below cost, you write them down to the lower value.",
+        "example": "A fashion shop has last year's jackets that cost €4,000 but will now sell for €2,500. It writes them down by €1,500.",
+        "why": "It keeps the balance sheet honest and shows you which buying decisions went wrong.",
+        "mixup": "A write-off is a loss on paper now, but the cash was already lost when you bought the goods."
+      },
+      "bs": {
+        "one": "Inventory write-off (otpis zaliha) skida robu koja je izgubljena, slomljena, istekla ili se više ne može prodati po nabavnoj cijeni.",
+        "explain": "Ako je roba nestala ili bezvrijedna, njeno držanje u knjigama prikazuje više imovine nego što je ima. Smanjiš zalihe i gubitak zabilježiš kao trošak. Ako se roba još može prodati, ali samo ispod nabavne cijene, smanjiš joj vrijednost na niži iznos.",
+        "example": "Modna radnja ima prošlogodišnje jakne koje su koštale 4.000 €, a sada će se prodati za 2.500 €. Smanji im vrijednost za 1.500 €.",
+        "why": "Čuva bilans stanja poštenim i pokazuje ti koje odluke o nabavci su bile loše.",
+        "mixup": "Otpis je gubitak na papiru sada, ali novac je izgubljen već kad si robu kupio."
+      }
+    },
+    {
+      "slug": "inventory-turnover",
+      "term": "Inventory turnover",
+      "local": "koeficijent obrta zaliha",
+      "minutes": 5,
+      "youtube": "Wcg3DjlVukU",
+      "youtubeQuery": "inventory turnover ratio explained simply",
+      "formula": {
+        "en": "Inventory turnover = COGS ÷ Average inventory",
+        "bs": "Obrt zaliha = COGS ÷ Prosječne zalihe"
+      },
+      "related": ["Inventory", "Cost of goods sold (COGS)", "Cash conversion cycle"],
+      "en": {
+        "one": "Inventory turnover shows how many times a year you sell through your average stock.",
+        "explain": "Divide COGS by your average inventory. A higher number means goods move fast and cash is not stuck. Divide 365 by the turnover and you get the average number of days stock sits before it sells.",
+        "example": "A shop has COGS of €120,000 and average stock of €20,000. Turnover is 6 times a year, so stock sits about 61 days.",
+        "why": "Slow stock is cash you cannot use. Comparing turnover by product shows what to reorder and what to stop buying.",
+        "mixup": "There is no single 'good' number. A bakery turns stock every day; a furniture shop maybe 4 times a year."
+      },
+      "bs": {
+        "one": "Inventory turnover (obrt zaliha) pokazuje koliko puta godišnje prodaš svoje prosječne zalihe.",
+        "explain": "Podijeliš COGS s prosječnim zalihama. Veći broj znači da se roba brzo kreće i novac nije zarobljen. Podijeliš 365 s obrtom i dobiješ prosječan broj dana koliko roba stoji prije prodaje.",
+        "example": "Prodavnica ima COGS od 120.000 € i prosječne zalihe od 20.000 €. Obrt je 6 puta godišnje, pa roba stoji oko 61 dan.",
+        "why": "Spora roba je novac koji ne možeš koristiti. Poređenje obrta po proizvodima pokazuje šta ponovo naručiti, a šta prestati kupovati.",
+        "mixup": "Ne postoji jedan 'dobar' broj. Pekara obrne zalihe svaki dan; salon namještaja možda 4 puta godišnje."
+      }
+    }
+  ]
+}

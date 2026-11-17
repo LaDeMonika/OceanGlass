@@ -1,0 +1,156 @@
+{
+  "slug": "fixed-assets",
+  "title": { "en": "Fixed assets & depreciation", "bs": "Stalna sredstva i amortizacija" },
+  "summary": {
+    "en": "Things a business uses for years, and how their cost is spread over the years they help you earn.",
+    "bs": "Stvari koje firma koristi godinama i kako se njihov trošak raspoređuje na godine u kojima ti pomažu zarađivati."
+  },
+  "concepts": [
+    {
+      "slug": "fixed-asset",
+      "term": "Fixed asset",
+      "local": "stalno (dugotrajno) sredstvo",
+      "minutes": 5,
+      "youtube": "Ko93RRZEPPY",
+      "youtubeQuery": "fixed assets explained simply",
+      "related": ["Depreciation", "CapEx vs. OpEx", "Asset"],
+      "en": {
+        "one": "A fixed asset is something the business buys to use for more than a year, not to resell.",
+        "explain": "Machines, vehicles, computers, furniture, buildings and land are typical. Software and patents are fixed assets too, but you cannot touch them, so they are called intangible assets. Small items below a set value are usually just recorded as costs.",
+        "example": "A print shop buys a €25,000 printer it plans to use for 5 years. That printer is a fixed asset.",
+        "why": "Fixed assets are what a business uses to make money. Knowing them shows how much has been invested to run it.",
+        "mixup": "A fixed asset is not a cost in the year you buy it. Its cost is spread over the years you use it."
+      },
+      "bs": {
+        "one": "Fixed asset (stalno sredstvo) je nešto što firma kupi da koristi duže od godinu dana, a ne da preproda.",
+        "explain": "Tipični su mašine, vozila, računari, namještaj, zgrade i zemljište. Softver i patenti su također stalna sredstva, ali ih ne možeš dodirnuti, pa se zovu nematerijalna imovina. Sitne stvari ispod određene vrijednosti se obično samo knjiže kao trošak.",
+        "example": "Štamparija kupi printer od 25.000 € koji planira koristiti 5 godina. Taj printer je stalno sredstvo.",
+        "why": "Stalna sredstva su ono čime firma zarađuje. Pokazuju koliko je uloženo u njen rad.",
+        "mixup": "Stalno sredstvo nije trošak u godini kupovine. Njegov trošak se raspoređuje na godine korištenja."
+      }
+    },
+    {
+      "slug": "capex-opex",
+      "term": "CapEx vs. OpEx",
+      "local": "kapitalni i operativni izdaci",
+      "minutes": 5,
+      "youtube": "na4jbAh_vkQ",
+      "youtubeQuery": "capex vs opex explained simply",
+      "related": ["Fixed asset", "Depreciation", "Cash flow statement"],
+      "en": {
+        "one": "CapEx is spending on things that last for years. OpEx is spending on the everyday running of the business.",
+        "explain": "Buying a delivery van is CapEx: it becomes a fixed asset and is depreciated. Fuel, repairs, rent and wages are OpEx: they are costs right away. The cash leaves either way; what changes is how and when it shows as a cost.",
+        "example": "A café spends €15,000 on a new espresso machine (CapEx) and €900 a month on coffee beans (OpEx).",
+        "why": "It explains why a company can spend a lot of cash in a year but show only a small cost on the income statement.",
+        "mixup": "Calling a normal cost 'CapEx' to make profit look better is an old trick. It is one of the red flags auditors look for."
+      },
+      "bs": {
+        "one": "CapEx (kapitalni izdaci) je trošenje na stvari koje traju godinama. OpEx (operativni izdaci) je trošenje na svakodnevni rad firme.",
+        "explain": "Kupovina dostavnog kombija je CapEx: postaje stalno sredstvo i amortizuje se. Gorivo, popravke, kirija i plate su OpEx: odmah su trošak. Novac odlazi u oba slučaja; mijenja se kako i kada se pokazuje kao trošak.",
+        "example": "Kafić potroši 15.000 € na novi aparat za espresso (CapEx) i 900 € mjesečno na kafu u zrnu (OpEx).",
+        "why": "Objašnjava zašto firma može potrošiti mnogo novca u godini, a u bilansu uspjeha pokazati mali trošak.",
+        "mixup": "Nazvati običan trošak 'CapEx' da dobit izgleda bolje je stari trik. To je jedan od crvenih alarma koje revizori traže."
+      }
+    },
+    {
+      "slug": "depreciation",
+      "term": "Depreciation",
+      "local": "amortizacija",
+      "minutes": 6,
+      "youtube": "IVPcAofgISA",
+      "youtubeQuery": "depreciation explained simply",
+      "formula": {
+        "en": "Yearly depreciation = (Cost − Leftover value) ÷ Years of use",
+        "bs": "Godišnja amortizacija = (Nabavna vrijednost − Ostatak vrijednosti) ÷ Godine korištenja"
+      },
+      "related": ["Fixed asset", "Straight-line depreciation", "Book value"],
+      "en": {
+        "one": "Depreciation spreads the cost of a fixed asset over the years you use it, because it slowly wears out.",
+        "explain": "Instead of showing a €25,000 printer as one huge cost this year, you show a part of it as a cost each year of its useful life. No cash leaves when you record depreciation; the cash left when you bought the printer. In Bosnian and Croatian practice this is called amortizacija.",
+        "example": "A €10,000 laptop fleet used for 4 years gives €2,500 depreciation cost each year.",
+        "why": "It makes profit fair: each year carries a fair share of the cost of the tools that earned its income.",
+        "mixup": "Depreciation is not money you put aside for a new machine. It is only an accounting cost; saving for a replacement is a separate decision."
+      },
+      "bs": {
+        "one": "Depreciation (amortizacija) raspoređuje trošak stalnog sredstva na godine korištenja, jer se ono polako troši.",
+        "explain": "Umjesto da printer od 25.000 € prikažeš kao jedan ogroman trošak ove godine, svake godine njegovog vijeka prikažeš dio kao trošak. Kad knjižiš amortizaciju, novac ne izlazi; izašao je kad si kupio printer.",
+        "example": "Laptopi vrijedni 10.000 € korišteni 4 godine daju 2.500 € troška amortizacije svake godine.",
+        "why": "Čini dobit poštenom: svaka godina nosi pošten dio troška alata koji su joj donijeli prihod.",
+        "mixup": "Amortizacija nije novac koji odvajaš za novu mašinu. To je samo računovodstveni trošak; štednja za zamjenu je posebna odluka."
+      }
+    },
+    {
+      "slug": "straight-line",
+      "term": "Straight-line depreciation",
+      "local": "linearna (pravolinijska) amortizacija",
+      "minutes": 4,
+      "youtube": "J9TstgOTx-k",
+      "youtubeQuery": "straight line depreciation explained",
+      "related": ["Depreciation", "Book value", "Fixed asset"],
+      "en": {
+        "one": "Straight-line depreciation takes the same amount of cost every year of an asset's life.",
+        "explain": "It is the simplest and most common method. Tax rules in the region set maximum yearly rates for each type of asset, for example for computers, vehicles or buildings. Other methods take more cost in the early years, but straight-line is the one to know first.",
+        "example": "A van costs €30,000, will be used 5 years and then sold for €5,000. (30,000 − 5,000) ÷ 5 = €5,000 depreciation per year.",
+        "why": "It is easy to plan with: you know the yearly cost of each asset in advance.",
+        "mixup": "Straight-line does not mean the asset loses market value evenly. A new car loses much more value in its first year than in its fifth."
+      },
+      "bs": {
+        "one": "Straight-line depreciation (linearna amortizacija) uzima isti iznos troška svake godine vijeka sredstva.",
+        "explain": "To je najjednostavniji i najčešći metod. Poreska pravila u regiji propisuju maksimalne godišnje stope za svaku vrstu sredstva, npr. za računare, vozila ili zgrade. Drugi metodi uzimaju više troška u prvim godinama, ali linearni treba znati prvi.",
+        "example": "Kombi košta 30.000 €, koristit će se 5 godina i onda prodati za 5.000 €. (30.000 − 5.000) ÷ 5 = 5.000 € amortizacije godišnje.",
+        "why": "Lako se planira: unaprijed znaš godišnji trošak svakog sredstva.",
+        "mixup": "Linearno ne znači da sredstvo ravnomjerno gubi tržišnu vrijednost. Novi auto izgubi mnogo više vrijednosti u prvoj nego u petoj godini."
+      }
+    },
+    {
+      "slug": "amortization",
+      "term": "Amortization",
+      "local": "amortizacija nematerijalne imovine",
+      "minutes": 4,
+      "youtube": "jZLnWt-JLik",
+      "youtubeQuery": "amortization of intangible assets explained",
+      "related": ["Depreciation", "EBITDA", "Fixed asset"],
+      "en": {
+        "one": "Amortization is the same idea as depreciation, but for things you cannot touch, like software, licences or patents.",
+        "explain": "If you buy a 3-year software licence for €3,000, you spread the cost over 3 years at €1,000 per year. In English, 'depreciation' is for physical assets and 'amortization' for intangible ones. In Bosnian and Croatian, 'amortizacija' covers both. Careful: in English 'amortization' also means paying off a loan in instalments.",
+        "example": "A company buys a patent for €50,000 that protects its product for 10 years. It records €5,000 amortization a year.",
+        "why": "It is the 'A' in EBITDA, so you need it to read company reports.",
+        "mixup": "In everyday Bosnian/Croatian, 'amortizacija' means both depreciation and amortization. In English they are two separate words."
+      },
+      "bs": {
+        "one": "Amortization (amortizacija nematerijalne imovine) je ista ideja kao amortizacija, ali za stvari koje ne možeš dodirnuti, kao što su softver, licence ili patenti.",
+        "explain": "Ako kupiš licencu za softver na 3 godine za 3.000 €, trošak rasporediš na 3 godine po 1.000 € godišnje. Na engleskom je 'depreciation' za fizička sredstva, a 'amortization' za nematerijalna. Na našem jeziku 'amortizacija' pokriva oboje. Pazi: na engleskom 'amortization' znači i otplatu kredita u ratama.",
+        "example": "Firma kupi patent za 50.000 € koji štiti njen proizvod 10 godina. Bilježi 5.000 € amortizacije godišnje.",
+        "why": "To je slovo 'A' u EBITDA, pa ti treba da čitaš izvještaje firmi.",
+        "mixup": "U svakodnevnom govoru kod nas 'amortizacija' znači i depreciation i amortization. Na engleskom su to dvije riječi."
+      }
+    },
+    {
+      "slug": "book-value",
+      "term": "Book value",
+      "local": "knjigovodstvena (sadašnja) vrijednost",
+      "minutes": 4,
+      "youtube": "1DaZqx1RA1A",
+      "youtubeQuery": "book value of an asset explained",
+      "formula": {
+        "en": "Book value = Cost − Depreciation so far",
+        "bs": "Knjigovodstvena vrijednost = Nabavna vrijednost − Dosadašnja amortizacija"
+      },
+      "related": ["Depreciation", "Fixed asset", "Impairment"],
+      "en": {
+        "one": "Book value is what an asset is worth in the books: what it cost minus all depreciation so far.",
+        "explain": "Each year depreciation lowers the book value until it reaches the leftover value. If you sell the asset for more than its book value, you record a gain; for less, a loss.",
+        "example": "A €30,000 van with €15,000 of depreciation so far has a book value of €15,000. Selling it for €17,000 gives a €2,000 gain.",
+        "why": "It tells you how much of an asset's cost has not been used up yet, and helps you price it if you sell.",
+        "mixup": "Book value is not market value. A building can be worth far more than its book value, and an old laptop far less."
+      },
+      "bs": {
+        "one": "Book value (knjigovodstvena vrijednost) je koliko sredstvo vrijedi u knjigama: nabavna vrijednost minus sva amortizacija do sada.",
+        "explain": "Svake godine amortizacija smanjuje knjigovodstvenu vrijednost dok ne dođe do ostatka vrijednosti. Ako sredstvo prodaš za više od knjigovodstvene vrijednosti, bilježiš dobitak; za manje, gubitak.",
+        "example": "Kombi od 30.000 € sa 15.000 € dosadašnje amortizacije ima knjigovodstvenu vrijednost 15.000 €. Prodaja za 17.000 € daje 2.000 € dobitka.",
+        "why": "Govori ti koliko troška sredstva još nije iskorišteno i pomaže ti odrediti cijenu ako ga prodaješ.",
+        "mixup": "Knjigovodstvena vrijednost nije tržišna. Zgrada može vrijediti mnogo više od knjigovodstvene vrijednosti, a stari laptop mnogo manje."
+      }
+    }
+  ]
+}
