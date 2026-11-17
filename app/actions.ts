@@ -15,8 +15,8 @@ import {
   requireUser,
   startSession,
 } from "@/lib/auth";
-import { allConcepts } from "@/lib/content";
-import { setStatus } from "@/lib/progress";
+import { allConcepts, findTopicById } from "@/lib/content";
+import { saveQuizScore, setStatus } from "@/lib/progress";
 import { dict, getLang } from "@/lib/i18n";
 
 // Used to keep timing similar when the username does not exist.
@@ -124,4 +124,19 @@ export async function saveVideo(_: FormState, form: FormData): Promise<FormState
     .run(id, yt);
   revalidatePath("/", "layout");
   return { ok: t.videoSaved };
+}
+
+export type QuizResult = { score: number; total: number; best?: number; saved: boolean };
+
+/** Scores a quiz on the server from the chosen option indexes. Guests get a score but nothing is saved. */
+export async function submitQuiz(topicId: string, answers: number[]): Promise<QuizResult | null> {
+  const u = await requireUser();
+  const topic = findTopicById(String(topicId));
+  if (!topic?.quiz || !Array.isArray(answers)) return null;
+  const total = topic.quiz.length;
+  const score = topic.quiz.reduce((n, q, i) => n + (Number(answers[i]) === q.answer ? 1 : 0), 0);
+  if (u.role === "guest") return { score, total, saved: false };
+  const s = saveQuizScore(u.id, topicId, score, total);
+  revalidatePath("/", "layout");
+  return { score, total, best: s.best, saved: true };
 }

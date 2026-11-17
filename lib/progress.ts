@@ -90,3 +90,33 @@ export function curriculumStat(map: Map<string, string>, c: Curriculum): Stat {
   }
   return stat(done, started, total);
 }
+
+export interface QuizScore {
+  best: number;
+  total: number;
+  attempts: number;
+}
+
+export function quizScores(userId: number): Map<string, QuizScore> {
+  const rows = db()
+    .prepare("SELECT topic_id, best, total, attempts FROM quiz_scores WHERE user_id = ?")
+    .all(userId) as ({ topic_id: string } & QuizScore)[];
+  return new Map(rows.map((r) => [r.topic_id, { best: r.best, total: r.total, attempts: r.attempts }]));
+}
+
+/** Keeps the best score. If the quiz changed length, the newest total wins and the best resets to this try. */
+export function saveQuizScore(userId: number, topic: string, score: number, total: number): QuizScore {
+  const cur = db()
+    .prepare("SELECT best, total, attempts FROM quiz_scores WHERE user_id = ? AND topic_id = ?")
+    .get(userId, topic) as QuizScore | undefined;
+  const best = cur && cur.total === total ? Math.max(cur.best, score) : score;
+  const attempts = (cur?.attempts ?? 0) + 1;
+  db()
+    .prepare(
+      `INSERT INTO quiz_scores (user_id, topic_id, best, total, attempts) VALUES (?, ?, ?, ?, ?)
+       ON CONFLICT(user_id, topic_id) DO UPDATE SET best = excluded.best, total = excluded.total,
+       attempts = excluded.attempts, updated_at = datetime('now')`
+    )
+    .run(userId, topic, best, total, attempts);
+  return { best, total, attempts };
+}

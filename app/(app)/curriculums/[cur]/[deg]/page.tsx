@@ -1,21 +1,23 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { requireUser } from "@/lib/auth";
-import { conceptId, findDegree, tr } from "@/lib/content";
+import { conceptId, findDegree, topicId, tr } from "@/lib/content";
 import { db } from "@/lib/db";
 import { dict, getLang } from "@/lib/i18n";
-import { progressMap, topicStat } from "@/lib/progress";
+import { progressMap, quizScores, topicStat } from "@/lib/progress";
 import { PageHead, Ring, StatusChip } from "@/components/ui";
 import Icon from "@/components/Icon";
 import Carousel from "@/components/Carousel";
 import ConceptPanel from "@/components/ConceptPanel";
+import QuizPanel from "@/components/QuizPanel";
+import LangToggle from "@/components/LangToggle";
 
 export default async function DegreePage({
   params,
   searchParams,
 }: {
   params: Promise<{ cur: string; deg: string }>;
-  searchParams: Promise<{ topic?: string; concept?: string }>;
+  searchParams: Promise<{ topic?: string; concept?: string; quiz?: string }>;
 }) {
   const { cur, deg } = await params;
   const sp = await searchParams;
@@ -26,6 +28,7 @@ export default async function DegreePage({
   const lang = await getLang();
   const t = dict(lang);
   const map = progressMap(user.id);
+  const scores = quizScores(user.id);
 
   const stats = degree.topics.map((tp) => topicStat(map, cur, deg, tp));
   // Default topic: the first one that is not finished yet.
@@ -35,6 +38,12 @@ export default async function DegreePage({
   const topic = degree.topics[activeIdx];
   const base = `/curriculums/${cur}/${deg}`;
   const topicHref = `${base}?topic=${topic.slug}`;
+
+  const tId = topicId(cur, deg, topic.slug);
+  const quiz = topic.quiz;
+  const quizHref = quiz ? `${topicHref}&quiz=1` : undefined;
+  const quizOpen = !!quiz && sp.quiz === "1" && !sp.concept;
+  const myScore = scores.get(tId);
 
   const cIdx = sp.concept ? topic.concepts.findIndex((k) => k.slug === sp.concept) : -1;
   const open = cIdx >= 0 ? topic.concepts[cIdx] : null;
@@ -89,6 +98,16 @@ export default async function DegreePage({
                   </b>{" "}
                   {t.concepts}
                 </span>
+                {tp.quiz && (
+                  <span className="quiz-mini">
+                    {t.quiz}{" "}
+                    <b>
+                      {scores.get(topicId(cur, deg, tp.slug))
+                        ? `${scores.get(topicId(cur, deg, tp.slug))!.best}/${scores.get(topicId(cur, deg, tp.slug))!.total}`
+                        : "–"}
+                    </b>
+                  </span>
+                )}
               </div>
             </Link>
           );
@@ -119,7 +138,55 @@ export default async function DegreePage({
             </Link>
           );
         })}
+        {quiz && quizHref && (
+          <Link href={quizHref} scroll={false} className="concept quiz-entry">
+            <span className="ck">
+              <Icon name="check" />
+            </span>
+            <span>
+              <b>{t.topicQuiz}</b>
+              <span className="s">
+                {quiz.length} {t.questions}
+                {myScore ? ` · ${t.bestScore} ${myScore.best}/${myScore.total}` : ""}
+              </span>
+            </span>
+          </Link>
+        )}
       </div>
+
+      {quizOpen && quiz && (
+        <QuizPanel
+          key={tId}
+          topicId={tId}
+          topicTitle={tr(topic.title, lang)}
+          closeHref={topicHref}
+          items={quiz.map((q) => ({
+            q: tr(q.q, lang),
+            options: q.options.map((o) => tr(o, lang)),
+            answer: q.answer,
+            explain: q.explain ? tr(q.explain, lang) : "",
+          }))}
+          labels={{
+            quiz: t.quiz,
+            question: t.question,
+            of: t.of,
+            correct: t.correct,
+            wrong: t.wrong,
+            nextQuestion: t.nextQuestion,
+            seeResult: t.seeResult,
+            youGot: t.youGot,
+            quizPerfect: t.quizPerfect,
+            quizGood: t.quizGood,
+            quizLow: t.quizLow,
+            tryAgain: t.tryAgain,
+            backToTopic: t.backToTopic,
+            close: t.close,
+            bestScore: t.bestScore,
+            notSavedGuest: t.notSavedGuest,
+          }}
+          langToggle={<LangToggle lang={lang} />}
+        />
+      )}
 
       {open && (
         <ConceptPanel
@@ -134,6 +201,7 @@ export default async function DegreePage({
           closeHref={topicHref}
           prevHref={cIdx > 0 ? `${topicHref}&concept=${topic.concepts[cIdx - 1].slug}` : undefined}
           nextHref={cIdx < topic.concepts.length - 1 ? `${topicHref}&concept=${topic.concepts[cIdx + 1].slug}` : undefined}
+          quizHref={quizHref}
           videoId={videoId}
           readOnly={user.role === "guest"}
           isAdmin={user.role === "admin"}
