@@ -1,0 +1,99 @@
+{
+  "slug": "budgeting",
+  "title": { "en": "Budgeting & forecasting", "bs": "Budžet i prognoze" },
+  "summary": {
+    "en": "Planning your money ahead, and checking how reality compares to the plan.",
+    "bs": "Planiranje novca unaprijed i provjera koliko se stvarnost slaže s planom."
+  },
+  "concepts": [
+    {
+      "slug": "budget",
+      "term": "Budget",
+      "local": "budžet",
+      "minutes": 5,
+      "youtubeQuery": "how to make a business budget explained simply",
+      "related": ["Forecast", "Variance", "Income & expenses"],
+      "en": {
+        "one": "A budget is a plan for how much money you expect to earn and spend.",
+        "explain": "You write down expected income and every expected cost, usually month by month for a year. It turns goals into numbers and sets limits before the money is spent.",
+        "example": "A small online shop plans €5,000 sales per month, €2,000 for products, €500 for ads, €300 for software and €1,200 for wages. It plans to keep €1,000 a month.",
+        "why": "Without a budget, spending decisions are guesses. With one, you can say no to things that do not fit the plan.",
+        "mixup": "A budget is not a prediction that must come true. It is a plan you compare against."
+      },
+      "bs": {
+        "one": "Budget (budžet) je plan koliko novca očekuješ zaraditi i potrošiti.",
+        "explain": "Zapišeš očekivane prihode i svaki očekivani trošak, obično mjesec po mjesec za godinu dana. Pretvara ciljeve u brojeve i postavlja granice prije nego što se novac potroši.",
+        "example": "Mala online prodavnica planira 5.000 € prodaje mjesečno, 2.000 € za robu, 500 € za reklame, 300 € za softver i 1.200 € za plate. Planira zadržati 1.000 € mjesečno.",
+        "why": "Bez budžeta, odluke o trošenju su nagađanje. S budžetom možeš reći ne stvarima koje se ne uklapaju u plan.",
+        "mixup": "Budžet nije predviđanje koje se mora ostvariti. To je plan s kojim se porediš."
+      }
+    },
+    {
+      "slug": "fixed-variable-costs",
+      "term": "Fixed vs. variable costs",
+      "local": "fiksni i varijabilni troškovi",
+      "minutes": 5,
+      "youtubeQuery": "fixed vs variable costs explained simply",
+      "related": ["Cost", "Break-even", "Budget"],
+      "en": {
+        "one": "Fixed costs stay the same no matter how much you sell. Variable costs go up and down with sales.",
+        "explain": "Rent, insurance and software subscriptions are usually fixed. Materials, packaging and delivery are variable, because every extra sale needs more of them.",
+        "example": "A pizza place pays €2,000 rent whether it sells 10 or 1,000 pizzas (fixed). Each pizza needs €2 of ingredients (variable).",
+        "why": "Knowing which costs are which tells you how risky a slow month is, and how much profit each extra sale brings.",
+        "mixup": "Fixed does not mean forever. Rent can change next year. It is fixed only in the short term."
+      },
+      "bs": {
+        "one": "Fiksni troškovi ostaju isti bez obzira koliko prodaš. Varijabilni troškovi rastu i padaju s prodajom.",
+        "explain": "Kirija, osiguranje i pretplate na softver su obično fiksni. Materijal, ambalaža i dostava su varijabilni, jer svaka dodatna prodaja traži više toga.",
+        "example": "Picerija plaća 2.000 € kirije bez obzira da li proda 10 ili 1.000 pica (fiksno). Svaka pica traži 2 € sastojaka (varijabilno).",
+        "why": "Kad znaš koji su troškovi koji, znaš koliko je slab mjesec rizičan i koliko dobiti donosi svaka dodatna prodaja.",
+        "mixup": "Fiksno ne znači zauvijek. Kirija se iduće godine može promijeniti. Fiksna je samo kratkoročno."
+      }
+    },
+    {
+      "slug": "forecast",
+      "term": "Forecast",
+      "local": "prognoza",
+      "minutes": 5,
+      "youtubeQuery": "financial forecast vs budget explained simply",
+      "related": ["Budget", "Variance", "Cash flow"],
+      "en": {
+        "one": "A forecast is your best guess of what will actually happen, updated as you learn more.",
+        "explain": "The budget is set at the start of the year. A forecast changes every month or quarter, using real results so far. It answers: given what we know now, where will we end up?",
+        "example": "The shop budgeted €60,000 sales for the year. After a strong spring, the forecast is updated to €68,000.",
+        "why": "Forecasts help you spot cash problems early and decide when to hire, buy stock or slow down.",
+        "mixup": "A forecast is not the same as a budget. The budget is the target. The forecast is the expected reality."
+      },
+      "bs": {
+        "one": "Forecast (prognoza) je tvoja najbolja procjena onoga što će se stvarno desiti, koju ažuriraš kako saznaješ više.",
+        "explain": "Budžet se postavi na početku godine. Prognoza se mijenja svaki mjesec ili kvartal, na osnovu stvarnih rezultata do tada. Odgovara na pitanje: s obzirom na ono što sada znamo, gdje ćemo završiti?",
+        "example": "Prodavnica je budžetirala 60.000 € prodaje za godinu. Nakon jakog proljeća, prognoza se ažurira na 68.000 €.",
+        "why": "Prognoze ti pomažu da rano uočiš probleme s novcem i odlučiš kad zaposliti, kupiti robu ili usporiti.",
+        "mixup": "Prognoza nije isto što i budžet. Budžet je cilj. Prognoza je očekivana stvarnost."
+      }
+    },
+    {
+      "slug": "variance",
+      "term": "Variance",
+      "local": "odstupanje",
+      "minutes": 4,
+      "youtubeQuery": "budget variance explained simply",
+      "formula": { "en": "Variance = Actual − Budget", "bs": "Odstupanje = Stvarno − Budžet" },
+      "related": ["Budget", "Forecast"],
+      "en": {
+        "one": "Variance is the difference between what you planned and what really happened.",
+        "explain": "If you earn more or spend less than planned, the variance is good (favourable). If you earn less or spend more, it is bad (unfavourable). The point is to ask why.",
+        "example": "You budgeted €500 for ads but spent €700. The variance is €200 unfavourable. Maybe ads got more expensive, or maybe they brought more sales.",
+        "why": "Variances show where the plan was wrong, so next month's decisions get better.",
+        "mixup": "A bad variance is not always a mistake. Spending more on something that works can be the right call."
+      },
+      "bs": {
+        "one": "Variance (odstupanje) je razlika između onoga što si planirao i onoga što se stvarno desilo.",
+        "explain": "Ako zaradiš više ili potrošiš manje od plana, odstupanje je dobro (povoljno). Ako zaradiš manje ili potrošiš više, loše je (nepovoljno). Poenta je pitati zašto.",
+        "example": "Budžetirao si 500 € za reklame, a potrošio 700 €. Odstupanje je 200 € nepovoljno. Možda su reklame poskupile, a možda su donijele više prodaje.",
+        "why": "Odstupanja pokazuju gdje je plan bio pogrešan, pa odluke idućeg mjeseca budu bolje.",
+        "mixup": "Loše odstupanje nije uvijek greška. Potrošiti više na nešto što radi može biti prava odluka."
+      }
+    }
+  ]
+}

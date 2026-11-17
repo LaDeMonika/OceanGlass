@@ -1,0 +1,104 @@
+{
+  "slug": "everyday-terms",
+  "title": { "en": "Everyday business terms", "bs": "Svakodnevni poslovni pojmovi" },
+  "summary": {
+    "en": "The four words you will hear in almost every business conversation.",
+    "bs": "Četiri riječi koje ćeš čuti u skoro svakom poslovnom razgovoru."
+  },
+  "concepts": [
+    {
+      "slug": "revenue",
+      "term": "Revenue",
+      "local": "prihod (od prodaje)",
+      "minutes": 4,
+      "youtubeQuery": "what is revenue in business explained simply",
+      "formula": { "en": "Revenue = Price × Units sold", "bs": "Prihod = Cijena × Prodane količine" },
+      "related": ["Cost", "Profit", "Margin"],
+      "en": {
+        "one": "Revenue is all the money a business gets from selling, before paying any costs.",
+        "explain": "People also call it sales or turnover. It is the top line: the first number you look at. Nothing has been taken away from it yet.",
+        "example": "A café sells 1,000 coffees at €2 each in a month. Its revenue is €2,000.",
+        "why": "Revenue shows how much customers want what you sell. But high revenue alone does not mean the business is doing well.",
+        "mixup": "Revenue is not profit. A business can have huge revenue and still lose money if costs are even bigger."
+      },
+      "bs": {
+        "one": "Revenue (prihod) je sav novac koji firma dobije od prodaje, prije nego plati ikakve troškove.",
+        "explain": "Zove se još i promet ili prodaja. To je prva linija: prvi broj koji gledaš. Od njega još ništa nije oduzeto.",
+        "example": "Kafić u mjesecu proda 1.000 kafa po 2 €. Njegov prihod je 2.000 €.",
+        "why": "Prihod pokazuje koliko kupci žele ono što prodaješ. Ali sam veliki prihod ne znači da firma dobro posluje.",
+        "mixup": "Prihod nije dobit. Firma može imati ogroman prihod i svejedno gubiti novac ako su troškovi još veći."
+      }
+    },
+    {
+      "slug": "cost",
+      "term": "Cost",
+      "local": "trošak",
+      "minutes": 4,
+      "youtubeQuery": "business costs explained simply",
+      "related": ["Revenue", "Fixed vs. variable costs", "Margin"],
+      "en": {
+        "one": "A cost is money a business spends to make and sell its product.",
+        "explain": "Costs include materials, rent, wages, electricity, marketing and more. Some costs come with every sale, like coffee beans. Others stay the same every month, like rent.",
+        "example": "For each €2 coffee, the café spends €0.50 on beans, milk and a cup. On top of that it pays €800 rent each month.",
+        "why": "You can only make money if you know your costs. Many businesses fail because they guess costs instead of counting them.",
+        "mixup": "A cost is not always a bad thing. Spending on a good ad can bring in much more revenue."
+      },
+      "bs": {
+        "one": "Cost (trošak) je novac koji firma potroši da napravi i proda svoj proizvod.",
+        "explain": "Troškovi su materijal, kirija, plate, struja, reklama i drugo. Neki troškovi dolaze sa svakom prodajom, npr. kafa u zrnu. Drugi su isti svaki mjesec, npr. kirija.",
+        "example": "Za svaku kafu od 2 € kafić potroši 0,50 € na kafu, mlijeko i čašu. Uz to plaća 800 € kirije mjesečno.",
+        "why": "Možeš zarađivati samo ako znaš svoje troškove. Mnoge firme propadnu jer troškove nagađaju umjesto da ih broje.",
+        "mixup": "Trošak nije uvijek loš. Novac potrošen na dobru reklamu može donijeti mnogo veći prihod."
+      }
+    },
+    {
+      "slug": "margin",
+      "term": "Margin",
+      "local": "marža",
+      "minutes": 5,
+      "youtubeQuery": "profit margin explained simply",
+      "formula": { "en": "Margin % = (Price − Cost) ÷ Price × 100", "bs": "Marža % = (Cijena − Trošak) ÷ Cijena × 100" },
+      "related": ["Revenue", "Cost", "Gross profit"],
+      "en": {
+        "one": "Margin is how much of each sale you keep after paying for what you sold.",
+        "explain": "It is usually shown as a percentage of the price. A high margin means you keep a big part of each sale. A low margin means you need to sell a lot to earn anything.",
+        "example": "You sell a coffee for €2. It costs you €0.50 to make. You keep €1.50, which is a 75% margin.",
+        "why": "Margin tells you how much room you have to pay rent, wages and still make profit.",
+        "mixup": "Margin is not the same as markup. Markup compares profit to the cost (€1.50 ÷ €0.50 = 300%). Margin compares it to the price (75%)."
+      },
+      "bs": {
+        "one": "Margin (marža) je koliko od svake prodaje zadržiš nakon što platiš ono što si prodao.",
+        "explain": "Obično se prikazuje kao postotak od cijene. Visoka marža znači da zadržiš veliki dio svake prodaje. Niska marža znači da moraš puno prodati da bi išta zaradio.",
+        "example": "Prodaješ kafu za 2 €. Tebe košta 0,50 € da je napraviš. Zadržiš 1,50 €, što je marža od 75%.",
+        "why": "Marža ti govori koliko prostora imaš da platiš kiriju, plate i da ti još ostane dobit.",
+        "mixup": "Marža nije isto što i markup (dodatak na cijenu). Markup poredi zaradu s troškom (1,50 € ÷ 0,50 € = 300%). Marža je poredi s cijenom (75%)."
+      }
+    },
+    {
+      "slug": "break-even",
+      "term": "Break-even",
+      "local": "tačka pokrića",
+      "minutes": 6,
+      "youtubeQuery": "break even point explained simply",
+      "formula": {
+        "en": "Break-even units = Fixed costs ÷ (Price − Cost per unit)",
+        "bs": "Količina za pokriće = Fiksni troškovi ÷ (Cijena − Trošak po komadu)"
+      },
+      "related": ["Fixed vs. variable costs", "Margin", "Net profit"],
+      "en": {
+        "one": "Break-even is the point where you have earned exactly enough to cover all your costs.",
+        "explain": "Below break-even you lose money. Above it, every extra sale is profit. It answers the question: how much do I need to sell just to not lose money?",
+        "example": "The café pays €800 rent a month and keeps €1.50 from every coffee. €800 ÷ €1.50 ≈ 534 coffees. Once it sells about 534 coffees, the rent is covered and every coffee after that is profit.",
+        "why": "Before starting anything, knowing your break-even tells you if the idea is realistic.",
+        "mixup": "Breaking even is not success. It only means you are not losing money yet."
+      },
+      "bs": {
+        "one": "Break-even (tačka pokrića) je trenutak kad si zaradio tačno toliko da pokriješ sve troškove.",
+        "explain": "Ispod tačke pokrića gubiš novac. Iznad nje, svaka dodatna prodaja je dobit. Odgovara na pitanje: koliko moram prodati samo da ne bih bio u minusu?",
+        "example": "Kafić plaća 800 € kirije mjesečno i od svake kafe zadrži 1,50 €. 800 € ÷ 1,50 € ≈ 534 kafe. Kad proda oko 534 kafe, kirija je pokrivena, a svaka kafa nakon toga je dobit.",
+        "why": "Prije nego išta pokreneš, tačka pokrića ti govori da li je ideja realna.",
+        "mixup": "Doći do tačke pokrića nije uspjeh. To samo znači da još ne gubiš novac."
+      }
+    }
+  ]
+}

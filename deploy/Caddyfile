@@ -1,0 +1,6 @@
+# Caddy gets a free HTTPS certificate for your domain automatically.
+{$DOMAIN} {
+	encode zstd gzip
+	header Strict-Transport-Security "max-age=31536000; includeSubDomains"
+	reverse_proxy app:3000
+}
