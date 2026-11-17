@@ -16,14 +16,14 @@
       "related": ["Limited liability", "Limited liability company", "Sole trader tax"],
       "en": {
         "one": "A sole trader is one person running a business in their own name. The business and the owner are legally the same.",
-        "explain": "It's the simplest and cheapest form to start: little paperwork, easy accounting. But the owner is personally liable for all business debts, which means your house, car and savings can be at risk if the business can't pay.",
+        "explain": "It's the simplest and cheapest form to start: little paperwork, easy accounting. But the owner is personally liable for all business debts, which means your house, car and savings can be at risk if the business can't pay. EU vs. US: in the US this is a 'sole proprietorship', often run under a trade name (a 'DBA'). Across the EU it has national names, like Einzelunternehmen in Austria and Germany or obrt in Croatia.",
         "example": "A hairdresser registers as an obrt. It's cheap to set up and she keeps the profits, but if she can't repay a business loan, the bank can go after her personal savings.",
         "why": "It's a great way to test an idea or freelance with low risk and low cost.",
         "mixup": "'Small' doesn't automatically mean sole trader is best. If the business takes on debt or big contracts, limited liability may be safer."
       },
       "bs": {
         "one": "Sole trader (samostalni preduzetnik, obrt) je jedna osoba koja vodi posao u svoje ime. Firma i vlasnik su pravno isto.",
-        "explain": "To je najjednostavniji i najjeftiniji oblik za početak: malo papirologije, lako knjigovodstvo. Ali vlasnik lično odgovara za sve dugove firme, što znači da kuća, auto i ušteđevina mogu biti u riziku ako firma ne može platiti.",
+        "explain": "To je najjednostavniji i najjeftiniji oblik za početak: malo papirologije, lako knjigovodstvo. Ali vlasnik lično odgovara za sve dugove firme, što znači da kuća, auto i ušteđevina mogu biti u riziku ako firma ne može platiti. EU i SAD: u SAD-u se zove 'sole proprietorship', često pod trgovačkim imenom ('DBA'). U EU ima nacionalne nazive, npr. Einzelunternehmen u Austriji i Njemačkoj ili obrt u Hrvatskoj.",
         "example": "Frizerka registruje obrt. Jeftino je za otvoriti i ona zadržava dobit, ali ako ne može vratiti poslovni kredit, banka može ići na njenu ličnu ušteđevinu.",
         "why": "Odličan je način da se testira ideja ili radi kao frilenser uz mali rizik i mali trošak.",
         "mixup": "'Mali posao' ne znači automatski da je obrt najbolji. Ako se firma zadužuje ili ima velike ugovore, ograničena odgovornost može biti sigurnija."
@@ -40,14 +40,14 @@
       "en": {
         "one": "Limited liability means the owners can only lose what they put into the company, not their personal belongings.",
         "explain": "The company is a separate 'legal person': it owns things, signs contracts and has its own debts. If it goes bust, creditors can take the company's assets but usually not the owners' houses or savings.",
-        "example": "Two friends put 10,000 KM into a d.o.o. It fails owing 50,000 KM. They lose their 10,000 KM, but the remaining debt isn't theirs personally.",
+        "example": "Two friends put €10,000 into a d.o.o. It fails owing €50,000. They lose their €10,000, but the remaining debt isn't theirs personally.",
         "why": "It lets people take business risks without risking their whole life, which is why most growing firms use it.",
         "mixup": "It isn't total protection. If owners sign personal guarantees for loans or commit fraud, they can still be personally liable."
       },
       "bs": {
         "one": "Limited liability (ograničena odgovornost) znači da vlasnici mogu izgubiti samo ono što su uložili u firmu, a ne svoju ličnu imovinu.",
         "explain": "Firma je posebno 'pravno lice': posjeduje stvari, potpisuje ugovore i ima svoje dugove. Ako propadne, povjerioci mogu uzeti imovinu firme, ali obično ne kuće ili ušteđevinu vlasnika.",
-        "example": "Dvoje prijatelja uloži 10.000 KM u d.o.o. Firma propadne s dugom od 50.000 KM. Izgube svojih 10.000 KM, ali ostatak duga nije njihov lični.",
+        "example": "Dvoje prijatelja uloži 10.000 € u d.o.o. Firma propadne s dugom od 50.000 €. Izgube svojih 10.000 €, ali ostatak duga nije njihov lični.",
         "why": "Omogućava ljudima da preuzmu poslovni rizik bez rizikovanja cijelog života, zato je koristi većina firmi koje rastu.",
         "mixup": "Nije potpuna zaštita. Ako vlasnici potpišu lične garancije za kredite ili počine prevaru, i dalje mogu lično odgovarati."
       }
@@ -62,14 +62,14 @@
       "related": ["Limited liability", "Sole trader", "Joint-stock company"],
       "en": {
         "one": "An LLC (d.o.o., GmbH, Ltd) is the most common company form for small and medium businesses.",
-        "explain": "It's owned by one or more members, has limited liability, and needs a founding act, a small starting capital, registration in the court register and a director. It keeps double-entry books and pays profit tax; owners get money through salary or dividends.",
+        "explain": "It's owned by one or more members, has limited liability, and needs a founding act, a small starting capital, registration in the court register and a director. It keeps double-entry books and pays profit tax; owners get money through salary or dividends. EU vs. US: EU versions include the GmbH (Austria, Germany), SARL (France) and d.o.o. (Croatia, Slovenia), usually with a minimum capital. A US LLC is registered with one state (often your own, or Delaware), needs no minimum capital, and by default its profit is taxed on the owners' personal returns.",
         "example": "A web agency with three partners registers as a d.o.o. Each owns a share, one is the director, and the company signs all client contracts.",
         "why": "It combines protection for the owners with a professional image for banks and big clients.",
         "mixup": "The company's money isn't the owner's money. Taking cash out without a proper salary, dividend or loan agreement can cause tax and legal trouble."
       },
       "bs": {
         "one": "LLC (društvo s ograničenom odgovornošću, d.o.o.) je najčešći oblik firme za mala i srednja preduzeća.",
-        "explain": "Posjeduje ga jedan ili više članova, ima ograničenu odgovornost i traži osnivački akt, mali početni kapital, upis u sudski registar i direktora. Vodi dvojno knjigovodstvo i plaća porez na dobit; vlasnici dobijaju novac kroz platu ili dividendu.",
+        "explain": "Posjeduje ga jedan ili više članova, ima ograničenu odgovornost i traži osnivački akt, mali početni kapital, upis u sudski registar i direktora. Vodi dvojno knjigovodstvo i plaća porez na dobit; vlasnici dobijaju novac kroz platu ili dividendu. EU i SAD: verzije u EU su GmbH (Austrija, Njemačka), SARL (Francuska) i d.o.o. (Hrvatska, Slovenija), obično s minimalnim kapitalom. Američki LLC se registruje u jednoj saveznoj državi (često svojoj ili Delawareu), ne traži minimalni kapital, a dobit se po pravilu oporezuje na ličnim prijavama vlasnika.",
         "example": "Web agencija s tri partnera registruje se kao d.o.o. Svako ima udio, jedan je direktor, a firma potpisuje sve ugovore s klijentima.",
         "why": "Spaja zaštitu vlasnika s profesionalnim imidžom pred bankama i velikim klijentima.",
         "mixup": "Novac firme nije novac vlasnika. Podizanje gotovine bez prave plate, dividende ili ugovora o zajmu može izazvati porezne i pravne probleme."
@@ -85,15 +85,15 @@
       "related": ["Limited liability company", "Stocks and bonds", "Corporate governance"],
       "en": {
         "one": "A joint-stock company (d.d., AG, plc) divides its ownership into shares that can be sold to many investors, sometimes on a stock exchange.",
-        "explain": "It needs more starting capital and stricter rules: a supervisory board, audited accounts and public reporting. In return, it can raise large amounts of money from many shareholders.",
-        "example": "A big telecom or a bank is usually a d.d. Its shares are traded on the Sarajevo or Banja Luka stock exchange.",
+        "explain": "It needs more starting capital and stricter rules: a supervisory board, audited accounts and public reporting. In return, it can raise large amounts of money from many shareholders. EU vs. US: in the EU it's the AG (Austria, Germany), SA (France, Spain) or d.d.; listed ones trade on exchanges like Vienna or Frankfurt. In the US the equivalent is a corporation ('Inc.'), and big ones list on the NYSE or Nasdaq.",
+        "example": "A big telecom or bank is usually a public company: an AG in Austria, or an Inc. in the US. Its shares trade on the Vienna stock exchange or the NYSE.",
         "why": "It's the form that lets companies grow very large by pooling money from thousands of owners.",
         "mixup": "Most start-ups don't need it. It's expensive to run, and an LLC can also take in investors."
       },
       "bs": {
         "one": "Joint-stock company (dioničko društvo, d.d.) dijeli vlasništvo na dionice koje se mogu prodati mnogim investitorima, ponekad na berzi.",
-        "explain": "Traži više početnog kapitala i strožija pravila: nadzorni odbor, revidirane izvještaje i javno izvještavanje. Zauzvrat, može prikupiti velike iznose od mnogo dioničara.",
-        "example": "Veliki telekom ili banka su obično d.d. Njihovim dionicama se trguje na Sarajevskoj ili Banjalučkoj berzi.",
+        "explain": "Traži više početnog kapitala i strožija pravila: nadzorni odbor, revidirane izvještaje i javno izvještavanje. Zauzvrat, može prikupiti velike iznose od mnogo dioničara. EU i SAD: u EU je to AG (Austrija, Njemačka), SA (Francuska, Španija) ili d.d.; kotirane se trguju na berzama kao Beč ili Frankfurt. U SAD-u je ekvivalent korporacija ('Inc.'), a velike kotiraju na NYSE ili Nasdaqu.",
+        "example": "Veliki telekom ili banka su obično dioničko društvo: AG u Austriji ili Inc. u SAD-u. Dionicama se trguje na Bečkoj berzi ili NYSE.",
         "why": "To je oblik koji firmama omogućava da postanu vrlo velike udruživanjem novca hiljada vlasnika.",
         "mixup": "Većini start-upa ne treba. Skup je za vođenje, a i d.o.o. može primiti investitore."
       }
@@ -131,15 +131,15 @@
       "related": ["Limited liability company", "Sole trader", "Tax ID"],
       "en": {
         "one": "Registering a business makes it legally exist, so it can sign contracts, open a bank account, invoice and pay taxes.",
-        "explain": "Typical steps: choose the legal form and name, prepare founding documents, pay in the starting capital if needed, register with the court or municipality, get a tax number (and VAT number if required), open a bank account, and register employees for social insurance. In BiH the steps differ between FBiH, RS and Brčko.",
-        "example": "A new d.o.o. in Sarajevo goes through notary, court register, tax administration and bank before it can send its first invoice.",
+        "explain": "Typical steps: choose the legal form and name, prepare founding documents, pay in the starting capital if needed, register with the court or municipality, get a tax number (and VAT number if required), open a bank account, and register employees for social insurance. In the EU, each country has its own business register, and many now allow registration online. In the US, you register with a state (the Secretary of State), get a federal tax number (EIN) from the IRS, and add any state or city licences.",
+        "example": "A new GmbH in Austria goes through a notary, the company register, the tax office and a bank before it can send its first invoice. A US LLC can often be formed online with the state in a day, then gets its EIN.",
         "why": "Working without registering can bring fines and leaves you without legal protection.",
         "mixup": "Registration isn't the last step. Some activities also need a permit or licence, like food, health or transport."
       },
       "bs": {
         "one": "Registracija firme je čini pravno postojećom, pa može potpisivati ugovore, otvoriti račun, izdavati fakture i plaćati porez.",
-        "explain": "Tipični koraci: izaberi pravni oblik i naziv, pripremi osnivačke dokumente, uplati početni kapital ako je potreban, registruj se na sudu ili u općini, dobij porezni broj (i PDV broj ako treba), otvori račun u banci i prijavi radnike na socijalno osiguranje. U BiH se koraci razlikuju između FBiH, RS i Brčkog.",
-        "example": "Novi d.o.o. u Sarajevu prolazi kroz notara, sudski registar, poreznu upravu i banku prije nego može poslati prvu fakturu.",
+        "explain": "Tipični koraci: izaberi pravni oblik i naziv, pripremi osnivačke dokumente, uplati početni kapital ako je potreban, registruj se na sudu ili u općini, dobij porezni broj (i PDV broj ako treba), otvori račun u banci i prijavi radnike na socijalno osiguranje. U EU svaka zemlja ima svoj registar firmi, a mnoge sada dozvoljavaju online registraciju. U SAD-u se registruješ u saveznoj državi (Secretary of State), dobiješ savezni porezni broj (EIN) od IRS-a i dodaš potrebne državne ili gradske licence.",
+        "example": "Novi GmbH u Austriji prolazi kroz notara, registar firmi, poreznu upravu i banku prije nego može poslati prvu fakturu. Američki LLC se često može osnovati online u saveznoj državi za jedan dan, a onda dobije EIN.",
         "why": "Rad bez registracije može donijeti kazne i ostavlja te bez pravne zaštite.",
         "mixup": "Registracija nije zadnji korak. Neke djelatnosti traže i dozvolu ili licencu, npr. hrana, zdravstvo ili prevoz."
       }
@@ -148,8 +148,8 @@
   "quiz": [
     {
       "q": {
-        "en": "An LLC with 10,000 KM of capital fails owing 50,000 KM. Who pays the remaining debt?",
-        "bs": "D.o.o. s kapitalom od 10.000 KM propadne s dugom od 50.000 KM. Ko plaća ostatak duga?"
+        "en": "An LLC with €10,000 of capital fails owing €50,000. Who pays the remaining debt?",
+        "bs": "D.o.o. s kapitalom od 10.000 € propadne s dugom od 50.000 €. Ko plaća ostatak duga?"
       },
       "options": [
         {

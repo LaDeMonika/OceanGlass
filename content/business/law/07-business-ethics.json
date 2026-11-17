@@ -63,14 +63,14 @@
       "en": {
         "one": "A code of conduct is a written set of rules and values that tells everyone in a company how to behave.",
         "explain": "It usually covers honesty, gifts and bribes, conflicts of interest, respect and harassment, data and confidentiality, and how to report problems. A good code is short, uses real examples and is backed by leaders who follow it themselves.",
-        "example": "A company's code says staff may accept gifts worth up to 50 KM and must register anything above that. Everyone knows the rule, so awkward situations are easy to handle.",
+        "example": "A company's code says staff may accept gifts worth up to €50 and must register anything above that. Everyone knows the rule, so awkward situations are easy to handle.",
         "why": "It turns values into clear everyday rules and gives people something to point to when under pressure.",
         "mixup": "A code nobody reads or that leaders ignore is worse than none. It teaches people the rules don't matter."
       },
       "bs": {
         "one": "Code of conduct (kodeks ponašanja) je pisani skup pravila i vrijednosti koji svima u firmi kaže kako se ponašati.",
         "explain": "Obično pokriva iskrenost, poklone i mito, sukob interesa, poštovanje i uznemiravanje, podatke i povjerljivost, te kako prijaviti probleme. Dobar kodeks je kratak, koristi stvarne primjere, a podržavaju ga lideri koji ga i sami poštuju.",
-        "example": "Kodeks firme kaže da radnici smiju primiti poklone do 50 KM, a sve preko toga moraju evidentirati. Svi znaju pravilo, pa se nezgodne situacije lako rješavaju.",
+        "example": "Kodeks firme kaže da radnici smiju primiti poklone do 50 €, a sve preko toga moraju evidentirati. Svi znaju pravilo, pa se nezgodne situacije lako rješavaju.",
         "why": "Pretvara vrijednosti u jasna svakodnevna pravila i daje ljudima nešto na šta se mogu pozvati pod pritiskom.",
         "mixup": "Kodeks koji niko ne čita ili koji lideri ignorišu je gori nego nikakav. Uči ljude da pravila nisu bitna."
       }
@@ -85,14 +85,14 @@
       "related": ["Code of conduct", "Psychological safety", "Business ethics"],
       "en": {
         "one": "Whistleblowing is when someone reports wrongdoing inside an organisation, like fraud, safety risks or corruption.",
-        "explain": "Good companies offer a safe, confidential (often anonymous) way to report, take reports seriously and protect the reporter. In the EU, companies with 50+ employees must have an internal reporting channel, and whistleblowers are protected from retaliation by law.",
+        "explain": "Good companies offer a safe, confidential (often anonymous) way to report, take reports seriously and protect the reporter. In the EU, companies with 50+ employees must have an internal reporting channel, and whistleblowers are protected from retaliation by law. EU vs. US: the US protects whistleblowers mainly through specific laws, such as Sarbanes-Oxley for listed companies, and the SEC can pay whistleblowers 10–30% of large fines collected thanks to their tip.",
         "example": "An accountant notices invoices from a supplier that doesn't seem to exist. She reports it through the company's confidential channel, and an investigation uncovers fraud.",
         "why": "Most fraud is uncovered by tips from insiders. Listening early is far cheaper than finding out from the press.",
         "mixup": "Punishing or isolating the person who reports is illegal in many countries and kills any culture of honesty."
       },
       "bs": {
         "one": "Whistleblowing (prijavljivanje nepravilnosti) je kad neko prijavi nezakonito ili pogrešno ponašanje unutar organizacije, npr. prevaru, sigurnosne rizike ili korupciju.",
-        "explain": "Dobre firme nude siguran, povjerljiv (često anoniman) način prijave, ozbiljno shvataju prijave i štite osobu koja prijavljuje. U EU firme s više od 50 radnika moraju imati interni kanal za prijave, a zviždači su zakonom zaštićeni od odmazde.",
+        "explain": "Dobre firme nude siguran, povjerljiv (često anoniman) način prijave, ozbiljno shvataju prijave i štite osobu koja prijavljuje. U EU firme s više od 50 radnika moraju imati interni kanal za prijave, a zviždači su zakonom zaštićeni od odmazde. EU i SAD: SAD štiti uzbunjivače uglavnom kroz posebne zakone, kao Sarbanes-Oxley za firme na berzi, a SEC može uzbunjivačima isplatiti 10–30% velikih kazni naplaćenih zahvaljujući njihovoj dojavi.",
         "example": "Računovođa primijeti fakture dobavljača koji kao da ne postoji. Prijavi to kroz povjerljivi kanal firme i istraga otkrije prevaru.",
         "why": "Većina prevara se otkrije zahvaljujući dojavama iznutra. Rano slušanje je mnogo jeftinije nego saznati iz medija.",
         "mixup": "Kažnjavanje ili izolovanje osobe koja prijavi je u mnogim zemljama nezakonito i ubija svaku kulturu iskrenosti."

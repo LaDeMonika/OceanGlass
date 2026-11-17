@@ -16,14 +16,14 @@
       "related": ["GDPR and data privacy", "Cookie consent", "Terms and conditions"],
       "en": {
         "one": "A privacy policy is a public notice that tells people what personal data you collect, why, how long you keep it, who you share it with and what their rights are.",
-        "explain": "Under GDPR, you must give this information when you collect data, in plain language. It should match what you really do. A copied template that mentions things you don't do, or misses things you do, can cause problems.",
+        "explain": "Under GDPR, you must give this information when you collect data, in plain language. It should match what you really do. A copied template that mentions things you don't do, or misses things you do, can cause problems. EU vs. US: the US has no single privacy law like GDPR. State laws such as California's CCPA give people rights to know, delete and opt out of the sale of their data, and California requires a privacy policy on any site that collects personal data.",
         "example": "A gym's website collects names, emails and health info for trial sessions. Its privacy policy explains this, says data is deleted after 12 months and how to ask for deletion.",
         "why": "It's a legal duty and it builds trust, because people want to know what happens to their data.",
         "mixup": "A privacy policy doesn't give you permission to do anything you like. You still need a legal reason to process the data."
       },
       "bs": {
         "one": "Privacy policy (politika privatnosti) je javno obavještenje koje ljudima kaže koje lične podatke prikupljaš, zašto, koliko dugo ih čuvaš, s kim ih dijeliš i koja su njihova prava.",
-        "explain": "Prema GDPR-u moraš dati ove informacije kad prikupljaš podatke, jednostavnim jezikom. Treba odgovarati onome što stvarno radiš. Kopiran šablon koji spominje stvari koje ne radiš, ili izostavi ono što radiš, može napraviti probleme.",
+        "explain": "Prema GDPR-u moraš dati ove informacije kad prikupljaš podatke, jednostavnim jezikom. Treba odgovarati onome što stvarno radiš. Kopiran šablon koji spominje stvari koje ne radiš, ili izostavi ono što radiš, može napraviti probleme. EU i SAD: SAD nema jedan zakon o privatnosti kao GDPR. Zakoni država, npr. kalifornijski CCPA, daju ljudima pravo da znaju, obrišu i odbiju prodaju svojih podataka, a Kalifornija traži politiku privatnosti na svakoj stranici koja prikuplja lične podatke.",
         "example": "Web stranica teretane prikuplja imena, emailove i zdravstvene informacije za probne treninge. Politika privatnosti to objašnjava, kaže da se podaci brišu nakon 12 mjeseci i kako tražiti brisanje.",
         "why": "To je zakonska obaveza i gradi povjerenje, jer ljudi žele znati šta se dešava s njihovim podacima.",
         "mixup": "Politika privatnosti ti ne daje dozvolu da radiš šta hoćeš. I dalje ti treba zakonski osnov za obradu podataka."
@@ -39,14 +39,14 @@
       "related": ["Privacy policy", "GDPR and data privacy", "Paid ads"],
       "en": {
         "one": "Cookies are small files websites store in a browser. In the EU, you need the visitor's consent before using non-essential ones, like for ads or analytics.",
-        "explain": "Essential cookies (login, shopping cart) don't need consent. Tracking and advertising cookies do. The banner must make 'Reject' as easy as 'Accept', and you can't load tracking cookies before the visitor chooses.",
+        "explain": "Essential cookies (login, shopping cart) don't need consent. Tracking and advertising cookies do. The banner must make 'Reject' as easy as 'Accept', and you can't load tracking cookies before the visitor chooses. EU vs. US: the US generally doesn't require consent before cookies. Instead, laws like California's let visitors opt out, for example through a 'Do Not Sell or Share My Personal Information' link.",
         "example": "A webshop's banner has a big 'Accept all' button and the reject option hidden in settings. Regulators have fined companies for exactly this design.",
         "why": "It's required in the EU, and it affects how much data you can use for ads and analytics.",
         "mixup": "Saying 'by using this site you accept cookies' isn't valid consent under EU rules."
       },
       "bs": {
         "one": "Kolačići (cookies) su mali fajlovi koje web stranice čuvaju u pregledniku. U EU ti treba pristanak posjetioca prije korištenja onih koji nisu neophodni, npr. za oglase ili analitiku.",
-        "explain": "Neophodni kolačići (prijava, korpa) ne trebaju pristanak. Kolačići za praćenje i oglašavanje trebaju. Baner mora učiniti 'Odbij' jednako lakim kao 'Prihvati', i ne smiješ učitati kolačiće za praćenje prije nego posjetilac izabere.",
+        "explain": "Neophodni kolačići (prijava, korpa) ne trebaju pristanak. Kolačići za praćenje i oglašavanje trebaju. Baner mora učiniti 'Odbij' jednako lakim kao 'Prihvati', i ne smiješ učitati kolačiće za praćenje prije nego posjetilac izabere. EU i SAD: SAD uglavnom ne traži pristanak prije kolačića. Umjesto toga, zakoni kao kalifornijski daju posjetiocima pravo da odbiju, npr. preko linka 'Do Not Sell or Share My Personal Information'.",
         "example": "Baner webshopa ima veliko dugme 'Prihvati sve', a opciju odbijanja skrivenu u postavkama. Regulatori su kažnjavali firme baš za ovakav dizajn.",
         "why": "Obavezno je u EU i utiče na to koliko podataka možeš koristiti za oglase i analitiku.",
         "mixup": "Rečenica 'korištenjem stranice prihvatate kolačiće' nije valjan pristanak po pravilima EU."
@@ -62,14 +62,14 @@
       "related": ["GDPR and data privacy", "Cybersecurity basics", "Crisis management"],
       "en": {
         "one": "A data breach is when personal data is lost, stolen, leaked or accessed by someone who shouldn't see it.",
-        "explain": "It can be a hack, a lost laptop, or an email sent to the wrong people. Under GDPR, if there's a risk to people, you must report it to the data protection authority within 72 hours, and in serious cases also tell the affected people.",
+        "explain": "It can be a hack, a lost laptop, or an email sent to the wrong people. Under GDPR, if there's a risk to people, you must report it to the data protection authority within 72 hours, and in serious cases also tell the affected people. EU vs. US: every US state has its own breach-notification law, with different deadlines and rules. Listed US companies must also publicly report a material cyber incident to the SEC within 4 business days.",
         "example": "An employee sends a spreadsheet with all customers' addresses and phone numbers to the wrong client. That's a breach, and it must be assessed and documented.",
         "why": "A fast, honest response limits harm, fines and damage to your reputation.",
         "mixup": "A breach isn't only hacking. Most breaches come from human mistakes like wrong emails or weak passwords."
       },
       "bs": {
         "one": "Data breach (povreda podataka) je kad se lični podaci izgube, ukradu, procure ili im pristupi neko ko ih ne bi smio vidjeti.",
-        "explain": "Može biti hakerski napad, izgubljen laptop ili email poslan pogrešnim ljudima. Prema GDPR-u, ako postoji rizik za ljude, moraš to prijaviti nadzornom tijelu u roku od 72 sata, a u ozbiljnim slučajevima obavijestiti i pogođene osobe.",
+        "explain": "Može biti hakerski napad, izgubljen laptop ili email poslan pogrešnim ljudima. Prema GDPR-u, ako postoji rizik za ljude, moraš to prijaviti nadzornom tijelu u roku od 72 sata, a u ozbiljnim slučajevima obavijestiti i pogođene osobe. EU i SAD: svaka američka država ima vlastiti zakon o prijavi povrede podataka, s različitim rokovima i pravilima. Američke firme na berzi moraju i javno prijaviti značajan sajber incident SEC-u u roku od 4 radna dana.",
         "example": "Radnik pošalje tabelu s adresama i brojevima telefona svih kupaca pogrešnom klijentu. To je povreda podataka i mora se procijeniti i dokumentovati.",
         "why": "Brza i iskrena reakcija smanjuje štetu, kazne i narušavanje ugleda.",
         "mixup": "Povreda podataka nije samo hakiranje. Većina dolazi od ljudskih grešaka poput pogrešnih emailova ili slabih lozinki."
@@ -86,14 +86,14 @@
       "en": {
         "one": "Cybersecurity is protecting your systems, data and money from online attacks.",
         "explain": "Small businesses are frequent targets because they're less protected. The basics stop most attacks: two-factor login, strong unique passwords with a password manager, regular updates, backups kept separately, and training staff to spot phishing emails.",
-        "example": "A bookkeeper gets an email 'from the director' asking to urgently pay a new supplier 8,000 KM. She calls the director to check: it's a scam.",
+        "example": "A bookkeeper gets an email 'from the director' asking to urgently pay a new supplier €8,000. She calls the director to check: it's a scam.",
         "why": "One attack can lock your files, empty your account or leak customer data. The basics are cheap compared to that.",
         "mixup": "Antivirus alone isn't enough. Most attacks trick people, not machines."
       },
       "bs": {
         "one": "Cybersecurity (sajber sigurnost) je zaštita tvojih sistema, podataka i novca od napada preko interneta.",
         "explain": "Male firme su česte mete jer su slabije zaštićene. Osnove zaustavljaju većinu napada: prijava u dva koraka, jake i različite lozinke uz menadžer lozinki, redovna ažuriranja, rezervne kopije čuvane odvojeno i obuka radnika da prepoznaju phishing emailove.",
-        "example": "Knjigovođa dobije email 'od direktora' da hitno plati novom dobavljaču 8.000 KM. Pozove direktora da provjeri: prevara je.",
+        "example": "Knjigovođa dobije email 'od direktora' da hitno plati novom dobavljaču 8.000 €. Pozove direktora da provjeri: prevara je.",
         "why": "Jedan napad može zaključati tvoje fajlove, isprazniti račun ili otkriti podatke kupaca. Osnove su jeftine u poređenju s tim.",
         "mixup": "Sam antivirus nije dovoljan. Većina napada prevari ljude, a ne mašine."
       }
@@ -108,14 +108,14 @@
       "related": ["Terms and conditions", "Privacy policy", "Price transparency"],
       "en": {
         "one": "A business that sells online must clearly show who it is and how to reach it.",
-        "explain": "Usually: company name and legal form, address, registration and tax numbers, email or phone, and for online shops the terms, prices with tax, delivery costs, payment options and how to cancel. Customers should never have to guess who they're buying from.",
+        "explain": "Usually: company name and legal form, address, registration and tax numbers, email or phone, and for online shops the terms, prices with tax, delivery costs, payment options and how to cancel. Customers should never have to guess who they're buying from. EU vs. US: the detailed company-info duty (in German-speaking countries, the 'Impressum') is an EU rule. The US has no general duty to show company details, but California requires a privacy policy, and FTC rules still apply to what you promise online.",
         "example": "A webshop has only a contact form and no company details. Customers don't trust it, and in the EU it breaks e-commerce rules.",
         "why": "Clear information builds trust and is a legal requirement in the EU.",
         "mixup": "A social media page doesn't remove this duty if you sell through it."
       },
       "bs": {
         "one": "Firma koja prodaje online mora jasno pokazati ko je i kako je kontaktirati.",
-        "explain": "Obično: naziv firme i pravni oblik, adresa, matični i porezni broj, email ili telefon, a za online prodavnice i uslovi, cijene s porezom, troškovi dostave, načini plaćanja i kako odustati. Kupci nikad ne bi trebali nagađati od koga kupuju.",
+        "explain": "Obično: naziv firme i pravni oblik, adresa, matični i porezni broj, email ili telefon, a za online prodavnice i uslovi, cijene s porezom, troškovi dostave, načini plaćanja i kako odustati. Kupci nikad ne bi trebali nagađati od koga kupuju. EU i SAD: detaljna obaveza prikaza podataka o firmi (u zemljama njemačkog govornog područja 'Impressum') je pravilo EU. SAD nema opštu obavezu prikaza podataka o firmi, ali Kalifornija traži politiku privatnosti, a pravila FTC-a i dalje važe za ono što obećaš online.",
         "example": "Webshop ima samo kontakt formu i nikakve podatke o firmi. Kupci mu ne vjeruju, a u EU to krši pravila e-trgovine.",
         "why": "Jasne informacije grade povjerenje i zakonska su obaveza u EU.",
         "mixup": "Stranica na društvenim mrežama ne ukida ovu obavezu ako preko nje prodaješ."
@@ -131,14 +131,14 @@
       "related": ["GDPR and data privacy", "Copyright", "Business ethics"],
       "en": {
         "one": "Using AI in a business brings legal and ethical duties, especially around transparency, personal data and accuracy.",
-        "explain": "The EU AI Act sorts AI uses by risk. Most business uses (writing help, chat support) are low risk but come with transparency rules, like telling people they're talking to a bot and labelling AI-generated images or video that look real. Uses like CV screening count as high risk and have strict rules. GDPR still applies to any personal data you feed in.",
+        "explain": "The EU AI Act sorts AI uses by risk. Most business uses (writing help, chat support) are low risk but come with transparency rules, like telling people they're talking to a bot and labelling AI-generated images or video that look real. Uses like CV screening count as high risk and have strict rules. GDPR still applies to any personal data you feed in. EU vs. US: the US has no single AI law. Regulators like the FTC apply existing rules on deception and discrimination to AI, and some states and cities have their own rules, for example on AI in hiring.",
         "example": "A company uses a chatbot on its website, clearly labelled 'virtual assistant', and never pastes customer data into public AI tools.",
         "why": "AI saves time, but mistakes, leaks or hidden use can hurt customers and your reputation.",
         "mixup": "'The AI did it' isn't an excuse. You're responsible for what you publish or decide with AI help."
       },
       "bs": {
         "one": "Korištenje AI u firmi donosi pravne i etičke obaveze, naročito oko transparentnosti, ličnih podataka i tačnosti.",
-        "explain": "EU AI Act razvrstava upotrebe AI po riziku. Većina poslovnih upotreba (pomoć u pisanju, chat podrška) su niskog rizika, ali imaju pravila o transparentnosti, npr. da se ljudima kaže da razgovaraju s botom i da se označe AI slike ili video koji izgledaju stvarno. Upotrebe poput filtriranja CV-jeva su visokog rizika i imaju stroga pravila. GDPR i dalje važi za sve lične podatke koje uneseš.",
+        "explain": "EU AI Act razvrstava upotrebe AI po riziku. Većina poslovnih upotreba (pomoć u pisanju, chat podrška) su niskog rizika, ali imaju pravila o transparentnosti, npr. da se ljudima kaže da razgovaraju s botom i da se označe AI slike ili video koji izgledaju stvarno. Upotrebe poput filtriranja CV-jeva su visokog rizika i imaju stroga pravila. GDPR i dalje važi za sve lične podatke koje uneseš. EU i SAD: SAD nema jedan zakon o AI. Regulatori kao FTC primjenjuju postojeća pravila o obmani i diskriminaciji na AI, a neke države i gradovi imaju svoja pravila, npr. o AI pri zapošljavanju.",
         "example": "Firma koristi chatbota na web stranici, jasno označenog kao 'virtuelni asistent', i nikad ne lijepi podatke kupaca u javne AI alate.",
         "why": "AI štedi vrijeme, ali greške, curenja ili skrivena upotreba mogu naštetiti kupcima i ugledu.",
         "mixup": "'AI je to uradio' nije izgovor. Ti si odgovoran za ono što objaviš ili odlučiš uz pomoć AI."
