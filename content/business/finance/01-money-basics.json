@@ -99,5 +99,77 @@
         "mixup": "Kad samo jedan proizvod poskupi, to nije inflacija. Inflacija je kad cijene općenito rastu."
       }
     }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "Which of these is the best description of money?",
+        "bs": "Šta od ovoga najbolje opisuje novac?"
+      },
+      "options": [
+        {
+          "en": "Something everyone agrees to accept in exchange for things",
+          "bs": "Nešto što svi prihvataju u zamjenu za stvari"
+        },
+        { "en": "Anything printed by a bank", "bs": "Sve što banka odštampa" },
+        { "en": "Everything a person owns", "bs": "Sve što osoba posjeduje" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Money works because people agree to accept it. Everything you own is wealth, which is bigger than money.",
+        "bs": "Novac radi jer ga ljudi prihvataju. Sve što posjeduješ je bogatstvo, a to je više od novca."
+      }
+    },
+    {
+      "q": {
+        "en": "Ana earns €1,800 a month and spends €1,950. What is happening?",
+        "bs": "Ana zarađuje 1.800 € mjesečno, a troši 1.950 €. Šta se dešava?"
+      },
+      "options": [
+        { "en": "Her income and expenses are balanced", "bs": "Prihodi i rashodi su joj u ravnoteži" },
+        { "en": "She is spending €150 more than she earns", "bs": "Troši 150 € više nego što zarađuje" },
+        { "en": "She is saving €150 a month", "bs": "Štedi 150 € mjesečno" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Expenses (€1,950) are bigger than income (€1,800), so she is short €150 every month and must use savings or debt.",
+        "bs": "Rashodi (1.950 €) su veći od prihoda (1.800 €), pa joj svaki mjesec fali 150 € i mora koristiti ušteđevinu ili dug."
+      }
+    },
+    {
+      "q": {
+        "en": "Prices rise 5% this year and your savings earn 1%. What happens to what your savings can buy?",
+        "bs": "Cijene ove godine porastu 5%, a štednja ti donese 1%. Šta se dešava s onim što štednjom možeš kupiti?"
+      },
+      "options": [
+        { "en": "It goes up", "bs": "Raste" },
+        { "en": "It stays the same", "bs": "Ostaje isto" },
+        { "en": "It goes down", "bs": "Pada" }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "Inflation (5%) is higher than your interest (1%), so your money buys about 4% less than a year ago.",
+        "bs": "Inflacija (5%) je veća od kamate (1%), pa tvoj novac kupuje oko 4% manje nego prije godinu dana."
+      }
+    },
+    {
+      "q": {
+        "en": "What is the main reason to keep an emergency fund?",
+        "bs": "Koji je glavni razlog za rezervni fond?"
+      },
+      "options": [
+        {
+          "en": "To pay for surprises without going into debt",
+          "bs": "Da platiš iznenađenja bez zaduživanja"
+        },
+        { "en": "To avoid paying taxes", "bs": "Da izbjegneš porez" },
+        { "en": "To earn the highest possible return", "bs": "Da zaradiš najveći mogući povrat" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Savings set aside for emergencies protect you from expensive debt when something unexpected happens.",
+        "bs": "Ušteđevina za hitne slučajeve te štiti od skupog duga kad se desi nešto neočekivano."
+      }
+    }
   ]
 }

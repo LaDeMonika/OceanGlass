@@ -1,0 +1,219 @@
+{
+  "slug": "closing-the-books",
+  "title": { "en": "Closing the books", "bs": "Zaključivanje knjiga" },
+  "summary": {
+    "en": "How a month or year is finished off, checked and made trustworthy.",
+    "bs": "Kako se mjesec ili godina završi, provjeri i učini pouzdanim."
+  },
+  "concepts": [
+    {
+      "slug": "month-end-close",
+      "term": "Month-end close",
+      "local": "mjesečno zaključivanje",
+      "minutes": 5,
+      "youtube": "dtLC7YHRALo",
+      "youtubeQuery": "month end close process explained",
+      "related": ["Bank reconciliation", "Adjusting entries", "Trial balance"],
+      "en": {
+        "one": "The month-end close is the checklist of work that turns a month's raw records into reliable reports.",
+        "explain": "Enter all documents, match the bank, record accruals and depreciation, count or check stock, run the trial balance, and then produce the income statement and balance sheet. After closing, nobody changes that month anymore.",
+        "example": "A small company closes each month within 5 working days, so by the 6th the owner sees last month's profit.",
+        "why": "The faster and cleaner the close, the sooner you can act on what the numbers say.",
+        "mixup": "Closing is not only for big companies. Even a one-person business gains from a short monthly routine."
+      },
+      "bs": {
+        "one": "Month-end close (mjesečno zaključivanje) je spisak poslova koji sirove zapise za mjesec pretvori u pouzdane izvještaje.",
+        "explain": "Unesi sve isprave, uskladi banku, proknjiži obračunske stavke i amortizaciju, prebroji ili provjeri zalihe, napravi bruto bilans, pa izradi bilans uspjeha i bilans stanja. Nakon zaključivanja niko više ne mijenja taj mjesec.",
+        "example": "Mala firma zaključi svaki mjesec u 5 radnih dana, pa vlasnik do 6. vidi dobit prošlog mjeseca.",
+        "why": "Što je zaključivanje brže i čišće, to prije možeš reagovati na ono što brojevi kažu.",
+        "mixup": "Zaključivanje nije samo za velike firme. I biznis s jednom osobom ima koristi od kratke mjesečne rutine."
+      }
+    },
+    {
+      "slug": "bank-reconciliation",
+      "term": "Bank reconciliation",
+      "local": "usklađivanje s bankom",
+      "minutes": 5,
+      "youtube": "nM5kJB97O1c",
+      "youtubeQuery": "bank reconciliation explained simply",
+      "related": ["Month-end close", "Internal controls", "Cash flow"],
+      "en": {
+        "one": "A bank reconciliation checks that the cash in your books matches the bank statement, and explains every difference.",
+        "explain": "Differences are normal: a payment you sent that the bank has not processed yet, a bank fee you have not recorded, a customer payment you missed. You find each one and fix your books where needed.",
+        "example": "Books say €12,400, bank says €12,150. You find a €230 payment not yet cleared and a €20 bank fee not recorded. Fixed.",
+        "why": "It is the best way to catch mistakes, missed income, double payments and fraud early.",
+        "mixup": "Your bank balance is not automatically right for your books. Timing alone makes them differ almost every day."
+      },
+      "bs": {
+        "one": "Bank reconciliation (usklađivanje s bankom) provjerava da li se novac u tvojim knjigama slaže s izvodom banke i objašnjava svaku razliku.",
+        "explain": "Razlike su normalne: uplata koju si poslao, a banka je još nije obradila, bankarska naknada koju nisi proknjižio, uplata kupca koju si propustio. Pronađeš svaku i ispraviš knjige gdje treba.",
+        "example": "Knjige kažu 12.400 €, banka 12.150 €. Nađeš uplatu od 230 € koja još nije prošla i naknadu banke od 20 € koja nije proknjižena. Usklađeno.",
+        "why": "To je najbolji način da rano uhvatiš greške, propuštene prihode, duple uplate i prevare.",
+        "mixup": "Stanje u banci nije automatski tačno za tvoje knjige. Samo zbog vremena se razlikuju skoro svaki dan."
+      }
+    },
+    {
+      "slug": "adjusting-entries",
+      "term": "Adjusting entries",
+      "local": "korektivna (zaključna) knjiženja",
+      "minutes": 5,
+      "youtube": "9TGkAnoM4sQ",
+      "youtubeQuery": "adjusting journal entries explained",
+      "related": ["Accrued expenses", "Depreciation", "Deferred revenue"],
+      "en": {
+        "one": "Adjusting entries are the extra entries made at period end so the books follow the accrual rules.",
+        "explain": "During the month you record what documents show. At the end you add what documents do not show yet: depreciation, accrued wages and interest, revenue earned from prepayments, and costs paid in advance that belong to later months.",
+        "example": "You paid a year of insurance (€1,200) in January. Each month-end an adjusting entry moves €100 from prepaid insurance to insurance cost.",
+        "why": "Without them, monthly profit is wrong even when every invoice is entered correctly.",
+        "mixup": "Adjusting entries are not corrections of mistakes. They are planned entries that every proper close needs."
+      },
+      "bs": {
+        "one": "Adjusting entries (korektivna knjiženja) su dodatna knjiženja na kraju perioda da knjige prate obračunska pravila.",
+        "explain": "Tokom mjeseca knjižiš ono što isprave pokazuju. Na kraju dodaš ono što isprave još ne pokazuju: amortizaciju, obračunate plate i kamate, prihod zarađen od avansa i troškove plaćene unaprijed koji pripadaju kasnijim mjesecima.",
+        "example": "U januaru si platio godišnje osiguranje (1.200 €). Na kraju svakog mjeseca korektivno knjiženje prebaci 100 € s unaprijed plaćenog osiguranja na trošak osiguranja.",
+        "why": "Bez njih je mjesečna dobit pogrešna čak i kad je svaka faktura tačno unesena.",
+        "mixup": "Korektivna knjiženja nisu ispravke grešaka. To su planirana knjiženja koja treba svako pravilno zaključivanje."
+      }
+    },
+    {
+      "slug": "internal-controls",
+      "term": "Internal controls",
+      "local": "interne kontrole",
+      "minutes": 5,
+      "youtube": "qsF9_DT4rGI",
+      "youtubeQuery": "internal controls in accounting explained",
+      "related": ["Bank reconciliation", "Stock count", "Audit"],
+      "en": {
+        "one": "Internal controls are simple rules that make mistakes and fraud harder in a business.",
+        "explain": "Examples: the person who approves payments is not the one who sends them; two signatures for big payments; locked stock; monthly bank checks; numbered invoices. They do not mean you distrust people; they protect honest people too.",
+        "example": "In a small shop, the cashier counts the till at the end of the day and the owner checks the count against the card and cash reports.",
+        "why": "Small businesses lose a lot to errors and theft simply because one person does everything with no checks.",
+        "mixup": "More controls are not always better. Too many slow the business down; aim for a few that cover the biggest risks."
+      },
+      "bs": {
+        "one": "Internal controls (interne kontrole) su jednostavna pravila koja otežavaju greške i prevare u firmi.",
+        "explain": "Primjeri: osoba koja odobrava plaćanja nije ista koja ih šalje; dva potpisa za velike uplate; zaključane zalihe; mjesečna provjera banke; numerisane fakture. Ne znače da ne vjeruješ ljudima; štite i poštene ljude.",
+        "example": "U maloj radnji blagajnik na kraju dana prebroji kasu, a vlasnik poredi taj broj s izvještajima o karticama i gotovini.",
+        "why": "Mali biznisi mnogo gube zbog grešaka i krađe samo zato što jedna osoba radi sve bez provjere.",
+        "mixup": "Više kontrola nije uvijek bolje. Previše usporava posao; cilj je nekoliko kontrola koje pokrivaju najveće rizike."
+      }
+    },
+    {
+      "slug": "audit",
+      "term": "Audit",
+      "local": "revizija",
+      "minutes": 5,
+      "youtube": "hAKZsbEGE7o",
+      "youtubeQuery": "what is an audit explained simply",
+      "related": ["Internal controls", "Financial statements", "IFRS"],
+      "en": {
+        "one": "An audit is an independent check of a company's financial statements by an outside expert, the auditor.",
+        "explain": "The auditor tests samples of transactions, checks documents, counts stock, confirms balances with banks and customers, and then gives an opinion: do the statements give a true and fair picture? Larger companies must be audited by law; small ones usually need not.",
+        "example": "A bank asks a growing company for audited statements before giving it a €500,000 loan.",
+        "why": "An audit makes numbers trustworthy for banks, investors and buyers of the business.",
+        "mixup": "An audit does not check every single transaction and does not guarantee there is no fraud. It gives reasonable, not total, confidence."
+      },
+      "bs": {
+        "one": "Audit (revizija) je nezavisna provjera finansijskih izvještaja firme od strane vanjskog stručnjaka, revizora.",
+        "explain": "Revizor testira uzorke transakcija, provjerava isprave, broji zalihe, potvrđuje salda s bankama i kupcima, a onda daje mišljenje: da li izvještaji daju istinitu i fer sliku? Veće firme moraju po zakonu imati reviziju; male obično ne.",
+        "example": "Banka traži od firme koja raste revidirane izvještaje prije nego joj da kredit od 500.000 €.",
+        "why": "Revizija čini brojeve pouzdanim za banke, investitore i kupce firme.",
+        "mixup": "Revizija ne provjerava svaku transakciju i ne garantuje da nema prevare. Daje razumno, a ne potpuno povjerenje."
+      }
+    },
+    {
+      "slug": "ifrs",
+      "term": "Accounting standards (IFRS)",
+      "local": "računovodstveni standardi (MSFI)",
+      "minutes": 5,
+      "youtube": "J8HndsKESpM",
+      "youtubeQuery": "IFRS accounting standards explained simply",
+      "related": ["Audit", "Financial vs. managerial accounting", "Revenue recognition"],
+      "en": {
+        "one": "Accounting standards are the shared rulebook for how financial statements must be prepared. IFRS is the international one.",
+        "explain": "They say when to recognize revenue, how to value stock and assets, and what to show in reports, so statements from different companies can be compared. Larger companies in Bosnia and Croatia use IFRS (MSFI); smaller ones in Croatia can use simpler national standards (HSFI).",
+        "example": "Two companies sell software. Because both follow IFRS rules on revenue, an investor can fairly compare their sales.",
+        "why": "Standards are why a balance sheet means the same thing to a bank in Sarajevo, Zagreb or Vienna.",
+        "mixup": "Standards are not tax law. Accounting profit under IFRS and taxable profit are often different numbers."
+      },
+      "bs": {
+        "one": "Accounting standards (računovodstveni standardi) su zajednička pravila kako se finansijski izvještaji moraju praviti. IFRS (MSFI) su međunarodni standardi.",
+        "explain": "Kažu kada priznati prihod, kako vrednovati zalihe i imovinu i šta prikazati u izvještajima, tako da se izvještaji različitih firmi mogu porediti. Veće firme u BiH i Hrvatskoj koriste MSFI; manje u Hrvatskoj mogu koristiti jednostavnije domaće standarde (HSFI).",
+        "example": "Dvije firme prodaju softver. Pošto obje prate MSFI pravila o prihodu, investitor može pošteno porediti njihovu prodaju.",
+        "why": "Zbog standarda bilans stanja znači isto banci u Sarajevu, Zagrebu ili Beču.",
+        "mixup": "Standardi nisu poreski zakon. Računovodstvena dobit po MSFI i oporeziva dobit su često različiti brojevi."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "Your books show €8,000 cash, the bank shows €7,950. A €50 bank fee was not recorded. What is this check called?",
+        "bs": "Knjige pokazuju 8.000 €, banka 7.950 €. Naknada banke od 50 € nije proknjižena. Kako se zove ova provjera?"
+      },
+      "options": [
+        { "en": "Bank reconciliation", "bs": "Usklađivanje s bankom" },
+        { "en": "Trial balance", "bs": "Bruto bilans" },
+        { "en": "Audit", "bs": "Revizija" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "A bank reconciliation explains each difference between the books and the bank.",
+        "bs": "Usklađivanje s bankom objašnjava svaku razliku između knjiga i banke."
+      }
+    },
+    {
+      "q": { "en": "Which is a good internal control?", "bs": "Šta je dobra interna kontrola?" },
+      "options": [
+        {
+          "en": "One person approves and sends all payments",
+          "bs": "Jedna osoba odobrava i šalje sva plaćanja"
+        },
+        {
+          "en": "The person who approves payments is not the one who sends them",
+          "bs": "Osoba koja odobrava plaćanja nije ista koja ih šalje"
+        }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Splitting duties makes errors and fraud much harder.",
+        "bs": "Podjela dužnosti mnogo otežava greške i prevare."
+      }
+    },
+    {
+      "q": { "en": "What does an audit give?", "bs": "Šta daje revizija?" },
+      "options": [
+        { "en": "A guarantee there is no fraud", "bs": "Garanciju da nema prevare" },
+        { "en": "A check of every single transaction", "bs": "Provjeru svake transakcije" },
+        {
+          "en": "An independent opinion that the statements give a true and fair picture",
+          "bs": "Nezavisno mišljenje da izvještaji daju istinitu i fer sliku"
+        }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "Auditors test samples and give reasonable, not total, confidence.",
+        "bs": "Revizori testiraju uzorke i daju razumno, a ne potpuno povjerenje."
+      }
+    },
+    {
+      "q": {
+        "en": "You prepaid €1,200 for a year of insurance in January. What is the monthly adjusting entry?",
+        "bs": "U januaru si unaprijed platio 1.200 € godišnjeg osiguranja. Koje je mjesečno korektivno knjiženje?"
+      },
+      "options": [
+        { "en": "Record €1,200 cost every month", "bs": "Knjižiti 1.200 € troška svaki mjesec" },
+        { "en": "Nothing until December", "bs": "Ništa do decembra" },
+        {
+          "en": "Move €100 from prepaid insurance to insurance cost",
+          "bs": "Prebaciti 100 € s unaprijed plaćenog osiguranja na trošak osiguranja"
+        }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "1,200 ÷ 12 = €100 of the prepayment is used up each month.",
+        "bs": "1.200 ÷ 12 = 100 € avansa se potroši svaki mjesec."
+      }
+    }
+  ]
+}

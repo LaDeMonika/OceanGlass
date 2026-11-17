@@ -1,0 +1,212 @@
+{
+  "slug": "double-entry",
+  "title": { "en": "Double-entry bookkeeping", "bs": "Dvojno knjigovodstvo" },
+  "summary": {
+    "en": "The 500-year-old trick that makes every record check itself: each event is written in two places.",
+    "bs": "Trik star 500 godina zbog kojeg se svaki zapis sam provjerava: svaki događaj se upiše na dva mjesta."
+  },
+  "concepts": [
+    {
+      "slug": "double-entry",
+      "term": "Double-entry",
+      "local": "dvojno knjiženje",
+      "minutes": 6,
+      "youtube": "cjO8qHM5Wjg",
+      "youtubeQuery": "double entry bookkeeping explained simply",
+      "related": ["Debit & credit", "Accounting equation", "Trial balance"],
+      "en": {
+        "one": "Double-entry means every money event is recorded twice: where the value came from and where it went.",
+        "explain": "Money never just appears or disappears. If cash goes down, something else went up: a new machine, a paid-off bill, a cost. So each transaction touches at least two accounts with the same amount. That keeps the accounting equation balanced and makes mistakes easier to catch.",
+        "example": "You pay €300 rent from the bank. Entry 1: rent cost +€300. Entry 2: bank −€300.",
+        "why": "Almost every business in the world uses it, and the law requires it for companies like a d.o.o.",
+        "mixup": "Double-entry does not mean you record the same thing twice by mistake. It is one event seen from its two sides."
+      },
+      "bs": {
+        "one": "Double-entry (dvojno knjiženje) znači da se svaki događaj s novcem zapiše dvaput: odakle je vrijednost došla i gdje je otišla.",
+        "explain": "Novac nikad ne nastane niti nestane sam od sebe. Ako se novac smanji, nešto drugo se povećalo: nova mašina, plaćen račun, trošak. Zato svaka transakcija dira najmanje dva konta istim iznosom. To drži računovodstvenu jednačinu u ravnoteži i olakšava hvatanje grešaka.",
+        "example": "Platiš kiriju 300 € s računa. Knjiženje 1: trošak kirije +300 €. Knjiženje 2: banka −300 €.",
+        "why": "Skoro svaka firma na svijetu ga koristi, a zakon ga traži za firme kao što je d.o.o.",
+        "mixup": "Dvojno ne znači da greškom zapišeš istu stvar dvaput. To je jedan događaj gledan s njegove dvije strane."
+      }
+    },
+    {
+      "slug": "debit-credit",
+      "term": "Debit & credit",
+      "local": "duguje i potražuje",
+      "minutes": 7,
+      "youtube": "mJfalbgYwzI",
+      "youtubeQuery": "debits and credits explained simply",
+      "related": ["Double-entry", "T-account", "Journal"],
+      "en": {
+        "one": "Debit and credit are simply the left and right side of an account. Every entry has equal debits and credits.",
+        "explain": "Forget 'good' and 'bad'. Debit (left) increases assets and costs. Credit (right) increases liabilities, equity and income. So buying supplies for cash is a debit to supplies and a credit to cash. If you remember 'assets and costs go up on the left', the rest follows.",
+        "example": "A customer pays you €500. Debit bank €500 (an asset goes up). Credit sales €500 (income goes up).",
+        "why": "Every accounting tool, report and accountant uses these two words. Knowing them lets you read any ledger.",
+        "mixup": "A 'credit' on your bank statement is from the bank's point of view, so it is the opposite of your books. That confuses almost everyone at first."
+      },
+      "bs": {
+        "one": "Debit i credit (duguje i potražuje) su samo lijeva i desna strana konta. Svako knjiženje ima jednak iznos na duguje i na potražuje.",
+        "explain": "Zaboravi 'dobro' i 'loše'. Duguje (lijevo) povećava imovinu i troškove. Potražuje (desno) povećava obaveze, kapital i prihode. Kupovina materijala za gotovinu je duguje materijal i potražuje blagajna. Ako zapamtiš 'imovina i troškovi rastu lijevo', ostalo slijedi.",
+        "example": "Kupac ti uplati 500 €. Duguje banka 500 € (imovina raste). Potražuje prodaja 500 € (prihod raste).",
+        "why": "Svaki računovodstveni program, izvještaj i računovođa koristi ove dvije riječi. Kad ih znaš, možeš čitati bilo koju knjigu.",
+        "mixup": "'Potražuje' na tvom bankovnom izvodu je iz ugla banke, pa je suprotno od tvojih knjiga. To u početku zbuni skoro svakoga."
+      }
+    },
+    {
+      "slug": "t-account",
+      "term": "T-account",
+      "local": "T-konto",
+      "minutes": 4,
+      "youtube": "oswrhVv1FnU",
+      "youtubeQuery": "T accounts explained simply",
+      "related": ["Debit & credit", "General ledger", "Double-entry"],
+      "en": {
+        "one": "A T-account is a simple drawing of one account: a big T with debits on the left and credits on the right.",
+        "explain": "You write the account name on top, add every increase and decrease on the correct side, and the difference is the balance. Accountants sketch T-accounts to think through a tricky entry before they post it.",
+        "example": "Cash T-account: left side €1,000 (owner's money) and €500 (sale). Right side €300 (rent). Balance: €1,200.",
+        "why": "It is the easiest way to see double-entry with your own eyes and to learn it.",
+        "mixup": "T-accounts are a learning and thinking tool. Real software keeps the same idea in a table, not a drawing."
+      },
+      "bs": {
+        "one": "T-account (T-konto) je jednostavan crtež jednog konta: veliko slovo T s duguje lijevo i potražuje desno.",
+        "explain": "Na vrh napišeš naziv konta, svako povećanje i smanjenje upišeš na pravu stranu, a razlika je saldo. Računovođe skiciraju T-konta da promisle o teškom knjiženju prije nego ga proknjiže.",
+        "example": "T-konto blagajne: lijevo 1.000 € (novac vlasnika) i 500 € (prodaja). Desno 300 € (kirija). Saldo: 1.200 €.",
+        "why": "To je najlakši način da dvojno knjigovodstvo vidiš svojim očima i naučiš ga.",
+        "mixup": "T-konta su alat za učenje i razmišljanje. Pravi programi drže istu ideju u tabeli, ne u crtežu."
+      }
+    },
+    {
+      "slug": "journal",
+      "term": "Journal",
+      "local": "dnevnik knjiženja",
+      "minutes": 4,
+      "youtube": "Y-_Q3rANyxU",
+      "youtubeQuery": "accounting journal entries explained",
+      "related": ["General ledger", "Debit & credit", "Source documents"],
+      "en": {
+        "one": "The journal is the diary of the business: every transaction, in date order, with its debit and credit.",
+        "explain": "Each journal entry has a date, the accounts touched, the amounts and a short description, plus a link to its source document. It is the first place an event is written down.",
+        "example": "15 March: Debit office supplies €80, Credit bank €80, 'printer paper, invoice 2025-117'.",
+        "why": "If you ever need to find out what happened on a certain day, the journal is where you look.",
+        "mixup": "The journal shows events one by one. To see the total in one account, you need the ledger."
+      },
+      "bs": {
+        "one": "Journal (dnevnik knjiženja) je dnevnik firme: svaka transakcija, po datumu, s duguje i potražuje.",
+        "explain": "Svako knjiženje u dnevniku ima datum, konta koja dira, iznose i kratak opis, plus vezu na ispravu. To je prvo mjesto gdje se događaj zapiše.",
+        "example": "15. mart: duguje kancelarijski materijal 80 €, potražuje banka 80 €, 'papir za printer, faktura 2025-117'.",
+        "why": "Ako ikad trebaš saznati šta se desilo određenog dana, gledaš u dnevnik.",
+        "mixup": "Dnevnik pokazuje događaje jedan po jedan. Da vidiš ukupno stanje jednog konta, trebaš glavnu knjigu."
+      }
+    },
+    {
+      "slug": "general-ledger",
+      "term": "General ledger",
+      "local": "glavna knjiga",
+      "minutes": 5,
+      "youtube": "7155zDRCS6Y",
+      "youtubeQuery": "general ledger explained simply",
+      "related": ["Journal", "Chart of accounts", "Trial balance"],
+      "en": {
+        "one": "The general ledger collects all entries by account, so you can see the balance of each one.",
+        "explain": "Entries from the journal are copied ('posted') to their accounts in the ledger. Now you can open the 'Cash' account and see every movement and today's balance. All financial statements are built from the ledger.",
+        "example": "Open the ledger's 'Fuel' account and you see every fuel payment this year and a total of €3,400.",
+        "why": "It is the single source of truth for the business's numbers.",
+        "mixup": "The ledger is not a separate set of facts. It is the same entries as the journal, just sorted by account instead of by date."
+      },
+      "bs": {
+        "one": "General ledger (glavna knjiga) skuplja sva knjiženja po kontima, pa vidiš saldo svakog od njih.",
+        "explain": "Knjiženja iz dnevnika se prenose na svoja konta u glavnoj knjizi. Sada možeš otvoriti konto 'Blagajna' i vidjeti svako kretanje i današnji saldo. Svi finansijski izvještaji se prave iz glavne knjige.",
+        "example": "Otvoriš konto 'Gorivo' u glavnoj knjizi i vidiš svako plaćanje goriva ove godine i ukupno 3.400 €.",
+        "why": "To je jedan izvor istine za brojeve firme.",
+        "mixup": "Glavna knjiga nisu druge činjenice. To su ista knjiženja kao u dnevniku, samo poredana po kontima umjesto po datumu."
+      }
+    },
+    {
+      "slug": "trial-balance",
+      "term": "Trial balance",
+      "local": "bruto bilans",
+      "minutes": 5,
+      "youtube": "hzuJHNnmSRM",
+      "youtubeQuery": "trial balance explained simply",
+      "related": ["General ledger", "Debit & credit", "Month-end close"],
+      "en": {
+        "one": "A trial balance lists every account's balance to check that total debits equal total credits.",
+        "explain": "Before making the financial statements, accountants print all accounts in two columns. If the columns do not match, there is a mistake somewhere. If they match, the books are at least balanced.",
+        "example": "At month end, debits add up to €84,250 and credits to €84,250. Good. If credits showed €84,520, someone probably swapped two digits.",
+        "why": "It is a fast health check of the bookkeeping before reports go out.",
+        "mixup": "A balanced trial balance does not prove the books are right. Putting €100 in the wrong account still balances."
+      },
+      "bs": {
+        "one": "Trial balance (bruto bilans) je spisak salda svih konta da se provjeri jesu li ukupno duguje i ukupno potražuje jednaki.",
+        "explain": "Prije pravljenja finansijskih izvještaja, računovođe ispišu sva konta u dvije kolone. Ako se kolone ne slažu, negdje je greška. Ako se slažu, knjige su barem u ravnoteži.",
+        "example": "Na kraju mjeseca duguje iznosi 84.250 €, potražuje 84.250 €. Dobro. Da potražuje pokazuje 84.520 €, neko je vjerovatno zamijenio dvije cifre.",
+        "why": "To je brza provjera zdravlja knjigovodstva prije nego izvještaji izađu.",
+        "mixup": "Uravnotežen bruto bilans ne dokazuje da su knjige tačne. 100 € na pogrešnom kontu je i dalje u ravnoteži."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "A customer pays you €500 into the bank. Which entry is right?",
+        "bs": "Kupac ti uplati 500 € na račun. Koje knjiženje je tačno?"
+      },
+      "options": [
+        { "en": "Debit bank, credit sales", "bs": "Duguje banka, potražuje prodaja" },
+        { "en": "Debit sales, credit bank", "bs": "Duguje prodaja, potražuje banka" },
+        { "en": "Debit bank, debit sales", "bs": "Duguje banka, duguje prodaja" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "The bank (an asset) goes up: debit. Sales (income) go up: credit.",
+        "bs": "Banka (imovina) raste: duguje. Prodaja (prihod) raste: potražuje."
+      }
+    },
+    {
+      "q": { "en": "Which side increases a cost account?", "bs": "Koja strana povećava konto troška?" },
+      "options": [
+        { "en": "Credit (right)", "bs": "Potražuje (desno)" },
+        { "en": "Debit (left)", "bs": "Duguje (lijevo)" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Assets and costs increase on the debit side.",
+        "bs": "Imovina i troškovi rastu na strani duguje."
+      }
+    },
+    {
+      "q": {
+        "en": "Total debits and credits in the trial balance match. Does that prove the books are correct?",
+        "bs": "Ukupno duguje i potražuje u bruto bilansu se slažu. Da li to dokazuje da su knjige tačne?"
+      },
+      "options": [
+        {
+          "en": "No, an amount in the wrong account still balances",
+          "bs": "Ne, iznos na pogrešnom kontu je i dalje u ravnoteži"
+        },
+        { "en": "Yes, always", "bs": "Da, uvijek" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "The trial balance only checks that both sides are equal, not that each entry is in the right place.",
+        "bs": "Bruto bilans provjerava samo da su obje strane jednake, a ne da je svako knjiženje na pravom mjestu."
+      }
+    },
+    {
+      "q": {
+        "en": "Where do you look to see the total balance of the 'Fuel' account?",
+        "bs": "Gdje gledaš ukupno stanje konta 'Gorivo'?"
+      },
+      "options": [
+        { "en": "The journal", "bs": "Dnevnik" },
+        { "en": "The invoice", "bs": "Faktura" },
+        { "en": "The general ledger", "bs": "Glavna knjiga" }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "The journal lists events by date; the ledger groups them by account with a balance.",
+        "bs": "Dnevnik nabraja događaje po datumu; glavna knjiga ih grupiše po kontima sa saldom."
+      }
+    }
+  ]
+}

@@ -133,5 +133,86 @@
         "mixup": "Period povrata ne gleda ništa nakon što se novac vrati. Projekat s kratkim povratom može ukupno zaraditi mnogo manje od projekta s dužim povratom."
       }
     }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "Why is €100 today worth more than €100 in a year?",
+        "bs": "Zašto 100 € danas vrijedi više od 100 € za godinu?"
+      },
+      "options": [
+        { "en": "Because banks print less money later", "bs": "Jer banke kasnije štampaju manje novca" },
+        { "en": "It is not; they are worth the same", "bs": "Nije; vrijede isto" },
+        {
+          "en": "Because today's money can earn a return, and the future is uncertain",
+          "bs": "Jer današnji novac može zarađivati, a budućnost je nesigurna"
+        }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "Money now can be invested, inflation erodes future money, and future promises carry risk.",
+        "bs": "Novac sada se može uložiti, inflacija nagriza budući novac, a buduća obećanja nose rizik."
+      }
+    },
+    {
+      "q": {
+        "en": "At 10%, what is €110 received in one year worth today?",
+        "bs": "Uz 10%, koliko danas vrijedi 110 € koje dobiješ za godinu?"
+      },
+      "options": [
+        { "en": "€100", "bs": "100 €" },
+        { "en": "€110", "bs": "110 €" },
+        { "en": "€121", "bs": "121 €" }
+      ],
+      "answer": 0,
+      "explain": { "en": "Present value = 110 ÷ 1.10 = €100.", "bs": "Sadašnja vrijednost = 110 ÷ 1,10 = 100 €." }
+    },
+    {
+      "q": {
+        "en": "A project has an NPV of −€500. What does that mean?",
+        "bs": "Projekat ima NPV od −500 €. Šta to znači?"
+      },
+      "options": [
+        { "en": "It will lose exactly €500 in cash", "bs": "Izgubit će tačno 500 € u novcu" },
+        {
+          "en": "It earns less than your other options, after counting time",
+          "bs": "Zarađuje manje od tvojih drugih opcija, kad se uračuna vrijeme"
+        },
+        { "en": "It earns more than your other options", "bs": "Zarađuje više od tvojih drugih opcija" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Negative NPV means the future money, valued today, does not cover the investment at your required rate.",
+        "bs": "Negativan NPV znači da budući novac, vrednovan danas, ne pokriva ulaganje uz tvoju traženu stopu."
+      }
+    },
+    {
+      "q": {
+        "en": "A project's IRR is 9%. Money costs you 12%. Should you do it?",
+        "bs": "IRR projekta je 9%. Novac te košta 12%. Da li ga raditi?"
+      },
+      "options": [
+        { "en": "No, it earns less than the money costs", "bs": "Ne, zarađuje manje nego što novac košta" },
+        { "en": "Yes, 9% is a good return", "bs": "Da, 9% je dobar povrat" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "If the IRR is below your cost of capital, the project destroys value.",
+        "bs": "Ako je IRR ispod troška kapitala, projekat uništava vrijednost."
+      }
+    },
+    {
+      "q": {
+        "en": "A machine costs €8,000 and saves €2,000 a year. What is the payback period?",
+        "bs": "Mašina košta 8.000 € i štedi 2.000 € godišnje. Koliki je period povrata?"
+      },
+      "options": [
+        { "en": "2 years", "bs": "2 godine" },
+        { "en": "8 years", "bs": "8 godina" },
+        { "en": "4 years", "bs": "4 godine" }
+      ],
+      "answer": 2,
+      "explain": { "en": "8,000 ÷ 2,000 = 4 years.", "bs": "8.000 ÷ 2.000 = 4 godine." }
+    }
   ]
 }

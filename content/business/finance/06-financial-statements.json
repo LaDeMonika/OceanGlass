@@ -99,5 +99,71 @@
         "mixup": "Jedan znak upozorenja nije dokaz problema. Traži obrasce kroz više perioda."
       }
     }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "Which statement shows profit over a period?",
+        "bs": "Koji izvještaj pokazuje dobit za neki period?"
+      },
+      "options": [
+        { "en": "Balance sheet", "bs": "Bilans stanja" },
+        { "en": "Income statement", "bs": "Bilans uspjeha" },
+        { "en": "Cash flow statement", "bs": "Izvještaj o novčanim tokovima" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "The income statement lists revenue and costs for a period and ends with profit.",
+        "bs": "Bilans uspjeha nabraja prihode i troškove za period i završava dobiti."
+      }
+    },
+    {
+      "q": {
+        "en": "Where do you see if a company's cash actually went up or down?",
+        "bs": "Gdje vidiš da li je novac firme stvarno porastao ili pao?"
+      },
+      "options": [
+        { "en": "Neither", "bs": "Nigdje" },
+        { "en": "Income statement", "bs": "Bilans uspjeha" },
+        { "en": "Cash flow statement", "bs": "Izvještaj o novčanim tokovima" }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "The cash flow statement follows real cash in and out, unlike profit.",
+        "bs": "Izvještaj o novčanim tokovima prati stvarni novac koji ulazi i izlazi, za razliku od dobiti."
+      }
+    },
+    {
+      "q": {
+        "en": "How does net profit connect to the balance sheet?",
+        "bs": "Kako se neto dobit povezuje s bilansom stanja?"
+      },
+      "options": [
+        { "en": "It does not connect", "bs": "Ne povezuje se" },
+        { "en": "It is added to equity", "bs": "Dodaje se kapitalu" },
+        { "en": "It is added to liabilities", "bs": "Dodaje se obavezama" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Profit kept in the business increases the owners' equity on the balance sheet.",
+        "bs": "Dobit zadržana u firmi povećava kapital vlasnika u bilansu stanja."
+      }
+    },
+    {
+      "q": { "en": "Which of these is a red flag?", "bs": "Šta od ovoga je crveni alarm?" },
+      "options": [
+        {
+          "en": "Profit rises every year but cash from operations keeps falling",
+          "bs": "Dobit raste svake godine, a novac iz poslovanja stalno pada"
+        },
+        { "en": "Profit rises and cash rises with it", "bs": "Dobit raste, a s njom i novac" },
+        { "en": "Costs fall while sales stay the same", "bs": "Troškovi padaju, a prodaja ostaje ista" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "If profit and cash move apart for years, customers may not be paying or the profit may not be real.",
+        "bs": "Ako se dobit i novac godinama razilaze, kupci možda ne plaćaju ili dobit nije stvarna."
+      }
+    }
   ]
 }

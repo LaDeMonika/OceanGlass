@@ -108,5 +108,74 @@
         "mixup": "EBITDA nije novac i nije prava dobit. Kamate, porezi i nove mašine se ipak moraju platiti. Firma može lijepo izgledati po EBITDA, a ipak propasti."
       }
     }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "You invest €2,000 in a course and it brings €3,000 of extra profit. What is the ROI?",
+        "bs": "Uložiš 2.000 € u kurs i on donese 3.000 € dodatne dobiti. Koliki je ROI?"
+      },
+      "options": [
+        { "en": "150%", "bs": "150%" },
+        { "en": "50%", "bs": "50%" },
+        { "en": "33%", "bs": "33%" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Gain €1,000 on €2,000 invested: 1,000 ÷ 2,000 = 50%.",
+        "bs": "Zarada 1.000 € na uloženih 2.000 €: 1.000 ÷ 2.000 = 50%."
+      }
+    },
+    {
+      "q": {
+        "en": "Current assets €15,000, current liabilities €20,000. What does the current ratio say?",
+        "bs": "Kratkoročna imovina 15.000 €, kratkoročne obaveze 20.000 €. Šta kaže tekuća likvidnost?"
+      },
+      "options": [
+        {
+          "en": "0.75: bills due soon are bigger than what is coming in",
+          "bs": "0,75: računi koji uskoro dospijevaju veći su od onoga što dolazi"
+        },
+        { "en": "It says nothing about liquidity", "bs": "Ne govori ništa o likvidnosti" },
+        { "en": "1.33: very safe", "bs": "1,33: vrlo sigurno" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "15,000 ÷ 20,000 = 0.75. Below 1 is a warning that paying near-term bills may be hard.",
+        "bs": "15.000 ÷ 20.000 = 0,75. Ispod 1 je upozorenje da bi plaćanje bliskih računa moglo biti teško."
+      }
+    },
+    {
+      "q": {
+        "en": "Debt €300,000, equity €100,000. What is the debt-to-equity ratio?",
+        "bs": "Dug 300.000 €, kapital 100.000 €. Koliki je odnos duga i kapitala?"
+      },
+      "options": [
+        { "en": "3", "bs": "3" },
+        { "en": "400,000", "bs": "400.000" },
+        { "en": "0.33", "bs": "0,33" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "300,000 ÷ 100,000 = 3: three euros borrowed for every euro of the owners'.",
+        "bs": "300.000 ÷ 100.000 = 3: tri pozajmljena eura na svaki euro vlasnika."
+      }
+    },
+    {
+      "q": { "en": "Which is true about EBITDA?", "bs": "Šta je tačno za EBITDA?" },
+      "options": [
+        { "en": "It is profit after all costs and taxes", "bs": "To je dobit nakon svih troškova i poreza" },
+        {
+          "en": "It is profit before interest, taxes, depreciation and amortization",
+          "bs": "To je dobit prije kamata, poreza i amortizacije"
+        },
+        { "en": "It is the cash the company has in the bank", "bs": "To je novac koji firma ima u banci" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "EBITDA removes interest, taxes, depreciation and amortization. It is not cash and not net profit.",
+        "bs": "EBITDA uklanja kamate, poreze i amortizaciju. Nije novac i nije neto dobit."
+      }
+    }
   ]
 }

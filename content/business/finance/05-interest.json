@@ -11,7 +11,7 @@
       "term": "Interest",
       "local": "kamata",
       "minutes": 4,
-  "youtube": "Rmol9IzSDXk",
+      "youtube": "Rmol9IzSDXk",
       "youtubeQuery": "what is interest explained simply",
       "related": ["Interest rate", "Loan", "Saving"],
       "en": {
@@ -98,6 +98,68 @@
         "example": "Pozajmiš 12.000 € za dostavno vozilo na 4 godine uz 7%. Plaćaš oko 287 € mjesečno. Ukupno vratiš oko 13.790 €.",
         "why": "Kredit omogućava firmi da sada kupi nešto što će joj pomoći da kasnije zaradi više. Ključno pitanje je da li ono što kupiš zarađuje više nego što kredit košta.",
         "mixup": "Duži kredit ima manje mjesečne rate, ali ukupno obično platiš više kamate."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "You borrow €1,000 at 6% simple interest for one year. How much interest do you pay?",
+        "bs": "Pozajmiš 1.000 € uz 6% proste kamate na godinu dana. Koliko kamate plaćaš?"
+      },
+      "options": [
+        { "en": "€60", "bs": "60 €" },
+        { "en": "€6", "bs": "6 €" },
+        { "en": "€600", "bs": "600 €" }
+      ],
+      "answer": 0,
+      "explain": { "en": "6% of €1,000 is €60.", "bs": "6% od 1.000 € je 60 €." }
+    },
+    {
+      "q": {
+        "en": "€1,000 grows at 10% compound interest. What is it worth after 2 years?",
+        "bs": "1.000 € raste uz 10% složene kamate. Koliko vrijedi nakon 2 godine?"
+      },
+      "options": [
+        { "en": "€1,100", "bs": "1.100 €" },
+        { "en": "€1,210", "bs": "1.210 €" },
+        { "en": "€1,200", "bs": "1.200 €" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Year 1: €1,100. Year 2: 10% of €1,100 = €110 more, so €1,210. Interest earns interest.",
+        "bs": "1. godina: 1.100 €. 2. godina: 10% od 1.100 € = još 110 €, pa 1.210 €. Kamata zarađuje kamatu."
+      }
+    },
+    {
+      "q": {
+        "en": "Which loan usually costs you more in total?",
+        "bs": "Koji kredit te obično ukupno košta više?"
+      },
+      "options": [
+        { "en": "A shorter loan with the same rate", "bs": "Kraći kredit s istom stopom" },
+        { "en": "A longer loan with the same rate", "bs": "Duži kredit s istom stopom" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "A longer loan has lower monthly payments, but you pay interest for more years, so the total is higher.",
+        "bs": "Duži kredit ima manje rate, ali kamatu plaćaš više godina, pa je ukupan iznos veći."
+      }
+    },
+    {
+      "q": { "en": "What is interest, in simple words?", "bs": "Šta je kamata, jednostavno rečeno?" },
+      "options": [
+        {
+          "en": "A fee the bank charges for opening an account",
+          "bs": "Naknada koju banka naplaćuje za otvaranje računa"
+        },
+        { "en": "The price of using someone else's money", "bs": "Cijena korištenja tuđeg novca" },
+        { "en": "A tax on savings", "bs": "Porez na štednju" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Borrowers pay interest for using money; savers earn it for lending theirs.",
+        "bs": "Dužnici plaćaju kamatu za korištenje novca; štediše je zarađuju jer posuđuju svoj."
       }
     }
   ]

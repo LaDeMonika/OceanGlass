@@ -1,0 +1,212 @@
+{
+  "slug": "accrual-vs-cash",
+  "title": { "en": "Accrual vs. cash accounting", "bs": "Obračunsko i gotovinsko računovodstvo" },
+  "summary": {
+    "en": "When does a sale or a cost 'count'? When money moves, or when the work happens?",
+    "bs": "Kada se prodaja ili trošak 'računa'? Kad se novac pomjeri ili kad se posao desi?"
+  },
+  "concepts": [
+    {
+      "slug": "cash-basis",
+      "term": "Cash basis",
+      "local": "gotovinsko načelo",
+      "minutes": 4,
+      "youtube": "GEZZftO_VrE",
+      "youtubeQuery": "cash basis accounting explained simply",
+      "related": ["Accrual basis", "Cash flow", "Revenue recognition"],
+      "en": {
+        "one": "On the cash basis, you record income when money arrives and costs when money leaves. Nothing else.",
+        "explain": "It works like your personal bank account: no money moved, nothing to write down. It is simple, and many very small businesses and sole traders (obrt) in the region may use it.",
+        "example": "You finish a job in December but the client pays in January. On the cash basis, that income belongs to January.",
+        "why": "It shows clearly how much cash you really have, and it is easy to keep.",
+        "mixup": "It can paint a false picture. A month can look great just because three old invoices were paid, even if no new work was done."
+      },
+      "bs": {
+        "one": "Na cash basis (gotovinskom načelu) prihod bilježiš kad novac stigne, a trošak kad novac ode. Ništa drugo.",
+        "explain": "Radi kao tvoj lični račun u banci: nema kretanja novca, nema zapisa. Jednostavno je, i mnogi vrlo mali biznisi i obrtnici u regiji ga mogu koristiti.",
+        "example": "Završiš posao u decembru, a klijent plati u januaru. Po gotovinskom načelu taj prihod pripada januaru.",
+        "why": "Jasno pokazuje koliko novca stvarno imaš i lako se vodi.",
+        "mixup": "Može dati lažnu sliku. Mjesec može izgledati odlično samo zato što su plaćene tri stare fakture, iako novi posao nije urađen."
+      }
+    },
+    {
+      "slug": "accrual-basis",
+      "term": "Accrual basis",
+      "local": "obračunsko načelo",
+      "minutes": 6,
+      "youtube": "CRcHPo-gP1M",
+      "youtubeQuery": "accrual accounting explained simply",
+      "related": ["Cash basis", "Matching principle", "Revenue recognition"],
+      "en": {
+        "one": "On the accrual basis, you record income when you earn it and costs when you use them, no matter when cash moves.",
+        "explain": "If you did the work in December, it is December's income, even if the client pays in January. If you used electricity in December, it is December's cost, even if the bill comes later. Companies (d.o.o., d.d.) must use this method.",
+        "example": "A web agency builds a site in June and invoices €3,000, paid in August. Accrual: €3,000 income in June. Cash: €3,000 in August.",
+        "why": "It shows the true profit of each period, which is what investors, banks and tax offices want.",
+        "mixup": "Accrual profit is not cash in the bank. That is exactly why you also need a cash flow statement."
+      },
+      "bs": {
+        "one": "Na accrual basis (obračunskom načelu) prihod bilježiš kad ga zaradiš, a trošak kad ga iskoristiš, bez obzira kad se novac pomjeri.",
+        "explain": "Ako si posao uradio u decembru, to je decembarski prihod, čak i ako klijent plati u januaru. Ako si struju trošio u decembru, to je decembarski trošak, čak i ako račun stigne kasnije. Firme (d.o.o., d.d.) moraju koristiti ovaj metod.",
+        "example": "Web agencija napravi stranicu u junu i fakturiše 3.000 €, plaćeno u augustu. Obračunsko: 3.000 € prihoda u junu. Gotovinsko: 3.000 € u augustu.",
+        "why": "Pokazuje pravu dobit svakog perioda, a to žele investitori, banke i poreska uprava.",
+        "mixup": "Obračunska dobit nije novac u banci. Upravo zato trebaš i izvještaj o novčanim tokovima."
+      }
+    },
+    {
+      "slug": "revenue-recognition",
+      "term": "Revenue recognition",
+      "local": "priznavanje prihoda",
+      "minutes": 5,
+      "youtube": "biauycfkElo",
+      "youtubeQuery": "revenue recognition principle explained simply",
+      "related": ["Accrual basis", "Deferred revenue", "Invoice"],
+      "en": {
+        "one": "Revenue recognition is the rule for when a sale officially counts as income: when you deliver what you promised.",
+        "explain": "Not when the customer orders, and not always when they pay, but when you hand over the product or finish the service. For long jobs or subscriptions, revenue is spread over the time you deliver.",
+        "example": "A gym sells a 12-month membership for €360 in January. It recognizes €30 of revenue each month, not €360 in January.",
+        "why": "It stops businesses from making a month look better than it really was.",
+        "mixup": "Getting paid in advance is not revenue yet. Until you deliver, you owe the customer the service."
+      },
+      "bs": {
+        "one": "Revenue recognition (priznavanje prihoda) je pravilo kada se prodaja službeno računa kao prihod: kad isporučiš ono što si obećao.",
+        "explain": "Ne kad kupac naruči, i ne uvijek kad plati, nego kad predaš proizvod ili završiš uslugu. Kod dugih poslova ili pretplata prihod se raspoređuje na vrijeme isporuke.",
+        "example": "Teretana u januaru proda godišnju članarinu za 360 €. Svaki mjesec prizna 30 € prihoda, a ne 360 € u januaru.",
+        "why": "Sprečava firme da neki mjesec prikažu boljim nego što je zaista bio.",
+        "mixup": "Plaćanje unaprijed još nije prihod. Dok ne isporučiš, duguješ kupcu uslugu."
+      }
+    },
+    {
+      "slug": "matching-principle",
+      "term": "Matching principle",
+      "local": "načelo uzročnosti prihoda i rashoda",
+      "minutes": 5,
+      "youtube": "WN66FNF_TOk",
+      "youtubeQuery": "matching principle accounting explained",
+      "related": ["Accrual basis", "Depreciation", "Revenue recognition"],
+      "en": {
+        "one": "The matching principle says: record a cost in the same period as the income it helped create.",
+        "explain": "If you sell 100 lamps in May, the cost of those 100 lamps belongs to May too, even if you bought them in February. This way each period shows what it earned and what it cost to earn it.",
+        "example": "A salesperson earns a €500 commission on December sales, paid in January. The commission is a December cost.",
+        "why": "Without matching, profit jumps up and down for no real reason, and you cannot tell which months were truly good.",
+        "mixup": "Matching is not about when you pay. It is about which income the cost belongs to."
+      },
+      "bs": {
+        "one": "Matching principle (načelo uzročnosti) kaže: trošak zabilježi u istom periodu kao prihod koji je pomogao stvoriti.",
+        "explain": "Ako u maju prodaš 100 lampi, trošak tih 100 lampi pripada maju, čak i ako si ih kupio u februaru. Tako svaki period pokazuje šta je zaradio i koliko je koštalo da se to zaradi.",
+        "example": "Prodavač zaradi proviziju od 500 € na decembarsku prodaju, isplaćenu u januaru. Provizija je decembarski trošak.",
+        "why": "Bez ovog načela dobit skače gore-dolje bez pravog razloga, pa ne znaš koji su mjeseci zaista bili dobri.",
+        "mixup": "Ne radi se o tome kada plaćaš. Radi se o tome kojem prihodu trošak pripada."
+      }
+    },
+    {
+      "slug": "accrued-expenses",
+      "term": "Accrued expenses",
+      "local": "obračunati troškovi",
+      "minutes": 5,
+      "youtube": "k3Em5Lxxcuc",
+      "youtubeQuery": "accrued expenses explained simply",
+      "related": ["Accrual basis", "Accounts payable", "Adjusting entries"],
+      "en": {
+        "one": "Accrued expenses are costs you have already used up but have not been billed for or paid yet.",
+        "explain": "At month end you record them anyway, as a cost and as a debt you owe. Common examples are electricity, wages for the last days of the month and interest on a loan.",
+        "example": "Your staff worked the last week of March, but payday is 5 April. On 31 March you record €2,000 of wages as a March cost and a debt.",
+        "why": "Without them, the month looks cheaper than it really was and the next month looks worse.",
+        "mixup": "An accrued expense is not the same as a bill you received (accounts payable). It is a cost you know about before any bill exists."
+      },
+      "bs": {
+        "one": "Accrued expenses (obračunati troškovi) su troškovi koje si već potrošio, ali za njih još nisi dobio račun niti ih platio.",
+        "explain": "Na kraju mjeseca ih ipak zabilježiš, kao trošak i kao dug. Česti primjeri su struja, plate za zadnje dane mjeseca i kamata na kredit.",
+        "example": "Radnici su radili zadnju sedmicu marta, a plata je 5. aprila. Na 31. mart zabilježiš 2.000 € plata kao martovski trošak i dug.",
+        "why": "Bez njih mjesec izgleda jeftiniji nego što je bio, a sljedeći mjesec gori.",
+        "mixup": "Obračunati trošak nije isto što i primljen račun (obaveze prema dobavljačima). To je trošak za koji znaš prije nego što račun postoji."
+      }
+    },
+    {
+      "slug": "deferred-revenue",
+      "term": "Deferred revenue",
+      "local": "odgođeni prihod, primljeni avansi",
+      "minutes": 5,
+      "youtube": "SNguYyKrqL4",
+      "youtubeQuery": "deferred revenue explained simply",
+      "related": ["Revenue recognition", "Liability", "Cash flow"],
+      "en": {
+        "one": "Deferred revenue is money customers paid you in advance for something you have not delivered yet.",
+        "explain": "Until you deliver, that money is a debt: you owe the customer a product or a service. As you deliver, it moves from debt to revenue. Subscriptions, tickets, deposits and gift cards all create deferred revenue.",
+        "example": "A language school is paid €600 in September for a course running September to February. In September it records €100 revenue and €500 deferred revenue.",
+        "why": "It is good for cash, because the money is already in the bank, but you must still do the work.",
+        "mixup": "Deferred revenue is a liability, not profit. Spending it all early can leave you without money to deliver what you promised."
+      },
+      "bs": {
+        "one": "Deferred revenue (odgođeni prihod, avans) je novac koji su ti kupci platili unaprijed za nešto što još nisi isporučio.",
+        "explain": "Dok ne isporučiš, taj novac je dug: duguješ kupcu proizvod ili uslugu. Kako isporučuješ, prelazi iz duga u prihod. Pretplate, karte, depoziti i poklon-kartice stvaraju odgođeni prihod.",
+        "example": "Škola jezika u septembru dobije 600 € za kurs od septembra do februara. U septembru bilježi 100 € prihoda i 500 € odgođenog prihoda.",
+        "why": "Dobro je za novčani tok, jer je novac već u banci, ali posao i dalje moraš uraditi.",
+        "mixup": "Odgođeni prihod je obaveza, ne dobit. Ako ga sav rano potrošiš, može ti ponestati novca da isporučiš obećano."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "You finish a job in December; the client pays in January. Under accrual accounting, when is the revenue?",
+        "bs": "Završiš posao u decembru, klijent plati u januaru. Po obračunskom načelu, kada je prihod?"
+      },
+      "options": [
+        { "en": "January", "bs": "Januar" },
+        { "en": "December", "bs": "Decembar" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Accrual records revenue when it is earned, not when cash arrives.",
+        "bs": "Obračunsko načelo bilježi prihod kad je zarađen, a ne kad novac stigne."
+      }
+    },
+    {
+      "q": {
+        "en": "A gym sells a 12-month membership for €240 in January. How much revenue does it recognize in January?",
+        "bs": "Teretana u januaru proda godišnju članarinu za 240 €. Koliko prihoda priznaje u januaru?"
+      },
+      "options": [
+        { "en": "€20", "bs": "20 €" },
+        { "en": "€0", "bs": "0 €" },
+        { "en": "€240", "bs": "240 €" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Revenue is spread over the months the service is delivered: 240 ÷ 12 = €20.",
+        "bs": "Prihod se raspoređuje na mjesece u kojima se usluga pruža: 240 ÷ 12 = 20 €."
+      }
+    },
+    {
+      "q": {
+        "en": "Money a customer paid in advance, before you delivered, is…",
+        "bs": "Novac koji je kupac platio unaprijed, prije isporuke, je…"
+      },
+      "options": [
+        { "en": "profit", "bs": "dobit" },
+        { "en": "deferred revenue, a liability", "bs": "odgođeni prihod, obaveza" },
+        { "en": "an expense", "bs": "trošak" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Until you deliver, you owe the customer the service, so it is a liability.",
+        "bs": "Dok ne isporučiš, duguješ kupcu uslugu, pa je to obaveza."
+      }
+    },
+    {
+      "q": {
+        "en": "Staff worked the last week of March but are paid on 5 April. In which month is the wage cost?",
+        "bs": "Radnici su radili zadnju sedmicu marta, a plaćeni su 5. aprila. U kojem mjesecu je trošak plate?"
+      },
+      "options": [
+        { "en": "April, when paid", "bs": "April, kad je plaćeno" },
+        { "en": "March, as an accrued expense", "bs": "Mart, kao obračunati trošak" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "The matching principle puts the cost in the month the work was done.",
+        "bs": "Načelo uzročnosti stavlja trošak u mjesec kad je posao urađen."
+      }
+    }
+  ]
+}

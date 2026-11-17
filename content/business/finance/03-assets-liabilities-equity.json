@@ -127,5 +127,68 @@
         "mixup": "Pozitivan obrtni kapital ne znači da je novac danas na računu. Dio može još biti zarobljen u neprodatoj robi ili neplaćenim fakturama."
       }
     }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "A business has €50,000 of assets and €30,000 of liabilities. What is its equity?",
+        "bs": "Firma ima 50.000 € imovine i 30.000 € obaveza. Koliki je kapital?"
+      },
+      "options": [
+        { "en": "€30,000", "bs": "30.000 €" },
+        { "en": "€80,000", "bs": "80.000 €" },
+        { "en": "€20,000", "bs": "20.000 €" }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "Equity = Assets − Liabilities = €50,000 − €30,000 = €20,000.",
+        "bs": "Kapital = Imovina − Obaveze = 50.000 € − 30.000 € = 20.000 €."
+      }
+    },
+    {
+      "q": { "en": "Which of these is a liability?", "bs": "Šta od ovoga je obaveza?" },
+      "options": [
+        { "en": "A bank loan you must repay", "bs": "Kredit koji moraš vratiti banci" },
+        { "en": "Money customers owe you", "bs": "Novac koji ti kupci duguju" },
+        { "en": "Your delivery van", "bs": "Tvoj dostavni kombi" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "A liability is something you owe. Money customers owe you and the van are assets.",
+        "bs": "Obaveza je nešto što duguješ. Novac koji ti duguju kupci i kombi su imovina."
+      }
+    },
+    {
+      "q": { "en": "What does the balance sheet show?", "bs": "Šta pokazuje bilans stanja?" },
+      "options": [
+        { "en": "Profit for the year", "bs": "Dobit za godinu" },
+        {
+          "en": "What the business owns and owes on one day",
+          "bs": "Šta firma posjeduje i duguje na jedan dan"
+        },
+        { "en": "Cash coming in and out each month", "bs": "Novac koji ulazi i izlazi svaki mjesec" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "The balance sheet is a snapshot on a date. Profit is on the income statement.",
+        "bs": "Bilans stanja je snimak na jedan dan. Dobit je u bilansu uspjeha."
+      }
+    },
+    {
+      "q": {
+        "en": "Short-term assets are €12,000 and bills due within a year are €9,000. What is the working capital?",
+        "bs": "Kratkoročna imovina je 12.000 €, a računi koji dospijevaju u roku od godinu dana 9.000 €. Koliki je obrtni kapital?"
+      },
+      "options": [
+        { "en": "€21,000", "bs": "21.000 €" },
+        { "en": "€9,000", "bs": "9.000 €" },
+        { "en": "€3,000", "bs": "3.000 €" }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "Working capital = short-term assets − short-term debts = €12,000 − €9,000 = €3,000.",
+        "bs": "Obrtni kapital = kratkoročna imovina − kratkoročni dugovi = 12.000 € − 9.000 € = 3.000 €."
+      }
+    }
   ]
 }

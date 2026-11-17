@@ -1,0 +1,194 @@
+{
+  "slug": "thinking-like-an-economist",
+  "title": { "en": "Thinking like an economist", "bs": "Razmišljati kao ekonomista" },
+  "summary": {
+    "en": "Five simple ideas that explain most choices people and businesses make.",
+    "bs": "Pet jednostavnih ideja koje objašnjavaju većinu izbora ljudi i firmi."
+  },
+  "concepts": [
+    {
+      "slug": "scarcity",
+      "term": "Scarcity",
+      "local": "oskudica, ograničenost resursa",
+      "minutes": 4,
+      "youtube": "VdkVz8Q5lH0",
+      "youtubeQuery": "scarcity economics explained simply",
+      "related": ["Opportunity cost", "Trade-off", "Supply"],
+      "en": {
+        "one": "Scarcity means we never have enough time, money or resources for everything we want, so we must choose.",
+        "explain": "This is the starting point of all economics. A business has limited cash, staff and hours. A country has limited workers, land and energy. Because of scarcity, every 'yes' to one thing is a 'no' to something else.",
+        "example": "A bakery has one oven and 10 hours a day. It can bake bread or cakes, but every hour on cakes is an hour without bread.",
+        "why": "Seeing your limits clearly is the first step to using them well.",
+        "mixup": "Scarcity does not mean being poor. Even rich people and big companies have only 24 hours a day and must choose."
+      },
+      "bs": {
+        "one": "Scarcity (oskudica) znači da nikad nemamo dovoljno vremena, novca ili resursa za sve što želimo, pa moramo birati.",
+        "explain": "Ovo je početna tačka cijele ekonomije. Firma ima ograničen novac, radnike i sate. Država ima ograničen broj radnika, zemlje i energije. Zbog oskudice svako 'da' jednoj stvari je 'ne' nečem drugom.",
+        "example": "Pekara ima jednu peć i 10 sati dnevno. Može peći hljeb ili kolače, ali svaki sat za kolače je sat bez hljeba.",
+        "why": "Jasno vidjeti svoja ograničenja je prvi korak da ih dobro iskoristiš.",
+        "mixup": "Oskudica ne znači siromaštvo. I bogati ljudi i velike firme imaju samo 24 sata dnevno i moraju birati."
+      }
+    },
+    {
+      "slug": "opportunity-cost",
+      "term": "Opportunity cost",
+      "local": "oportunitetni trošak",
+      "minutes": 5,
+      "youtube": "XLiNlvTcYrA",
+      "youtubeQuery": "opportunity cost explained simply",
+      "related": ["Scarcity", "Trade-off", "Cost of capital"],
+      "en": {
+        "one": "Opportunity cost is the value of the best thing you gave up when you made a choice.",
+        "explain": "The real cost of anything is not only the money you pay, but what else you could have done with that money or time. Good decisions compare options by what you give up, not just by price.",
+        "example": "You spend Saturday working in your shop and earn €200. Your opportunity cost is the €150 you could have earned freelancing, plus your free day.",
+        "why": "It stops you from doing things that look cheap but cost you a better chance.",
+        "mixup": "Opportunity cost does not appear on any invoice or bank statement, which is exactly why people forget it."
+      },
+      "bs": {
+        "one": "Opportunity cost (oportunitetni trošak) je vrijednost najbolje stvari kojoj si se odrekao kad si izabrao.",
+        "explain": "Pravi trošak bilo čega nije samo novac koji platiš, nego i šta si drugo mogao uraditi s tim novcem ili vremenom. Dobre odluke porede opcije po tome čega se odričeš, a ne samo po cijeni.",
+        "example": "Subotu provedeš radeći u radnji i zaradiš 200 €. Tvoj oportunitetni trošak je 150 € koje si mogao zaraditi honorarno, plus slobodan dan.",
+        "why": "Sprečava te da radiš stvari koje izgledaju jeftino, a koštaju te bolje prilike.",
+        "mixup": "Oportunitetni trošak se ne vidi ni na jednoj fakturi ni izvodu, i upravo zato ga ljudi zaborave."
+      }
+    },
+    {
+      "slug": "incentives",
+      "term": "Incentives",
+      "local": "poticaji, podsticaji",
+      "minutes": 4,
+      "youtube": "pWbG6fMBZ_k",
+      "youtubeQuery": "incentives economics explained simply",
+      "related": ["Opportunity cost", "Taxes and the economy", "Nudge"],
+      "en": {
+        "one": "Incentives are rewards or penalties that push people to act in a certain way.",
+        "explain": "People respond to what they gain or lose. A bonus, a discount, a fine or a tax all change behaviour. Badly designed incentives can push people in the wrong direction.",
+        "example": "A shop pays staff a bonus per sale. Sales go up, but some staff start pushing products customers do not need, and returns rise.",
+        "why": "Whenever you design a price, a salary or a rule, ask: what will people actually do because of this?",
+        "mixup": "Incentives are not only about money. Praise, status and saving time work too."
+      },
+      "bs": {
+        "one": "Incentives (poticaji) su nagrade ili kazne koje guraju ljude da se ponašaju na određeni način.",
+        "explain": "Ljudi reaguju na ono što dobijaju ili gube. Bonus, popust, kazna ili porez mijenjaju ponašanje. Loše osmišljeni poticaji mogu gurnuti ljude u pogrešnom smjeru.",
+        "example": "Radnja radnicima plaća bonus po prodaji. Prodaja raste, ali neki radnici počnu nametati proizvode koji kupcima ne trebaju, pa raste broj povrata.",
+        "why": "Kad god praviš cijenu, platu ili pravilo, pitaj: šta će ljudi zaista raditi zbog ovoga?",
+        "mixup": "Poticaji nisu samo novac. Pohvala, status i ušteda vremena također djeluju."
+      }
+    },
+    {
+      "slug": "marginal-thinking",
+      "term": "Marginal thinking",
+      "local": "razmišljanje na margini",
+      "minutes": 5,
+      "youtube": "lsk_Fhs8E1c",
+      "youtubeQuery": "marginal analysis thinking at the margin explained",
+      "related": ["Opportunity cost", "Fixed vs. variable costs", "Contribution margin"],
+      "en": {
+        "one": "Marginal thinking means deciding on the next step only: is one more unit, hour or euro worth it?",
+        "explain": "Most decisions are not all-or-nothing. A business asks: should we stay open one more hour, make one more batch, hire one more person? Compare the extra benefit of that one step with its extra cost. Past costs do not matter for this choice.",
+        "example": "A café earns €60 extra in the last opening hour, and that hour costs €45 in staff and power. Staying open is worth it. If it earned €30, it would not be.",
+        "why": "It is how businesses find the right size, price and opening hours.",
+        "mixup": "Average numbers can mislead. A product can look profitable on average while the last units you make lose money."
+      },
+      "bs": {
+        "one": "Marginal thinking (razmišljanje na margini) znači odlučivati samo o sljedećem koraku: da li se isplati još jedan komad, sat ili euro?",
+        "explain": "Većina odluka nije sve ili ništa. Firma pita: da li raditi još jedan sat, napraviti još jednu turu, zaposliti još jednu osobu? Poredi dodatnu korist tog koraka s njegovim dodatnim troškom. Prošli troškovi ne utiču na ovaj izbor.",
+        "example": "Kafić u zadnjem satu rada zaradi dodatnih 60 €, a taj sat košta 45 € za radnike i struju. Isplati se raditi. Da zaradi 30 €, ne bi se isplatilo.",
+        "why": "Ovako firme nalaze pravu veličinu, cijenu i radno vrijeme.",
+        "mixup": "Prosjeci mogu zavarati. Proizvod može u prosjeku izgledati profitabilno, a posljednji komadi koje praviš gube novac."
+      }
+    },
+    {
+      "slug": "trade-offs",
+      "term": "Trade-off",
+      "local": "kompromis, izbor između opcija",
+      "minutes": 4,
+      "youtube": "20kI4F6sMxQ",
+      "youtubeQuery": "trade offs economics explained",
+      "related": ["Scarcity", "Opportunity cost", "Strategy"],
+      "en": {
+        "one": "A trade-off is giving up some of one thing to get more of another.",
+        "explain": "Quality or speed, price or volume, growth or safety: most business choices balance two good things that cannot both be maximized. Naming the trade-off openly leads to better choices than pretending you can have everything.",
+        "example": "A delivery firm can promise next-day delivery everywhere, but that needs more vans and drivers, which raises prices.",
+        "why": "Clear trade-offs make strategy simple: you know what you are choosing to be good at and what you accept being average at.",
+        "mixup": "A trade-off is not a failure. Choosing is the job; refusing to choose usually means doing everything badly."
+      },
+      "bs": {
+        "one": "Trade-off (kompromis) je odricanje od dijela jedne stvari da dobiješ više druge.",
+        "explain": "Kvalitet ili brzina, cijena ili količina, rast ili sigurnost: većina poslovnih izbora balansira dvije dobre stvari koje ne mogu obje biti maksimalne. Kad otvoreno imenuješ kompromis, biraš bolje nego kad se praviš da možeš imati sve.",
+        "example": "Dostavna firma može obećati dostavu sutradan svuda, ali za to treba više kombija i vozača, što podiže cijene.",
+        "why": "Jasni kompromisi čine strategiju jednostavnom: znaš u čemu biraš biti dobar, a gdje prihvataš prosjek.",
+        "mixup": "Kompromis nije neuspjeh. Biranje je posao; odbijanje da biraš obično znači da sve radiš loše."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "You quit a €1,500-a-month job to run your own shop. What is part of the opportunity cost?",
+        "bs": "Daš otkaz na poslu od 1.500 € mjesečno da vodiš svoju radnju. Šta je dio oportunitetnog troška?"
+      },
+      "options": [
+        { "en": "The rent of the shop only", "bs": "Samo kirija radnje" },
+        { "en": "The €1,500 salary you give up", "bs": "Plata od 1.500 € koje se odričeš" },
+        { "en": "Nothing, if the shop makes a profit", "bs": "Ništa, ako radnja ima dobit" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Opportunity cost is the best alternative you gave up, here the salary.",
+        "bs": "Oportunitetni trošak je najbolja alternativa koje si se odrekao, ovdje plata."
+      }
+    },
+    {
+      "q": {
+        "en": "The last hour of opening brings €40 extra and costs €55. What should a marginal thinker do?",
+        "bs": "Zadnji sat rada donese dodatnih 40 €, a košta 55 €. Šta bi uradio neko ko razmišlja na margini?"
+      },
+      "options": [
+        { "en": "Close an hour earlier", "bs": "Zatvoriti sat ranije" },
+        { "en": "Raise prices on everything", "bs": "Podići sve cijene" },
+        { "en": "Stay open; the whole day is profitable", "bs": "Raditi; cijeli dan je profitabilan" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Compare the extra benefit (€40) with the extra cost (€55) of that one hour: it loses €15.",
+        "bs": "Uporedi dodatnu korist (40 €) s dodatnim troškom (55 €) tog sata: gubi 15 €."
+      }
+    },
+    {
+      "q": {
+        "en": "A sales bonus leads staff to push products customers don't need. This shows that…",
+        "bs": "Bonus na prodaju navede radnike da nameću proizvode koji kupcima ne trebaju. Ovo pokazuje da…"
+      },
+      "options": [
+        { "en": "incentives always work as planned", "bs": "poticaji uvijek rade kako je planirano" },
+        {
+          "en": "badly designed incentives can backfire",
+          "bs": "loše osmišljeni poticaji mogu imati suprotan efekat"
+        },
+        { "en": "bonuses have no effect", "bs": "bonusi nemaju efekta" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "People respond to incentives, sometimes in ways the designer did not want.",
+        "bs": "Ljudi reaguju na poticaje, ponekad na način koji autor nije želio."
+      }
+    },
+    {
+      "q": { "en": "Which statement about scarcity is true?", "bs": "Koja tvrdnja o oskudici je tačna?" },
+      "options": [
+        { "en": "Only poor people face it", "bs": "Pogađa samo siromašne" },
+        {
+          "en": "Even big companies must choose how to use limited resources",
+          "bs": "I velike firme moraju birati kako koristiti ograničene resurse"
+        },
+        { "en": "It disappears when a business grows", "bs": "Nestane kad firma naraste" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Everyone has limited time and resources, so everyone faces trade-offs.",
+        "bs": "Svi imaju ograničeno vrijeme i resurse, pa se svi suočavaju s kompromisima."
+      }
+    }
+  ]
+}

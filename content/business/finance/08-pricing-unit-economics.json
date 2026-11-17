@@ -130,5 +130,87 @@
         "mixup": "PDV na tvom računu u banci nije dobit. Kad planiraš, računaj cijene bez PDV-a (neto) i drži PDV dio sa strane."
       }
     }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "You buy an item for €20 and sell it for €30. What is the markup?",
+        "bs": "Kupiš artikal za 20 € i prodaš ga za 30 €. Koliki je markup?"
+      },
+      "options": [
+        { "en": "10%", "bs": "10%" },
+        { "en": "33%", "bs": "33%" },
+        { "en": "50%", "bs": "50%" }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "Markup compares the extra €10 to the cost: 10 ÷ 20 = 50%. The margin would be 33%.",
+        "bs": "Markup poredi dodatnih 10 € s troškom: 10 ÷ 20 = 50%. Marža bi bila 33%."
+      }
+    },
+    {
+      "q": {
+        "en": "A pizza sells for €12 and its ingredients and box cost €4. What is its contribution margin?",
+        "bs": "Pica se prodaje za 12 €, a sastojci i kutija koštaju 4 €. Koliki je doprinos pokrića?"
+      },
+      "options": [
+        { "en": "€8", "bs": "8 €" },
+        { "en": "€4", "bs": "4 €" },
+        { "en": "€12", "bs": "12 €" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Contribution margin = price − variable cost per unit = €12 − €4 = €8.",
+        "bs": "Doprinos pokrića = cijena − varijabilni trošak po komadu = 12 € − 4 € = 8 €."
+      }
+    },
+    {
+      "q": {
+        "en": "Each order loses €2 after all costs. What happens if you double sales?",
+        "bs": "Svaka narudžba gubi 2 € nakon svih troškova. Šta se desi ako udvostručiš prodaju?"
+      },
+      "options": [
+        { "en": "The loss doubles", "bs": "Gubitak se udvostruči" },
+        { "en": "Nothing changes", "bs": "Ništa se ne mijenja" },
+        { "en": "You become profitable", "bs": "Postaneš profitabilan" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "With negative unit economics, more volume only means more loss. Fix the unit first.",
+        "bs": "S negativnom ekonomijom po jedinici, veća prodaja znači samo veći gubitak. Prvo popravi jedinicu."
+      }
+    },
+    {
+      "q": {
+        "en": "In Croatia you sell a chair for €100 plus 25% VAT. What is your real revenue?",
+        "bs": "U Hrvatskoj prodaš stolicu za 100 € plus 25% PDV-a. Koliki je tvoj stvarni prihod?"
+      },
+      "options": [
+        { "en": "€75", "bs": "75 €" },
+        { "en": "€100", "bs": "100 €" },
+        { "en": "€125", "bs": "125 €" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "The customer pays €125, but €25 is VAT you collect for the state. Your revenue is €100.",
+        "bs": "Kupac plati 125 €, ali 25 € je PDV koji skupljaš za državu. Tvoj prihod je 100 €."
+      }
+    },
+    {
+      "q": {
+        "en": "Which pricing method starts from what the result is worth to the customer?",
+        "bs": "Koji način određivanja cijene polazi od toga koliko rezultat vrijedi kupcu?"
+      },
+      "options": [
+        { "en": "Cost-plus", "bs": "Trošak plus" },
+        { "en": "Competitor-based", "bs": "Prema konkurenciji" },
+        { "en": "Value-based", "bs": "Prema vrijednosti" }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "Value-based pricing looks at the customer's benefit, not at your cost or rivals' prices.",
+        "bs": "Cijena prema vrijednosti gleda korist za kupca, a ne tvoj trošak ili cijene konkurencije."
+      }
+    }
   ]
 }

@@ -104,5 +104,71 @@
         "mixup": "Doći do tačke pokrića nije uspjeh. To samo znači da još ne gubiš novac."
       }
     }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "A café sells 1,000 coffees at €2. What is its revenue?",
+        "bs": "Kafić proda 1.000 kafa po 2 €. Koliki je prihod?"
+      },
+      "options": [
+        { "en": "It depends on the costs", "bs": "Zavisi od troškova" },
+        { "en": "€2,000", "bs": "2.000 €" },
+        { "en": "€1,000", "bs": "1.000 €" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Revenue is price times units sold, before any costs: 1,000 × €2 = €2,000.",
+        "bs": "Prihod je cijena puta prodana količina, prije troškova: 1.000 × 2 € = 2.000 €."
+      }
+    },
+    {
+      "q": {
+        "en": "A product sells for €10 and costs €6. What is the margin?",
+        "bs": "Proizvod se prodaje za 10 €, a košta 6 €. Kolika je marža?"
+      },
+      "options": [
+        { "en": "67%", "bs": "67%" },
+        { "en": "40%", "bs": "40%" },
+        { "en": "60%", "bs": "60%" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Margin compares profit to price: (10 − 6) ÷ 10 = 40%. 67% would be the markup on cost.",
+        "bs": "Marža poredi zaradu s cijenom: (10 − 6) ÷ 10 = 40%. 67% bi bio markup na trošak."
+      }
+    },
+    {
+      "q": {
+        "en": "Fixed costs are €3,000 a month. Each item sells for €25 and costs €10 to make. How many must you sell to break even?",
+        "bs": "Fiksni troškovi su 3.000 € mjesečno. Komad se prodaje za 25 €, a pravi za 10 €. Koliko moraš prodati da dođeš do praga rentabilnosti?"
+      },
+      "options": [
+        { "en": "300", "bs": "300" },
+        { "en": "200", "bs": "200" },
+        { "en": "120", "bs": "120" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Each sale leaves €15 to cover fixed costs. €3,000 ÷ €15 = 200 items.",
+        "bs": "Svaka prodaja ostavi 15 € za fiksne troškove. 3.000 € ÷ 15 € = 200 komada."
+      }
+    },
+    {
+      "q": { "en": "Which statement about costs is true?", "bs": "Koja tvrdnja o troškovima je tačna?" },
+      "options": [
+        { "en": "Costs do not affect profit", "bs": "Troškovi ne utiču na dobit" },
+        {
+          "en": "Some costs, like good ads, can bring in more revenue",
+          "bs": "Neki troškovi, npr. dobre reklame, mogu donijeti više prihoda"
+        },
+        { "en": "Every cost is bad for a business", "bs": "Svaki trošak je loš za firmu" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Costs reduce profit, but smart spending can bring back more money than it costs.",
+        "bs": "Troškovi smanjuju dobit, ali pametno trošenje može vratiti više nego što košta."
+      }
+    }
   ]
 }

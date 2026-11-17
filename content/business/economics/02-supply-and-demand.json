@@ -1,0 +1,213 @@
+{
+  "slug": "supply-and-demand",
+  "title": { "en": "Supply & demand", "bs": "Ponuda i potražnja" },
+  "summary": {
+    "en": "Why prices go up and down, and how buyers and sellers meet in the middle.",
+    "bs": "Zašto cijene rastu i padaju i kako se kupci i prodavci nađu na sredini."
+  },
+  "concepts": [
+    {
+      "slug": "demand",
+      "term": "Demand",
+      "local": "potražnja",
+      "minutes": 5,
+      "youtube": "g9L5gu6eA-A",
+      "youtubeQuery": "law of demand explained simply",
+      "related": ["Supply", "Price elasticity", "Market price"],
+      "en": {
+        "one": "Demand is how much of something people want to buy at each price.",
+        "explain": "Usually, the lower the price, the more people buy, and the higher the price, the less they buy. This is the law of demand. Demand also changes with income, fashion, season and the prices of other products.",
+        "example": "Ice cream at €1 sells 500 scoops a day; at €3 it sells 150. In a heatwave, demand rises at every price.",
+        "why": "Knowing your demand tells you how much a price change will help or hurt your sales.",
+        "mixup": "A change in price moves you along demand. A change in taste or income shifts the whole demand up or down."
+      },
+      "bs": {
+        "one": "Demand (potražnja) je koliko nečega ljudi žele kupiti po svakoj cijeni.",
+        "explain": "Obično, što je cijena niža, ljudi kupe više, a što je viša, kupe manje. To je zakon potražnje. Potražnja se mijenja i s prihodima, modom, sezonom i cijenama drugih proizvoda.",
+        "example": "Sladoled po 1 € proda 500 kugli dnevno; po 3 € proda 150. U toplotnom talasu potražnja raste po svakoj cijeni.",
+        "why": "Kad znaš svoju potražnju, znaš koliko će ti promjena cijene pomoći ili odmoći prodaji.",
+        "mixup": "Promjena cijene te pomjera duž potražnje. Promjena ukusa ili prihoda pomjera cijelu potražnju gore ili dolje."
+      }
+    },
+    {
+      "slug": "supply",
+      "term": "Supply",
+      "local": "ponuda",
+      "minutes": 5,
+      "youtube": "3JuOdKlVhBk",
+      "youtubeQuery": "law of supply explained simply",
+      "related": ["Demand", "Market price", "Marginal thinking"],
+      "en": {
+        "one": "Supply is how much of something sellers are willing to offer at each price.",
+        "explain": "Usually, higher prices make sellers offer more, because it is worth producing more. Supply also changes with costs, technology, weather and the number of sellers.",
+        "example": "When olive oil prices rise, farmers harvest more carefully and new producers enter. A bad harvest cuts supply at every price.",
+        "why": "Supply explains why prices of raw materials and goods you buy move, and why shortages happen.",
+        "mixup": "Higher prices do not create supply overnight. Building a factory or planting trees takes time."
+      },
+      "bs": {
+        "one": "Supply (ponuda) je koliko nečega prodavci žele ponuditi po svakoj cijeni.",
+        "explain": "Obično, više cijene tjeraju prodavce da ponude više, jer se isplati proizvoditi više. Ponuda se mijenja i s troškovima, tehnologijom, vremenom i brojem prodavaca.",
+        "example": "Kad cijena maslinovog ulja raste, poljoprivrednici pažljivije beru, a ulaze i novi proizvođači. Loša berba smanji ponudu po svakoj cijeni.",
+        "why": "Ponuda objašnjava zašto se mijenjaju cijene sirovina i robe koju kupuješ i zašto nastaju nestašice.",
+        "mixup": "Više cijene ne stvore ponudu preko noći. Gradnja fabrike ili sadnja drveća traži vrijeme."
+      }
+    },
+    {
+      "slug": "market-price",
+      "term": "Market price",
+      "local": "tržišna (ravnotežna) cijena",
+      "minutes": 5,
+      "youtube": "kIFBaaPJUO0",
+      "youtubeQuery": "market equilibrium price explained simply",
+      "related": ["Demand", "Supply", "Shortage & surplus"],
+      "en": {
+        "one": "The market price is where the amount buyers want equals the amount sellers offer.",
+        "explain": "If the price is too high, goods pile up unsold and sellers cut prices. If it is too low, goods run out and sellers raise prices. Over time the price settles where both sides match. Economists call this equilibrium.",
+        "example": "At €5 a kilo, a market has more strawberries than buyers by noon, so sellers drop to €4 and sell out by evening.",
+        "why": "It explains why you cannot just choose any price: the market pushes back.",
+        "mixup": "Equilibrium is not fixed. When demand or supply changes, the market price moves to a new point."
+      },
+      "bs": {
+        "one": "Market price (tržišna cijena) je tačka gdje je količina koju kupci žele jednaka količini koju prodavci nude.",
+        "explain": "Ako je cijena previsoka, roba se gomila neprodana i prodavci spuštaju cijene. Ako je preniska, roba nestane i prodavci dižu cijene. Vremenom se cijena smiri gdje se obje strane slažu. Ekonomisti to zovu ravnoteža.",
+        "example": "Po 5 € za kilo, pijaca do podne ima više jagoda nego kupaca, pa prodavci spuste na 4 € i rasprodaju do večeri.",
+        "why": "Objašnjava zašto ne možeš izabrati bilo koju cijenu: tržište se odupire.",
+        "mixup": "Ravnoteža nije fiksna. Kad se promijeni potražnja ili ponuda, cijena se pomjeri na novu tačku."
+      }
+    },
+    {
+      "slug": "price-elasticity",
+      "term": "Price elasticity",
+      "local": "cjenovna elastičnost",
+      "minutes": 6,
+      "youtube": "uRczzMfEYd0",
+      "youtubeQuery": "price elasticity of demand explained simply",
+      "related": ["Demand", "Pricing strategies", "Substitutes & complements"],
+      "en": {
+        "one": "Price elasticity tells you how strongly buyers react when the price changes.",
+        "explain": "If a small price rise makes many people stop buying, demand is elastic. If people keep buying almost the same amount, it is inelastic. Things with many alternatives are elastic; necessities and habits are inelastic.",
+        "example": "A 10% rise in the price of one brand of cola cuts its sales by 25% (elastic: people switch). A 10% rise in fuel prices cuts sales by only 2% (inelastic: people still need to drive).",
+        "why": "It tells you whether raising the price will bring in more money or less.",
+        "mixup": "Inelastic does not mean people will pay anything. Push far enough and even necessities find substitutes."
+      },
+      "bs": {
+        "one": "Price elasticity (cjenovna elastičnost) govori koliko jako kupci reaguju kad se cijena promijeni.",
+        "explain": "Ako malo poskupljenje natjera mnogo ljudi da prestanu kupovati, potražnja je elastična. Ako ljudi kupuju skoro istu količinu, neelastična je. Stvari s mnogo zamjena su elastične; potrepštine i navike su neelastične.",
+        "example": "Poskupljenje jedne marke kole za 10% smanji njenu prodaju za 25% (elastično: ljudi pređu na drugu). Poskupljenje goriva za 10% smanji prodaju samo za 2% (neelastično: ljudi i dalje moraju voziti).",
+        "why": "Govori ti da li će poskupljenje donijeti više ili manje novca.",
+        "mixup": "Neelastično ne znači da će ljudi platiti bilo koliko. Ako pretjeraš, i za potrepštine se nađe zamjena."
+      }
+    },
+    {
+      "slug": "substitutes-complements",
+      "term": "Substitutes & complements",
+      "local": "supstituti i komplementi",
+      "minutes": 4,
+      "youtube": "qoRbkJbmpIc",
+      "youtubeQuery": "substitutes and complements economics explained",
+      "related": ["Demand", "Price elasticity", "Competition"],
+      "en": {
+        "one": "Substitutes are products used instead of each other. Complements are products used together.",
+        "explain": "Coffee and tea are substitutes: when coffee gets expensive, tea sells more. Printers and ink are complements: cheaper printers mean more ink sold. Knowing these links helps you predict how other prices affect your sales.",
+        "example": "When train tickets get cheaper, bus companies lose passengers (substitutes). When game consoles get cheaper, game sales rise (complements).",
+        "why": "Your competitors are not only businesses like yours, but every substitute your customers might choose.",
+        "mixup": "Substitutes do not have to look alike. A cinema competes with streaming, restaurants and a night out."
+      },
+      "bs": {
+        "one": "Substitutes (supstituti) su proizvodi koji se koriste umjesto jedan drugog. Complements (komplementi) se koriste zajedno.",
+        "explain": "Kafa i čaj su supstituti: kad kafa poskupi, čaja se prodaje više. Printeri i tinta su komplementi: jeftiniji printeri znače više prodane tinte. Kad znaš te veze, lakše predviđaš kako druge cijene utiču na tvoju prodaju.",
+        "example": "Kad karte za voz pojeftine, autobuske firme gube putnike (supstituti). Kad konzole pojeftine, prodaja igrica raste (komplementi).",
+        "why": "Tvoji konkurenti nisu samo firme poput tvoje, nego svaka zamjena koju kupci mogu izabrati.",
+        "mixup": "Supstituti ne moraju izgledati slično. Kino se takmiči sa streamingom, restoranima i izlaskom."
+      }
+    },
+    {
+      "slug": "shortage-surplus",
+      "term": "Shortage & surplus",
+      "local": "nestašica i višak",
+      "minutes": 4,
+      "youtube": "RBGHmCIBr9M",
+      "youtubeQuery": "shortage and surplus price controls explained",
+      "related": ["Market price", "Supply", "Government regulation"],
+      "en": {
+        "one": "A shortage is when buyers want more than sellers offer at the current price. A surplus is the opposite.",
+        "explain": "Shortages happen when the price is held below the market price, for example by law or by a slow seller. Surpluses happen when the price is held above it. A price cap on bread can lead to empty shelves; a guaranteed high price for milk can lead to unsold milk.",
+        "example": "A concert sells tickets at €30 when fans would pay €80. Tickets sell out in minutes and resellers charge €150: a shortage.",
+        "why": "It explains queues, empty shelves, piles of unsold stock and why fixing prices often backfires.",
+        "mixup": "A shortage is not always a lack of goods in the world. Often the price is just set too low."
+      },
+      "bs": {
+        "one": "Shortage (nestašica) je kad kupci žele više nego što prodavci nude po trenutnoj cijeni. Surplus (višak) je suprotno.",
+        "explain": "Nestašice nastaju kad se cijena drži ispod tržišne, npr. zakonom ili zbog sporog prodavca. Viškovi nastaju kad se drži iznad nje. Ograničena cijena hljeba može dovesti do praznih polica; garantovana visoka cijena mlijeka do neprodanog mlijeka.",
+        "example": "Koncert prodaje karte po 30 €, a fanovi bi platili 80 €. Karte se rasprodaju za nekoliko minuta, a preprodavci traže 150 €: nestašica.",
+        "why": "Objašnjava redove, prazne police, gomile neprodane robe i zašto određivanje cijena često ima suprotan efekat.",
+        "mixup": "Nestašica nije uvijek manjak robe na svijetu. Često je cijena samo postavljena prenisko."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "A bad harvest hits olive groves. What usually happens to olive oil prices?",
+        "bs": "Loša berba pogodi maslinike. Šta se obično desi s cijenom maslinovog ulja?"
+      },
+      "options": [
+        { "en": "They stay the same", "bs": "Ostaju iste" },
+        { "en": "They fall", "bs": "Padaju" },
+        { "en": "They rise", "bs": "Rastu" }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "Supply falls at every price, so the market price moves up.",
+        "bs": "Ponuda pada po svakoj cijeni, pa tržišna cijena raste."
+      }
+    },
+    {
+      "q": {
+        "en": "A 10% price rise cuts your sales by only 2%. Your demand is…",
+        "bs": "Poskupljenje od 10% smanji prodaju samo za 2%. Tvoja potražnja je…"
+      },
+      "options": [
+        { "en": "elastic", "bs": "elastična" },
+        { "en": "inelastic", "bs": "neelastična" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Buyers barely react to the price change, which means inelastic demand.",
+        "bs": "Kupci jedva reaguju na promjenu cijene, a to znači neelastična potražnja."
+      }
+    },
+    {
+      "q": {
+        "en": "Printers get much cheaper. What likely happens to ink sales?",
+        "bs": "Printeri jako pojeftine. Šta se vjerovatno desi s prodajom tinte?"
+      },
+      "options": [
+        { "en": "They fall, because ink is a substitute", "bs": "Pada, jer je tinta supstitut" },
+        { "en": "Nothing", "bs": "Ništa" },
+        { "en": "They rise, because ink is a complement", "bs": "Raste, jer je tinta komplement" }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "Complements are used together: more printers means more ink.",
+        "bs": "Komplementi se koriste zajedno: više printera znači više tinte."
+      }
+    },
+    {
+      "q": {
+        "en": "A government caps bread prices well below the market price. What is the most likely result?",
+        "bs": "Vlada ograniči cijenu hljeba daleko ispod tržišne. Šta je najvjerovatniji rezultat?"
+      },
+      "options": [
+        { "en": "A shortage of bread", "bs": "Nestašica hljeba" },
+        { "en": "A surplus of bread", "bs": "Višak hljeba" },
+        { "en": "No change", "bs": "Nema promjene" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "At a too-low price buyers want more than bakers will make, so shelves empty.",
+        "bs": "Po preniskoj cijeni kupci žele više nego što pekari žele napraviti, pa se police isprazne."
+      }
+    }
+  ]
+}

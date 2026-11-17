@@ -125,5 +125,92 @@
         "mixup": "Razvodnjavanje ne znači uvijek da si izgubio novac. Loše je samo ako vrijednost firme ne naraste dovoljno da to nadoknadi."
       }
     }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "What is the main cost of equity financing?",
+        "bs": "Koji je glavni trošak finansiranja kapitalom?"
+      },
+      "options": [
+        {
+          "en": "Giving away part of the ownership and future profits",
+          "bs": "Davanje dijela vlasništva i buduće dobiti"
+        },
+        { "en": "It has no cost", "bs": "Nema troška" },
+        { "en": "Monthly interest payments", "bs": "Mjesečne kamate" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Investors get a share of the business forever instead of interest.",
+        "bs": "Investitori dobiju udio u firmi zauvijek umjesto kamate."
+      }
+    },
+    {
+      "q": {
+        "en": "A company is funded half by a 6% loan and half by owners expecting 14%. Roughly what is its cost of capital?",
+        "bs": "Firma je finansirana pola kreditom uz 6%, a pola novcem vlasnika koji očekuju 14%. Otprilike koliki je trošak kapitala?"
+      },
+      "options": [
+        { "en": "6%", "bs": "6%" },
+        { "en": "20%", "bs": "20%" },
+        { "en": "10%", "bs": "10%" }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "The weighted average of 6% and 14% at 50/50 is 10% (before tax effects).",
+        "bs": "Ponderisani prosjek 6% i 14% u omjeru 50/50 je 10% (prije poreskih efekata)."
+      }
+    },
+    {
+      "q": {
+        "en": "An investor puts €200,000 into a startup valued at €800,000 pre-money. What share do they get?",
+        "bs": "Investitor uloži 200.000 € u startup procijenjen na 800.000 € prije ulaganja. Koliki udio dobije?"
+      },
+      "options": [
+        { "en": "25%", "bs": "25%" },
+        { "en": "20%", "bs": "20%" },
+        { "en": "200%", "bs": "200%" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Post-money is €1,000,000. 200,000 ÷ 1,000,000 = 20%.",
+        "bs": "Vrijednost poslije ulaganja je 1.000.000 €. 200.000 ÷ 1.000.000 = 20%."
+      }
+    },
+    {
+      "q": {
+        "en": "Your ownership drops from 100% to 80% after an investment. Did you necessarily lose money?",
+        "bs": "Tvoje vlasništvo padne sa 100% na 80% nakon ulaganja. Da li si nužno izgubio novac?"
+      },
+      "options": [
+        {
+          "en": "No, not if the company's value grew enough",
+          "bs": "Ne, ako je vrijednost firme dovoljno porasla"
+        },
+        { "en": "Yes, always", "bs": "Da, uvijek" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Dilution shrinks your slice, but a bigger pie can make that slice worth the same or more.",
+        "bs": "Razvodnjavanje smanji tvoj komad, ali veća pita može učiniti da taj komad vrijedi isto ili više."
+      }
+    },
+    {
+      "q": { "en": "What does bootstrapping mean?", "bs": "Šta znači bootstrapping?" },
+      "options": [
+        { "en": "Taking a very large bank loan", "bs": "Uzeti jako veliki kredit" },
+        {
+          "en": "Growing with your own savings and customer money, without investors or loans",
+          "bs": "Rasti vlastitom ušteđevinom i novcem kupaca, bez investitora i kredita"
+        },
+        { "en": "Selling the business early", "bs": "Rano prodati firmu" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Bootstrapped founders keep full ownership but grow from their own money and sales.",
+        "bs": "Osnivači koji se samofinansiraju zadržavaju cijelo vlasništvo, ali rastu iz vlastitog novca i prodaje."
+      }
+    }
   ]
 }

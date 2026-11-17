@@ -1,0 +1,235 @@
+{
+  "slug": "receivables-payables",
+  "title": { "en": "Receivables, payables & liquidity", "bs": "Potraživanja, obaveze i likvidnost" },
+  "summary": {
+    "en": "Money others owe you, money you owe others, and whether you can pay your bills on time.",
+    "bs": "Novac koji ti drugi duguju, novac koji ti duguješ drugima i možeš li plaćati račune na vrijeme."
+  },
+  "concepts": [
+    {
+      "slug": "invoice",
+      "term": "Invoice",
+      "local": "faktura, račun",
+      "minutes": 4,
+      "youtube": "_kktfbBilPs",
+      "youtubeQuery": "what is an invoice explained",
+      "related": ["Accounts receivable", "Payment terms", "Source documents"],
+      "en": {
+        "one": "An invoice is the official bill you send a customer for what you delivered.",
+        "explain": "It shows who sells and who buys, an invoice number, the date, what was delivered, prices, VAT and the payment deadline. In Croatia invoices are being moved to electronic e-invoices (e-račun) under the fiscalization rules.",
+        "example": "A plumber invoices a client: invoice 2025-042, 3 hours work €120, parts €60, VAT 25% €45, total €225, due in 15 days.",
+        "why": "No invoice, no proof. It is what you use to get paid, to record the sale and to pay the right VAT.",
+        "mixup": "An invoice is not a receipt. An invoice asks for payment; a receipt proves payment was made."
+      },
+      "bs": {
+        "one": "Invoice (faktura) je službeni račun koji šalješ kupcu za ono što si isporučio.",
+        "explain": "Pokazuje ko prodaje i ko kupuje, broj fakture, datum, šta je isporučeno, cijene, PDV i rok plaćanja. U Hrvatskoj fakture prelaze na elektronske e-račune po pravilima fiskalizacije.",
+        "example": "Vodoinstalater fakturiše klijentu: faktura 2025-042, 3 sata rada 120 €, dijelovi 60 €, PDV 25% 45 €, ukupno 225 €, rok 15 dana.",
+        "why": "Nema fakture, nema dokaza. Njome tražiš novac, bilježiš prodaju i plaćaš tačan PDV.",
+        "mixup": "Faktura nije priznanica. Faktura traži uplatu; priznanica dokazuje da je plaćeno."
+      }
+    },
+    {
+      "slug": "accounts-receivable",
+      "term": "Accounts receivable",
+      "local": "potraživanja od kupaca",
+      "minutes": 5,
+      "youtube": "dcKm2vm_R7g",
+      "youtubeQuery": "accounts receivable explained simply",
+      "related": ["Invoice", "Bad debt", "Cash conversion cycle"],
+      "en": {
+        "one": "Accounts receivable is the money customers owe you for things you already delivered.",
+        "explain": "When you sell on credit ('pay in 30 days'), you record the sale and a receivable. When the customer pays, the receivable turns into cash. It is an asset, but only if the customer actually pays.",
+        "example": "You deliver furniture worth €8,000 to a hotel with 60 days to pay. For those 60 days, €8,000 sits in receivables, not in your bank.",
+        "why": "Receivables that grow faster than sales are a warning: customers are paying slower, and you may run short of cash.",
+        "mixup": "A big receivables number is not money you can spend. You cannot pay wages with invoices."
+      },
+      "bs": {
+        "one": "Accounts receivable (potraživanja od kupaca) je novac koji ti kupci duguju za stvari koje si već isporučio.",
+        "explain": "Kad prodaješ na odgodu ('plaćanje za 30 dana'), bilježiš prodaju i potraživanje. Kad kupac plati, potraživanje postaje novac. To je imovina, ali samo ako kupac zaista plati.",
+        "example": "Isporučiš hotelu namještaj vrijedan 8.000 € s rokom plaćanja 60 dana. Tih 60 dana 8.000 € stoji u potraživanjima, a ne u tvojoj banci.",
+        "why": "Potraživanja koja rastu brže od prodaje su upozorenje: kupci plaćaju sporije i može ti ponestati novca.",
+        "mixup": "Veliko potraživanje nije novac koji možeš potrošiti. Plate ne možeš platiti fakturama."
+      }
+    },
+    {
+      "slug": "payment-terms",
+      "term": "Payment terms",
+      "local": "uslovi i rokovi plaćanja",
+      "minutes": 4,
+      "youtube": "GCNOtc_FJqc",
+      "youtubeQuery": "payment terms net 30 explained",
+      "related": ["Invoice", "Accounts receivable", "Cash flow"],
+      "en": {
+        "one": "Payment terms are the agreed rules for when and how an invoice must be paid.",
+        "explain": "'Net 30' means pay within 30 days. Some sellers offer a small discount for early payment, like 2% off if paid within 10 days. Late payment can mean interest or a stop on new deliveries.",
+        "example": "You invoice €10,000 with '2/10, net 30'. If the client pays in 10 days they pay €9,800; otherwise the full €10,000 by day 30.",
+        "why": "Shorter terms for customers and longer terms with suppliers leave more cash in your business.",
+        "mixup": "Terms on paper are not the same as what really happens. Track how long customers actually take to pay."
+      },
+      "bs": {
+        "one": "Payment terms (uslovi plaćanja) su dogovorena pravila kada i kako se faktura mora platiti.",
+        "explain": "'Net 30' znači plati u roku od 30 dana. Neki prodavci daju mali popust za ranije plaćanje, npr. 2% ako se plati u 10 dana. Kašnjenje može značiti zateznu kamatu ili prestanak isporuka.",
+        "example": "Fakturišeš 10.000 € uz '2/10, net 30'. Ako klijent plati u 10 dana, plaća 9.800 €; inače punih 10.000 € do 30. dana.",
+        "why": "Kraći rokovi za kupce i duži s dobavljačima ostavljaju više novca u tvojoj firmi.",
+        "mixup": "Rokovi na papiru nisu isto što i stvarnost. Prati koliko kupcima zaista treba da plate."
+      }
+    },
+    {
+      "slug": "bad-debt",
+      "term": "Bad debt",
+      "local": "nenaplativa potraživanja",
+      "minutes": 4,
+      "youtube": "y69WDjqpeCc",
+      "youtubeQuery": "bad debt expense explained simply",
+      "related": ["Accounts receivable", "Net profit", "Red flags in a financial report"],
+      "en": {
+        "one": "Bad debt is money a customer owes you that you will probably never get.",
+        "explain": "When a customer goes bankrupt or simply never pays, the receivable is no longer a real asset. You remove it from receivables and record it as a cost. Careful businesses also set aside an estimate for invoices that might go bad.",
+        "example": "A client owing €1,500 closes down. You write off €1,500 as a bad debt cost, and your profit drops by the same amount.",
+        "why": "Every sale you never get paid for is pure loss: you paid for the materials and the work and got nothing.",
+        "mixup": "Writing off a bad debt does not mean you stop trying to collect. If the money comes later, you record it as income then."
+      },
+      "bs": {
+        "one": "Bad debt (nenaplativo potraživanje) je novac koji ti kupac duguje, a koji vjerovatno nikad nećeš dobiti.",
+        "explain": "Kad kupac bankrotira ili jednostavno nikad ne plati, potraživanje više nije prava imovina. Skineš ga s potraživanja i zabilježiš kao trošak. Oprezne firme unaprijed izdvoje procjenu za fakture koje bi mogle propasti.",
+        "example": "Klijent koji duguje 1.500 € zatvori firmu. Otpišeš 1.500 € kao trošak nenaplativog potraživanja i dobit ti padne za isti iznos.",
+        "why": "Svaka prodaja koja ti nikad nije plaćena je čist gubitak: platio si materijal i rad, a nisi dobio ništa.",
+        "mixup": "Otpis ne znači da prestaješ pokušavati naplatiti. Ako novac stigne kasnije, tada ga zabilježiš kao prihod."
+      }
+    },
+    {
+      "slug": "accounts-payable",
+      "term": "Accounts payable",
+      "local": "obaveze prema dobavljačima",
+      "minutes": 5,
+      "youtube": "AuT0PpQU34Q",
+      "youtubeQuery": "accounts payable explained simply",
+      "related": ["Accounts receivable", "Liability", "Payment terms"],
+      "en": {
+        "one": "Accounts payable is the money you owe suppliers for things you already received.",
+        "explain": "When a supplier delivers and gives you 30 days to pay, you record the cost (or stock) and a payable. When you pay, the payable and your cash both go down. It is a liability.",
+        "example": "A restaurant receives €2,000 of food on 1 May with 30 days to pay. Until 31 May, €2,000 sits in payables.",
+        "why": "Paying suppliers on time keeps good prices and trust. Paying exactly on the due date, not early, keeps cash in your business longer.",
+        "mixup": "Lots of payables is not automatically bad. It can simply mean suppliers trust you with good terms. It is bad when bills go overdue."
+      },
+      "bs": {
+        "one": "Accounts payable (obaveze prema dobavljačima) je novac koji duguješ dobavljačima za stvari koje si već primio.",
+        "explain": "Kad dobavljač isporuči i da ti 30 dana za plaćanje, bilježiš trošak (ili zalihu) i obavezu. Kad platiš, smanje se i obaveza i tvoj novac. To je obaveza (pasiva).",
+        "example": "Restoran 1. maja primi hranu za 2.000 € s rokom 30 dana. Do 31. maja 2.000 € stoji u obavezama.",
+        "why": "Plaćanje na vrijeme čuva dobre cijene i povjerenje. Plaćanje tačno na rok, a ne ranije, duže drži novac u firmi.",
+        "mixup": "Mnogo obaveza nije automatski loše. Može značiti da ti dobavljači vjeruju i daju dobre rokove. Loše je kad računi kasne."
+      }
+    },
+    {
+      "slug": "liquidity",
+      "term": "Liquidity",
+      "local": "likvidnost",
+      "minutes": 5,
+      "youtube": "dcDDTkQXt74",
+      "youtubeQuery": "liquidity explained simply business",
+      "related": ["Current ratio", "Working capital", "Cash flow"],
+      "en": {
+        "one": "Liquidity is how easily a business can pay its bills on time, with cash it has or can get quickly.",
+        "explain": "Cash is the most liquid thing. Money customers owe you soon is quite liquid. Stock, machines and buildings are less liquid, because turning them into cash takes time or a lower price. A business with good liquidity is never forced to panic-sell or miss wages.",
+        "example": "Two shops each own €100,000 of stuff. Shop A has €30,000 in cash; Shop B has €2,000 in cash and the rest in stock. If a €10,000 tax bill arrives tomorrow, only Shop A is fine.",
+        "why": "Profitable businesses go bankrupt when they run out of liquidity. It is the oxygen of a business.",
+        "mixup": "Liquid is not the same as rich. A company can own a lot and still be unable to pay next week's bills."
+      },
+      "bs": {
+        "one": "Liquidity (likvidnost) je koliko lako firma može platiti račune na vrijeme, novcem koji ima ili može brzo dobiti.",
+        "explain": "Novac je najlikvidniji. Novac koji ti kupci uskoro duguju je prilično likvidan. Zalihe, mašine i zgrade su manje likvidne, jer njihovo pretvaranje u novac traži vrijeme ili nižu cijenu. Firma s dobrom likvidnošću nikad ne mora u panici prodavati niti kasniti s platama.",
+        "example": "Dvije prodavnice imaju po 100.000 € imovine. A ima 30.000 € u novcu; B ima 2.000 € u novcu, a ostatak u robi. Ako sutra stigne porez od 10.000 €, mirna je samo prodavnica A.",
+        "why": "Profitabilne firme propadaju kad im ponestane likvidnosti. To je kiseonik firme.",
+        "mixup": "Likvidan nije isto što i bogat. Firma može posjedovati mnogo, a ipak ne moći platiti račune iduće sedmice."
+      }
+    },
+    {
+      "slug": "cash-conversion-cycle",
+      "term": "Cash conversion cycle",
+      "local": "ciklus konverzije gotovine",
+      "minutes": 6,
+      "youtube": "C5Ut79jWwHA",
+      "youtubeQuery": "cash conversion cycle explained simply",
+      "formula": {
+        "en": "Days of stock + Days customers take to pay − Days you take to pay suppliers",
+        "bs": "Dani zaliha + Dani naplate − Dani plaćanja dobavljačima"
+      },
+      "related": ["Accounts receivable", "Accounts payable", "Inventory"],
+      "en": {
+        "one": "The cash conversion cycle counts how many days your cash is stuck between paying suppliers and getting paid by customers.",
+        "explain": "Add the days stock sits before it sells and the days customers take to pay, then subtract the days you take to pay suppliers. The shorter the cycle, the less cash you need to run the business.",
+        "example": "Stock sits 40 days, customers pay in 30 and you pay suppliers in 20. Cycle: 40 + 30 − 20 = 50 days of cash tied up.",
+        "why": "Cutting the cycle frees cash without selling a single extra product.",
+        "mixup": "A negative cycle is possible and great. Supermarkets often get paid by shoppers before they pay their suppliers."
+      },
+      "bs": {
+        "one": "Cash conversion cycle (ciklus konverzije gotovine) broji koliko je dana tvoj novac zarobljen između plaćanja dobavljačima i naplate od kupaca.",
+        "explain": "Saberi dane koliko roba stoji prije prodaje i dane koliko kupcima treba da plate, pa oduzmi dane koliko ti treba da platiš dobavljačima. Što je ciklus kraći, to ti treba manje novca za rad firme.",
+        "example": "Roba stoji 40 dana, kupci plaćaju za 30, a ti dobavljačima za 20. Ciklus: 40 + 30 − 20 = 50 dana zarobljenog novca.",
+        "why": "Skraćivanje ciklusa oslobađa novac bez prodaje ijednog dodatnog proizvoda.",
+        "mixup": "Negativan ciklus je moguć i odličan. Supermarketi često dobiju novac od kupaca prije nego što plate dobavljače."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "Stock sits 30 days, customers pay in 45 days, you pay suppliers in 25 days. What is the cash conversion cycle?",
+        "bs": "Roba stoji 30 dana, kupci plaćaju za 45, ti dobavljačima za 25. Koliki je ciklus konverzije gotovine?"
+      },
+      "options": [
+        { "en": "50 days", "bs": "50 dana" },
+        { "en": "100 days", "bs": "100 dana" },
+        { "en": "40 days", "bs": "40 dana" }
+      ],
+      "answer": 0,
+      "explain": { "en": "30 + 45 − 25 = 50 days of cash tied up.", "bs": "30 + 45 − 25 = 50 dana zarobljenog novca." }
+    },
+    {
+      "q": { "en": "Which is an asset?", "bs": "Šta je imovina?" },
+      "options": [
+        { "en": "Accounts payable", "bs": "Obaveze prema dobavljačima" },
+        { "en": "Deferred revenue", "bs": "Odgođeni prihod" },
+        { "en": "Accounts receivable", "bs": "Potraživanja od kupaca" }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "Receivables are money owed to you. Payables and deferred revenue are things you owe.",
+        "bs": "Potraživanja su novac koji tebi duguju. Obaveze i odgođeni prihod su ono što ti duguješ."
+      }
+    },
+    {
+      "q": {
+        "en": "Two firms own the same total assets. Firm A holds more cash; Firm B holds more stock. Which is more liquid?",
+        "bs": "Dvije firme imaju istu ukupnu imovinu. Firma A drži više novca, a firma B više robe. Koja je likvidnija?"
+      },
+      "options": [
+        { "en": "Firm A", "bs": "Firma A" },
+        { "en": "Firm B", "bs": "Firma B" },
+        { "en": "They are equally liquid", "bs": "Jednako su likvidne" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Cash can pay bills right away; stock must be sold first.",
+        "bs": "Novcem se računi mogu platiti odmah; roba se prvo mora prodati."
+      }
+    },
+    {
+      "q": {
+        "en": "A customer who owes you €2,000 goes bankrupt. What do you do in the books?",
+        "bs": "Kupac koji ti duguje 2.000 € bankrotira. Šta radiš u knjigama?"
+      },
+      "options": [
+        { "en": "Write it off as a bad debt cost", "bs": "Otpišeš ga kao trošak nenaplativog potraživanja" },
+        { "en": "Record it as revenue again", "bs": "Ponovo ga zabilježiš kao prihod" },
+        { "en": "Keep it as a receivable", "bs": "Zadržiš ga kao potraživanje" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "A receivable you will not collect is no longer an asset; it becomes a cost.",
+        "bs": "Potraživanje koje nećeš naplatiti više nije imovina; postaje trošak."
+      }
+    }
+  ]
+}
