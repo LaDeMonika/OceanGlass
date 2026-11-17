@@ -1,0 +1,209 @@
+{
+  "slug": "data-basics",
+  "title": { "en": "Data basics", "bs": "Osnove podataka" },
+  "summary": {
+    "en": "What data is, the kinds you'll meet, and why good data beats a lot of data.",
+    "bs": "Šta su podaci, koje vrste ćeš sresti i zašto dobri podaci pobjeđuju mnogo podataka."
+  },
+  "concepts": [
+    {
+      "slug": "data",
+      "term": "Data",
+      "local": "podaci",
+      "minutes": 4,
+      "youtube": "JjajuvuO9t0",
+      "youtubeQuery": "what is data explained simply",
+      "related": ["Variable", "Data quality", "Statistics"],
+      "en": {
+        "one": "Data is recorded facts: numbers, words, dates or clicks that describe what happened.",
+        "explain": "Sales per day, customer ages, reviews, website visits: all data. On its own, data is just a list. It becomes useful when you organise it, summarise it and ask a clear question of it. Statistics is the toolbox for doing that.",
+        "example": "A shop's till records every sale: time, items, price, payment type. That is raw data waiting to answer questions like 'What sells best on Saturdays?'",
+        "why": "Decisions based on data are usually better than decisions based on gut feeling alone.",
+        "mixup": "More data is not automatically better. A small, clean, relevant set often beats a huge messy one."
+      },
+      "bs": {
+        "one": "Data (podaci) su zabilježene činjenice: brojevi, riječi, datumi ili klikovi koji opisuju šta se desilo.",
+        "explain": "Prodaja po danu, dob kupaca, recenzije, posjete sajtu: sve su to podaci. Sami za sebe su samo spisak. Postaju korisni kad ih organizuješ, sažmeš i postaviš im jasno pitanje. Statistika je alat za to.",
+        "example": "Kasa u radnji bilježi svaku prodaju: vrijeme, artikle, cijenu, način plaćanja. To su sirovi podaci koji čekaju pitanja kao 'Šta se najbolje prodaje subotom?'",
+        "why": "Odluke zasnovane na podacima obično su bolje od odluka samo po osjećaju.",
+        "mixup": "Više podataka nije automatski bolje. Mali, čist i relevantan skup često pobijedi ogroman i neuredan."
+      }
+    },
+    {
+      "slug": "data-types",
+      "term": "Quantitative vs. qualitative data",
+      "local": "kvantitativni i kvalitativni podaci",
+      "minutes": 4,
+      "youtube": "4iws9XCyTEk",
+      "youtubeQuery": "quantitative vs qualitative data explained",
+      "related": ["Data", "Variable", "Survey design"],
+      "en": {
+        "one": "Quantitative data is numbers you can count or measure. Qualitative data is descriptions, categories or opinions.",
+        "explain": "Quantitative: price, number of visits, kilograms sold. Qualitative: product colour, city, 'what did you like about the service?'. Numbers tell you how much; words tell you why. Good research usually uses both.",
+        "example": "A hotel sees its rating dropped from 8.9 to 8.1 (quantitative). Reading the comments shows guests complain about noise from a new bar (qualitative).",
+        "why": "Knowing the type tells you which tools to use: averages for numbers, counting and themes for categories and comments.",
+        "mixup": "A number is not always quantitative. Postal codes or phone numbers are labels; averaging them makes no sense."
+      },
+      "bs": {
+        "one": "Quantitative data (kvantitativni podaci) su brojevi koje možeš brojati ili mjeriti. Qualitative data (kvalitativni podaci) su opisi, kategorije ili mišljenja.",
+        "explain": "Kvantitativni: cijena, broj posjeta, prodani kilogrami. Kvalitativni: boja proizvoda, grad, 'šta vam se svidjelo u usluzi?'. Brojevi govore koliko; riječi govore zašto. Dobro istraživanje obično koristi oboje.",
+        "example": "Hotel vidi da mu je ocjena pala s 8,9 na 8,1 (kvantitativno). Čitanje komentara pokaže da se gosti žale na buku iz novog bara (kvalitativno).",
+        "why": "Kad znaš tip, znaš koji alat koristiti: prosjeke za brojeve, brojanje i teme za kategorije i komentare.",
+        "mixup": "Broj nije uvijek kvantitativan. Poštanski brojevi ili brojevi telefona su oznake; njihov prosjek nema smisla."
+      }
+    },
+    {
+      "slug": "population-sample",
+      "term": "Population vs. sample",
+      "local": "populacija i uzorak",
+      "minutes": 4,
+      "youtube": "jPPF2xSEyKU",
+      "youtubeQuery": "population vs sample statistics explained",
+      "related": ["Random sample", "Sample size", "Sampling bias"],
+      "en": {
+        "one": "The population is everyone you want to know about. A sample is the smaller group you actually measure.",
+        "explain": "Asking every customer is usually impossible or too expensive, so you ask some and use them to estimate the whole. The trick is that the sample must look like the population, or your conclusions will be off.",
+        "example": "A bank wants to know how satisfied its 200,000 clients are. It surveys 1,000 of them, chosen at random.",
+        "why": "Almost every business number you read, from polls to market sizes, comes from a sample, so you need to judge how good it was.",
+        "mixup": "A big sample is not automatically a good sample. 10,000 answers from only your happiest customers still mislead."
+      },
+      "bs": {
+        "one": "Population (populacija) su svi o kojima želiš nešto znati. Sample (uzorak) je manja grupa koju stvarno mjeriš.",
+        "explain": "Pitati svakog kupca je obično nemoguće ili preskupo, pa pitaš neke i preko njih procijeniš cjelinu. Trik je da uzorak mora ličiti na populaciju, inače će zaključci biti pogrešni.",
+        "example": "Banka želi znati koliko je zadovoljno njenih 200.000 klijenata. Anketira njih 1.000, izabranih nasumično.",
+        "why": "Skoro svaki poslovni broj koji čitaš, od anketa do veličine tržišta, dolazi iz uzorka, pa moraš procijeniti koliko je dobar.",
+        "mixup": "Velik uzorak nije automatski dobar uzorak. 10.000 odgovora samo od najzadovoljnijih kupaca i dalje vara."
+      }
+    },
+    {
+      "slug": "variable",
+      "term": "Variable",
+      "local": "varijabla",
+      "minutes": 3,
+      "youtube": "mucUkmGTo5o",
+      "youtubeQuery": "what is a variable in statistics explained",
+      "related": ["Data", "Correlation", "Quantitative vs. qualitative data"],
+      "en": {
+        "one": "A variable is any characteristic that can change from one item or person to the next.",
+        "explain": "In a sales table, each column is usually a variable: date, product, price, quantity, city. Each row is one observation, like one sale. Statistics is mostly about how variables behave and how they relate to each other.",
+        "example": "In a customer list, age, city and total spend are variables. One customer's details form one row.",
+        "why": "Thinking in variables helps you set up clean tables and ask sharp questions, like 'Does spend change with age?'",
+        "mixup": "A variable is not the same as a value. 'City' is the variable; 'Tuzla' is one of its values."
+      },
+      "bs": {
+        "one": "Variable (varijabla) je bilo koja osobina koja se može razlikovati od jednog predmeta ili osobe do drugog.",
+        "explain": "U tabeli prodaje svaka kolona je obično varijabla: datum, proizvod, cijena, količina, grad. Svaki red je jedno opažanje, npr. jedna prodaja. Statistika se uglavnom bavi time kako se varijable ponašaju i kako su povezane.",
+        "example": "U spisku kupaca, dob, grad i ukupna potrošnja su varijable. Podaci jednog kupca čine jedan red.",
+        "why": "Razmišljanje u varijablama pomaže ti da napraviš uredne tabele i postaviš oštra pitanja, npr. 'Mijenja li se potrošnja s godinama?'",
+        "mixup": "Varijabla nije isto što i vrijednost. 'Grad' je varijabla; 'Tuzla' je jedna od njenih vrijednosti."
+      }
+    },
+    {
+      "slug": "data-quality",
+      "term": "Data quality",
+      "local": "kvalitet podataka",
+      "minutes": 4,
+      "youtube": "F4wIWLrSJ9I",
+      "youtubeQuery": "data quality explained garbage in garbage out",
+      "related": ["Data", "Outlier", "Sampling bias"],
+      "en": {
+        "one": "Data quality is how accurate, complete, consistent and up to date your data is.",
+        "explain": "Common problems: typos, missing values, duplicates, the same thing written in different ways ('Sarajevo', 'SA', 'sarajevo'), and old records. Any analysis is only as good as the data going in: 'garbage in, garbage out'.",
+        "example": "A customer list has 5,000 rows, but 600 are duplicates. Your 'customer count' is 12% too high.",
+        "why": "Cleaning data before you use it prevents confident but wrong decisions.",
+        "mixup": "Clean-looking numbers are not always correct. A neat spreadsheet can still hold the wrong figures."
+      },
+      "bs": {
+        "one": "Data quality (kvalitet podataka) je koliko su tvoji podaci tačni, potpuni, dosljedni i ažurni.",
+        "explain": "Česti problemi: greške u kucanju, nedostajuće vrijednosti, duplikati, ista stvar napisana na različite načine ('Sarajevo', 'SA', 'sarajevo') i stari zapisi. Svaka analiza je dobra koliko i podaci koji ulaze: 'smeće unutra, smeće vani'.",
+        "example": "Spisak kupaca ima 5.000 redova, ali 600 su duplikati. Tvoj 'broj kupaca' je 12% previsok.",
+        "why": "Čišćenje podataka prije korištenja sprečava sigurne, ali pogrešne odluke.",
+        "mixup": "Uredni brojevi nisu uvijek tačni. Lijepa tabela i dalje može sadržati pogrešne podatke."
+      }
+    },
+    {
+      "slug": "spreadsheet-basics",
+      "term": "Tables & spreadsheets",
+      "local": "tabele i spreadsheet",
+      "minutes": 5,
+      "youtube": "3Csc3AKD5p0",
+      "youtubeQuery": "excel basics for beginners data table",
+      "related": ["Variable", "Data quality", "Dashboard"],
+      "en": {
+        "one": "A spreadsheet like Excel or Google Sheets is the everyday tool for storing, cleaning and analysing business data.",
+        "explain": "Keep one table per topic: one row per item (e.g. one sale), one column per variable, a clear header row, and no merged cells or totals mixed into the data. Then sorting, filtering, formulas like SUM and AVERAGE, and pivot tables become easy.",
+        "example": "A café keeps a sheet with date, product, quantity and price. A pivot table shows in seconds which product earns most per weekday.",
+        "why": "Most small-business analysis never needs more than a well-organised spreadsheet.",
+        "mixup": "A spreadsheet is not a database. With many users or millions of rows, mistakes creep in; that's when you need proper software."
+      },
+      "bs": {
+        "one": "Spreadsheet, kao Excel ili Google Sheets, je svakodnevni alat za čuvanje, čišćenje i analizu poslovnih podataka.",
+        "explain": "Drži jednu tabelu po temi: jedan red po stavci (npr. jedna prodaja), jedna kolona po varijabli, jasan red zaglavlja i bez spojenih ćelija ili zbirova pomiješanih s podacima. Onda su sortiranje, filtriranje, formule kao SUM i AVERAGE i pivot tabele lake.",
+        "example": "Kafić vodi tabelu s datumom, proizvodom, količinom i cijenom. Pivot tabela za par sekundi pokaže koji proizvod najviše zarađuje po danu u sedmici.",
+        "why": "Većini analiza u malim firmama nikad ne treba više od dobro organizovane tabele.",
+        "mixup": "Spreadsheet nije baza podataka. S mnogo korisnika ili milionima redova, greške se uvuku; tada ti treba pravi softver."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "Customer comments like 'the staff were rude' are…",
+        "bs": "Komentari kupaca kao 'osoblje je bilo neljubazno' su…"
+      },
+      "options": [
+        { "en": "Quantitative data", "bs": "Kvantitativni podaci" },
+        { "en": "Qualitative data", "bs": "Kvalitativni podaci" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "They are words and opinions, not counts or measurements.",
+        "bs": "To su riječi i mišljenja, a ne brojanja ili mjerenja."
+      }
+    },
+    {
+      "q": {
+        "en": "A bank surveys 1,000 of its 200,000 clients. The 1,000 are…",
+        "bs": "Banka anketira 1.000 od svojih 200.000 klijenata. Tih 1.000 su…"
+      },
+      "options": [
+        { "en": "A sample", "bs": "Uzorak" },
+        { "en": "The population", "bs": "Populacija" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "The population is all 200,000; the 1,000 measured are a sample.",
+        "bs": "Populacija su svih 200.000; izmjerenih 1.000 su uzorak."
+      }
+    },
+    {
+      "q": {
+        "en": "5,000 customer rows include 600 duplicates. How many real customers are there?",
+        "bs": "5.000 redova kupaca uključuje 600 duplikata. Koliko je stvarnih kupaca?"
+      },
+      "options": [
+        { "en": "5,600", "bs": "5.600" },
+        { "en": "5,000", "bs": "5.000" },
+        { "en": "4,400", "bs": "4.400" }
+      ],
+      "answer": 2,
+      "explain": { "en": "Remove the duplicates: 5,000 − 600 = 4,400.", "bs": "Ukloni duplikate: 5.000 − 600 = 4.400." }
+    },
+    {
+      "q": {
+        "en": "In a well-built sales table, what is one row?",
+        "bs": "U dobro napravljenoj tabeli prodaje, šta je jedan red?"
+      },
+      "options": [
+        { "en": "A monthly total", "bs": "Mjesečni zbir" },
+        { "en": "One sale", "bs": "Jedna prodaja" },
+        { "en": "One variable", "bs": "Jedna varijabla" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Rows are observations; columns are variables. Totals belong in a separate summary.",
+        "bs": "Redovi su opažanja; kolone su varijable. Zbirovi idu u poseban pregled."
+      }
+    }
+  ]
+}

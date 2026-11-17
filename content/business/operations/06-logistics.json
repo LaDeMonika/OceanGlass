@@ -1,0 +1,214 @@
+{
+  "slug": "logistics",
+  "title": { "en": "Logistics and sourcing", "bs": "Logistika i izvori nabavke" },
+  "summary": {
+    "en": "Storing and moving goods, and deciding what to do yourself and what to buy in.",
+    "bs": "Skladištenje i prevoz robe, i odluka šta raditi sam a šta kupiti od drugih."
+  },
+  "concepts": [
+    {
+      "slug": "warehouse",
+      "term": "Warehouse and fulfilment",
+      "local": "skladište i ispunjenje narudžbi",
+      "minutes": 4,
+      "youtube": "YjYJTrldJsQ",
+      "youtubeQuery": "warehouse fulfillment process explained",
+      "related": ["Inventory", "Last-mile delivery", "Five S"],
+      "en": {
+        "one": "A warehouse stores goods. Fulfilment is the work of receiving orders, picking, packing and shipping them.",
+        "explain": "A good warehouse has a clear location for every item, fast movers near packing, regular stock counts and a system that knows what's where. Small online shops often use a fulfilment company (3PL) instead of their own warehouse.",
+        "example": "An online cosmetics shop moves its stock to a 3PL warehouse. The 3PL packs and ships every order the same day, while the owner focuses on marketing.",
+        "why": "Fast, accurate fulfilment is what customers experience after they click 'buy'.",
+        "mixup": "More space isn't the answer to a messy warehouse. Better layout and fewer slow-moving items usually help more."
+      },
+      "bs": {
+        "one": "Warehouse (skladište) čuva robu. Fulfilment (ispunjenje narudžbi) je posao primanja narudžbi, prikupljanja, pakovanja i slanja.",
+        "explain": "Dobro skladište ima jasnu lokaciju za svaki artikal, brzoprodajuće artikle blizu pakovanja, redovne inventure i sistem koji zna šta je gdje. Male online prodavnice često koriste firmu za fulfilment (3PL) umjesto vlastitog skladišta.",
+        "example": "Online prodavnica kozmetike premjesti zalihe u 3PL skladište. 3PL pakuje i šalje svaku narudžbu isti dan, a vlasnica se fokusira na marketing.",
+        "why": "Brzo i tačno ispunjenje narudžbi je ono što kupac doživi nakon što klikne 'kupi'.",
+        "mixup": "Više prostora nije rješenje za neuredno skladište. Bolji raspored i manje artikala koji se sporo prodaju obično pomažu više."
+      }
+    },
+    {
+      "slug": "incoterms",
+      "term": "Incoterms",
+      "local": "Incoterms, međunarodni uslovi isporuke",
+      "minutes": 5,
+      "youtube": "4LuSSdzK6aM",
+      "youtubeQuery": "incoterms explained simply EXW FOB DDP",
+      "related": ["Supply chain", "Procurement", "Import and export"],
+      "en": {
+        "one": "Incoterms are short international codes that say who pays for transport and who carries the risk at each point of a delivery.",
+        "explain": "They're used in import and export contracts. Common ones: EXW (buyer collects at the seller's door and handles everything), FOB (seller loads onto the ship, then it's the buyer's), DAP (seller delivers to the buyer's place, buyer pays import duties), DDP (seller delivers with all costs and duties paid).",
+        "example": "A Bosnian shop buys furniture from Turkey 'EXW Istanbul'. It must arrange and pay for the truck, insurance and customs itself, so the cheap price isn't the full cost.",
+        "why": "Two offers with the same price can have very different real costs depending on the Incoterm.",
+        "mixup": "Incoterms don't cover payment or when ownership passes. They only split transport costs and risk."
+      },
+      "bs": {
+        "one": "Incoterms su kratki međunarodni kodovi koji kažu ko plaća prevoz i ko snosi rizik u svakoj tački isporuke.",
+        "explain": "Koriste se u ugovorima o uvozu i izvozu. Česti su: EXW (kupac preuzima na vratima prodavca i sve sam rješava), FOB (prodavac utovari na brod, poslije je kupčevo), DAP (prodavac dostavi do kupca, kupac plaća carinu), DDP (prodavac dostavi sa svim troškovima i carinom plaćenim).",
+        "example": "Bosanska prodavnica kupuje namještaj iz Turske 'EXW Istanbul'. Sama mora organizovati i platiti kamion, osiguranje i carinu, pa niska cijena nije puni trošak.",
+        "why": "Dvije ponude s istom cijenom mogu imati vrlo različit stvarni trošak, zavisno od Incoterma.",
+        "mixup": "Incoterms ne pokrivaju plaćanje ni kad prelazi vlasništvo. Samo dijele troškove prevoza i rizik."
+      }
+    },
+    {
+      "slug": "last-mile",
+      "term": "Last-mile delivery",
+      "local": "dostava zadnje milje",
+      "minutes": 4,
+      "youtube": "E4tv3lPDtgE",
+      "youtubeQuery": "last mile delivery explained",
+      "related": ["Warehouse and fulfilment", "Logistics", "Customer journey"],
+      "en": {
+        "one": "Last-mile delivery is the final step: getting the parcel from the local hub to the customer's door.",
+        "explain": "It's often the most expensive and least efficient part of shipping, because each stop is a single small package, addresses can be hard to find and people aren't home. Options include couriers, parcel lockers, pick-up points and own delivery.",
+        "example": "A webshop adds parcel-locker delivery as a cheaper option. Failed deliveries drop and customers can collect any time.",
+        "why": "Delivery speed and price strongly affect whether people finish an online order.",
+        "mixup": "Fast delivery isn't always what customers want most. Many prefer cheap, reliable and trackable."
+      },
+      "bs": {
+        "one": "Last-mile delivery (dostava zadnje milje) je posljednji korak: dostava paketa od lokalnog centra do vrata kupca.",
+        "explain": "Često je najskuplji i najmanje efikasan dio slanja, jer je svako zaustavljanje jedan mali paket, adrese se teško nalaze, a ljudi nisu kod kuće. Opcije su kuriri, paketomati, mjesta za preuzimanje i vlastita dostava.",
+        "example": "Webshop doda dostavu u paketomat kao jeftiniju opciju. Neuspjelih dostava bude manje, a kupci preuzimaju kad hoće.",
+        "why": "Brzina i cijena dostave jako utiču na to da li ljudi završe online narudžbu.",
+        "mixup": "Brza dostava nije uvijek ono što kupci najviše žele. Mnogi preferiraju jeftinu, pouzdanu i praćenu."
+      }
+    },
+    {
+      "slug": "reverse-logistics",
+      "term": "Returns and reverse logistics",
+      "local": "povrati i povratna logistika",
+      "minutes": 4,
+      "youtube": "vXPXpDGg_0w",
+      "youtubeQuery": "reverse logistics returns explained",
+      "related": ["Defect rate and cost of poor quality", "Last-mile delivery", "Warehouse and fulfilment"],
+      "en": {
+        "one": "Reverse logistics is everything that happens when goods come back: returns, repairs, recycling and resale.",
+        "explain": "Returns cost money: shipping, checking, repacking and often selling at a discount. A clear returns process decides quickly what happens to each item: back to stock, repair, outlet or recycle.",
+        "example": "A clothing webshop sees 25% of orders returned. Adding a detailed size guide and real customer photos cuts returns to 15%.",
+        "why": "Online, returns can wipe out the profit of many orders, so reducing and handling them well matters a lot.",
+        "mixup": "In the EU, online buyers usually have 14 days to return without a reason. Plan for returns, don't treat them as rare."
+      },
+      "bs": {
+        "one": "Reverse logistics (povratna logistika) je sve što se dešava kad se roba vraća: povrati, popravke, reciklaža i preprodaja.",
+        "explain": "Povrati koštaju: prevoz, provjera, ponovno pakovanje i često prodaja uz popust. Jasan proces povrata brzo odluči šta će biti sa svakim artiklom: nazad na zalihu, popravka, outlet ili reciklaža.",
+        "example": "Webshop odjeće vidi da se 25% narudžbi vrati. Dodavanje detaljnog vodiča za veličine i stvarnih slika kupaca smanji povrate na 15%.",
+        "why": "Online, povrati mogu pojesti dobit mnogih narudžbi, pa je bitno smanjiti ih i dobro rješavati.",
+        "mixup": "U EU online kupci obično imaju 14 dana da vrate robu bez razloga. Planiraj povrate, ne tretiraj ih kao rijetkost."
+      }
+    },
+    {
+      "slug": "outsourcing",
+      "term": "Outsourcing",
+      "local": "outsourcing, eksternalizacija",
+      "minutes": 4,
+      "youtube": "5iAjf23DgtQ",
+      "youtubeQuery": "outsourcing explained pros and cons",
+      "related": ["Make or buy", "Supplier selection", "Core competence"],
+      "en": {
+        "one": "Outsourcing means paying another company to do a task you used to do yourself.",
+        "explain": "Common examples are accounting, IT support, cleaning, delivery and customer support. It can save money and give you experts, but you lose some control and depend on the partner's quality.",
+        "example": "A small tech company outsources payroll to an accounting agency. It saves hiring a part-time accountant and avoids mistakes with tax rules.",
+        "why": "It lets you focus your best people on what makes your business special.",
+        "mixup": "Outsourcing a task doesn't outsource responsibility. If the partner messes up, customers still blame you."
+      },
+      "bs": {
+        "one": "Outsourcing (eksternalizacija) znači plaćati drugu firmu da radi zadatak koji si ranije radio sam.",
+        "explain": "Česti primjeri su računovodstvo, IT podrška, čišćenje, dostava i korisnička podrška. Može uštedjeti novac i dati ti stručnjake, ali gubiš dio kontrole i zavisiš od kvaliteta partnera.",
+        "example": "Mala tech firma prepusti obračun plata knjigovodstvenoj agenciji. Uštedi zapošljavanje računovođe na pola radnog vremena i izbjegne greške s poreznim pravilima.",
+        "why": "Omogućava ti da najbolje ljude fokusiraš na ono što tvoju firmu čini posebnom.",
+        "mixup": "Prepuštanje zadatka ne prepušta odgovornost. Ako partner pogriješi, kupci i dalje krive tebe."
+      }
+    },
+    {
+      "slug": "make-or-buy",
+      "term": "Make or buy",
+      "local": "napraviti ili kupiti",
+      "minutes": 4,
+      "youtube": "ZXL4vumXBgw",
+      "youtubeQuery": "make or buy decision explained",
+      "related": ["Outsourcing", "Contribution margin", "Core competence"],
+      "en": {
+        "one": "The make-or-buy decision is choosing whether to produce something yourself or buy it from someone else.",
+        "explain": "Compare the full cost of making it (people, machines, space, management time) with the price of buying it. Then add the non-money questions: is it core to what makes you special? Is quality or supply at risk? Do you have the skills?",
+        "example": "A craft brewery buys bottles and labels from suppliers, but keeps brewing in-house, because the recipe is what customers pay for.",
+        "why": "Getting this right keeps costs down and keeps your focus on what really matters.",
+        "mixup": "Only comparing the purchase price with your material cost is a trap. Your own time and overheads cost money too."
+      },
+      "bs": {
+        "one": "Odluka make-or-buy (napraviti ili kupiti) je biranje da li nešto proizvesti sam ili kupiti od nekog drugog.",
+        "explain": "Uporedi puni trošak pravljenja (ljudi, mašine, prostor, vrijeme menadžmenta) s cijenom kupovine. Zatim dodaj nenovčana pitanja: je li to srž onoga što te čini posebnim? Jesu li kvalitet ili snabdijevanje u riziku? Imaš li znanje?",
+        "example": "Zanatska pivovara kupuje boce i etikete od dobavljača, ali pivo kuha sama, jer je recept ono što kupci plaćaju.",
+        "why": "Ispravna odluka drži troškove niskim i fokus na onome što je stvarno bitno.",
+        "mixup": "Poređenje samo nabavne cijene s troškom materijala je zamka. I tvoje vrijeme i režijski troškovi koštaju."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "You buy goods 'EXW'. Who arranges and pays for transport from the seller?",
+        "bs": "Kupuješ robu 'EXW'. Ko organizuje i plaća prevoz od prodavca?"
+      },
+      "options": [
+        { "en": "Customs", "bs": "Carina" },
+        { "en": "The seller", "bs": "Prodavac" },
+        { "en": "You, the buyer", "bs": "Ti, kupac" }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "EXW means you collect at the seller's door and handle everything after that.",
+        "bs": "EXW znači da preuzimaš na vratima prodavca i sve dalje rješavaš sam."
+      }
+    },
+    {
+      "q": {
+        "en": "A firm outsources delivery and a courier loses parcels. Who do customers blame?",
+        "bs": "Firma prepusti dostavu, a kurir gubi pakete. Koga kupci krive?"
+      },
+      "options": [
+        { "en": "The firm they bought from", "bs": "Firmu od koje su kupili" },
+        { "en": "Nobody", "bs": "Nikoga" },
+        { "en": "Only the courier", "bs": "Samo kurira" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "You can outsource the task but not the responsibility to your customer.",
+        "bs": "Možeš prepustiti zadatak, ali ne i odgovornost prema kupcu."
+      }
+    },
+    {
+      "q": {
+        "en": "A brewery's recipe is what customers love. Should it make or buy its beer?",
+        "bs": "Kupci vole recept pivovare. Treba li pivo praviti ili kupovati?"
+      },
+      "options": [
+        { "en": "Make it, it's the core", "bs": "Praviti, to je srž" },
+        { "en": "It doesn't matter", "bs": "Nije bitno" },
+        { "en": "Buy it, always cheaper", "bs": "Kupovati, uvijek je jeftinije" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Keep in-house what makes you special. Buy things like bottles and labels.",
+        "bs": "Zadrži u kući ono što te čini posebnim. Kupuj stvari kao što su boce i etikete."
+      }
+    },
+    {
+      "q": {
+        "en": "Which change is most likely to reduce returns in an online clothing shop?",
+        "bs": "Koja promjena će najvjerovatnije smanjiti povrate u online prodavnici odjeće?"
+      },
+      "options": [
+        { "en": "A clear size guide with real photos", "bs": "Jasan vodič za veličine sa stvarnim slikama" },
+        { "en": "Faster delivery", "bs": "Brža dostava" },
+        { "en": "Bigger discounts", "bs": "Veći popusti" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Most clothing returns are about fit, so better size info helps most.",
+        "bs": "Većina povrata odjeće je zbog veličine, pa bolje informacije o veličini najviše pomažu."
+      }
+    }
+  ]
+}

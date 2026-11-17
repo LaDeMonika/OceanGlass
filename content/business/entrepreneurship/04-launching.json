@@ -1,0 +1,209 @@
+{
+  "slug": "launching",
+  "title": { "en": "Getting started", "bs": "Pokretanje" },
+  "summary": {
+    "en": "The practical first steps: costs, runway, permits, separate money, first customers and paying yourself.",
+    "bs": "Praktični prvi koraci: troškovi, rezerva, dozvole, odvojen novac, prvi kupci i tvoja plata."
+  },
+  "concepts": [
+    {
+      "slug": "startup-costs",
+      "term": "Start-up costs",
+      "local": "početni troškovi",
+      "minutes": 4,
+      "youtube": "9ymlU8Iq8Z0",
+      "youtubeQuery": "how to calculate startup costs small business",
+      "related": ["Fixed vs. variable costs", "Budget", "Break-even point"],
+      "en": {
+        "one": "Start-up costs are all the money you need to spend before and just after opening, until sales start covering the bills.",
+        "explain": "They include one-off costs (registration, equipment, renovation, first stock, website) and running costs for the first months (rent, salaries, utilities, marketing). Add a buffer of 10 to 20% for surprises, because there are always some.",
+        "example": "Opening a small café: 15.000 KM for equipment and renovation, 2.000 KM registration and permits, 3.000 KM first stock, plus 6 months of rent and wages as a reserve.",
+        "why": "Underestimating start-up costs is one of the most common reasons new businesses run out of money.",
+        "mixup": "Don't forget the months before you're profitable. Opening costs are only half the story; you also need to survive the slow start."
+      },
+      "bs": {
+        "one": "Start-up costs (početni troškovi) su sav novac koji trebaš potrošiti prije i odmah nakon otvaranja, dok prodaja ne počne pokrivati račune.",
+        "explain": "Uključuju jednokratne troškove (registracija, oprema, renoviranje, prva roba, web-stranica) i tekuće troškove prvih mjeseci (zakup, plate, režije, marketing). Dodaj rezervu od 10 do 20% za iznenađenja, jer ih uvijek ima.",
+        "example": "Otvaranje malog kafića: 15.000 KM za opremu i renoviranje, 2.000 KM registracija i dozvole, 3.000 KM prva roba, plus 6 mjeseci zakupa i plata kao rezerva.",
+        "why": "Potcjenjivanje početnih troškova je jedan od najčešćih razloga što novim biznisima ponestane novca.",
+        "mixup": "Ne zaboravi mjesece prije nego postaneš profitabilan. Troškovi otvaranja su samo pola priče; trebaš i preživjeti spori početak."
+      }
+    },
+    {
+      "slug": "runway-burn-rate",
+      "term": "Runway and burn rate",
+      "local": "rezerva i brzina trošenja",
+      "minutes": 4,
+      "youtube": "NsywHNH9I2k",
+      "youtubeQuery": "burn rate and runway explained startup",
+      "formula": { "en": "R", "bs": "u" },
+      "related": ["Cash flow", "Start-up costs", "Working capital"],
+      "en": {
+        "one": "Burn rate is how much more money you spend than you earn each month. Runway is how many months you can survive at that rate before the money runs out.",
+        "explain": "Runway = cash in the bank ÷ monthly burn. If you have 30.000 KM and lose 5.000 KM a month, your runway is 6 months. Founders should always know this number and start looking for money or cutting costs well before it gets short.",
+        "example": "A small software firm has 60.000 € and spends 10.000 € more than it earns each month. With 6 months of runway, it starts talking to investors now, not in month five.",
+        "why": "It tells you how much time you have to reach profit or raise more money.",
+        "mixup": "Revenue growth doesn't automatically shorten burn. If costs grow faster than sales, the runway still shrinks."
+      },
+      "bs": {
+        "one": "Burn rate (brzina trošenja) je koliko više novca trošiš nego što zarađuješ svaki mjesec. Runway (rezerva) je koliko mjeseci možeš preživjeti tim tempom prije nego novac nestane.",
+        "explain": "Rezerva = novac na računu ÷ mjesečno trošenje. Ako imaš 30.000 KM i gubiš 5.000 KM mjesečno, rezerva ti je 6 mjeseci. Osnivači uvijek trebaju znati ovaj broj i početi tražiti novac ili rezati troškove mnogo prije nego postane kratak.",
+        "example": "Mala softverska firma ima 60.000 € i troši 10.000 € više nego što zarađuje mjesečno. Sa 6 mjeseci rezerve, počinje razgovarati s investitorima sada, a ne u petom mjesecu.",
+        "why": "Govori ti koliko vremena imaš da dođeš do dobiti ili prikupiš još novca.",
+        "mixup": "Rast prihoda ne smanjuje automatski trošenje. Ako troškovi rastu brže od prodaje, rezerva se i dalje smanjuje."
+      }
+    },
+    {
+      "slug": "permits-licences",
+      "term": "Permits and licences",
+      "local": "dozvole i licence",
+      "minutes": 3,
+      "youtube": "b9of-aFQ9dI",
+      "youtubeQuery": "business licenses and permits explained small business",
+      "related": ["Company registration", "Regulation", "Sole trader"],
+      "en": {
+        "one": "Permits and licences are official approvals you need for certain activities or premises, in addition to registering the business.",
+        "explain": "Which ones you need depends on the activity and location: food businesses need health and sanitary approvals, some trades need proof of qualification, premises may need fire and building checks. In BiH, rules differ between entities and municipalities, so ask the local municipality or a registration agency early.",
+        "example": "Before opening a bakery, the owner needs the business registered, the premises approved by the sanitary inspection, staff health certificates and a work-hours approval from the municipality.",
+        "why": "Opening without the right permits can lead to fines or forced closure.",
+        "mixup": "Registering the company isn't the same as being allowed to operate. Permits for the specific activity are separate."
+      },
+      "bs": {
+        "one": "Permits and licences (dozvole i licence) su službena odobrenja koja trebaš za određene djelatnosti ili prostore, pored registracije biznisa.",
+        "explain": "Koje trebaš zavisi od djelatnosti i lokacije: biznisi s hranom trebaju zdravstvena i sanitarna odobrenja, neki zanati traže dokaz kvalifikacije, prostor može trebati protivpožarnu i građevinsku provjeru. U BiH se pravila razlikuju po entitetima i općinama, pa rano pitaj općinu ili agenciju za registraciju.",
+        "example": "Prije otvaranja pekare vlasnica treba registrovan biznis, prostor odobren od sanitarne inspekcije, sanitarne knjižice za radnike i odobrenje radnog vremena od općine.",
+        "why": "Rad bez pravih dozvola može dovesti do kazni ili prisilnog zatvaranja.",
+        "mixup": "Registracija firme nije isto što i dozvola za rad. Dozvole za konkretnu djelatnost su odvojene."
+      }
+    },
+    {
+      "slug": "separate-finances",
+      "term": "Separating business and personal money",
+      "local": "odvajanje poslovnog i ličnog novca",
+      "minutes": 3,
+      "youtube": "4vPd8LrBmy0",
+      "youtubeQuery": "why separate business and personal finances",
+      "related": ["Bookkeeping vs. accounting", "Cash flow", "Limited liability"],
+      "en": {
+        "one": "Separating business and personal money means using a dedicated business bank account and never mixing private spending with company money.",
+        "explain": "It makes bookkeeping and taxes far easier, shows the real profit, protects the limited liability of a company, and looks professional to banks and customers. Pay yourself a set amount from the business account instead of dipping in when needed.",
+        "example": "A freelancer used one account for everything and couldn't tell how much she really earned. After opening a business account, she saw her actual monthly profit for the first time.",
+        "why": "Without separation you can't see if the business works, and you risk problems with tax authorities.",
+        "mixup": "Company money isn't your money, even if you own 100%. In an LLC, taking it without proper records can count as a tax offence."
+      },
+      "bs": {
+        "one": "Odvajanje poslovnog i ličnog novca znači korištenje posebnog poslovnog računa i nikad ne miješati privatnu potrošnju s novcem firme.",
+        "explain": "Mnogo olakšava knjigovodstvo i poreze, pokazuje stvarnu dobit, štiti ograničenu odgovornost firme i djeluje profesionalno bankama i kupcima. Isplati sebi fiksni iznos s poslovnog računa umjesto da uzimaš kad zatreba.",
+        "example": "Frilenserka je koristila jedan račun za sve i nije znala koliko zaista zarađuje. Nakon otvaranja poslovnog računa, prvi put je vidjela svoju stvarnu mjesečnu dobit.",
+        "why": "Bez odvajanja ne možeš vidjeti radi li biznis, i rizikuješ probleme s poreznom upravom.",
+        "mixup": "Novac firme nije tvoj novac, čak ni kad posjeduješ 100%. U d.o.o.-u, uzimanje bez pravilne evidencije može se smatrati poreskim prekršajem."
+      }
+    },
+    {
+      "slug": "first-customers",
+      "term": "Getting your first customers",
+      "local": "prvi kupci",
+      "minutes": 4,
+      "youtube": "_FBivfgOvuE",
+      "youtubeQuery": "how to get your first customers small business",
+      "related": ["Customer interviews", "Word of mouth", "Sales pipeline"],
+      "en": {
+        "one": "Your first customers usually come from direct, personal effort: your network, local outreach and doing things that don't scale.",
+        "explain": "In the beginning, ads rarely work well. Talk to people one by one, offer to solve their problem personally, ask happy customers for referrals and reviews, and be present where your customers already are (groups, markets, events).",
+        "example": "A new bookkeeping service visits 40 small shops in its neighbourhood, offers a free first-month check, and turns 8 of them into paying clients who then refer others.",
+        "why": "First customers give you income, feedback and the proof you need to grow.",
+        "mixup": "Waiting for customers to find you doesn't work. 'If I build it, they will come' is one of the most expensive myths in business."
+      },
+      "bs": {
+        "one": "Prvi kupci obično dolaze iz direktnog, ličnog truda: tvoje mreže, lokalnog obraćanja i rada na stvarima koje se ne mogu masovno ponavljati.",
+        "explain": "Na početku oglasi rijetko dobro rade. Razgovaraj s ljudima jedan po jedan, ponudi da im lično riješiš problem, traži od zadovoljnih kupaca preporuke i recenzije, i budi prisutan gdje su tvoji kupci već (grupe, pijace, događaji).",
+        "example": "Nova knjigovodstvena usluga obiđe 40 malih radnji u svom kvartu, ponudi besplatnu provjeru za prvi mjesec i pretvori 8 njih u klijente koji plaćaju i zatim preporučuju druge.",
+        "why": "Prvi kupci ti daju prihod, povratne informacije i dokaz koji ti treba za rast.",
+        "mixup": "Čekanje da te kupci nađu ne radi. 'Ako napravim, doći će' je jedan od najskupljih mitova u biznisu."
+      }
+    },
+    {
+      "slug": "founder-salary",
+      "term": "Paying yourself as a founder",
+      "local": "plata osnivača",
+      "minutes": 3,
+      "youtube": "iHNBlE07P64",
+      "youtubeQuery": "how much should I pay myself as a business owner",
+      "related": ["Separating business and personal money", "Dividend", "Cash flow"],
+      "en": {
+        "one": "Paying yourself means deciding how and how much money you take out of the business for your own living costs.",
+        "explain": "In a sole trader business, profit is your income. In an LLC you can take a salary (with contributions) and later dividends from profit. Early on, many founders pay themselves a modest fixed amount to cover basic living costs and leave the rest in the business.",
+        "example": "A founder of a small design studio pays herself 1.500 KM a month as salary, keeps a cash reserve in the company, and takes a dividend at year end when the profit is clear.",
+        "why": "A clear, sustainable founder pay keeps you going personally and protects the company's cash.",
+        "mixup": "Not paying yourself at all for a long time isn't heroic. It hides whether the business can really support you."
+      },
+      "bs": {
+        "one": "Isplata sebi znači odlučiti kako i koliko novca uzimaš iz biznisa za vlastite troškove života.",
+        "explain": "Kod samostalne djelatnosti dobit je tvoj prihod. U d.o.o.-u možeš primati platu (s doprinosima) i kasnije dividende iz dobiti. Na početku mnogi osnivači sebi isplaćuju skroman fiksni iznos za osnovne troškove života, a ostatak ostave u biznisu.",
+        "example": "Osnivačica malog dizajnerskog studija isplaćuje sebi 1.500 KM mjesečno kao platu, drži rezervu novca u firmi i na kraju godine uzima dividendu kad je dobit jasna.",
+        "why": "Jasna i održiva plata osnivača održava te lično i štiti novac firme.",
+        "mixup": "Dugo ne isplaćivati sebi ništa nije herojski. To krije može li biznis zaista izdržavati tebe."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "You have 24.000 KM and lose 4.000 KM a month. What's your runway?",
+        "bs": "Imaš 24.000 KM i gubiš 4.000 KM mjesečno. Kolika ti je rezerva?"
+      },
+      "options": [
+        { "en": "6 months", "bs": "6 mjeseci" },
+        { "en": "4 months", "bs": "4 mjeseca" },
+        { "en": "24 months", "bs": "24 mjeseca" }
+      ],
+      "answer": 0,
+      "explain": { "en": "24.000 ÷ 4.000 = 6 months.", "bs": "24.000 ÷ 4.000 = 6 mjeseci." }
+    },
+    {
+      "q": {
+        "en": "What should you add to your start-up cost estimate?",
+        "bs": "Šta trebaš dodati procjeni početnih troškova?"
+      },
+      "options": [
+        { "en": "Nothing, estimates are always right", "bs": "Ništa, procjene su uvijek tačne" },
+        { "en": "Only the cost of the logo", "bs": "Samo trošak loga" },
+        { "en": "A buffer of 10–20% for surprises", "bs": "Rezervu od 10–20% za iznenađenja" }
+      ],
+      "answer": 2,
+      "explain": { "en": "Unexpected costs always appear.", "bs": "Neočekivani troškovi se uvijek pojave." }
+    },
+    {
+      "q": { "en": "Why open a separate business bank account?", "bs": "Zašto otvoriti poseban poslovni račun?" },
+      "options": [
+        { "en": "Because banks give free money", "bs": "Jer banke daju besplatan novac" },
+        {
+          "en": "To see real profit and keep records clean",
+          "bs": "Da vidiš stvarnu dobit i imaš urednu evidenciju"
+        },
+        { "en": "To avoid paying any tax", "bs": "Da izbjegneš plaćanje poreza" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Separation makes bookkeeping, tax and decisions much clearer.",
+        "bs": "Odvajanje čini knjigovodstvo, poreze i odluke mnogo jasnijim."
+      }
+    },
+    {
+      "q": {
+        "en": "How do most new businesses win their first customers?",
+        "bs": "Kako većina novih biznisa dobija prve kupce?"
+      },
+      "options": [
+        { "en": "Waiting to be discovered", "bs": "Čekajući da ih otkriju" },
+        { "en": "Personal outreach and referrals", "bs": "Ličnim obraćanjem i preporukama" },
+        { "en": "Expensive TV ads", "bs": "Skupim TV reklamama" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Early on, direct personal effort works best.",
+        "bs": "Na početku najbolje radi direktan lični trud."
+      }
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "slug": "business-ethics",
+  "title": { "en": "Business ethics", "bs": "Poslovna etika" },
+  "summary": {
+    "en": "Doing the right thing when the law doesn't give a clear answer.",
+    "bs": "Raditi ispravnu stvar kad zakon ne daje jasan odgovor."
+  },
+  "concepts": [
+    {
+      "slug": "business-ethics",
+      "term": "Business ethics",
+      "local": "poslovna etika",
+      "minutes": 4,
+      "youtube": "YAL1wrpx5U0",
+      "youtubeQuery": "business ethics explained simply",
+      "related": ["Code of conduct", "Ethical dilemma", "Corporate social responsibility"],
+      "en": {
+        "one": "Business ethics is about doing what's right in business, not only what's legal or profitable.",
+        "explain": "The law sets the minimum. Ethics asks more: are we honest with customers, fair to staff and suppliers, careful with the environment? Many scandals started with things that were legal but clearly wrong, and ended up destroying trust.",
+        "example": "A supplier sends a bigger delivery than invoiced by mistake. Legally unclear, ethically simple: you tell them.",
+        "why": "Trust is slow to build and quick to lose. Ethical companies keep customers, attract good staff and avoid scandals.",
+        "mixup": "Ethics isn't only for big corporations. In a small town, everyone hears about it when a small business cheats."
+      },
+      "bs": {
+        "one": "Business ethics (poslovna etika) znači raditi ono što je ispravno u poslu, a ne samo ono što je zakonito ili profitabilno.",
+        "explain": "Zakon postavlja minimum. Etika traži više: jesmo li iskreni s kupcima, pošteni prema radnicima i dobavljačima, pažljivi prema okolini? Mnogi skandali su počeli stvarima koje su bile zakonite, ali očito pogrešne, i završili uništenim povjerenjem.",
+        "example": "Dobavljač greškom pošalje veću isporuku nego što je fakturisano. Pravno nejasno, etički jednostavno: javiš im.",
+        "why": "Povjerenje se gradi sporo, a gubi brzo. Etične firme zadržavaju kupce, privlače dobre ljude i izbjegavaju skandale.",
+        "mixup": "Etika nije samo za velike korporacije. U malom gradu svi čuju kad mala firma vara."
+      }
+    },
+    {
+      "slug": "conflict-of-interest",
+      "term": "Conflict of interest",
+      "local": "sukob interesa",
+      "minutes": 4,
+      "youtube": "6ulwMUogsaI",
+      "youtubeQuery": "conflict of interest at work explained",
+      "related": ["Bribery and corruption", "Code of conduct", "Accountability"],
+      "en": {
+        "one": "A conflict of interest is when your personal interest could get in the way of doing your job fairly.",
+        "explain": "Examples: hiring a relative, buying from a company you or your partner own, or judging a tender where a friend is bidding. Having a conflict isn't wrong in itself; hiding it is. The usual rule is: declare it and step back from the decision.",
+        "example": "A purchasing manager's brother runs a printing shop that bids for the company's work. She tells her boss and lets a colleague choose the supplier.",
+        "why": "Declared conflicts keep decisions fair and protect people from suspicion.",
+        "mixup": "It doesn't matter if you'd decide fairly anyway. What matters is that others can trust the process."
+      },
+      "bs": {
+        "one": "Conflict of interest (sukob interesa) je kad tvoj lični interes može stati na put tome da pošteno radiš svoj posao.",
+        "explain": "Primjeri: zapošljavanje rođaka, kupovina od firme koju posjeduješ ti ili partner, ili ocjenjivanje tendera na kojem učestvuje prijatelj. Imati sukob interesa nije samo po sebi pogrešno; skrivati ga jeste. Uobičajeno pravilo: prijavi ga i povuci se iz odluke.",
+        "example": "Bratu nabavne menadžerice pripada štamparija koja se javlja na posao firme. Ona to kaže šefu i pusti kolegu da izabere dobavljača.",
+        "why": "Prijavljeni sukobi čuvaju poštenje odluka i štite ljude od sumnje.",
+        "mixup": "Nije bitno bi li ti ionako odlučio pošteno. Bitno je da drugi mogu vjerovati procesu."
+      }
+    },
+    {
+      "slug": "code-of-conduct",
+      "term": "Code of conduct",
+      "local": "kodeks ponašanja",
+      "minutes": 3,
+      "youtube": "C4si6n36n30",
+      "youtubeQuery": "code of conduct explained workplace",
+      "related": ["Business ethics", "Conflict of interest", "Company culture"],
+      "en": {
+        "one": "A code of conduct is a written set of rules and values that tells everyone in a company how to behave.",
+        "explain": "It usually covers honesty, gifts and bribes, conflicts of interest, respect and harassment, data and confidentiality, and how to report problems. A good code is short, uses real examples and is backed by leaders who follow it themselves.",
+        "example": "A company's code says staff may accept gifts worth up to 50 KM and must register anything above that. Everyone knows the rule, so awkward situations are easy to handle.",
+        "why": "It turns values into clear everyday rules and gives people something to point to when under pressure.",
+        "mixup": "A code nobody reads or that leaders ignore is worse than none. It teaches people the rules don't matter."
+      },
+      "bs": {
+        "one": "Code of conduct (kodeks ponašanja) je pisani skup pravila i vrijednosti koji svima u firmi kaže kako se ponašati.",
+        "explain": "Obično pokriva iskrenost, poklone i mito, sukob interesa, poštovanje i uznemiravanje, podatke i povjerljivost, te kako prijaviti probleme. Dobar kodeks je kratak, koristi stvarne primjere, a podržavaju ga lideri koji ga i sami poštuju.",
+        "example": "Kodeks firme kaže da radnici smiju primiti poklone do 50 KM, a sve preko toga moraju evidentirati. Svi znaju pravilo, pa se nezgodne situacije lako rješavaju.",
+        "why": "Pretvara vrijednosti u jasna svakodnevna pravila i daje ljudima nešto na šta se mogu pozvati pod pritiskom.",
+        "mixup": "Kodeks koji niko ne čita ili koji lideri ignorišu je gori nego nikakav. Uči ljude da pravila nisu bitna."
+      }
+    },
+    {
+      "slug": "whistleblowing",
+      "term": "Whistleblowing",
+      "local": "prijavljivanje nepravilnosti (zviždači)",
+      "minutes": 4,
+      "youtube": "rUKPU3XRYbU",
+      "youtubeQuery": "whistleblowing explained protection",
+      "related": ["Code of conduct", "Psychological safety", "Business ethics"],
+      "en": {
+        "one": "Whistleblowing is when someone reports wrongdoing inside an organisation, like fraud, safety risks or corruption.",
+        "explain": "Good companies offer a safe, confidential (often anonymous) way to report, take reports seriously and protect the reporter. In the EU, companies with 50+ employees must have an internal reporting channel, and whistleblowers are protected from retaliation by law.",
+        "example": "An accountant notices invoices from a supplier that doesn't seem to exist. She reports it through the company's confidential channel, and an investigation uncovers fraud.",
+        "why": "Most fraud is uncovered by tips from insiders. Listening early is far cheaper than finding out from the press.",
+        "mixup": "Punishing or isolating the person who reports is illegal in many countries and kills any culture of honesty."
+      },
+      "bs": {
+        "one": "Whistleblowing (prijavljivanje nepravilnosti) je kad neko prijavi nezakonito ili pogrešno ponašanje unutar organizacije, npr. prevaru, sigurnosne rizike ili korupciju.",
+        "explain": "Dobre firme nude siguran, povjerljiv (često anoniman) način prijave, ozbiljno shvataju prijave i štite osobu koja prijavljuje. U EU firme s više od 50 radnika moraju imati interni kanal za prijave, a zviždači su zakonom zaštićeni od odmazde.",
+        "example": "Računovođa primijeti fakture dobavljača koji kao da ne postoji. Prijavi to kroz povjerljivi kanal firme i istraga otkrije prevaru.",
+        "why": "Većina prevara se otkrije zahvaljujući dojavama iznutra. Rano slušanje je mnogo jeftinije nego saznati iz medija.",
+        "mixup": "Kažnjavanje ili izolovanje osobe koja prijavi je u mnogim zemljama nezakonito i ubija svaku kulturu iskrenosti."
+      }
+    },
+    {
+      "slug": "ethical-dilemma",
+      "term": "Ethical dilemma",
+      "local": "etička dilema",
+      "minutes": 4,
+      "youtube": "AdYWkKyKQVE",
+      "youtubeQuery": "how to solve an ethical dilemma at work",
+      "related": ["Business ethics", "Decision-making", "Stakeholder management"],
+      "en": {
+        "one": "An ethical dilemma is a situation where every option has a moral cost, and the right choice isn't obvious.",
+        "explain": "Simple tests help: Is it legal? Would I be comfortable if it was on the front page? Is it fair to everyone affected? Would I accept it if I were on the other side? Talking it through with someone you trust also helps.",
+        "example": "Business is slow and you could keep everyone employed by quietly cutting product quality. Or you could keep quality and lay off two people. Both options hurt someone.",
+        "why": "Thinking it through in a structured way leads to decisions you can defend and live with.",
+        "mixup": "A dilemma isn't the same as a temptation. If one option is clearly wrong but profitable, that's a temptation, not a dilemma."
+      },
+      "bs": {
+        "one": "Ethical dilemma (etička dilema) je situacija u kojoj svaka opcija ima moralnu cijenu, a pravi izbor nije očigledan.",
+        "explain": "Pomažu jednostavni testovi: Je li zakonito? Bi li mi bilo prijatno da je to na naslovnoj strani? Je li pošteno prema svima koje pogađa? Bih li to prihvatio da sam na drugoj strani? Pomaže i razgovor s nekim kome vjeruješ.",
+        "example": "Posao ide sporo i mogao bi zadržati sve radnike tako što ćeš potajno smanjiti kvalitet proizvoda. Ili možeš zadržati kvalitet i otpustiti dvoje ljudi. Obje opcije nekoga povrijede.",
+        "why": "Strukturirano razmišljanje vodi do odluka koje možeš odbraniti i s kojima možeš živjeti.",
+        "mixup": "Dilema nije isto što i iskušenje. Ako je jedna opcija očito pogrešna, ali profitabilna, to je iskušenje, a ne dilema."
+      }
+    },
+    {
+      "slug": "shareholder-stakeholder",
+      "term": "Shareholders vs. stakeholders",
+      "local": "dioničari i interesne strane",
+      "minutes": 4,
+      "youtube": "YJ8DWZmfsRU",
+      "youtubeQuery": "shareholder vs stakeholder theory explained",
+      "related": ["Stakeholder management", "Corporate social responsibility", "Business ethics"],
+      "en": {
+        "one": "Shareholders own the company. Stakeholders are everyone affected by it: staff, customers, suppliers, the local community and the environment.",
+        "explain": "One view says a company's main job is to make profit for its owners. Another says it must balance the interests of all stakeholders. In practice, ignoring stakeholders usually hurts profit in the long run.",
+        "example": "A factory could save money by dumping waste in the river. Shareholders might gain short-term, but the town, the river and eventually the company's reputation would pay.",
+        "why": "It helps you see who really depends on your decisions, and who can help or hurt your business.",
+        "mixup": "Caring about stakeholders doesn't mean ignoring profit. A company that loses money can't help anyone for long."
+      },
+      "bs": {
+        "one": "Shareholders (dioničari, vlasnici) posjeduju firmu. Stakeholders (interesne strane) su svi na koje firma utiče: radnici, kupci, dobavljači, lokalna zajednica i okolina.",
+        "explain": "Jedno gledište kaže da je glavni posao firme da zaradi profit za vlasnike. Drugo kaže da mora balansirati interese svih interesnih strana. U praksi, ignorisanje interesnih strana dugoročno obično šteti profitu.",
+        "example": "Fabrika bi mogla uštedjeti bacanjem otpada u rijeku. Vlasnici bi kratkoročno dobili, ali bi grad, rijeka i na kraju ugled firme platili.",
+        "why": "Pomaže ti da vidiš ko stvarno zavisi od tvojih odluka i ko može pomoći ili naštetiti tvom poslu.",
+        "mixup": "Briga o interesnim stranama ne znači ignorisati profit. Firma koja gubi novac ne može dugo nikome pomagati."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "Your brother's company bids on a contract you're deciding. What should you do?",
+        "bs": "Firma tvog brata se javlja na ugovor o kojem ti odlučuješ. Šta trebaš uraditi?"
+      },
+      "options": [
+        { "en": "Decide fairly and say nothing", "bs": "Odlučiti pošteno i ne reći ništa" },
+        { "en": "Declare it and step back from the decision", "bs": "Prijaviti to i povući se iz odluke" },
+        { "en": "Reject your brother automatically", "bs": "Automatski odbiti brata" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Declaring the conflict and stepping back keeps the process trustworthy.",
+        "bs": "Prijava sukoba i povlačenje čuvaju povjerenje u proces."
+      }
+    },
+    {
+      "q": {
+        "en": "In the EU, which companies must have an internal whistleblowing channel?",
+        "bs": "Koje firme u EU moraju imati interni kanal za prijavu nepravilnosti?"
+      },
+      "options": [
+        { "en": "Only listed companies", "bs": "Samo firme na berzi" },
+        { "en": "Those with 50 or more employees", "bs": "One s 50 ili više radnika" },
+        { "en": "None, it's optional", "bs": "Nijedna, nije obavezno" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "The EU Whistleblower Directive sets the 50-employee threshold.",
+        "bs": "EU direktiva o zviždačima postavlja prag od 50 radnika."
+      }
+    },
+    {
+      "q": {
+        "en": "Which question is a classic quick ethics test?",
+        "bs": "Koje pitanje je klasičan brzi etički test?"
+      },
+      "options": [
+        { "en": "Will anyone find out?", "bs": "Hoće li iko saznati?" },
+        {
+          "en": "Would I be OK if this was on the front page?",
+          "bs": "Bi li mi bilo u redu da je ovo na naslovnoj strani?"
+        },
+        { "en": "Is it the cheapest option?", "bs": "Je li to najjeftinija opcija?" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "If you'd be embarrassed to see it published, think again.",
+        "bs": "Ako bi te bilo sramota da to vidiš objavljeno, razmisli ponovo."
+      }
+    },
+    {
+      "q": {
+        "en": "Which group are stakeholders but not shareholders?",
+        "bs": "Koja grupa su interesne strane, ali ne i vlasnici?"
+      },
+      "options": [
+        { "en": "Nobody, they're the same", "bs": "Niko, to je isto" },
+        { "en": "Employees and the local community", "bs": "Radnici i lokalna zajednica" },
+        { "en": "The owners", "bs": "Vlasnici" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Stakeholders include everyone affected by the company, not only its owners.",
+        "bs": "Interesne strane su svi na koje firma utiče, ne samo vlasnici."
+      }
+    }
+  ]
+}

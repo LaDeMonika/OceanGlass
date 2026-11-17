@@ -1,0 +1,213 @@
+{
+  "slug": "data-in-decisions",
+  "title": { "en": "Data in business decisions", "bs": "Podaci u poslovnim odlukama" },
+  "summary": {
+    "en": "Turning numbers into decisions: what to measure, how to track it, and traps to avoid.",
+    "bs": "Kako brojeve pretvoriti u odluke: šta mjeriti, kako pratiti i koje zamke izbjeći."
+  },
+  "concepts": [
+    {
+      "slug": "kpi",
+      "term": "KPI (Key performance indicator)",
+      "local": "ključni pokazatelj uspješnosti",
+      "minutes": 4,
+      "youtube": "awVbH2j7mV0",
+      "youtubeQuery": "what is a KPI explained",
+      "related": ["Dashboard", "OKR", "Metrics"],
+      "en": {
+        "one": "A KPI is one of the few numbers that show whether you're reaching your most important goals.",
+        "explain": "A good KPI is tied to a goal, measurable, and something your actions can influence. Pick a handful, not dozens. Mix lagging indicators (results like revenue) with leading ones (early signs like quote requests).",
+        "example": "A cleaning company tracks four KPIs: monthly revenue, customer retention, average job rating, and new quote requests per week.",
+        "why": "KPIs focus the team on what matters and show problems early.",
+        "mixup": "Not every metric is a KPI. Followers or page views are often 'vanity metrics': nice to see, but they don't show whether the business is healthy."
+      },
+      "bs": {
+        "one": "KPI (ključni pokazatelj uspješnosti) je jedan od rijetkih brojeva koji pokazuju ostvaruješ li najvažnije ciljeve.",
+        "explain": "Dobar KPI je vezan za cilj, mjerljiv i nešto na šta tvoje akcije mogu uticati. Izaberi par njih, ne desetine. Kombinuj zakašnjele pokazatelje (rezultate kao prihod) s ranim (prve znake kao zahtjeve za ponudu).",
+        "example": "Firma za čišćenje prati četiri KPI-ja: mjesečni prihod, zadržavanje kupaca, prosječnu ocjenu posla i nove zahtjeve za ponudu sedmično.",
+        "why": "KPI-jevi fokusiraju tim na ono što je bitno i rano pokazuju probleme.",
+        "mixup": "Nije svaka metrika KPI. Pratioci ili pregledi stranica su često 'metrike taštine': lijepo izgledaju, ali ne pokazuju je li posao zdrav."
+      }
+    },
+    {
+      "slug": "dashboard",
+      "term": "Dashboard",
+      "local": "kontrolna tabla (dashboard)",
+      "minutes": 4,
+      "youtube": "vv0exuf0Rk4",
+      "youtubeQuery": "what is a business dashboard explained",
+      "related": ["KPI (Key performance indicator)", "Line chart", "Data quality"],
+      "en": {
+        "one": "A dashboard is one screen that shows your key numbers and their trends at a glance.",
+        "explain": "It pulls data from sales, accounting, website and so on, and updates automatically. A good dashboard answers 'Are we on track?' in 10 seconds: few numbers, clear charts, comparisons to target and last year.",
+        "example": "A shop owner opens a dashboard each morning: yesterday's sales vs. target, 7-day trend, stock alerts and top products.",
+        "why": "It replaces digging through reports, so problems get noticed while they're still small.",
+        "mixup": "More charts don't make a better dashboard. If it needs explaining, it's too crowded."
+      },
+      "bs": {
+        "one": "Dashboard (kontrolna tabla) je jedan ekran koji pokazuje ključne brojeve i njihove trendove na prvi pogled.",
+        "explain": "Povlači podatke iz prodaje, računovodstva, sajta itd. i ažurira se automatski. Dobar dashboard za 10 sekundi odgovori 'Jesmo li na putu?': malo brojeva, jasni grafikoni, poređenje s ciljem i prošlom godinom.",
+        "example": "Vlasnik radnje svako jutro otvori dashboard: jučerašnja prodaja naspram cilja, 7-dnevni trend, upozorenja o zalihama i najbolji proizvodi.",
+        "why": "Zamjenjuje kopanje po izvještajima, pa se problemi primijete dok su još mali.",
+        "mixup": "Više grafikona ne čini bolji dashboard. Ako treba objašnjavati, prenatrpan je."
+      }
+    },
+    {
+      "slug": "cohort-analysis",
+      "term": "Cohort analysis",
+      "local": "kohortna analiza",
+      "minutes": 5,
+      "youtube": "B1ErY5a-fcc",
+      "youtubeQuery": "cohort analysis explained simply",
+      "related": ["Retention & churn", "Customer lifetime value (CLV)", "Dashboard"],
+      "en": {
+        "one": "Cohort analysis groups customers by when they started (e.g. the month of their first purchase) and follows each group over time.",
+        "explain": "Totals can hide what's happening: growth from new customers can cover up that older ones are leaving. Cohorts show, for example, how many of January's new customers are still buying in month 2, 3 and 6, and whether newer cohorts behave better after a change.",
+        "example": "Of customers who joined in March, 40% bought again in month 2. After a new welcome email in June, 52% of June's cohort did.",
+        "why": "It shows whether your product and service are really improving, not just whether you're adding customers.",
+        "mixup": "A cohort is not just any segment. It's grouped by a shared starting point in time."
+      },
+      "bs": {
+        "one": "Cohort analysis (kohortna analiza) grupiše kupce po tome kad su počeli (npr. mjesec prve kupovine) i prati svaku grupu kroz vrijeme.",
+        "explain": "Zbirovi mogu sakriti šta se dešava: rast od novih kupaca može prikriti da stari odlaze. Kohorte pokazuju npr. koliko januarskih novih kupaca još kupuje u 2., 3. i 6. mjesecu i ponašaju li se novije kohorte bolje nakon promjene.",
+        "example": "Od kupaca koji su došli u martu, 40% je kupilo ponovo u 2. mjesecu. Nakon novog mejla dobrodošlice u junu, to je uradilo 52% junske kohorte.",
+        "why": "Pokazuje da li se tvoj proizvod i usluga stvarno poboljšavaju, a ne samo da li dodaješ kupce.",
+        "mixup": "Kohorta nije bilo kakav segment. Grupisana je po zajedničkoj početnoj tački u vremenu."
+      }
+    },
+    {
+      "slug": "survivorship-bias",
+      "term": "Survivorship bias",
+      "local": "pristranost preživjelih",
+      "minutes": 4,
+      "youtube": "z-Ez32Bc7hg",
+      "youtubeQuery": "survivorship bias explained",
+      "related": ["Sampling bias", "Base rate", "Correlation vs. causation"],
+      "en": {
+        "one": "Survivorship bias is drawing conclusions only from the winners, while ignoring the ones that failed and disappeared.",
+        "explain": "We study successful founders, products and investors, and copy their habits. But many who failed had the same habits; we just don't hear about them. To learn what really works, look at failures too.",
+        "example": "'All these famous founders dropped out of university, so dropping out leads to success.' Thousands of dropouts whose businesses failed are invisible.",
+        "why": "It protects you from copying 'success recipes' that are really just luck stories.",
+        "mixup": "Success stories are not useless. They just can't tell you, alone, what caused the success."
+      },
+      "bs": {
+        "one": "Survivorship bias (pristranost preživjelih) je izvođenje zaključaka samo iz pobjednika, uz zanemarivanje onih koji su propali i nestali.",
+        "explain": "Proučavamo uspješne osnivače, proizvode i investitore i kopiramo njihove navike. Ali mnogi koji su propali imali su iste navike; samo ne čujemo za njih. Da naučiš šta stvarno radi, gledaj i neuspjehe.",
+        "example": "'Svi ovi poznati osnivači su napustili fakultet, pa napuštanje fakulteta vodi uspjehu.' Hiljade onih koji su napustili fakultet i propali su nevidljive.",
+        "why": "Štiti te od kopiranja 'recepata za uspjeh' koji su zapravo priče o sreći.",
+        "mixup": "Priče o uspjehu nisu beskorisne. Samo ti same ne mogu reći šta je izazvalo uspjeh."
+      }
+    },
+    {
+      "slug": "data-driven-decisions",
+      "term": "Data-driven decisions",
+      "local": "odluke zasnovane na podacima",
+      "minutes": 4,
+      "youtube": "-O9yMFDbsCQ",
+      "youtubeQuery": "data driven decision making explained",
+      "related": ["KPI (Key performance indicator)", "A/B testing", "Correlation vs. causation"],
+      "en": {
+        "one": "Data-driven decision making means checking the evidence before you decide, rather than relying only on opinions or habit.",
+        "explain": "Start with a clear question, find the data that answers it, look at it honestly (including what goes against your hunch), decide, and then measure the result. Experience still matters; data tests it.",
+        "example": "A restaurant owner is sure lunch menus lose money. The till data shows lunch brings 35% of profit, so instead of cutting it, they fix the slowest dishes.",
+        "why": "It reduces costly mistakes and settles arguments with facts.",
+        "mixup": "Data-driven doesn't mean data decides alone. Numbers can be wrong or incomplete; combine them with judgement and customer conversations."
+      },
+      "bs": {
+        "one": "Data-driven decision making (odlučivanje na osnovu podataka) znači provjeriti dokaze prije odluke, umjesto oslanjanja samo na mišljenja ili navike.",
+        "explain": "Počni s jasnim pitanjem, nađi podatke koji odgovaraju, pogledaj ih iskreno (i ono što ide protiv tvog osjećaja), odluči, pa izmjeri rezultat. Iskustvo je i dalje važno; podaci ga provjeravaju.",
+        "example": "Vlasnik restorana je siguran da ručkovi gube novac. Podaci s kase pokažu da ručak donosi 35% dobiti, pa umjesto da ga ukine, popravi najsporija jela.",
+        "why": "Smanjuje skupe greške i rješava rasprave činjenicama.",
+        "mixup": "Na osnovu podataka ne znači da podaci sami odlučuju. Brojevi mogu biti pogrešni ili nepotpuni; kombinuj ih s procjenom i razgovorima s kupcima."
+      }
+    },
+    {
+      "slug": "gdpr-data-privacy",
+      "term": "Data privacy & GDPR",
+      "local": "privatnost podataka i GDPR",
+      "minutes": 5,
+      "youtube": "GXIbbkNwBHA",
+      "youtubeQuery": "GDPR explained simply for small business",
+      "related": ["Email marketing", "Data quality", "Regulation"],
+      "en": {
+        "one": "Data privacy rules say how you may collect, store and use information about people. In the EU the main law is GDPR.",
+        "explain": "Collect only what you need, tell people why, get consent where required (e.g. marketing emails), keep it safe, and delete it when no longer needed. People can ask to see or delete their data. BiH's data protection law follows similar principles and is moving closer to GDPR.",
+        "example": "An online shop stores customer addresses for delivery, but asks separately, with an unticked box, before adding anyone to its newsletter.",
+        "why": "Breaking these rules can bring large fines and destroy customer trust.",
+        "mixup": "GDPR doesn't forbid using data. It requires a clear, lawful reason and respect for people's rights."
+      },
+      "bs": {
+        "one": "Pravila o privatnosti podataka govore kako smiješ prikupljati, čuvati i koristiti informacije o ljudima. U EU glavni zakon je GDPR.",
+        "explain": "Prikupljaj samo ono što ti treba, reci ljudima zašto, dobij saglasnost gdje je potrebna (npr. marketinški mejlovi), čuvaj podatke sigurno i obriši ih kad više nisu potrebni. Ljudi mogu tražiti da vide ili obrišu svoje podatke. Zakon o zaštiti ličnih podataka u BiH prati slične principe i približava se GDPR-u.",
+        "example": "Web shop čuva adrese kupaca za dostavu, ali posebno pita, s neoznačenim poljem, prije nego nekoga doda na newsletter.",
+        "why": "Kršenje ovih pravila može donijeti velike kazne i uništiti povjerenje kupaca.",
+        "mixup": "GDPR ne zabranjuje korištenje podataka. Traži jasan, zakonit razlog i poštovanje prava ljudi."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": { "en": "Which is most likely a 'vanity metric'?", "bs": "Šta je najvjerovatnije 'metrika taštine'?" },
+      "options": [
+        { "en": "Customer retention", "bs": "Zadržavanje kupaca" },
+        { "en": "Instagram followers", "bs": "Pratioci na Instagramu" },
+        { "en": "Monthly profit", "bs": "Mjesečna dobit" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Followers look nice but don't show whether the business is healthy.",
+        "bs": "Pratioci lijepo izgledaju, ali ne pokazuju je li posao zdrav."
+      }
+    },
+    {
+      "q": {
+        "en": "Grouping customers by the month they first bought and tracking each group is…",
+        "bs": "Grupisanje kupaca po mjesecu prve kupovine i praćenje svake grupe je…"
+      },
+      "options": [
+        { "en": "Seasonality", "bs": "Sezonalnost" },
+        { "en": "Cohort analysis", "bs": "Kohortna analiza" },
+        { "en": "A pie chart", "bs": "Kružni grafikon" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Cohorts share a starting point in time and are followed over time.",
+        "bs": "Kohorte dijele početnu tačku u vremenu i prate se kroz vrijeme."
+      }
+    },
+    {
+      "q": {
+        "en": "'Famous founders dropped out of university, so dropping out leads to success.' What's wrong?",
+        "bs": "'Poznati osnivači su napustili fakultet, pa napuštanje vodi uspjehu.' Šta ne valja?"
+      },
+      "options": [
+        {
+          "en": "Survivorship bias: we don't see the dropouts who failed",
+          "bs": "Pristranost preživjelih: ne vidimo one koji su napustili i propali"
+        },
+        { "en": "Nothing, it's proven", "bs": "Ništa, dokazano je" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Looking only at winners hides the many with the same traits who failed.",
+        "bs": "Gledanje samo pobjednika sakrije mnoge s istim osobinama koji su propali."
+      }
+    },
+    {
+      "q": {
+        "en": "Under GDPR, how should a shop add customers to its newsletter?",
+        "bs": "Po GDPR-u, kako radnja treba dodati kupce na newsletter?"
+      },
+      "options": [
+        { "en": "Add everyone who buys automatically", "bs": "Automatski dodati svakoga ko kupi" },
+        { "en": "Buy a mailing list", "bs": "Kupiti listu adresa" },
+        { "en": "Ask separately, with an unticked box", "bs": "Pitati posebno, s neoznačenim poljem" }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "Marketing emails need clear, freely given consent.",
+        "bs": "Marketinški mejlovi traže jasnu, slobodno datu saglasnost."
+      }
+    }
+  ]
+}

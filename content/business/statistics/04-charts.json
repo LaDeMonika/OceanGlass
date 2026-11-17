@@ -1,0 +1,209 @@
+{
+  "slug": "charts",
+  "title": { "en": "Charts that tell the truth", "bs": "Grafikoni koji govore istinu" },
+  "summary": {
+    "en": "Picking the right chart for the question, and spotting charts that mislead.",
+    "bs": "Kako izabrati pravi grafikon za pitanje i prepoznati one koji varaju."
+  },
+  "concepts": [
+    {
+      "slug": "bar-chart",
+      "term": "Bar chart",
+      "local": "stubičasti grafikon",
+      "minutes": 3,
+      "youtube": "-9QdQCdE9nc",
+      "youtubeQuery": "bar chart explained when to use",
+      "related": ["Line chart", "Pie chart", "Histogram"],
+      "en": {
+        "one": "A bar chart compares amounts across categories using bars of different lengths.",
+        "explain": "Use it to compare things like sales by product, city or salesperson. Sort the bars from biggest to smallest so the ranking is obvious, and always start the value axis at zero, because the length of the bar is the message.",
+        "example": "Five products' monthly revenue shown as horizontal bars, longest at the top: you instantly see the best and worst sellers.",
+        "why": "It's the clearest, most honest chart for 'which is bigger?' questions.",
+        "mixup": "A bar chart is not for trends over time with many points. That's what a line chart is for."
+      },
+      "bs": {
+        "one": "Bar chart (stubičasti grafikon) poredi iznose po kategorijama pomoću stubića različite dužine.",
+        "explain": "Koristi ga za poređenje npr. prodaje po proizvodu, gradu ili prodavaču. Poredaj stubiće od najvećeg do najmanjeg da poredak bude očit, i uvijek počni os vrijednosti od nule, jer je dužina stubića poruka.",
+        "example": "Mjesečni prihod pet proizvoda prikazan kao vodoravni stubići, najduži na vrhu: odmah vidiš najbolje i najlošije.",
+        "why": "To je najjasniji i najpošteniji grafikon za pitanja 'šta je veće?'.",
+        "mixup": "Stubičasti grafikon nije za trendove kroz vrijeme s mnogo tačaka. Za to služi linijski grafikon."
+      }
+    },
+    {
+      "slug": "line-chart",
+      "term": "Line chart",
+      "local": "linijski grafikon",
+      "minutes": 3,
+      "youtube": "nNXSeJbeuho",
+      "youtubeQuery": "line chart explained when to use",
+      "related": ["Bar chart", "Seasonality", "Moving average"],
+      "en": {
+        "one": "A line chart shows how a value changes over time by connecting data points with a line.",
+        "explain": "Time goes left to right; the line's ups and downs show trends, seasons and sudden jumps. You can put two or three lines together to compare, but more than that becomes a tangle.",
+        "example": "Monthly sales for the last 3 years on one line chart reveal a summer peak every year and slow overall growth.",
+        "why": "It's the best way to see trends and patterns that a table of numbers hides.",
+        "mixup": "A line implies continuity. Don't connect categories that have no order, like product names."
+      },
+      "bs": {
+        "one": "Line chart (linijski grafikon) pokazuje kako se vrijednost mijenja kroz vrijeme spajanjem tačaka linijom.",
+        "explain": "Vrijeme ide slijeva nadesno; usponi i padovi linije pokazuju trendove, sezone i nagle skokove. Možeš staviti dvije-tri linije za poređenje, ali više od toga postane zbrka.",
+        "example": "Mjesečna prodaja za zadnje 3 godine na jednom linijskom grafikonu otkrije ljetni vrh svake godine i spor ukupni rast.",
+        "why": "Najbolji je način da vidiš trendove i obrasce koje tabela brojeva sakrije.",
+        "mixup": "Linija podrazumijeva kontinuitet. Ne spajaj kategorije koje nemaju redoslijed, kao imena proizvoda."
+      }
+    },
+    {
+      "slug": "pie-chart",
+      "term": "Pie chart",
+      "local": "kružni grafikon (pita)",
+      "minutes": 3,
+      "youtube": "peOGJtslPgU",
+      "youtubeQuery": "pie chart when to use and not use",
+      "related": ["Bar chart", "Percentage", "Market share"],
+      "en": {
+        "one": "A pie chart shows how a whole is split into parts, each slice being a share of 100%.",
+        "explain": "It works only with a few slices (about 2–5) that add up to a meaningful whole, like market share. People are bad at comparing angles, so with many similar slices a bar chart is clearer.",
+        "example": "A café's revenue: 60% drinks, 30% food, 10% merchandise. Three slices, easy to read.",
+        "why": "Used well, it gives an instant feel for 'how big a part of the total is this?'",
+        "mixup": "A pie chart with 12 slices is not informative. If you can't tell which slice is bigger, switch to bars."
+      },
+      "bs": {
+        "one": "Pie chart (kružni grafikon) pokazuje kako je cjelina podijeljena na dijelove, gdje je svaka kriška udio u 100%.",
+        "explain": "Radi samo s malo kriški (oko 2–5) koje čine smislenu cjelinu, npr. tržišni udio. Ljudi loše porede uglove, pa je s mnogo sličnih kriški stubičasti grafikon jasniji.",
+        "example": "Prihod kafića: 60% pića, 30% hrana, 10% suveniri. Tri kriške, lako za čitanje.",
+        "why": "Kad se dobro koristi, odmah daje osjećaj 'koliki je ovo dio ukupnog?'",
+        "mixup": "Pita s 12 kriški nije informativna. Ako ne vidiš koja je kriška veća, pređi na stubiće."
+      }
+    },
+    {
+      "slug": "histogram",
+      "term": "Histogram",
+      "local": "histogram",
+      "minutes": 4,
+      "youtube": "eDypToP5oms",
+      "youtubeQuery": "histogram explained simply",
+      "related": ["Normal distribution", "Bar chart", "Range & spread"],
+      "en": {
+        "one": "A histogram shows how values are distributed by counting how many fall into each range ('bin').",
+        "explain": "It looks like a bar chart, but the bars are number ranges in order, like €0–10, €10–20, and so on. It shows where most values sit, how spread out they are, and whether there are two groups or long tails.",
+        "example": "A histogram of order values shows most orders between €20 and €40, plus a second bump at €100–120 from business buyers.",
+        "why": "It reveals the shape of your data, which averages alone hide.",
+        "mixup": "A histogram is not a bar chart of categories. Its bars are touching ranges of one number."
+      },
+      "bs": {
+        "one": "Histogram pokazuje kako su vrijednosti raspoređene, brojeći koliko ih pada u svaki raspon ('korpu').",
+        "explain": "Liči na stubičasti grafikon, ali stubići su rasponi brojeva po redu, npr. 0–10 €, 10–20 € itd. Pokazuje gdje je većina vrijednosti, koliko su raspršene i da li postoje dvije grupe ili dugi repovi.",
+        "example": "Histogram vrijednosti narudžbi pokaže većinu narudžbi između 20 € i 40 €, plus drugo ispupčenje na 100–120 € od poslovnih kupaca.",
+        "why": "Otkriva oblik podataka, koji sami prosjeci sakriju.",
+        "mixup": "Histogram nije stubičasti grafikon kategorija. Njegovi stubići su rasponi jednog broja koji se dodiruju."
+      }
+    },
+    {
+      "slug": "scatter-plot",
+      "term": "Scatter plot",
+      "local": "dijagram raspršenosti",
+      "minutes": 4,
+      "youtube": "Qsges3fJVGM",
+      "youtubeQuery": "scatter plot explained correlation",
+      "related": ["Correlation", "Regression & trend line", "Outlier"],
+      "en": {
+        "one": "A scatter plot shows the relationship between two numbers by placing each item as a dot.",
+        "explain": "One variable goes on the horizontal axis, the other on the vertical. If the dots form a rising band, the two tend to go up together; a falling band means one goes down as the other rises; a cloud means little relationship.",
+        "example": "Each dot is a store: ad spend on one axis, sales on the other. The dots rise together, but a few stores sell a lot with little advertising.",
+        "why": "It's the first thing to draw when you wonder whether two things are connected.",
+        "mixup": "A pattern in a scatter plot is not proof of cause. Both variables might be driven by something else."
+      },
+      "bs": {
+        "one": "Scatter plot (dijagram raspršenosti) pokazuje odnos dva broja tako što svaku stavku postavi kao tačku.",
+        "explain": "Jedna varijabla ide na vodoravnu os, druga na uspravnu. Ako tačke čine rastuću traku, obično rastu zajedno; opadajuća traka znači da jedna pada dok druga raste; oblak znači slabu vezu.",
+        "example": "Svaka tačka je jedna radnja: trošak reklama na jednoj osi, prodaja na drugoj. Tačke rastu zajedno, ali par radnji puno prodaje uz malo reklama.",
+        "why": "To je prvo što nacrtaš kad se pitaš da li su dvije stvari povezane.",
+        "mixup": "Obrazac na dijagramu nije dokaz uzroka. Obje varijable može pokretati nešto treće."
+      }
+    },
+    {
+      "slug": "misleading-charts",
+      "term": "Misleading charts",
+      "local": "grafikoni koji obmanjuju",
+      "minutes": 5,
+      "youtube": "E91bGT9BjYk",
+      "youtubeQuery": "how charts can be misleading explained",
+      "related": ["Bar chart", "Line chart", "Data quality"],
+      "en": {
+        "one": "Charts can tell the truth in a way that still misleads, through cut axes, cherry-picked dates or distorted shapes.",
+        "explain": "Common tricks: a value axis starting far above zero so a 2% change looks huge, showing only the period that supports the story, 3D effects that make slices look bigger, and two axes scaled to fake a connection.",
+        "example": "A bar chart shows sales of 98 vs 102 with the axis starting at 95, so one bar looks five times taller than the other.",
+        "why": "Spotting these tricks protects you from bad decisions, and keeps your own reports honest.",
+        "mixup": "A chart is not neutral just because it uses real numbers. How it's drawn changes what people believe."
+      },
+      "bs": {
+        "one": "Grafikoni mogu reći istinu na način koji ipak obmanjuje, kroz odsječene ose, birane datume ili iskrivljene oblike.",
+        "explain": "Česti trikovi: os vrijednosti koja počinje daleko iznad nule pa promjena od 2% izgleda ogromno, prikaz samo perioda koji podržava priču, 3D efekti koji čine kriške većim i dvije ose skalirane da glume vezu.",
+        "example": "Stubičasti grafikon pokazuje prodaju 98 naspram 102 s osom koja počinje na 95, pa jedan stubić izgleda pet puta viši od drugog.",
+        "why": "Kad prepoznaješ ove trikove, štitiš se od loših odluka, a tvoji izvještaji ostaju pošteni.",
+        "mixup": "Grafikon nije neutralan samo zato što koristi stvarne brojeve. Način crtanja mijenja ono u šta ljudi vjeruju."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "You want to show monthly sales over three years. Which chart fits best?",
+        "bs": "Želiš prikazati mjesečnu prodaju kroz tri godine. Koji grafikon najbolje odgovara?"
+      },
+      "options": [
+        { "en": "Line chart", "bs": "Linijski grafikon" },
+        { "en": "Scatter plot", "bs": "Dijagram raspršenosti" },
+        { "en": "Pie chart", "bs": "Kružni grafikon" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Line charts show change over time.",
+        "bs": "Linijski grafikoni pokazuju promjenu kroz vrijeme."
+      }
+    },
+    {
+      "q": {
+        "en": "A bar chart of 98 vs 102 starts its axis at 95. What's the problem?",
+        "bs": "Stubičasti grafikon za 98 naspram 102 počinje os na 95. U čemu je problem?"
+      },
+      "options": [
+        { "en": "Nothing, it's precise", "bs": "Ništa, precizno je" },
+        { "en": "A small difference looks huge", "bs": "Mala razlika izgleda ogromno" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Bar length is the message, so bar charts should start at zero.",
+        "bs": "Dužina stubića je poruka, pa stubičasti grafikoni trebaju počinjati od nule."
+      }
+    },
+    {
+      "q": {
+        "en": "Which chart shows how order values are distributed?",
+        "bs": "Koji grafikon pokazuje kako su raspoređene vrijednosti narudžbi?"
+      },
+      "options": [
+        { "en": "Histogram", "bs": "Histogram" },
+        { "en": "Line chart", "bs": "Linijski grafikon" },
+        { "en": "Pie chart", "bs": "Kružni grafikon" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "A histogram counts how many values fall in each range.",
+        "bs": "Histogram broji koliko vrijednosti pada u svaki raspon."
+      }
+    },
+    {
+      "q": { "en": "When is a pie chart a poor choice?", "bs": "Kada je kružni grafikon loš izbor?" },
+      "options": [
+        { "en": "With 12 similar slices", "bs": "S 12 sličnih kriški" },
+        { "en": "With 3 slices of a total", "bs": "S 3 kriške cjeline" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "People can't compare many similar angles; use bars instead.",
+        "bs": "Ljudi ne mogu porediti mnogo sličnih uglova; koristi stubiće."
+      }
+    }
+  ]
+}

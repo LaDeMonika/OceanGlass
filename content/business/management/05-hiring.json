@@ -1,0 +1,215 @@
+{
+  "slug": "hiring",
+  "title": { "en": "Hiring the right people", "bs": "Zapošljavanje pravih ljudi" },
+  "summary": {
+    "en": "Finding, choosing and welcoming new people so they succeed.",
+    "bs": "Kako pronaći, izabrati i dočekati nove ljude da uspiju."
+  },
+  "concepts": [
+    {
+      "slug": "job-description",
+      "term": "Job description",
+      "local": "opis radnog mjesta",
+      "minutes": 4,
+      "youtube": "6tgSvmDG9O0",
+      "youtubeQuery": "how to write a job description explained",
+      "related": ["Recruitment", "Structured interview", "Performance review"],
+      "en": {
+        "one": "A job description explains what a role is for, what the person will do, and what skills they need.",
+        "explain": "Start with the purpose of the role and the 4–6 main responsibilities. Separate must-have skills from nice-to-have ones. Include practical facts: location, hours, contract type and, ideally, the pay range. It becomes the base for the ad, the interview and later reviews.",
+        "example": "Not 'Looking for a hard-working team player', but: 'Shop assistant, 40 h/week, Mostar. You'll serve customers, handle the till and restock shelves. Must: friendly with customers, basic English. Pay: 1,300–1,450 KM net.'",
+        "why": "A clear description attracts the right people and filters out the wrong ones before you spend time on interviews.",
+        "mixup": "A long wish list isn't a job description. Asking for everything scares off good candidates who meet 80% of it."
+      },
+      "bs": {
+        "one": "Job description (opis radnog mjesta) objašnjava čemu služi uloga, šta će osoba raditi i koje vještine treba.",
+        "explain": "Počni sa svrhom uloge i 4–6 glavnih zaduženja. Odvoji obavezne vještine od poželjnih. Uključi praktične činjenice: lokaciju, radno vrijeme, vrstu ugovora i, idealno, raspon plate. Postaje osnova za oglas, razgovor i kasnije ocjene.",
+        "example": "Ne 'Tražimo vrijednog timskog igrača', nego: 'Prodavač/ica, 40 h sedmično, Mostar. Uslužuješ kupce, radiš na kasi i popunjavaš police. Obavezno: ljubaznost prema kupcima, osnovni engleski. Plata: 1.300–1.450 KM neto.'",
+        "why": "Jasan opis privlači prave ljude i odbije pogrešne prije nego potrošiš vrijeme na razgovore.",
+        "mixup": "Dug spisak želja nije opis posla. Traženje svega otjera dobre kandidate koji ispunjavaju 80% toga."
+      }
+    },
+    {
+      "slug": "recruitment",
+      "term": "Recruitment channels",
+      "local": "kanali zapošljavanja",
+      "minutes": 4,
+      "youtube": "yvIbC2ODFLg",
+      "youtubeQuery": "recruitment methods explained small business",
+      "related": ["Job description", "Employer branding", "Referral"],
+      "en": {
+        "one": "Recruitment channels are the places you find candidates: job boards, social media, referrals, schools, agencies.",
+        "explain": "Referrals from current staff often bring the best-fitting people. Job portals and LinkedIn reach many; local Facebook groups work for shop and hospitality jobs; agencies cost more but save time for hard roles. Track where your best hires came from.",
+        "example": "A hotel fills summer jobs through a tourism school partnership and a €100 bonus to staff who refer a hire who stays 3 months.",
+        "why": "The right channel brings better candidates for less time and money.",
+        "mixup": "More applicants isn't the goal. 300 wrong CVs cost more time than 10 right ones."
+      },
+      "bs": {
+        "one": "Recruitment channels (kanali zapošljavanja) su mjesta gdje nalaziš kandidate: portali za posao, društvene mreže, preporuke, škole, agencije.",
+        "explain": "Preporuke sadašnjih radnika često donesu ljude koji se najbolje uklope. Portali i LinkedIn dosežu mnoge; lokalne Facebook grupe rade za poslove u trgovini i ugostiteljstvu; agencije koštaju više, ali štede vrijeme za teške uloge. Prati odakle su došli tvoji najbolji radnici.",
+        "example": "Hotel popunjava ljetne poslove kroz saradnju sa srednjom turističkom školom i bonus od 100 € radnicima koji preporuče nekoga ko ostane 3 mjeseca.",
+        "why": "Pravi kanal donosi bolje kandidate za manje vremena i novca.",
+        "mixup": "Više prijava nije cilj. 300 pogrešnih biografija oduzme više vremena od 10 pravih."
+      }
+    },
+    {
+      "slug": "structured-interview",
+      "term": "Structured interview",
+      "local": "strukturirani intervju",
+      "minutes": 5,
+      "youtube": "t-9LCWTxVZA",
+      "youtubeQuery": "structured interview explained",
+      "related": ["Job description", "Hiring bias", "Probation period"],
+      "en": {
+        "one": "A structured interview asks every candidate the same planned questions and scores the answers the same way.",
+        "explain": "Base the questions on the job description, and ask about real past behaviour ('Tell me about a time you dealt with an angry customer'). Score each answer on a simple scale right after. Research shows this predicts job performance much better than a free chat.",
+        "example": "Three candidates for a sales role each answer the same five questions, scored 1–5 by two interviewers. The best fit is clear, not just the most charming.",
+        "why": "It makes hiring fairer and cuts the cost of bad hires.",
+        "mixup": "Liking someone isn't evidence they'll do the job well. Gut feeling favours people similar to us."
+      },
+      "bs": {
+        "one": "Structured interview (strukturirani intervju) postavlja svakom kandidatu ista planirana pitanja i ocjenjuje odgovore na isti način.",
+        "explain": "Zasnuj pitanja na opisu posla i pitaj o stvarnom prošlom ponašanju ('Opišite situaciju kad ste imali posla s ljutim kupcem'). Ocijeni svaki odgovor na jednostavnoj skali odmah poslije. Istraživanja pokazuju da ovo mnogo bolje predviđa uspjeh na poslu od slobodnog razgovora.",
+        "example": "Tri kandidata za prodaju odgovore na istih pet pitanja, a dvoje ispitivača ih ocijeni od 1 do 5. Najbolji izbor je jasan, a ne samo najšarmantniji.",
+        "why": "Čini zapošljavanje poštenijim i smanjuje trošak loših izbora.",
+        "mixup": "To što ti se neko sviđa nije dokaz da će dobro raditi. Osjećaj favorizuje ljude slične nama."
+      }
+    },
+    {
+      "slug": "onboarding",
+      "term": "Onboarding",
+      "local": "uvođenje u posao",
+      "minutes": 4,
+      "youtube": "9E_sP5RLTWQ",
+      "youtubeQuery": "employee onboarding explained",
+      "related": ["Probation period", "Company culture", "One-on-one meetings"],
+      "en": {
+        "one": "Onboarding is everything you do to help a new person settle in and become productive.",
+        "explain": "Prepare before day one: contract, equipment, accounts, a desk. Then: a clear first-week plan, introductions, a buddy to ask questions, the key rules and tools, and early small wins. Check in after 1 week, 1 month and 3 months.",
+        "example": "A new accountant arrives to a ready laptop, a printed first-week plan, lunch with the team, and a buddy who shows her how invoices are processed.",
+        "why": "Many people decide in the first weeks whether they'll stay. Good onboarding cuts early resignations and speeds up learning.",
+        "mixup": "Onboarding isn't just paperwork on day one. It takes weeks."
+      },
+      "bs": {
+        "one": "Onboarding (uvođenje u posao) je sve što radiš da pomogneš novoj osobi da se snađe i postane produktivna.",
+        "explain": "Pripremi prije prvog dana: ugovor, opremu, pristupe, radno mjesto. Zatim: jasan plan prve sedmice, upoznavanje, 'buddy' kojeg može pitati, ključna pravila i alati i rani mali uspjesi. Provjeri nakon 1 sedmice, 1 mjeseca i 3 mjeseca.",
+        "example": "Nova računovotkinja dođe i dočeka je spreman laptop, odštampan plan prve sedmice, ručak s timom i kolega koji joj pokaže kako se obrađuju fakture.",
+        "why": "Mnogi u prvim sedmicama odluče hoće li ostati. Dobro uvođenje smanjuje rane otkaze i ubrzava učenje.",
+        "mixup": "Uvođenje nije samo papirologija prvi dan. Traje sedmicama."
+      }
+    },
+    {
+      "slug": "probation-period",
+      "term": "Probation period",
+      "local": "probni rad",
+      "minutes": 4,
+      "youtube": "r8fNtwuJNM8",
+      "youtubeQuery": "probation period at work explained",
+      "related": ["Onboarding", "Employment contract", "Performance review"],
+      "en": {
+        "one": "A probation period is a trial time at the start of a job when both sides check if it works.",
+        "explain": "In BiH and Croatia it's agreed in the contract and limited by law, usually to a maximum of 6 months. During it, ending the job is simpler and notice is shorter. Set clear expectations at the start and give feedback along the way, so the decision at the end isn't a surprise.",
+        "example": "A new chef has a 3-month probation. At week 6 the owner reviews progress with him and agrees two things to improve.",
+        "why": "It protects both sides from a bad match becoming a long, painful one.",
+        "mixup": "Probation isn't a time to stay silent and judge at the end. Without feedback during it, you're not really testing anything."
+      },
+      "bs": {
+        "one": "Probation period (probni rad) je probno vrijeme na početku posla kad obje strane provjeravaju da li to funkcioniše.",
+        "explain": "U BiH i Hrvatskoj dogovara se ugovorom i ograničen je zakonom, obično na najviše 6 mjeseci. Tokom njega je prekid lakši, a otkazni rok kraći. Na početku postavi jasna očekivanja i daj feedback usput, da odluka na kraju ne bude iznenađenje.",
+        "example": "Novi kuhar ima probni rad od 3 mjeseca. U 6. sedmici vlasnik s njim pregleda napredak i dogovore dvije stvari za poboljšanje.",
+        "why": "Štiti obje strane da loše uklapanje ne postane dugo i bolno.",
+        "mixup": "Probni rad nije vrijeme za šutnju i ocjenu na kraju. Bez feedbacka tokom njega, zapravo ništa ne testiraš."
+      }
+    },
+    {
+      "slug": "employer-branding",
+      "term": "Employer branding",
+      "local": "brend poslodavca",
+      "minutes": 4,
+      "youtube": "6wol9PkAgko",
+      "youtubeQuery": "employer branding explained",
+      "related": ["Company culture", "Recruitment channels", "Reputation & reviews"],
+      "en": {
+        "one": "Employer branding is your reputation as a place to work.",
+        "explain": "People check what it's like to work for you, from friends, reviews and social media, before they apply. Fair pay, respectful management, growth chances and honest stories from real staff build it. A strong one means more and better applicants and less money spent on ads.",
+        "example": "A restaurant posts short videos of its kitchen team and how juniors get promoted. Cooks start applying without a job ad.",
+        "why": "In tight labour markets, like many in the region today, the employer brand can matter as much as the salary.",
+        "mixup": "You can't fake it with nice posts. If current staff say otherwise, word spreads fast."
+      },
+      "bs": {
+        "one": "Employer branding (brend poslodavca) je tvoj ugled kao mjesta za rad.",
+        "explain": "Ljudi provjere kako je raditi kod tebe, od prijatelja, recenzija i mreža, prije nego se prijave. Grade ga fer plata, poštovanje od strane rukovodstva, prilike za napredak i iskrene priče stvarnih radnika. Jak brend znači više i boljih kandidata i manje novca za oglase.",
+        "example": "Restoran objavljuje kratke snimke svog kuhinjskog tima i kako mlađi napreduju. Kuhari se počnu javljati i bez oglasa.",
+        "why": "Na tržištima gdje fali radnika, kao mnogim u regiji danas, brend poslodavca može biti važan koliko i plata.",
+        "mixup": "Ne može se lažirati lijepim objavama. Ako sadašnji radnici kažu drugačije, glas se brzo širi."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "Which interview approach predicts job performance best?",
+        "bs": "Koji pristup intervjuu najbolje predviđa uspjeh na poslu?"
+      },
+      "options": [
+        { "en": "Hiring whoever you like most", "bs": "Zaposliti koga ti se najviše sviđa" },
+        { "en": "A relaxed free chat", "bs": "Opušten slobodan razgovor" },
+        {
+          "en": "Same planned questions, scored the same way",
+          "bs": "Ista planirana pitanja, isto ocijenjena"
+        }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "Structured interviews compare candidates fairly on what the job needs.",
+        "bs": "Strukturirani intervjui pošteno porede kandidate po onome što posao traži."
+      }
+    },
+    {
+      "q": {
+        "en": "What is the usual legal maximum for a probation period in BiH and Croatia?",
+        "bs": "Koliki je uobičajeni zakonski maksimum probnog rada u BiH i Hrvatskoj?"
+      },
+      "options": [
+        { "en": "1 week", "bs": "1 sedmica" },
+        { "en": "About 6 months", "bs": "Oko 6 mjeseci" },
+        { "en": "2 years", "bs": "2 godine" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "It's set in the contract and capped by law, usually at 6 months.",
+        "bs": "Određuje se ugovorom, a zakon ga ograničava, obično na 6 mjeseci."
+      }
+    },
+    {
+      "q": {
+        "en": "Which channel often brings the best-fitting hires for a small firm?",
+        "bs": "Koji kanal malim firmama često donese najbolje uklopljene radnike?"
+      },
+      "options": [
+        { "en": "The biggest possible ad", "bs": "Najveći mogući oglas" },
+        { "en": "Referrals from current staff", "bs": "Preporuke sadašnjih radnika" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Staff know both the job and the person they recommend.",
+        "bs": "Radnici znaju i posao i osobu koju preporučuju."
+      }
+    },
+    {
+      "q": { "en": "When does onboarding end?", "bs": "Kada završava uvođenje u posao?" },
+      "options": [
+        { "en": "When the contract is signed", "bs": "Kad se potpiše ugovor" },
+        {
+          "en": "After a few weeks or months, with check-ins",
+          "bs": "Nakon par sedmica ili mjeseci, uz provjere"
+        }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Settling in takes weeks; check in at 1 week, 1 month and 3 months.",
+        "bs": "Snalaženje traje sedmicama; provjeri nakon 1 sedmice, 1 mjeseca i 3 mjeseca."
+      }
+    }
+  ]
+}

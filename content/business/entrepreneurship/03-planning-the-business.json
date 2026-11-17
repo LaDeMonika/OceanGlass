@@ -1,0 +1,205 @@
+{
+  "slug": "planning-the-business",
+  "title": { "en": "Planning the business", "bs": "Planiranje biznisa" },
+  "summary": {
+    "en": "Putting your business on one page, sizing the market, and pitching it in a way people remember.",
+    "bs": "Biznis na jednoj stranici, procjena veličine tržišta i predstavljanje koje ljudi pamte."
+  },
+  "concepts": [
+    {
+      "slug": "business-model-canvas",
+      "term": "Business Model Canvas",
+      "local": "platno poslovnog modela",
+      "minutes": 5,
+      "youtube": "QoAOzMTLP5s",
+      "youtubeQuery": "business model canvas explained",
+      "related": ["Business model", "Value proposition", "Lean Canvas"],
+      "en": {
+        "one": "The Business Model Canvas is a one-page template that shows how a business creates, delivers and earns money from value, in nine boxes.",
+        "explain": "The boxes are: customer segments, value proposition, channels, customer relationships, revenue streams, key resources, key activities, key partners and cost structure. Filling it in quickly shows gaps and how the parts fit together. It was created by Alexander Osterwalder.",
+        "example": "A yoga studio's canvas: busy office workers (segment), short lunch classes near offices (value), Instagram and company deals (channels), monthly passes (revenue), rented room and teachers (costs).",
+        "why": "It's much faster than a full business plan and easy to change as you learn.",
+        "mixup": "The canvas is a thinking tool, not a finished plan. Each box is a guess until you test it with real customers."
+      },
+      "bs": {
+        "one": "Business Model Canvas (platno poslovnog modela) je obrazac na jednoj stranici koji u devet polja pokazuje kako biznis stvara i isporučuje vrijednost i kako od nje zarađuje.",
+        "explain": "Polja su: segmenti kupaca, vrijednosna ponuda, kanali, odnosi s kupcima, izvori prihoda, ključni resursi, ključne aktivnosti, ključni partneri i struktura troškova. Brzo popunjavanje pokazuje rupe i kako se dijelovi uklapaju. Napravio ga je Alexander Osterwalder.",
+        "example": "Platno studija joge: zauzeti uredski radnici (segment), kratki časovi u pauzi za ručak blizu kancelarija (vrijednost), Instagram i dogovori s firmama (kanali), mjesečne karte (prihod), iznajmljena sala i instruktori (troškovi).",
+        "why": "Mnogo je brže od punog biznis plana i lako se mijenja dok učiš.",
+        "mixup": "Platno je alat za razmišljanje, a ne gotov plan. Svako polje je pretpostavka dok je ne testiraš sa stvarnim kupcima."
+      }
+    },
+    {
+      "slug": "lean-canvas",
+      "term": "Lean Canvas",
+      "local": "lean platno",
+      "minutes": 4,
+      "youtube": "aAg3pw9Z358",
+      "youtubeQuery": "lean canvas explained step by step",
+      "related": ["Business Model Canvas", "Problem-solution fit", "Unfair advantage"],
+      "en": {
+        "one": "The Lean Canvas is a version of the Business Model Canvas made for new start-ups, focused on problems, solutions and risks.",
+        "explain": "It replaces some boxes with: problem, solution, key metrics and unfair advantage (something competitors can't easily copy or buy). It pushes founders to start from the customer's problem instead of the product. It was adapted by Ash Maurya.",
+        "example": "A founder of a tutoring platform writes: problem 'parents can't find reliable maths tutors nearby', key metric 'booked lessons per week', unfair advantage 'partnership with 3 schools'.",
+        "why": "It's ideal for the very early stage when almost everything is still uncertain.",
+        "mixup": "'Unfair advantage' is the hardest box. 'We work harder' or 'better quality' isn't one; leave it empty rather than fooling yourself."
+      },
+      "bs": {
+        "one": "Lean Canvas (lean platno) je verzija platna poslovnog modela napravljena za nove start-upe, fokusirana na probleme, rješenja i rizike.",
+        "explain": "Zamjenjuje neka polja s: problem, rješenje, ključni pokazatelji i nepoštena prednost (nešto što konkurenti ne mogu lako kopirati ili kupiti). Tjera osnivače da krenu od problema kupca, a ne od proizvoda. Prilagodio ga je Ash Maurya.",
+        "example": "Osnivač platforme za instrukcije napiše: problem 'roditelji ne mogu naći pouzdane instruktore matematike u blizini', ključni pokazatelj 'zakazani časovi sedmično', nepoštena prednost 'partnerstvo s 3 škole'.",
+        "why": "Idealno je za sasvim ranu fazu kad je gotovo sve još neizvjesno.",
+        "mixup": "'Nepoštena prednost' je najteže polje. 'Radimo više' ili 'bolji kvalitet' nije to; bolje ostavi prazno nego da zavaravaš sebe."
+      }
+    },
+    {
+      "slug": "business-plan",
+      "term": "Business plan",
+      "local": "biznis plan",
+      "minutes": 5,
+      "youtube": "44r-sCy8X6E",
+      "youtubeQuery": "how to write a business plan simple step by step",
+      "related": ["Business Model Canvas", "Cash flow", "Break-even point"],
+      "en": {
+        "one": "A business plan is a written document that explains what your business will do, for whom, how it will make money, and what it needs to get started.",
+        "explain": "Typical parts: summary, product, market and competitors, marketing and sales, team, operations, and financials (start-up costs, expected sales, cash flow, break-even). Banks, grant programmes and investors in our region often ask for one.",
+        "example": "A woman applying for a start-up grant writes a 12-page plan for a dog-grooming salon, with prices, expected customers per day, costs and when she expects to break even.",
+        "why": "Writing it forces you to check your numbers and assumptions, and it opens doors to funding.",
+        "mixup": "A business plan isn't a promise of the future. Treat the numbers as estimates and update them when reality shows up."
+      },
+      "bs": {
+        "one": "Business plan (biznis plan) je pisani dokument koji objašnjava šta će tvoj biznis raditi, za koga, kako će zarađivati i šta mu treba za početak.",
+        "explain": "Tipični dijelovi: sažetak, proizvod, tržište i konkurenti, marketing i prodaja, tim, poslovanje i finansije (početni troškovi, očekivana prodaja, novčani tok, tačka pokrića). Banke, programi poticaja i investitori u regiji ga često traže.",
+        "example": "Žena koja se prijavljuje za poticaj za samozapošljavanje napiše plan od 12 stranica za salon za šišanje pasa, s cijenama, očekivanim brojem kupaca dnevno, troškovima i kada očekuje da pokrije troškove.",
+        "why": "Pisanje te tjera da provjeriš svoje brojeve i pretpostavke, i otvara vrata finansiranju.",
+        "mixup": "Biznis plan nije obećanje budućnosti. Brojeve tretiraj kao procjene i ažuriraj ih kad se pojavi stvarnost."
+      }
+    },
+    {
+      "slug": "tam-sam-som",
+      "term": "Market size: TAM, SAM, SOM",
+      "local": "veličina tržišta: TAM, SAM, SOM",
+      "minutes": 4,
+      "youtube": "kByIFecL08U",
+      "youtubeQuery": "TAM SAM SOM explained market size",
+      "related": ["Target market", "Market research", "Business plan"],
+      "en": {
+        "one": "TAM, SAM and SOM are three ways of measuring market size, from the biggest possible to what you can realistically win.",
+        "explain": "TAM (total addressable market) is everyone who could ever buy this type of product. SAM (serviceable available market) is the part you can actually reach with your offer and location. SOM (serviceable obtainable market) is the share you can realistically win in the next few years.",
+        "example": "A vegan bakery in Mostar: TAM = all bread and pastry sales in BiH; SAM = vegan and health-conscious buyers in Mostar; SOM = perhaps 15% of those in three years.",
+        "why": "It keeps your forecasts realistic and shows investors you understand your market.",
+        "mixup": "A huge TAM doesn't make a business good. 'If we get just 1% of a giant market' is a classic warning sign in a pitch."
+      },
+      "bs": {
+        "one": "TAM, SAM i SOM su tri načina mjerenja veličine tržišta, od najvećeg mogućeg do onoga što realno možeš osvojiti.",
+        "explain": "TAM (ukupno tržište) su svi koji bi ikad mogli kupiti ovu vrstu proizvoda. SAM (dostupno tržište) je dio do kojeg zaista možeš doći svojom ponudom i lokacijom. SOM (osvojivo tržište) je udio koji realno možeš osvojiti u narednih nekoliko godina.",
+        "example": "Veganska pekara u Mostaru: TAM = sva prodaja hljeba i peciva u BiH; SAM = veganski i zdravstveno osviješteni kupci u Mostaru; SOM = možda 15% njih za tri godine.",
+        "why": "Drži tvoje prognoze realnim i pokazuje investitorima da razumiješ svoje tržište.",
+        "mixup": "Ogroman TAM ne čini biznis dobrim. 'Ako dobijemo samo 1% ogromnog tržišta' je klasičan znak upozorenja u prezentaciji."
+      }
+    },
+    {
+      "slug": "pitch-deck",
+      "term": "Pitch deck",
+      "local": "prezentacija za investitore",
+      "minutes": 4,
+      "youtube": "dRHdQ0GUkMI",
+      "youtubeQuery": "how to make a pitch deck startup",
+      "related": ["Business plan", "Elevator pitch", "Angel investor"],
+      "en": {
+        "one": "A pitch deck is a short slide presentation, usually 10 to 15 slides, that explains your business to investors, partners or grant committees.",
+        "explain": "A common order: problem, solution, market size, business model, traction (proof so far), competition, team, financial forecast, and what you're asking for. Each slide should make one point clearly.",
+        "example": "A founder pitching a recycling start-up shows: the problem (illegal dumps), the solution (collection app), 1.200 households signed up, a team with waste-industry experience, and an ask of 100.000 € for 15%.",
+        "why": "A clear deck makes it much easier to get meetings, money and partners.",
+        "mixup": "A pitch deck isn't a design contest. Clear numbers and a believable story beat pretty animations."
+      },
+      "bs": {
+        "one": "Pitch deck (prezentacija za investitore) je kratka prezentacija, obično 10 do 15 slajdova, koja objašnjava tvoj biznis investitorima, partnerima ili komisijama za poticaje.",
+        "explain": "Uobičajen redoslijed: problem, rješenje, veličina tržišta, poslovni model, tracija (dosadašnji dokazi), konkurencija, tim, finansijska prognoza i šta tražiš. Svaki slajd treba jasno reći jednu stvar.",
+        "example": "Osnivač start-upa za reciklažu pokaže: problem (divlje deponije), rješenje (aplikacija za odvoz), 1.200 prijavljenih domaćinstava, tim s iskustvom u industriji otpada i traži 100.000 € za 15%.",
+        "why": "Jasna prezentacija mnogo olakšava dobijanje sastanaka, novca i partnera.",
+        "mixup": "Pitch deck nije takmičenje u dizajnu. Jasni brojevi i uvjerljiva priča pobjeđuju lijepe animacije."
+      }
+    },
+    {
+      "slug": "elevator-pitch",
+      "term": "Elevator pitch",
+      "local": "kratko predstavljanje",
+      "minutes": 3,
+      "youtube": "45BkXFaElC8",
+      "youtubeQuery": "how to write an elevator pitch",
+      "related": ["Pitch deck", "Value proposition", "Storytelling"],
+      "en": {
+        "one": "An elevator pitch is a 30 to 60 second explanation of what your business does, for whom, and why it matters, short enough for an elevator ride.",
+        "explain": "A simple formula: 'We help [customer] solve [problem] by [solution], unlike [alternative].' Then add one proof point. Practise it out loud until it sounds natural, not memorised.",
+        "example": "'We help small guesthouses fill empty rooms by connecting them with local tour guides who send guests, unlike booking sites that take 18% commission. 40 guesthouses already use it.'",
+        "why": "You never know when you'll meet a customer, partner or investor. Being clear in one minute opens doors.",
+        "mixup": "An elevator pitch isn't your full story. Its job is to make the other person ask 'tell me more'."
+      },
+      "bs": {
+        "one": "Elevator pitch (kratko predstavljanje) je objašnjenje od 30 do 60 sekundi šta tvoj biznis radi, za koga i zašto je važno, dovoljno kratko za vožnju liftom.",
+        "explain": "Jednostavna formula: 'Pomažemo [kupcu] da riješi [problem] pomoću [rješenja], za razliku od [alternative].' Zatim dodaj jedan dokaz. Vježbaj naglas dok ne zvuči prirodno, a ne naučeno napamet.",
+        "example": "'Pomažemo malim pansionima da popune prazne sobe povezujući ih s lokalnim turističkim vodičima koji šalju goste, za razliku od booking stranica koje uzimaju 18% provizije. Već ga koristi 40 pansiona.'",
+        "why": "Nikad ne znaš kad ćeš sresti kupca, partnera ili investitora. Jasnoća u jednoj minuti otvara vrata.",
+        "mixup": "Kratko predstavljanje nije cijela priča. Njegov posao je da druga osoba pita 'reci mi više'."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "Which tool fits a whole business model onto one page in nine boxes?",
+        "bs": "Koji alat stavlja cijeli poslovni model na jednu stranicu u devet polja?"
+      },
+      "options": [
+        { "en": "Gantt chart", "bs": "Gantogram" },
+        { "en": "Balance sheet", "bs": "Bilans stanja" },
+        { "en": "Business Model Canvas", "bs": "Platno poslovnog modela" }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "The canvas covers customers, value, channels, revenue, costs and more.",
+        "bs": "Platno pokriva kupce, vrijednost, kanale, prihode, troškove i više."
+      }
+    },
+    {
+      "q": {
+        "en": "In TAM, SAM, SOM, which is the share you can realistically win soon?",
+        "bs": "U TAM, SAM, SOM, šta je udio koji realno možeš uskoro osvojiti?"
+      },
+      "options": [
+        { "en": "TAM", "bs": "TAM" },
+        { "en": "SOM", "bs": "SOM" },
+        { "en": "SAM", "bs": "SAM" }
+      ],
+      "answer": 1,
+      "explain": { "en": "SOM = serviceable obtainable market.", "bs": "SOM = osvojivo tržište." }
+    },
+    {
+      "q": { "en": "A pitch deck usually has about…", "bs": "Pitch deck obično ima oko…" },
+      "options": [
+        { "en": "10 to 15 slides", "bs": "10 do 15 slajdova" },
+        { "en": "2 slides", "bs": "2 slajda" },
+        { "en": "80 slides", "bs": "80 slajdova" }
+      ],
+      "answer": 0,
+      "explain": { "en": "Short and clear: one point per slide.", "bs": "Kratko i jasno: jedna poruka po slajdu." }
+    },
+    {
+      "q": {
+        "en": "What is the main job of an elevator pitch?",
+        "bs": "Koji je glavni zadatak kratkog predstavljanja?"
+      },
+      "options": [
+        { "en": "To make the listener want to hear more", "bs": "Da slušalac poželi čuti više" },
+        { "en": "To close the sale on the spot", "bs": "Da odmah zaključi prodaju" },
+        { "en": "To explain every detail", "bs": "Da objasni svaki detalj" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "It opens the conversation; details come later.",
+        "bs": "Otvara razgovor; detalji dolaze kasnije."
+      }
+    }
+  ]
+}

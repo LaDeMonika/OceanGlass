@@ -1,0 +1,227 @@
+{
+  "slug": "supply-chain",
+  "title": { "en": "Supply chain and stock", "bs": "Lanac snabdijevanja i zalihe" },
+  "summary": {
+    "en": "Buying the right things, from the right suppliers, at the right time.",
+    "bs": "Kupovati prave stvari, od pravih dobavljača, u pravo vrijeme."
+  },
+  "concepts": [
+    {
+      "slug": "procurement",
+      "term": "Procurement",
+      "local": "nabavka",
+      "minutes": 4,
+      "youtube": "bC4d7P0-sjA",
+      "youtubeQuery": "procurement process explained",
+      "related": ["Supplier selection", "Purchase order", "Supply chain"],
+      "en": {
+        "one": "Procurement is the whole job of buying what the business needs: finding suppliers, agreeing prices and terms, ordering and paying.",
+        "explain": "A simple procurement process: someone requests something, it's approved, a purchase order is sent, goods arrive and are checked, then the invoice is matched to the order and paid. Clear rules stop overspending and fraud.",
+        "example": "A hotel decides that any purchase over 500 KM needs the manager's approval and three quotes. Cleaning supply costs fall by 12%.",
+        "why": "Purchases are often 50–70% of a company's costs, so buying better goes straight to profit.",
+        "mixup": "Procurement isn't only about the lowest price. Quality, reliability and payment terms matter just as much."
+      },
+      "bs": {
+        "one": "Procurement (nabavka) je cijeli posao kupovine onoga što firmi treba: pronalaženje dobavljača, dogovor cijena i uslova, naručivanje i plaćanje.",
+        "explain": "Jednostavan proces nabavke: neko zatraži nešto, to se odobri, pošalje se narudžbenica, roba stigne i provjeri se, zatim se faktura uporedi s narudžbom i plati. Jasna pravila sprečavaju prekomjerno trošenje i prevare.",
+        "example": "Hotel odluči da svaka kupovina preko 500 KM treba odobrenje menadžera i tri ponude. Troškovi sredstava za čišćenje padnu za 12%.",
+        "why": "Nabavke su često 50–70% troškova firme, pa bolja kupovina ide direktno u dobit.",
+        "mixup": "Nabavka nije samo najniža cijena. Kvalitet, pouzdanost i uslovi plaćanja su jednako bitni."
+      }
+    },
+    {
+      "slug": "purchase-order",
+      "term": "Purchase order",
+      "local": "narudžbenica",
+      "minutes": 3,
+      "youtube": "z8BdPHhVnlQ",
+      "youtubeQuery": "purchase order explained",
+      "related": ["Procurement", "Invoice", "Internal controls"],
+      "en": {
+        "one": "A purchase order (PO) is a document a business sends to a supplier to officially order goods or services.",
+        "explain": "It lists what, how many, the price, the delivery date and the terms. When goods arrive, you check them against the PO, and when the invoice comes, you match it to both. This 'three-way match' catches wrong deliveries and wrong bills.",
+        "example": "A restaurant sends a PO for 30 kg of cheese at 12 KM/kg. The invoice says 35 kg. Because of the PO, the extra 5 kg are spotted before paying.",
+        "why": "POs keep spending under control and leave a clear paper trail for accounting and audits.",
+        "mixup": "A PO isn't an invoice. The PO is your order; the invoice is the supplier's bill."
+      },
+      "bs": {
+        "one": "Purchase order (narudžbenica) je dokument koji firma šalje dobavljaču da službeno naruči robu ili usluge.",
+        "explain": "Navodi šta, koliko, cijenu, datum isporuke i uslove. Kad roba stigne, provjeriš je u odnosu na narudžbenicu, a kad stigne faktura, uporediš je s oboje. Ova 'trostruka provjera' hvata pogrešne isporuke i pogrešne račune.",
+        "example": "Restoran pošalje narudžbenicu za 30 kg sira po 12 KM/kg. Na fakturi piše 35 kg. Zbog narudžbenice, višak od 5 kg se primijeti prije plaćanja.",
+        "why": "Narudžbenice drže troškove pod kontrolom i ostavljaju jasan trag za računovodstvo i revizije.",
+        "mixup": "Narudžbenica nije faktura. Narudžbenica je tvoja narudžba; faktura je račun dobavljača."
+      }
+    },
+    {
+      "slug": "supplier-selection",
+      "term": "Choosing and managing suppliers",
+      "local": "izbor i upravljanje dobavljačima",
+      "minutes": 4,
+      "youtube": "0NZL233Qqhk",
+      "youtubeQuery": "how to choose suppliers for small business",
+      "related": ["Procurement", "Supply chain", "Make or buy"],
+      "en": {
+        "one": "Choosing a supplier means comparing them on price, quality, reliability, terms and risk, then keeping an eye on how they perform.",
+        "explain": "Ask for samples, references and clear delivery times. Track on-time delivery and defects. For important items, have a backup supplier so you're not stuck if one fails.",
+        "example": "A restaurant buys meat from one main butcher but keeps a second one who delivers twice a month. When the main butcher's van breaks down, the kitchen stays open.",
+        "why": "Your product is only as good and as reliable as what your suppliers give you.",
+        "mixup": "The cheapest supplier is often the most expensive once late deliveries and defects are counted."
+      },
+      "bs": {
+        "one": "Izbor dobavljača znači uporediti ih po cijeni, kvalitetu, pouzdanosti, uslovima i riziku, a zatim pratiti kako rade.",
+        "explain": "Traži uzorke, reference i jasne rokove isporuke. Prati isporuke na vrijeme i greške. Za važne stvari imaj rezervnog dobavljača da ne zapneš ako jedan zakaže.",
+        "example": "Restoran kupuje meso od jednog glavnog mesara, ali ima i drugog koji dostavlja dva puta mjesečno. Kad se glavnom mesaru pokvari kombi, kuhinja ostaje otvorena.",
+        "why": "Tvoj proizvod je dobar i pouzdan samo onoliko koliko je dobro ono što ti daju dobavljači.",
+        "mixup": "Najjeftiniji dobavljač je često najskuplji kad se uračunaju kašnjenja i greške."
+      }
+    },
+    {
+      "slug": "safety-stock",
+      "term": "Safety stock",
+      "local": "sigurnosna zaliha",
+      "minutes": 4,
+      "youtube": "6hr1D00vHzQ",
+      "youtubeQuery": "safety stock explained simply",
+      "related": ["Reorder point", "Stockout", "Just-in-time"],
+      "en": {
+        "one": "Safety stock is extra stock you keep to protect against surprises, like a sudden rush of orders or a late delivery.",
+        "explain": "It's a buffer, not the normal stock you plan to sell. The more unpredictable your demand or your supplier, the bigger the buffer you need. But every extra unit ties up cash and space.",
+        "example": "A pharmacy normally sells 20 boxes of a medicine a week, and delivery can be up to a week late. It keeps 20 extra boxes as safety stock.",
+        "why": "It keeps you selling when things go wrong, which protects revenue and customer trust.",
+        "mixup": "Safety stock isn't for everything. Keep it for items that sell steadily or are critical, not for slow sellers."
+      },
+      "bs": {
+        "one": "Safety stock (sigurnosna zaliha) je dodatna zaliha koju držiš kao zaštitu od iznenađenja, npr. naglog porasta narudžbi ili kasne isporuke.",
+        "explain": "To je rezerva, a ne normalna zaliha koju planiraš prodati. Što su tvoja potražnja ili dobavljač nepredvidiviji, treba ti veća rezerva. Ali svaka dodatna jedinica zarobi novac i prostor.",
+        "example": "Apoteka inače proda 20 kutija nekog lijeka sedmično, a isporuka može kasniti do sedmicu. Drži 20 dodatnih kutija kao sigurnosnu zalihu.",
+        "why": "Omogućava ti da prodaješ i kad stvari krenu naopako, što čuva prihod i povjerenje kupaca.",
+        "mixup": "Sigurnosna zaliha nije za sve. Drži je za artikle koji se stalno prodaju ili su ključni, ne za one koji se sporo prodaju."
+      }
+    },
+    {
+      "slug": "reorder-point",
+      "term": "Reorder point",
+      "local": "tačka ponovnog naručivanja",
+      "minutes": 4,
+      "youtube": "2kKRgtzcses",
+      "youtubeQuery": "reorder point formula explained",
+      "formula": {
+        "en": "Reorder point = Daily sales × Delivery days + Safety stock",
+        "bs": "Tačka naručivanja = Dnevna prodaja × Dani isporuke + Sigurnosna zaliha"
+      },
+      "related": ["Safety stock", "Lead time and cycle time", "Inventory"],
+      "en": {
+        "one": "The reorder point is the stock level at which you place a new order, so it arrives before you run out.",
+        "explain": "It depends on how much you sell per day, how many days delivery takes, and your safety stock. When stock falls to that number, you order. Many shop systems can warn you automatically.",
+        "example": "A shop sells 10 phone cases a day, delivery takes 5 days and it keeps 20 as safety stock. Reorder point = 10 × 5 + 20 = 70. When only 70 are left, it orders.",
+        "why": "It replaces guessing with a simple rule, so you neither run out nor over-order.",
+        "mixup": "The reorder point is about when to order, not how much. Order size is a separate decision."
+      },
+      "bs": {
+        "one": "Reorder point (tačka ponovnog naručivanja) je nivo zaliha na kojem šalješ novu narudžbu, tako da stigne prije nego ostaneš bez robe.",
+        "explain": "Zavisi od toga koliko prodaješ dnevno, koliko dana traje isporuka i tvoje sigurnosne zalihe. Kad zalihe padnu na taj broj, naručuješ. Mnogi sistemi za prodavnice te mogu automatski upozoriti.",
+        "example": "Prodavnica proda 10 maski za telefon dnevno, isporuka traje 5 dana, a drži 20 kao sigurnosnu zalihu. Tačka naručivanja = 10 × 5 + 20 = 70. Kad ostane samo 70, naručuje.",
+        "why": "Zamjenjuje nagađanje jednostavnim pravilom, pa niti ostaješ bez robe niti naručuješ previše.",
+        "mixup": "Tačka naručivanja govori kada naručiti, a ne koliko. Količina narudžbe je posebna odluka."
+      }
+    },
+    {
+      "slug": "stockout",
+      "term": "Stockout",
+      "local": "nestašica zaliha",
+      "minutes": 3,
+      "youtube": "BzjckeKZ37g",
+      "youtubeQuery": "cost of stockouts explained",
+      "related": ["Safety stock", "Reorder point", "Retention and churn"],
+      "en": {
+        "one": "A stockout is when a customer wants something and you don't have it.",
+        "explain": "The cost is more than one lost sale. The customer may buy everything else elsewhere too, try a competitor and stay there. Online, being out of stock can also push your product down in search results.",
+        "example": "A hardware store runs out of a popular paint in spring. Customers who came for paint also buy brushes and tape at the competitor next door.",
+        "why": "Tracking stockouts shows which items need more safety stock or a better reorder point.",
+        "mixup": "Zero stockouts isn't the goal. Never running out of anything would need huge, expensive stock. Aim for the right level per item."
+      },
+      "bs": {
+        "one": "Stockout (nestašica) je kad kupac želi nešto, a ti to nemaš.",
+        "explain": "Trošak je veći od jedne izgubljene prodaje. Kupac može i sve ostalo kupiti negdje drugo, probati konkurenciju i tu ostati. Online, nedostatak zaliha može i spustiti tvoj proizvod u rezultatima pretrage.",
+        "example": "Prodavnica građevinskog materijala na proljeće ostane bez popularne boje. Kupci koji su došli po boju kupe i četke i traku kod konkurenta pored.",
+        "why": "Praćenje nestašica pokazuje kojim artiklima treba više sigurnosne zalihe ili bolja tačka naručivanja.",
+        "mixup": "Cilj nije nula nestašica. Da nikad ništa ne fali, trebale bi ogromne, skupe zalihe. Ciljaj pravi nivo za svaki artikal."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "A shop sells 8 items a day, delivery takes 4 days and safety stock is 10. What is the reorder point?",
+        "bs": "Prodavnica proda 8 komada dnevno, isporuka traje 4 dana, a sigurnosna zaliha je 10. Kolika je tačka naručivanja?"
+      },
+      "options": [
+        { "en": "22", "bs": "22" },
+        { "en": "42", "bs": "42" },
+        { "en": "32", "bs": "32" }
+      ],
+      "answer": 1,
+      "explain": { "en": "8 × 4 + 10 = 42.", "bs": "8 × 4 + 10 = 42." }
+    },
+    {
+      "q": {
+        "en": "Why keep a backup supplier for key items?",
+        "bs": "Zašto imati rezervnog dobavljača za ključne stvari?"
+      },
+      "options": [
+        { "en": "Because two suppliers are always cheaper", "bs": "Jer su dva dobavljača uvijek jeftinija" },
+        {
+          "en": "So one supplier's problem doesn't stop your business",
+          "bs": "Da problem jednog dobavljača ne zaustavi tvoju firmu"
+        },
+        { "en": "Because the law requires it", "bs": "Jer to zakon traži" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "It reduces dependence on a single link in the supply chain.",
+        "bs": "Smanjuje zavisnost od jedne karike u lancu snabdijevanja."
+      }
+    },
+    {
+      "q": {
+        "en": "Which business needs the most safety stock?",
+        "bs": "Kojoj firmi treba najviše sigurnosne zalihe?"
+      },
+      "options": [
+        {
+          "en": "One with unpredictable demand and unreliable deliveries",
+          "bs": "Onoj s nepredvidivom potražnjom i nepouzdanim isporukama"
+        },
+        {
+          "en": "One with steady demand and daily deliveries",
+          "bs": "Onoj sa stabilnom potražnjom i dnevnim isporukama"
+        },
+        { "en": "One that only makes products to order", "bs": "Onoj koja pravi samo po narudžbi" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "The more uncertainty, the bigger the buffer you need.",
+        "bs": "Što je više neizvjesnosti, treba veća rezerva."
+      }
+    },
+    {
+      "q": {
+        "en": "Purchases are 60% of a firm's costs. Why does procurement matter for profit?",
+        "bs": "Nabavke su 60% troškova firme. Zašto je nabavka bitna za dobit?"
+      },
+      "options": [
+        { "en": "It has no link to profit", "bs": "Nema veze s dobiti" },
+        { "en": "It increases sales prices", "bs": "Povećava prodajne cijene" },
+        {
+          "en": "Small savings on a big cost go straight to profit",
+          "bs": "Male uštede na velikom trošku idu direktno u dobit"
+        }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "Saving 5% on 60% of costs is a big boost to profit.",
+        "bs": "Ušteda od 5% na 60% troškova je velik plus za dobit."
+      }
+    }
+  ]
+}

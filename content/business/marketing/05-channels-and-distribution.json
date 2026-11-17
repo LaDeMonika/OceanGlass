@@ -1,0 +1,210 @@
+{
+  "slug": "channels-and-distribution",
+  "title": { "en": "Channels & distribution", "bs": "Kanali i distribucija" },
+  "summary": {
+    "en": "All the ways a product gets from you to the customer, online and offline.",
+    "bs": "Svi putevi kojima proizvod stiže od tebe do kupca, online i offline."
+  },
+  "concepts": [
+    {
+      "slug": "distribution-channel",
+      "term": "Distribution channel",
+      "local": "kanal distribucije",
+      "minutes": 5,
+      "youtube": "ALoo4vrKKUw",
+      "youtubeQuery": "distribution channels explained marketing",
+      "related": ["Wholesale vs. retail", "Marketing mix (4 Ps)", "E-commerce"],
+      "en": {
+        "one": "A distribution channel is the route a product takes from the maker to the final customer.",
+        "explain": "A direct channel means you sell straight to customers (your shop, your website). An indirect channel goes through middlemen like wholesalers, retailers or agents. Each middleman takes a share of the price but gives you reach.",
+        "example": "A winery sells some bottles at its own cellar door (direct) and most through supermarkets and restaurants (indirect).",
+        "why": "The channel decides your reach, your margin and how much control you have over how the product is shown.",
+        "mixup": "Direct is not always more profitable. You keep the full price but must pay for the shop, staff, delivery and marketing yourself."
+      },
+      "bs": {
+        "one": "Distribution channel (kanal distribucije) je put kojim proizvod ide od proizvođača do krajnjeg kupca.",
+        "explain": "Direktan kanal znači da prodaješ pravo kupcima (svoja radnja, svoj sajt). Indirektan ide preko posrednika kao što su veletrgovci, maloprodaja ili agenti. Svaki posrednik uzme dio cijene, ali ti daje doseg.",
+        "example": "Vinarija dio flaša prodaje u svom podrumu (direktno), a većinu preko supermarketa i restorana (indirektno).",
+        "why": "Kanal određuje tvoj doseg, maržu i koliko kontrolišeš kako je proizvod predstavljen.",
+        "mixup": "Direktno nije uvijek profitabilnije. Zadržiš punu cijenu, ali sam plaćaš radnju, ljude, dostavu i marketing."
+      }
+    },
+    {
+      "slug": "wholesale-retail",
+      "term": "Wholesale vs. retail",
+      "local": "veleprodaja i maloprodaja",
+      "minutes": 4,
+      "youtube": "_A62bap1Eok",
+      "youtubeQuery": "wholesale vs retail explained",
+      "related": ["Distribution channel", "Markup", "Margin"],
+      "en": {
+        "one": "Wholesale is selling in large amounts to businesses that resell. Retail is selling in small amounts to final customers.",
+        "explain": "Wholesalers buy cheap in bulk and sell to shops. Retailers add a markup and sell one by one. A producer selling to retailers usually gets a much lower price per unit than the shelf price.",
+        "example": "A coffee roaster sells 1 kg bags to cafés at €18 (wholesale) and 250 g bags in its shop at €7.50 (retail, €30 per kg).",
+        "why": "Your pricing has to leave room for every step in the chain, or retailers won't stock you.",
+        "mixup": "Wholesale price is not 'losing money'. You sell more units with less selling effort per unit."
+      },
+      "bs": {
+        "one": "Wholesale (veleprodaja) je prodaja u velikim količinama firmama koje dalje prodaju. Retail (maloprodaja) je prodaja u malim količinama krajnjim kupcima.",
+        "explain": "Veletrgovci kupuju jeftino na veliko i prodaju radnjama. Maloprodaja doda maržu i prodaje komad po komad. Proizvođač koji prodaje radnjama obično dobije mnogo nižu cijenu po komadu od cijene na polici.",
+        "example": "Pržionica kafe prodaje kese od 1 kg kafićima po 18 € (veleprodaja) i kese od 250 g u svojoj radnji po 7,50 € (maloprodaja, 30 € po kg).",
+        "why": "Tvoja cijena mora ostaviti prostor za svaki korak u lancu, inače te radnje neće uzeti.",
+        "mixup": "Veleprodajna cijena nije 'gubitak novca'. Prodaješ više komada uz manje truda po komadu."
+      }
+    },
+    {
+      "slug": "e-commerce",
+      "term": "E-commerce",
+      "local": "e-trgovina",
+      "minutes": 5,
+      "youtube": "tJq53RNJD4U",
+      "youtubeQuery": "how to start ecommerce explained basics",
+      "related": ["Distribution channel", "Conversion rate", "Marketplace"],
+      "en": {
+        "one": "E-commerce is buying and selling online.",
+        "explain": "You can sell through your own web shop, through marketplaces, or through social media. Online lets you reach the whole country or region, open 24/7, but you need good photos, fast delivery, easy payment and a simple returns process.",
+        "example": "A Sarajevo ceramics studio opens a web shop and sends orders across BiH and Croatia by courier.",
+        "why": "Online sales can grow without a bigger shop, but delivery, returns and payment fees must be in your price.",
+        "mixup": "A website alone doesn't bring buyers. Without traffic from search, ads or social media, an online shop is a shop on an empty street."
+      },
+      "bs": {
+        "one": "E-commerce (e-trgovina) je kupovina i prodaja online.",
+        "explain": "Možeš prodavati preko svog web shopa, preko marketplace platformi ili društvenih mreža. Online dolaziš do cijele zemlje ili regije i otvoren si 24/7, ali trebaju dobre slike, brza dostava, lako plaćanje i jednostavan povrat.",
+        "example": "Keramički studio iz Sarajeva otvori web shop i šalje narudžbe kurirom po BiH i Hrvatskoj.",
+        "why": "Online prodaja može rasti bez veće radnje, ali dostava, povrati i troškovi plaćanja moraju biti u cijeni.",
+        "mixup": "Sam sajt ne donosi kupce. Bez posjeta iz pretrage, reklama ili mreža, web shop je radnja u praznoj ulici."
+      }
+    },
+    {
+      "slug": "marketplace",
+      "term": "Online marketplace",
+      "local": "online tržnica (marketplace)",
+      "minutes": 4,
+      "youtube": "N0pn-XA9JvA",
+      "youtubeQuery": "selling on marketplaces vs own website pros cons",
+      "related": ["E-commerce", "Distribution channel", "Commission"],
+      "en": {
+        "one": "A marketplace is a platform where many sellers offer products to buyers, like Amazon, eBay, Etsy or regional classifieds.",
+        "explain": "The platform brings the traffic and trust; you pay a fee or commission per sale. It's fast to start, but you compete side by side with others, often on price, and you don't own the customer relationship.",
+        "example": "A handmade jewellery maker sells on Etsy and pays about 6.5% per sale, plus listing and payment fees.",
+        "why": "Marketplaces are a quick way to test demand and reach buyers before building your own shop.",
+        "mixup": "The platform's customers are not your customers. If the rules or fees change, you can lose sales overnight."
+      },
+      "bs": {
+        "one": "Marketplace (online tržnica) je platforma gdje mnogo prodavača nudi proizvode kupcima, kao Amazon, eBay, Etsy ili regionalni oglasnici.",
+        "explain": "Platforma donosi posjete i povjerenje; ti plaćaš naknadu ili proviziju po prodaji. Brzo se počne, ali se takmičiš rame uz rame s drugima, često cijenom, i ne posjeduješ odnos s kupcem.",
+        "example": "Izrađivač ručno rađenog nakita prodaje na Etsyju i plaća oko 6,5% po prodaji, plus naknade za oglas i plaćanje.",
+        "why": "Marketplace je brz način da testiraš potražnju i dođeš do kupaca prije nego napraviš svoj shop.",
+        "mixup": "Kupci platforme nisu tvoji kupci. Ako se promijene pravila ili naknade, možeš izgubiti prodaju preko noći."
+      }
+    },
+    {
+      "slug": "omnichannel",
+      "term": "Omnichannel",
+      "local": "omnichannel (svi kanali povezani)",
+      "minutes": 4,
+      "youtube": "tRKBwyEg0yE",
+      "youtubeQuery": "omnichannel vs multichannel explained",
+      "related": ["Customer journey", "E-commerce", "Customer experience"],
+      "en": {
+        "one": "Omnichannel means all your sales channels work together as one smooth experience for the customer.",
+        "explain": "The customer can browse online, check stock in a nearby shop, buy on the phone, and return in the store, and everything is connected. Multichannel just means being on many channels, but they may not talk to each other.",
+        "example": "You order a sofa online, see it in the showroom the next day, and the salesperson already knows your order.",
+        "why": "Customers jump between channels; connecting them stops you losing sales in the gaps.",
+        "mixup": "Being on every platform is not omnichannel. It's about the channels being linked, not their number."
+      },
+      "bs": {
+        "one": "Omnichannel znači da svi tvoji prodajni kanali rade zajedno kao jedno glatko iskustvo za kupca.",
+        "explain": "Kupac može pregledati online, provjeriti zalihe u obližnjoj radnji, kupiti preko telefona i vratiti u radnji, i sve je povezano. Multichannel samo znači biti na više kanala, ali oni možda ne komuniciraju.",
+        "example": "Naručiš kauč online, sutra ga pogledaš u salonu, a prodavač već zna tvoju narudžbu.",
+        "why": "Kupci skaču između kanala; kad ih povežeš, ne gubiš prodaju u prazninama.",
+        "mixup": "Biti na svakoj platformi nije omnichannel. Radi se o tome da su kanali povezani, ne o njihovom broju."
+      }
+    },
+    {
+      "slug": "logistics-delivery",
+      "term": "Delivery & fulfilment",
+      "local": "dostava i ispunjenje narudžbi",
+      "minutes": 4,
+      "youtube": "Usn8qJuesrU",
+      "youtubeQuery": "order fulfillment explained ecommerce",
+      "related": ["E-commerce", "Inventory", "Customer experience"],
+      "en": {
+        "one": "Fulfilment is everything after the order: picking, packing, shipping and handling returns.",
+        "explain": "It can be done in-house or by a fulfilment partner. Speed, cost and reliability of delivery strongly shape whether customers come back. Free shipping often lifts sales but must be priced in.",
+        "example": "A web shop offers free delivery over €40, so most customers add one more item to reach the limit.",
+        "why": "A great product with late or broken deliveries still gets bad reviews.",
+        "mixup": "Delivery is not a cost to minimise at all costs. A cheaper courier that loses parcels costs you customers."
+      },
+      "bs": {
+        "one": "Fulfilment (ispunjenje narudžbi) je sve poslije narudžbe: uzimanje sa police, pakovanje, slanje i povrati.",
+        "explain": "Može se raditi u firmi ili preko partnera za fulfilment. Brzina, cijena i pouzdanost dostave jako utiču na to hoće li se kupci vratiti. Besplatna dostava često podiže prodaju, ali mora biti uračunata u cijenu.",
+        "example": "Web shop nudi besplatnu dostavu iznad 40 €, pa većina kupaca doda još jedan artikal da dosegne granicu.",
+        "why": "Odličan proizvod s kasnom ili oštećenom dostavom i dalje dobija loše recenzije.",
+        "mixup": "Dostava nije trošak koji treba smanjiti po svaku cijenu. Jeftiniji kurir koji gubi pakete košta te kupaca."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "A winery sells through supermarkets. What kind of channel is this?",
+        "bs": "Vinarija prodaje preko supermarketa. Koji je to kanal?"
+      },
+      "options": [
+        { "en": "Indirect", "bs": "Indirektan" },
+        { "en": "Direct", "bs": "Direktan" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "A middleman (the supermarket) sits between the maker and the buyer.",
+        "bs": "Posrednik (supermarket) stoji između proizvođača i kupca."
+      }
+    },
+    {
+      "q": {
+        "en": "What is the main downside of selling only on a marketplace?",
+        "bs": "Koja je glavna mana prodaje samo preko marketplace platforme?"
+      },
+      "options": [
+        { "en": "It is illegal", "bs": "Nezakonito je" },
+        { "en": "You don't own the customer relationship", "bs": "Ne posjeduješ odnos s kupcem" },
+        { "en": "You can't reach any buyers", "bs": "Ne možeš doći ni do jednog kupca" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "The platform controls the customers, rules and fees.",
+        "bs": "Platforma kontroliše kupce, pravila i naknade."
+      }
+    },
+    {
+      "q": {
+        "en": "A roaster sells 250 g in its shop for €7.50. What is that per kg?",
+        "bs": "Pržionica u radnji prodaje 250 g za 7,50 €. Koliko je to po kg?"
+      },
+      "options": [
+        { "en": "€7.50", "bs": "7,50 €" },
+        { "en": "€30", "bs": "30 €" },
+        { "en": "€18", "bs": "18 €" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "1 kg is four 250 g bags: 4 × €7.50 = €30.",
+        "bs": "1 kg su četiri kese od 250 g: 4 × 7,50 € = 30 €."
+      }
+    },
+    {
+      "q": {
+        "en": "You buy online, see it in the showroom, and staff already know your order. This is…",
+        "bs": "Kupiš online, pogledaš u salonu, a osoblje već zna tvoju narudžbu. To je…"
+      },
+      "options": [
+        { "en": "Omnichannel", "bs": "Omnichannel" },
+        { "en": "Wholesale", "bs": "Veleprodaja" },
+        { "en": "Freemium", "bs": "Freemium" }
+      ],
+      "answer": 0,
+      "explain": { "en": "Channels are connected into one experience.", "bs": "Kanali su povezani u jedno iskustvo." }
+    }
+  ]
+}

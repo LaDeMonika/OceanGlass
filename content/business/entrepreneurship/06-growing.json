@@ -1,0 +1,214 @@
+{
+  "slug": "growing",
+  "title": { "en": "Growing the business", "bs": "Rast biznisa" },
+  "summary": {
+    "en": "Measuring traction, building systems, hiring, and growing without breaking what works.",
+    "bs": "Mjerenje napretka, izgradnja sistema, zapošljavanje i rast bez kvarenja onoga što radi."
+  },
+  "concepts": [
+    {
+      "slug": "traction",
+      "term": "Traction",
+      "local": "tracija, dokaz napretka",
+      "minutes": 3,
+      "youtube": "K7mwjtJ2_1Q",
+      "youtubeQuery": "what is traction startup explained",
+      "related": ["KPI", "Product-market fit", "Vanity metrics"],
+      "en": {
+        "one": "Traction is measurable evidence that customers want your product, such as growing sales, users, repeat purchases or signed contracts.",
+        "explain": "It's what investors, partners and banks look at first, because it's proof beyond your opinion. The best traction metric depends on the business: monthly revenue, paying customers, retention, or orders per week.",
+        "example": "A food-delivery start-up shows traction: 1.500 orders in month one, 3.200 in month three, and 45% of customers ordering again within a month.",
+        "why": "Traction shows you, and others, that the business is really working.",
+        "mixup": "Downloads, followers or sign-ups without use or payment are weak traction. Look at what customers actually do and pay."
+      },
+      "bs": {
+        "one": "Traction (tracija) je mjerljiv dokaz da kupci žele tvoj proizvod, npr. rast prodaje, korisnika, ponovljenih kupovina ili potpisanih ugovora.",
+        "explain": "To je prvo što gledaju investitori, partneri i banke, jer je dokaz izvan tvog mišljenja. Najbolji pokazatelj zavisi od biznisa: mjesečni prihod, kupci koji plaćaju, zadržavanje ili narudžbe sedmično.",
+        "example": "Start-up za dostavu hrane pokazuje traciju: 1.500 narudžbi u prvom mjesecu, 3.200 u trećem i 45% kupaca koji ponovo naruče u roku od mjesec.",
+        "why": "Tracija pokazuje tebi i drugima da biznis zaista radi.",
+        "mixup": "Preuzimanja, pratioci ili prijave bez korištenja ili plaćanja su slaba tracija. Gledaj šta kupci stvarno rade i plaćaju."
+      }
+    },
+    {
+      "slug": "word-of-mouth",
+      "term": "Word of mouth and referrals",
+      "local": "preporuke",
+      "minutes": 3,
+      "youtube": "FPiB7rNgRXY",
+      "youtubeQuery": "word of mouth marketing referral program explained",
+      "related": ["Net Promoter Score (NPS)", "Loyalty program", "First customers"],
+      "en": {
+        "one": "Word of mouth is when customers tell others about your business. A referral programme rewards them for doing it.",
+        "explain": "It's often the cheapest and most trusted source of new customers, especially for local and service businesses. It grows when customers are genuinely happy and when sharing is easy, for example a friend discount for both sides.",
+        "example": "A driving school gives both the student and the friend they bring a 50 KM discount. Within a year, 40% of new students come through referrals.",
+        "why": "Customers who come through recommendations usually trust you more and stay longer.",
+        "mixup": "You can't buy real word of mouth. Rewards help sharing, but only a good experience makes people want to recommend you."
+      },
+      "bs": {
+        "one": "Word of mouth (preporuke od usta do usta) je kad kupci pričaju drugima o tvom biznisu. Program preporuka ih nagrađuje za to.",
+        "explain": "Često je najjeftiniji i najpouzdaniji izvor novih kupaca, naročito za lokalne i uslužne biznise. Raste kad su kupci zaista zadovoljni i kad je dijeljenje lako, npr. popust za prijatelja na obje strane.",
+        "example": "Auto-škola daje i polazniku i prijatelju kojeg dovede 50 KM popusta. U roku od godinu dana 40% novih polaznika dolazi preko preporuka.",
+        "why": "Kupci koji dođu preko preporuka obično ti više vjeruju i duže ostaju.",
+        "mixup": "Prave preporuke ne možeš kupiti. Nagrade pomažu dijeljenju, ali samo dobro iskustvo tjera ljude da te preporuče."
+      }
+    },
+    {
+      "slug": "first-hire",
+      "term": "Your first hire",
+      "local": "prvo zapošljavanje",
+      "minutes": 4,
+      "youtube": "urkGGZK11FQ",
+      "youtubeQuery": "hiring your first employee small business tips",
+      "related": ["Recruitment", "Employment contract", "Delegation"],
+      "en": {
+        "one": "Your first hire is the first person you employ, often the moment a founder stops doing everything alone.",
+        "explain": "Hire for the work that holds you back most or that someone else can do better. Check that the business can afford the full cost (salary plus contributions) for at least several months, write a clear role, and set up the contract and registration properly.",
+        "example": "A one-person web studio is turning down jobs. The owner hires a junior developer for coding, so she can spend her time on sales and client meetings.",
+        "why": "The right first hire can double what the business can do; the wrong one costs time, money and energy.",
+        "mixup": "Hiring a friend because they're available isn't a plan. Hire for the skills the business needs."
+      },
+      "bs": {
+        "one": "Prvo zapošljavanje je prva osoba koju zaposliš, često trenutak kad osnivač prestaje sve raditi sam.",
+        "explain": "Zaposli za posao koji te najviše koči ili koji neko drugi može bolje uraditi. Provjeri može li biznis pokriti puni trošak (plata plus doprinosi) bar nekoliko mjeseci, napiši jasan opis posla i pravilno uredi ugovor i prijavu.",
+        "example": "Web-studio s jednom osobom odbija poslove. Vlasnica zaposli mlađeg programera za kodiranje, kako bi svoje vrijeme posvetila prodaji i sastancima s klijentima.",
+        "why": "Pravo prvo zapošljavanje može udvostručiti šta biznis može uraditi; pogrešno košta vrijeme, novac i energiju.",
+        "mixup": "Zaposliti prijatelja jer je slobodan nije plan. Zapošljavaj za vještine koje biznisu trebaju."
+      }
+    },
+    {
+      "slug": "systemising",
+      "term": "Building systems",
+      "local": "izgradnja sistema",
+      "minutes": 4,
+      "youtube": "OX0os-ZKYoM",
+      "youtubeQuery": "how to systemize your business so it runs without you",
+      "related": ["Standard operating procedure (SOP)", "Delegation", "Automation"],
+      "en": {
+        "one": "Building systems means writing down and organising how work gets done, so the business can run well without the founder doing or deciding everything.",
+        "explain": "It includes checklists, templates, standard procedures, simple software and clear responsibilities. Systems make quality consistent, make training easier and free the owner to work on the business, not only in it.",
+        "example": "A cleaning company creates a checklist for each type of job, a booking tool and a short training video. New cleaners deliver the same quality from week one.",
+        "why": "Without systems, growth means chaos, and the business depends entirely on you.",
+        "mixup": "Systems don't kill flexibility. They handle routine work so people can use their judgment where it really matters."
+      },
+      "bs": {
+        "one": "Izgradnja sistema znači zapisati i organizovati kako se posao radi, da biznis može dobro raditi bez da osnivač sve radi ili odlučuje.",
+        "explain": "Uključuje kontrolne liste, šablone, standardne procedure, jednostavan softver i jasne odgovornosti. Sistemi čine kvalitet ujednačenim, olakšavaju obuku i oslobađaju vlasnika da radi na biznisu, a ne samo u njemu.",
+        "example": "Firma za čišćenje napravi kontrolnu listu za svaku vrstu posla, alat za zakazivanje i kratak video za obuku. Novi radnici daju isti kvalitet od prve sedmice.",
+        "why": "Bez sistema rast znači haos, a biznis potpuno zavisi od tebe.",
+        "mixup": "Sistemi ne ubijaju fleksibilnost. Rješavaju rutinski posao da ljudi mogu koristiti svoj sud gdje je zaista važno."
+      }
+    },
+    {
+      "slug": "scaling",
+      "term": "Scaling",
+      "local": "skaliranje",
+      "minutes": 4,
+      "youtube": "z8H3Fue3RFI",
+      "youtubeQuery": "growth vs scaling business difference",
+      "related": ["Economies of scale", "Unit economics", "Building systems"],
+      "en": {
+        "one": "Scaling means growing revenue much faster than costs, so each extra customer makes the business more profitable.",
+        "explain": "Growth often means adding costs at the same rate as revenue: twice the customers, twice the staff. Scaling means finding ways (software, systems, partners) to serve many more customers without costs rising as fast.",
+        "example": "A tutor earns per hour, so income is capped by her time. She records an online course: now 500 students can buy it while her costs barely change.",
+        "why": "Scalable businesses can become far more valuable, and they're what investors look for.",
+        "mixup": "Not every business needs to scale. A profitable, stable local business is a perfectly good goal."
+      },
+      "bs": {
+        "one": "Scaling (skaliranje) znači rast prihoda mnogo brže od troškova, tako da svaki dodatni kupac čini biznis profitabilnijim.",
+        "explain": "Rast često znači dodavanje troškova istim tempom kao prihoda: dvostruko kupaca, dvostruko radnika. Skaliranje znači pronaći načine (softver, sistemi, partneri) da opslužiš mnogo više kupaca bez da troškovi rastu jednako brzo.",
+        "example": "Instruktorica zarađuje po satu, pa je prihod ograničen njenim vremenom. Snimi online kurs: sada ga može kupiti 500 učenika, a troškovi joj se gotovo ne mijenjaju.",
+        "why": "Skalabilni biznisi mogu postati mnogo vrjedniji, i to je ono što investitori traže.",
+        "mixup": "Ne mora svaki biznis skalirati. Profitabilan, stabilan lokalni biznis je sasvim dobar cilj."
+      }
+    },
+    {
+      "slug": "customer-feedback-loop",
+      "term": "Customer feedback loop",
+      "local": "krug povratnih informacija kupaca",
+      "minutes": 3,
+      "youtube": "sSfSj38LOTw",
+      "youtubeQuery": "customer feedback loop explained",
+      "related": ["Customer complaints", "Net Promoter Score (NPS)", "Kaizen"],
+      "en": {
+        "one": "A customer feedback loop is a regular habit of collecting customer opinions, acting on them, and telling customers what changed.",
+        "explain": "Sources include short surveys, reviews, support messages, sales calls and usage data. The 'loop' is closed when you fix or improve something and let customers know, which makes them more likely to give feedback again.",
+        "example": "A gym asks members monthly for one improvement idea. When many ask for early-morning classes, it adds a 6 AM slot and announces 'You asked, we listened.'",
+        "why": "It keeps the business close to customers as it grows and catches problems early.",
+        "mixup": "Collecting feedback and doing nothing with it is worse than not asking. Customers notice and stop bothering."
+      },
+      "bs": {
+        "one": "Customer feedback loop (krug povratnih informacija) je redovna navika prikupljanja mišljenja kupaca, djelovanja na osnovu njih i obavještavanja kupaca šta se promijenilo.",
+        "explain": "Izvori su kratke ankete, recenzije, poruke podršci, prodajni razgovori i podaci o korištenju. 'Krug' se zatvara kad nešto popraviš ili poboljšaš i javiš kupcima, što povećava šansu da ponovo daju povratnu informaciju.",
+        "example": "Teretana mjesečno pita članove za jednu ideju za poboljšanje. Kad mnogi traže rane jutarnje treninge, doda termin u 6 ujutro i objavi 'Tražili ste, poslušali smo.'",
+        "why": "Drži biznis blizu kupaca dok raste i rano otkriva probleme.",
+        "mixup": "Prikupljati povratne informacije i ništa ne uraditi s njima gore je nego ne pitati. Kupci primijete i prestanu se truditi."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": { "en": "Which is the strongest traction?", "bs": "Šta je najjača tracija?" },
+      "options": [
+        { "en": "App downloads with no use", "bs": "Preuzimanja aplikacije bez korištenja" },
+        { "en": "Paying customers who keep coming back", "bs": "Kupci koji plaćaju i stalno se vraćaju" },
+        { "en": "Social media followers", "bs": "Pratioci na društvenim mrežama" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Real traction is what customers do and pay.",
+        "bs": "Prava tracija je ono što kupci rade i plaćaju."
+      }
+    },
+    {
+      "q": {
+        "en": "A tutor turns hourly lessons into an online course. This is an example of…",
+        "bs": "Instruktorica pretvori časove po satu u online kurs. To je primjer…"
+      },
+      "options": [
+        { "en": "Divestment", "bs": "Dezinvestiranja" },
+        { "en": "Scaling", "bs": "Skaliranja" },
+        { "en": "Bootstrapping", "bs": "Bootstrappinga" }
+      ],
+      "answer": 1,
+      "explain": { "en": "Revenue can grow much faster than costs.", "bs": "Prihod može rasti mnogo brže od troškova." }
+    },
+    {
+      "q": {
+        "en": "What is the main purpose of building systems?",
+        "bs": "Koja je glavna svrha izgradnje sistema?"
+      },
+      "options": [
+        { "en": "To make work more complicated", "bs": "Da posao bude složeniji" },
+        { "en": "To avoid hiring forever", "bs": "Da se zauvijek izbjegne zapošljavanje" },
+        {
+          "en": "So the business runs well without the founder doing everything",
+          "bs": "Da biznis dobro radi bez da osnivač sve radi"
+        }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "Systems create consistent quality and free the owner.",
+        "bs": "Sistemi stvaraju ujednačen kvalitet i oslobađaju vlasnika."
+      }
+    },
+    {
+      "q": {
+        "en": "When is a customer feedback loop 'closed'?",
+        "bs": "Kad je krug povratnih informacija 'zatvoren'?"
+      },
+      "options": [
+        { "en": "When you stop asking", "bs": "Kad prestaneš pitati" },
+        {
+          "en": "When you act on feedback and tell customers",
+          "bs": "Kad djeluješ na povratne informacije i javiš kupcima"
+        },
+        { "en": "When the survey is sent", "bs": "Kad je anketa poslana" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Acting and reporting back closes the loop.",
+        "bs": "Djelovanje i javljanje nazad zatvaraju krug."
+      }
+    }
+  ]
+}

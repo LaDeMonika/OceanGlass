@@ -44,12 +44,48 @@
       }
     },
     {
+      "slug": "statistics",
+      "icon": "chart",
+      "title": { "en": "Statistics & Data", "bs": "Statistika i podaci" },
+      "description": {
+        "en": "Reading numbers, charts and surveys without being fooled.",
+        "bs": "Kako čitati brojeve, grafikone i ankete a da te ne prevare."
+      }
+    },
+    {
       "slug": "management",
       "icon": "people",
-      "title": { "en": "Management & Leadership", "bs": "Menadžment i liderstvo" },
+      "title": { "en": "Management & HR", "bs": "Menadžment i ljudski resursi" },
       "description": {
-        "en": "Running a team and making good decisions.",
-        "bs": "Vođenje tima i donošenje dobrih odluka."
+        "en": "Leading a team, hiring well and making good decisions.",
+        "bs": "Vođenje tima, dobro zapošljavanje i donošenje dobrih odluka."
+      }
+    },
+    {
+      "slug": "operations",
+      "icon": "gear",
+      "title": { "en": "Operations", "bs": "Operacije" },
+      "description": {
+        "en": "Processes, quality, stock and projects: how the work actually gets done.",
+        "bs": "Procesi, kvalitet, zalihe i projekti: kako se posao zapravo obavlja."
+      }
+    },
+    {
+      "slug": "law",
+      "icon": "shield",
+      "title": { "en": "Business Law & Ethics", "bs": "Poslovno pravo i etika" },
+      "description": {
+        "en": "Contracts, company forms, customer rights and doing the right thing.",
+        "bs": "Ugovori, oblici firmi, prava kupaca i ispravno postupanje."
+      }
+    },
+    {
+      "slug": "strategy",
+      "icon": "book",
+      "title": { "en": "Strategy", "bs": "Strategija" },
+      "description": {
+        "en": "Choosing where to compete, how to win, and how to make it last.",
+        "bs": "Gdje se takmičiti, kako pobijediti i kako to održati."
       }
     },
     {

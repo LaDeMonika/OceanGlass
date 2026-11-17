@@ -1,0 +1,216 @@
+{
+  "slug": "relationships-and-forecasting",
+  "title": { "en": "Relationships & forecasting", "bs": "Veze i prognoze" },
+  "summary": {
+    "en": "How two things move together, why that isn't proof, and how to look ahead.",
+    "bs": "Kako se dvije stvari kreću zajedno, zašto to nije dokaz i kako gledati unaprijed."
+  },
+  "concepts": [
+    {
+      "slug": "correlation",
+      "term": "Correlation",
+      "local": "korelacija",
+      "minutes": 5,
+      "youtube": "S3UHc_Sax-g",
+      "youtubeQuery": "correlation explained simply",
+      "related": ["Scatter plot", "Correlation vs. causation", "Regression & trend line"],
+      "en": {
+        "one": "Correlation measures how closely two variables move together, from −1 to +1.",
+        "explain": "+1 means they rise together perfectly, −1 means one falls exactly as the other rises, and 0 means no straight-line relationship. In real business data, 0.3 is weak, 0.5 moderate, and above 0.7 strong.",
+        "example": "Across 50 days, ice-cream sales and temperature have a correlation of 0.8: hot days, high sales.",
+        "why": "It helps you spot which factors are worth a closer look, like what moves your sales.",
+        "mixup": "A correlation of 0 doesn't mean no relationship at all. It only means no straight-line one; a curve can hide."
+      },
+      "bs": {
+        "one": "Correlation (korelacija) mjeri koliko se dvije varijable kreću zajedno, od −1 do +1.",
+        "explain": "+1 znači da savršeno rastu zajedno, −1 da jedna pada tačno koliko druga raste, a 0 da nema linearne veze. U stvarnim poslovnim podacima 0,3 je slaba, 0,5 umjerena, a iznad 0,7 jaka.",
+        "example": "Kroz 50 dana, prodaja sladoleda i temperatura imaju korelaciju 0,8: vrući dani, visoka prodaja.",
+        "why": "Pomaže ti da primijetiš koji faktori zaslužuju bliži pogled, npr. šta pokreće prodaju.",
+        "mixup": "Korelacija 0 ne znači da nema nikakve veze. Znači samo da nema linearne; kriva može biti skrivena."
+      }
+    },
+    {
+      "slug": "correlation-causation",
+      "term": "Correlation vs. causation",
+      "local": "korelacija nije uzročnost",
+      "minutes": 5,
+      "youtube": "ofweqU0Lz4I",
+      "youtubeQuery": "correlation vs causation explained",
+      "related": ["Correlation", "A/B testing", "Statistical significance"],
+      "en": {
+        "one": "Two things moving together doesn't prove that one causes the other.",
+        "explain": "A third factor may drive both, the cause might run the other way, or it may be coincidence. The way to test cause is an experiment: change one thing on purpose for a random group, keep everything else the same, and compare.",
+        "example": "Stores with more staff have higher sales. But busy locations get more staff because they're busy; adding staff to a quiet store won't create customers.",
+        "why": "Mistaking correlation for cause leads to expensive actions that don't work.",
+        "mixup": "'The data shows X causes Y' is a red flag unless there was an experiment or very careful analysis."
+      },
+      "bs": {
+        "one": "Kad se dvije stvari kreću zajedno, to ne dokazuje da jedna uzrokuje drugu.",
+        "explain": "Treći faktor može pokretati obje, uzrok može ići obrnuto ili je slučajnost. Uzrok se testira eksperimentom: namjerno promijeni jednu stvar za slučajnu grupu, sve ostalo drži isto i uporedi.",
+        "example": "Radnje s više osoblja imaju veću prodaju. Ali prometne lokacije dobiju više osoblja jer su prometne; dodavanje osoblja u mirnu radnju neće stvoriti kupce.",
+        "why": "Miješanje korelacije s uzrokom vodi do skupih poteza koji ne rade.",
+        "mixup": "'Podaci pokazuju da X uzrokuje Y' je crvena zastavica, osim ako je bio eksperiment ili vrlo pažljiva analiza."
+      }
+    },
+    {
+      "slug": "regression-trend",
+      "term": "Regression & trend line",
+      "local": "regresija i linija trenda",
+      "minutes": 6,
+      "youtube": "nk2CQITm_eo",
+      "youtubeQuery": "linear regression explained simply",
+      "related": ["Correlation", "Scatter plot", "Forecast"],
+      "en": {
+        "one": "Regression finds the line that best fits your data, so you can describe and predict how one variable changes with another.",
+        "explain": "Simple linear regression draws a straight trend line through a scatter plot. Its slope tells you how much Y changes for each 1-unit change in X. Spreadsheets add it in one click ('Add trendline').",
+        "example": "Regression on past data shows that each extra €100 of ads came with about €450 more sales, within the range you've tried.",
+        "why": "It turns a cloud of dots into a usable rule of thumb for planning.",
+        "mixup": "A trend line isn't valid forever. Outside the range of your data, like 10 times more ad spend, the relationship can break down."
+      },
+      "bs": {
+        "one": "Regression (regresija) nalazi liniju koja najbolje odgovara podacima, da možeš opisati i predvidjeti kako se jedna varijabla mijenja s drugom.",
+        "explain": "Jednostavna linearna regresija povuče pravu liniju trenda kroz dijagram raspršenosti. Njen nagib govori koliko se Y promijeni za svaku promjenu X za 1 jedinicu. Tabele je dodaju jednim klikom ('Add trendline').",
+        "example": "Regresija na prošlim podacima pokaže da je svakih dodatnih 100 € reklama išlo uz oko 450 € više prodaje, unutar raspona koji si probao.",
+        "why": "Pretvara oblak tačaka u upotrebljivo pravilo za planiranje.",
+        "mixup": "Linija trenda ne važi zauvijek. Izvan raspona tvojih podataka, npr. 10 puta veći budžet za reklame, veza se može slomiti."
+      }
+    },
+    {
+      "slug": "seasonality",
+      "term": "Seasonality",
+      "local": "sezonalnost",
+      "minutes": 4,
+      "youtube": "7UPgcI0ebi4",
+      "youtubeQuery": "seasonality in sales data explained",
+      "related": ["Line chart", "Moving average", "Forecast"],
+      "en": {
+        "one": "Seasonality is a pattern that repeats at the same time every year, month, week or day.",
+        "explain": "Tourism peaks in summer, gift shops in December, cafés at 8 am, restaurants on Fridays. When you compare numbers, compare with the same period last year ('year over year'), not with last month, or the season fools you.",
+        "example": "A seaside shop's sales drop 60% from August to October. That's not a crisis; the same drop happened every year.",
+        "why": "Knowing your seasons lets you plan stock, staff and cash for the quiet months.",
+        "mixup": "A seasonal rise is not growth. Growth is when this summer beats last summer."
+      },
+      "bs": {
+        "one": "Seasonality (sezonalnost) je obrazac koji se ponavlja u isto vrijeme svake godine, mjeseca, sedmice ili dana.",
+        "explain": "Turizam je na vrhuncu ljeti, radnje s poklonima u decembru, kafići u 8 ujutro, restorani petkom. Kad porediš brojeve, poredi s istim periodom prošle godine ('godina na godinu'), a ne s prošlim mjesecom, inače te sezona prevari.",
+        "example": "Prodaja radnje na moru padne 60% od augusta do oktobra. To nije kriza; isti pad se desio svake godine.",
+        "why": "Kad znaš svoje sezone, planiraš zalihe, ljude i novac za mirne mjesece.",
+        "mixup": "Sezonski rast nije rast. Rast je kad ovo ljeto pobijedi prošlo ljeto."
+      }
+    },
+    {
+      "slug": "moving-average",
+      "term": "Moving average",
+      "local": "pokretni prosjek",
+      "minutes": 4,
+      "youtube": "PRXwY8FYhjU",
+      "youtubeQuery": "moving average explained simply",
+      "related": ["Line chart", "Seasonality", "Mean (average)"],
+      "en": {
+        "one": "A moving average smooths out daily ups and downs by averaging the last few periods, updated as each new period arrives.",
+        "explain": "A 7-day moving average of sales takes today and the 6 days before, then shifts forward by one day. It hides random noise and weekday patterns, so the real trend is easier to see.",
+        "example": "Daily sales jump around between €600 and €1,400, but the 7-day moving average shows a steady climb from €850 to €950 over the month.",
+        "why": "It helps you react to real changes, not to one good or bad day.",
+        "mixup": "A moving average always lags. It shows a turning point a few days after it actually happened."
+      },
+      "bs": {
+        "one": "Moving average (pokretni prosjek) izravnava dnevne uspone i padove uprosječivanjem zadnjih nekoliko perioda, a ažurira se sa svakim novim periodom.",
+        "explain": "7-dnevni pokretni prosjek prodaje uzme danas i 6 dana prije, pa se pomjeri za jedan dan. Sakrije slučajni šum i obrasce dana u sedmici, pa je stvarni trend lakše vidjeti.",
+        "example": "Dnevna prodaja skače između 600 € i 1.400 €, ali 7-dnevni pokretni prosjek pokazuje stalan rast s 850 € na 950 € tokom mjeseca.",
+        "why": "Pomaže ti da reaguješ na stvarne promjene, a ne na jedan dobar ili loš dan.",
+        "mixup": "Pokretni prosjek uvijek kasni. Pokaže preokret par dana nakon što se stvarno desio."
+      }
+    },
+    {
+      "slug": "forecasting",
+      "term": "Forecasting basics",
+      "local": "osnove prognoziranja",
+      "minutes": 5,
+      "youtube": "IaQMWjt724I",
+      "youtubeQuery": "sales forecasting methods explained simply",
+      "related": ["Forecast", "Seasonality", "Risk vs. uncertainty"],
+      "en": {
+        "one": "Forecasting is using past data and known plans to estimate future numbers like sales, costs or demand.",
+        "explain": "Simple methods work well: last year's same month plus your recent growth rate, adjusted for known events. Always give a range (best, expected, worst) instead of one exact number, and compare forecasts with what actually happened to learn.",
+        "example": "Last December's sales were €30,000 and the business is growing about 10% a year, so this December's forecast is about €33,000, with a range of €29,000–€36,000.",
+        "why": "Forecasts drive orders, hiring and cash planning; a reasonable forecast beats none.",
+        "mixup": "A forecast is not a target or a promise. Mixing the two makes people bend the numbers."
+      },
+      "bs": {
+        "one": "Forecasting (prognoziranje) je korištenje prošlih podataka i poznatih planova za procjenu budućih brojeva kao što su prodaja, troškovi ili potražnja.",
+        "explain": "Jednostavne metode dobro rade: isti mjesec prošle godine plus nedavna stopa rasta, prilagođeno za poznate događaje. Uvijek daj raspon (najbolje, očekivano, najgore) umjesto jednog tačnog broja i poredi prognoze sa stvarnim rezultatima da učiš.",
+        "example": "Prošlog decembra prodaja je bila 30.000 €, a posao raste oko 10% godišnje, pa je prognoza za ovaj decembar oko 33.000 €, s rasponom 29.000–36.000 €.",
+        "why": "Prognoze pokreću narudžbe, zapošljavanje i planiranje novca; razumna prognoza je bolja nego nikakva.",
+        "mixup": "Prognoza nije cilj ni obećanje. Kad se to dvoje pomiješa, ljudi naštimavaju brojeve."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "Stores with more staff sell more. Should you add staff to a quiet store to boost sales?",
+        "bs": "Radnje s više osoblja više prodaju. Treba li dodati osoblje u mirnu radnju da poveća prodaju?"
+      },
+      "options": [
+        { "en": "Yes, the data proves it", "bs": "Da, podaci to dokazuju" },
+        {
+          "en": "Not on this evidence; busy stores get more staff because they're busy",
+          "bs": "Ne na osnovu ovoga; prometne radnje dobiju više osoblja jer su prometne"
+        }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Correlation isn't causation; here the cause likely runs the other way.",
+        "bs": "Korelacija nije uzročnost; ovdje uzrok vjerovatno ide obrnuto."
+      }
+    },
+    {
+      "q": {
+        "en": "Sales fell 60% from August to October, as they do every year. This is…",
+        "bs": "Prodaja je pala 60% od augusta do oktobra, kao svake godine. To je…"
+      },
+      "options": [
+        { "en": "An outlier", "bs": "Ekstremna vrijednost" },
+        { "en": "Seasonality", "bs": "Sezonalnost" },
+        { "en": "A crisis", "bs": "Kriza" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "A pattern that repeats each year is seasonality; compare year over year.",
+        "bs": "Obrazac koji se ponavlja svake godine je sezonalnost; poredi godinu na godinu."
+      }
+    },
+    {
+      "q": {
+        "en": "Last December: €30,000. Growth: about 10% a year. What's a sensible forecast for this December?",
+        "bs": "Prošli decembar: 30.000 €. Rast: oko 10% godišnje. Koja je razumna prognoza za ovaj decembar?"
+      },
+      "options": [
+        { "en": "About €33,000, with a range", "bs": "Oko 33.000 €, uz raspon" },
+        { "en": "€40,000", "bs": "40.000 €" },
+        { "en": "Exactly €30,000", "bs": "Tačno 30.000 €" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "€30,000 × 1.10 = €33,000; give a range for uncertainty.",
+        "bs": "30.000 € × 1,10 = 33.000 €; daj raspon zbog neizvjesnosti."
+      }
+    },
+    {
+      "q": {
+        "en": "A correlation of −0.8 between price and units sold means…",
+        "bs": "Korelacija od −0,8 između cijene i prodanih komada znači…"
+      },
+      "options": [
+        { "en": "Higher prices cause more sales", "bs": "Više cijene uzrokuju veću prodaju" },
+        { "en": "Higher prices go with clearly fewer sales", "bs": "Više cijene idu uz jasno manju prodaju" },
+        { "en": "No relationship", "bs": "Nema veze" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Negative and strong: as one goes up, the other tends to go down.",
+        "bs": "Negativna i jaka: kad jedna raste, druga obično pada."
+      }
+    }
+  ]
+}

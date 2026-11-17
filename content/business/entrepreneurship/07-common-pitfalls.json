@@ -1,0 +1,214 @@
+{
+  "slug": "common-pitfalls",
+  "title": { "en": "Common start-up mistakes", "bs": "Česte greške početnika" },
+  "summary": {
+    "en": "The traps that sink most new businesses, and how to spot them early.",
+    "bs": "Zamke koje potapaju većinu novih biznisa i kako ih rano uočiti."
+  },
+  "concepts": [
+    {
+      "slug": "why-startups-fail",
+      "term": "Why start-ups fail",
+      "local": "zašto start-upi propadaju",
+      "minutes": 4,
+      "youtube": "yRsDEvr6Iyw",
+      "youtubeQuery": "top reasons why startups fail CB Insights",
+      "related": ["Product-market fit", "Runway and burn rate", "Cash flow"],
+      "en": {
+        "one": "Most start-ups fail for a handful of repeated reasons: no real market need, running out of cash, the wrong team, being out-competed, or pricing and cost problems.",
+        "explain": "Studies of failed start-ups (like those by CB Insights) keep finding the same top causes. Knowing them helps you check your own business against them regularly, before it's too late.",
+        "example": "A smart-home gadget start-up spends two years perfecting its product, launches to little interest, and runs out of money in four months. Both 'no market need' and 'ran out of cash'.",
+        "why": "Learning from others' failures is far cheaper than learning from your own.",
+        "mixup": "Failure is rarely about one bad day. It's usually a slow build-up of warning signs that were ignored."
+      },
+      "bs": {
+        "one": "Većina start-upa propadne iz nekoliko ponavljajućih razloga: nema stvarne potrebe na tržištu, nestane novca, pogrešan tim, nadjača ih konkurencija, ili problemi s cijenama i troškovima.",
+        "explain": "Istraživanja propalih start-upa (npr. CB Insights) stalno nalaze iste glavne uzroke. Poznavanje tih uzroka ti pomaže da redovno provjeravaš svoj biznis prema njima, prije nego bude kasno.",
+        "example": "Start-up za pametne kućne uređaje dvije godine usavršava proizvod, lansira ga uz malo interesa i ostane bez novca za četiri mjeseca. I 'nema potrebe na tržištu' i 'nestalo je novca'.",
+        "why": "Učenje iz tuđih neuspjeha je mnogo jeftinije nego iz vlastitih.",
+        "mixup": "Propast je rijetko jedan loš dan. Obično je to sporo gomilanje znakova upozorenja koji su ignorisani."
+      }
+    },
+    {
+      "slug": "premature-scaling",
+      "term": "Premature scaling",
+      "local": "prerano širenje",
+      "minutes": 4,
+      "youtube": "Cq4xnaWQspE",
+      "youtubeQuery": "premature scaling startup mistake",
+      "related": ["Scaling", "Product-market fit", "Runway and burn rate"],
+      "en": {
+        "one": "Premature scaling is growing too fast, by hiring, opening locations or spending on ads, before the business model is proven.",
+        "explain": "Growth multiplies whatever you have. If customers aren't staying or each sale loses money, growing faster just loses money faster. Prove the basics on a small scale first: customers return, unit economics are positive, and operations work.",
+        "example": "A burger shop is busy for three months and opens two more locations with a loan. The first one's popularity was mostly novelty, and the new locations lose money every month.",
+        "why": "It's one of the most common causes of start-up death, even for businesses with a good idea.",
+        "mixup": "Being busy isn't the same as being proven. Check whether the numbers work before multiplying them."
+      },
+      "bs": {
+        "one": "Premature scaling (prerano širenje) je prebrz rast, zapošljavanjem, otvaranjem lokacija ili trošenjem na oglase, prije nego je poslovni model dokazan.",
+        "explain": "Rast umnožava sve što imaš. Ako kupci ne ostaju ili svaka prodaja gubi novac, brži rast samo brže gubi novac. Prvo dokaži osnove u malom: kupci se vraćaju, ekonomija po jedinici je pozitivna, a poslovanje radi.",
+        "example": "Burger radnja je puna tri mjeseca i otvori još dvije lokacije uz kredit. Popularnost prve je uglavnom bila novitet, a nove lokacije gube novac svaki mjesec.",
+        "why": "To je jedan od najčešćih uzroka propasti start-upa, čak i s dobrom idejom.",
+        "mixup": "Biti zauzet nije isto što i biti dokazan. Provjeri rade li brojevi prije nego ih umnožiš."
+      }
+    },
+    {
+      "slug": "vanity-metrics",
+      "term": "Vanity metrics",
+      "local": "prazni pokazatelji",
+      "minutes": 3,
+      "youtube": "zEr5OyCMHOs",
+      "youtubeQuery": "vanity metrics vs actionable metrics explained",
+      "related": ["Traction", "KPI", "Data-driven decisions"],
+      "en": {
+        "one": "Vanity metrics are numbers that look impressive but don't tell you if the business is healthy or what to do next.",
+        "explain": "Examples: total page views, followers, downloads, or 'registered users' who never come back. Actionable metrics link to decisions and money: conversion rate, repeat customers, revenue per customer, retention.",
+        "example": "A start-up celebrates 10.000 Instagram followers, but only 30 people bought anything last month. The real story is in the 30, not the 10.000.",
+        "why": "Focusing on the right numbers keeps you honest and helps you improve what matters.",
+        "mixup": "A big number isn't automatically a good number. Ask: 'If this goes up, does the business actually improve?'"
+      },
+      "bs": {
+        "one": "Vanity metrics (prazni pokazatelji) su brojevi koji izgledaju impresivno, ali ne govore je li biznis zdrav ni šta dalje raditi.",
+        "explain": "Primjeri: ukupni pregledi stranice, pratioci, preuzimanja ili 'registrovani korisnici' koji se nikad ne vrate. Korisni pokazatelji su povezani s odlukama i novcem: stopa konverzije, ponovljeni kupci, prihod po kupcu, zadržavanje.",
+        "example": "Start-up slavi 10.000 pratilaca na Instagramu, ali je samo 30 ljudi išta kupilo prošlog mjeseca. Prava priča je u tih 30, a ne u 10.000.",
+        "why": "Fokus na prave brojeve te drži iskrenim i pomaže ti da poboljšaš ono što je važno.",
+        "mixup": "Velik broj nije automatski dobar broj. Pitaj: 'Ako ovo poraste, je li biznis zaista bolji?'"
+      }
+    },
+    {
+      "slug": "cofounder-agreement",
+      "term": "Co-founder agreement",
+      "local": "ugovor među osnivačima",
+      "minutes": 4,
+      "youtube": "4yIlVdWDKu0",
+      "youtubeQuery": "co-founder agreement what to include vesting",
+      "related": ["Partnership agreement", "Equity", "Conflict resolution"],
+      "en": {
+        "one": "A co-founder agreement is a written deal between founders about ownership, roles, decisions, money and what happens if someone leaves.",
+        "explain": "Key points: who owns what share, who does which job, how decisions are made, how much each puts in, and 'vesting', meaning shares are earned over time (often 4 years) so someone who leaves early doesn't keep a big share for little work.",
+        "example": "Three friends start an app 33/33/33. After 6 months one leaves for a job but keeps a third of the company. With vesting, he'd have kept only about 4%.",
+        "why": "Co-founder conflict is a top reason start-ups fail; clear rules early prevent most of it.",
+        "mixup": "Being good friends doesn't replace an agreement. It's exactly the friendships that suffer most when things are unclear."
+      },
+      "bs": {
+        "one": "Co-founder agreement (ugovor među osnivačima) je pisani dogovor osnivača o vlasništvu, ulogama, odlukama, novcu i šta se dešava ako neko ode.",
+        "explain": "Ključne tačke: ko posjeduje koji udio, ko radi koji posao, kako se donose odluke, koliko ko ulaže, i 'vesting', tj. udjeli se zarađuju postepeno (često kroz 4 godine), da onaj ko rano ode ne zadrži velik udio za malo rada.",
+        "example": "Tri prijatelja pokrenu aplikaciju 33/33/33. Nakon 6 mjeseci jedan ode na posao, ali zadrži trećinu firme. Uz vesting, zadržao bi samo oko 4%.",
+        "why": "Sukob među osnivačima je jedan od glavnih razloga propasti start-upa; jasna pravila na početku sprečavaju većinu toga.",
+        "mixup": "Dobro prijateljstvo ne zamjenjuje ugovor. Upravo prijateljstva najviše trpe kad stvari nisu jasne."
+      }
+    },
+    {
+      "slug": "underpricing",
+      "term": "Underpricing",
+      "local": "preniske cijene",
+      "minutes": 3,
+      "youtube": "42Rd7lQadBo",
+      "youtubeQuery": "underpricing mistake small business pricing",
+      "related": ["Pricing strategies", "Margin", "Contribution margin"],
+      "en": {
+        "one": "Underpricing is charging too little, usually out of fear that customers won't pay more, so the business can't cover its true costs or grow.",
+        "explain": "New owners often copy the cheapest competitor and forget their own time, taxes, equipment wear and slow months. Low prices also attract the most price-sensitive customers, who leave as soon as someone is cheaper.",
+        "example": "A freelance photographer charges 100 KM per wedding to get started. After travel, editing time and equipment, she earns less than minimum wage per hour and can't afford a backup camera.",
+        "why": "Correct pricing is the fastest way to improve profit; it often matters more than getting more customers.",
+        "mixup": "Lower prices don't automatically win more customers. Many buyers see a very low price as a sign of low quality."
+      },
+      "bs": {
+        "one": "Underpricing (preniske cijene) je naplaćivanje premalo, obično iz straha da kupci neće platiti više, pa biznis ne može pokriti svoje stvarne troškove ni rasti.",
+        "explain": "Novi vlasnici često kopiraju najjeftinijeg konkurenta i zaborave svoje vrijeme, poreze, habanje opreme i slabe mjesece. Niske cijene privlače i kupce najosjetljivije na cijenu, koji odu čim je neko jeftiniji.",
+        "example": "Fotografkinja naplaćuje 100 KM po vjenčanju za početak. Nakon putovanja, obrade i opreme, zarađuje manje od minimalca po satu i ne može priuštiti rezervni fotoaparat.",
+        "why": "Pravilne cijene su najbrži način da se poboljša dobit; često su važnije od dobijanja više kupaca.",
+        "mixup": "Niže cijene ne donose automatski više kupaca. Mnogi kupci vide vrlo nisku cijenu kao znak niskog kvaliteta."
+      }
+    },
+    {
+      "slug": "shiny-object-syndrome",
+      "term": "Shiny object syndrome",
+      "local": "sindrom sjajnog predmeta",
+      "minutes": 3,
+      "youtube": "Z46gA4Bt7-E",
+      "youtubeQuery": "shiny object syndrome entrepreneurs focus",
+      "related": ["Strategic focus: saying no", "Prioritisation", "Opportunity cost"],
+      "en": {
+        "one": "Shiny object syndrome is constantly jumping to new ideas, tools or projects before finishing or proving the current one.",
+        "explain": "Entrepreneurs are idea people, so new opportunities always look more exciting than the hard middle part of the current project. The result is many half-started things and none that really work. A simple rule: write new ideas down, and only pick one up after the current goal is reached or clearly dropped.",
+        "example": "A founder starts an online shop, then a podcast, then a second product line, then an app, all within a year. None get enough attention to succeed.",
+        "why": "Focus is one of the biggest advantages a small business has.",
+        "mixup": "This isn't the same as a pivot. A pivot is a decision based on evidence; shiny object syndrome is chasing novelty."
+      },
+      "bs": {
+        "one": "Shiny object syndrome (sindrom sjajnog predmeta) je stalno skakanje na nove ideje, alate ili projekte prije nego što se trenutni završi ili dokaže.",
+        "explain": "Preduzetnici su ljudi ideja, pa nove prilike uvijek izgledaju uzbudljivije od teškog srednjeg dijela trenutnog projekta. Rezultat je mnogo napola započetih stvari i nijedna koja zaista radi. Jednostavno pravilo: zapiši nove ideje i uzmi jednu tek kad je trenutni cilj postignut ili jasno odbačen.",
+        "example": "Osnivač pokrene web-shop, pa podcast, pa drugu liniju proizvoda, pa aplikaciju, sve u godinu dana. Nijedno ne dobije dovoljno pažnje da uspije.",
+        "why": "Fokus je jedna od najvećih prednosti malog biznisa.",
+        "mixup": "Ovo nije isto što i zaokret (pivot). Zaokret je odluka zasnovana na dokazima; sindrom sjajnog predmeta je jurenje novog."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "A shop is busy for 3 months and immediately opens 2 more locations with a loan. The risk is…",
+        "bs": "Radnja je puna 3 mjeseca i odmah otvori još 2 lokacije uz kredit. Rizik je…"
+      },
+      "options": [
+        { "en": "Underpricing", "bs": "Preniske cijene" },
+        { "en": "Network effects", "bs": "Mrežni efekti" },
+        { "en": "Premature scaling", "bs": "Prerano širenje" }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "Growing before the model is proven multiplies losses.",
+        "bs": "Rast prije nego je model dokazan umnožava gubitke."
+      }
+    },
+    {
+      "q": { "en": "Which is a vanity metric?", "bs": "Šta je prazni pokazatelj?" },
+      "options": [
+        { "en": "Total followers", "bs": "Ukupan broj pratilaca" },
+        { "en": "Repeat purchase rate", "bs": "Stopa ponovljene kupovine" },
+        { "en": "Revenue per customer", "bs": "Prihod po kupcu" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Followers look good but don't show business health.",
+        "bs": "Pratioci lijepo izgledaju, ali ne pokazuju zdravlje biznisa."
+      }
+    },
+    {
+      "q": {
+        "en": "What does 'vesting' in a co-founder agreement do?",
+        "bs": "Šta radi 'vesting' u ugovoru među osnivačima?"
+      },
+      "options": [
+        { "en": "Shares are doubled each year", "bs": "Udjeli se udvostručuju svake godine" },
+        { "en": "Shares are earned over time", "bs": "Udjeli se zarađuju postepeno" },
+        { "en": "Shares can never be sold", "bs": "Udjeli se nikad ne mogu prodati" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "It stops someone who leaves early keeping a big share.",
+        "bs": "Sprečava da onaj ko rano ode zadrži velik udio."
+      }
+    },
+    {
+      "q": {
+        "en": "Why can underpricing hurt a new business?",
+        "bs": "Zašto preniske cijene mogu naštetiti novom biznisu?"
+      },
+      "options": [
+        {
+          "en": "It may not cover true costs and attracts price-hunters",
+          "bs": "Možda ne pokrivaju stvarne troškove i privlače lovce na cijene"
+        },
+        { "en": "It's illegal", "bs": "Nezakonito je" },
+        { "en": "It always brings too many customers", "bs": "Uvijek donosi previše kupaca" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Low prices squeeze profit and can signal low quality.",
+        "bs": "Niske cijene stežu dobit i mogu signalizirati nizak kvalitet."
+      }
+    }
+  ]
+}

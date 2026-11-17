@@ -1,0 +1,214 @@
+{
+  "slug": "your-venture",
+  "title": { "en": "Your own venture", "bs": "Tvoj vlastiti poduhvat" },
+  "summary": {
+    "en": "Different paths to entrepreneurship, support around you, and pulling everything together into your own plan.",
+    "bs": "Različiti putevi do preduzetništva, podrška oko tebe i spajanje svega u tvoj vlastiti plan."
+  },
+  "concepts": [
+    {
+      "slug": "social-entrepreneurship",
+      "term": "Social entrepreneurship",
+      "local": "društveno preduzetništvo",
+      "minutes": 4,
+      "youtube": "36g0_NJZa3Q",
+      "youtubeQuery": "what is social entrepreneurship explained",
+      "related": ["Corporate social responsibility (CSR)", "Triple bottom line", "Business model"],
+      "en": {
+        "one": "Social entrepreneurship is running a business whose main goal is solving a social or environmental problem, while still earning its own income.",
+        "explain": "Unlike a charity, a social enterprise sells products or services. Unlike a normal business, profit is a tool, not the main goal; it's often reinvested in the mission. Examples include employing people who struggle to find work, or turning waste into products.",
+        "example": "A café in Tuzla employs young people with disabilities, trains them as baristas, and reinvests profits into opening a second location.",
+        "why": "It shows that business can be a powerful way to make lasting change, not only donations.",
+        "mixup": "A social enterprise still needs a working business model. Good intentions don't pay rent."
+      },
+      "bs": {
+        "one": "Social entrepreneurship (društveno preduzetništvo) je vođenje biznisa čiji je glavni cilj rješavanje društvenog ili ekološkog problema, uz to da i dalje zarađuje vlastiti prihod.",
+        "explain": "Za razliku od humanitarne organizacije, društveno preduzeće prodaje proizvode ili usluge. Za razliku od običnog biznisa, dobit je alat, a ne glavni cilj; često se ponovo ulaže u misiju. Primjeri su zapošljavanje ljudi kojima je teško naći posao ili pretvaranje otpada u proizvode.",
+        "example": "Kafić u Tuzli zapošljava mlade s invaliditetom, obučava ih za barmene i dobit ulaže u otvaranje druge lokacije.",
+        "why": "Pokazuje da biznis može biti moćan način za trajnu promjenu, a ne samo donacije.",
+        "mixup": "Društvenom preduzeću ipak treba poslovni model koji radi. Dobre namjere ne plaćaju zakup."
+      }
+    },
+    {
+      "slug": "family-business",
+      "term": "Family business",
+      "local": "porodični biznis",
+      "minutes": 4,
+      "youtube": "FbxK9BCyoGo",
+      "youtubeQuery": "family business challenges succession explained",
+      "related": ["Corporate governance", "Conflict of interest", "Succession planning"],
+      "en": {
+        "one": "A family business is owned and usually run by members of one family, often across generations.",
+        "explain": "Family firms have strong trust, long-term thinking and commitment. Typical challenges are mixing family and business roles, choosing a successor, fair treatment of family members who work and those who don't, and bringing in outside talent.",
+        "example": "A family-owned bakery is passed from father to daughter. Before the handover, they agree in writing on her role, her brother's share as a non-working owner, and a 2-year transition.",
+        "why": "Most businesses in our region are family businesses; managing them well protects both the firm and the family.",
+        "mixup": "Family members aren't automatically the best managers. Successful family firms hire and promote on ability, including outside the family."
+      },
+      "bs": {
+        "one": "Family business (porodični biznis) je u vlasništvu i obično pod upravom članova jedne porodice, često kroz generacije.",
+        "explain": "Porodične firme imaju snažno povjerenje, dugoročno razmišljanje i posvećenost. Tipični izazovi su miješanje porodičnih i poslovnih uloga, izbor nasljednika, pravedan odnos prema članovima porodice koji rade i onima koji ne rade, te dovođenje vanjskih talenata.",
+        "example": "Porodična pekara prelazi s oca na kćerku. Prije primopredaje pismeno se dogovore o njenoj ulozi, udjelu njenog brata kao vlasnika koji ne radi u firmi i prelaznom periodu od 2 godine.",
+        "why": "Većina biznisa u regiji su porodični; dobro upravljanje njima štiti i firmu i porodicu.",
+        "mixup": "Članovi porodice nisu automatski najbolji menadžeri. Uspješne porodične firme zapošljavaju i unapređuju po sposobnosti, i izvan porodice."
+      }
+    },
+    {
+      "slug": "startup-ecosystem",
+      "term": "Incubators, accelerators and support",
+      "local": "inkubatori, akceleratori i podrška",
+      "minutes": 3,
+      "youtube": "Z-hYicMwpew",
+      "youtubeQuery": "incubator vs accelerator difference explained",
+      "related": ["Angel investor", "Grants and incentives", "Mentoring"],
+      "en": {
+        "one": "The start-up ecosystem is the network of organisations that support new businesses: incubators, accelerators, co-working spaces, mentors, investors and development agencies.",
+        "explain": "Incubators help very early ideas over a longer time, often with cheap office space and advice. Accelerators run short, intense programmes (around 3 months) for start-ups with a product, often in exchange for a small share and ending with a pitch to investors. Local development agencies and chambers of commerce also offer free advice and training.",
+        "example": "A young team joins a regional accelerator, gets 20.000 € for 6%, three months of mentoring, and pitches to 40 investors on demo day.",
+        "why": "Using the ecosystem saves you from learning everything the hard way, alone.",
+        "mixup": "Joining a programme isn't success in itself. The value comes from using the mentors and contacts actively."
+      },
+      "bs": {
+        "one": "Start-up ecosystem (ekosistem za start-upe) je mreža organizacija koje podržavaju nove biznise: inkubatori, akceleratori, co-working prostori, mentori, investitori i razvojne agencije.",
+        "explain": "Inkubatori pomažu sasvim ranim idejama kroz duži period, često s jeftinim prostorom i savjetima. Akceleratori vode kratke, intenzivne programe (oko 3 mjeseca) za start-upe s proizvodom, često u zamjenu za mali udio, a završavaju predstavljanjem investitorima. Lokalne razvojne agencije i privredne komore takođe nude besplatne savjete i obuke.",
+        "example": "Mladi tim uđe u regionalni akcelerator, dobije 20.000 € za 6%, tri mjeseca mentorstva i predstavi se pred 40 investitora na demo danu.",
+        "why": "Korištenje ekosistema te štedi od učenja svega na teži način, sam.",
+        "mixup": "Ulazak u program sam po sebi nije uspjeh. Vrijednost dolazi od aktivnog korištenja mentora i kontakata."
+      }
+    },
+    {
+      "slug": "intrapreneurship",
+      "term": "Intrapreneurship",
+      "local": "unutrašnje preduzetništvo",
+      "minutes": 3,
+      "youtube": "61Mj8j7PGmg",
+      "youtubeQuery": "intrapreneurship explained examples",
+      "related": ["Entrepreneur", "Innovation portfolio", "Experimentation"],
+      "en": {
+        "one": "Intrapreneurship is acting like an entrepreneur inside an existing company: spotting opportunities, building new products or improving processes, using the company's resources.",
+        "explain": "Intrapreneurs take ownership, test ideas and push change, but with less personal financial risk than founders. Good companies encourage it with time, small budgets and freedom to try things.",
+        "example": "An employee at a bank notices small businesses struggle with loan applications. She proposes and leads a simplified online application that becomes a new product line.",
+        "why": "You can build entrepreneurial skills and impact without leaving your job.",
+        "mixup": "Intrapreneurship isn't doing whatever you want. You still need to work within the company's goals and win support from others."
+      },
+      "bs": {
+        "one": "Intrapreneurship (unutrašnje preduzetništvo) je ponašanje kao preduzetnik unutar postojeće firme: uočavanje prilika, pravljenje novih proizvoda ili poboljšanje procesa, uz korištenje resursa firme.",
+        "explain": "Intrapreneuri preuzimaju odgovornost, testiraju ideje i guraju promjene, ali s manjim ličnim finansijskim rizikom od osnivača. Dobre firme to podstiču vremenom, malim budžetima i slobodom da se probaju stvari.",
+        "example": "Zaposlenica u banci primijeti da se mali biznisi muče sa zahtjevima za kredit. Predloži i vodi pojednostavljen online zahtjev koji postane nova linija proizvoda.",
+        "why": "Možeš razvijati preduzetničke vještine i uticaj bez napuštanja posla.",
+        "mixup": "Unutrašnje preduzetništvo nije raditi šta god hoćeš. I dalje trebaš raditi u okviru ciljeva firme i pridobiti podršku drugih."
+      }
+    },
+    {
+      "slug": "exit-strategy",
+      "term": "Exit strategy",
+      "local": "strategija izlaska",
+      "minutes": 4,
+      "youtube": "7fU2gM2zFUs",
+      "youtubeQuery": "business exit strategy options explained",
+      "related": ["Valuation", "Mergers and acquisitions (M&A)", "Family business"],
+      "en": {
+        "one": "An exit strategy is the founder's plan for how they will eventually leave the business and turn their ownership into money, or hand it over.",
+        "explain": "Options include selling to another company or a buyer, selling to employees or managers, passing it to family, listing on a stock exchange, or simply closing it in an orderly way. Thinking about the exit early shapes decisions about structure, records and dependence on the founder.",
+        "example": "A founder who built an IT support firm over 15 years spends three years making it run without him, then sells it to a larger competitor at a good price.",
+        "why": "A business that can run and be sold without you is worth much more.",
+        "mixup": "Planning an exit doesn't mean you want to leave soon. It means you're building something with value beyond yourself."
+      },
+      "bs": {
+        "one": "Exit strategy (strategija izlaska) je plan osnivača kako će jednom napustiti biznis i pretvoriti svoje vlasništvo u novac ili ga predati.",
+        "explain": "Opcije su prodaja drugoj firmi ili kupcu, prodaja radnicima ili menadžerima, prenošenje na porodicu, izlazak na berzu, ili jednostavno uredno zatvaranje. Razmišljanje o izlasku rano oblikuje odluke o strukturi, evidenciji i zavisnosti od osnivača.",
+        "example": "Osnivač koji je 15 godina gradio firmu za IT podršku provede tri godine praveći je da radi bez njega, a zatim je proda većem konkurentu po dobroj cijeni.",
+        "why": "Biznis koji može raditi i biti prodan bez tebe vrijedi mnogo više.",
+        "mixup": "Planiranje izlaska ne znači da želiš uskoro otići. Znači da gradiš nešto s vrijednošću izvan sebe."
+      }
+    },
+    {
+      "slug": "venture-plan",
+      "term": "Putting it all together",
+      "local": "sve na jednom mjestu",
+      "minutes": 5,
+      "youtube": "wMi9Xm8xtYs",
+      "youtubeQuery": "how to start a business step by step beginner",
+      "related": ["Business Model Canvas", "Business plan", "Lean startup"],
+      "en": {
+        "one": "Putting it all together means combining what you've learned across the programmes into one simple, testable plan for your own venture.",
+        "explain": "A practical path: pick a problem you understand (founder-market fit), talk to 20 potential customers, sketch a Lean Canvas, check the numbers (costs, margin, break-even, runway), test with an MVP or pre-sales, choose the right legal form and register, then measure traction and adjust.",
+        "example": "Mo's own test: choose one idea, fill a Lean Canvas in an evening, run five customer interviews this month, and set a 'go / change / stop' decision date in 90 days.",
+        "why": "Knowledge only becomes useful when you apply it to a real decision.",
+        "mixup": "You don't need a perfect plan to start. You need a small, clear next step and a way to learn from it."
+      },
+      "bs": {
+        "one": "Sve na jednom mjestu znači spojiti ono što si naučio kroz programe u jedan jednostavan plan koji se može testirati, za tvoj vlastiti poduhvat.",
+        "explain": "Praktičan put: izaberi problem koji razumiješ (usklađenost osnivača i tržišta), razgovaraj s 20 potencijalnih kupaca, skiciraj Lean Canvas, provjeri brojeve (troškovi, marža, tačka pokrića, rezerva), testiraj s MVP-om ili prodajom unaprijed, izaberi pravi pravni oblik i registruj se, zatim mjeri traciju i prilagođavaj.",
+        "example": "Mo-ov vlastiti test: izaberi jednu ideju, popuni Lean Canvas za jedno veče, obavi pet razgovora s kupcima ovog mjeseca i postavi datum odluke 'nastavi / promijeni / stani' za 90 dana.",
+        "why": "Znanje postaje korisno tek kad ga primijeniš na stvarnu odluku.",
+        "mixup": "Ne treba ti savršen plan da počneš. Treba ti mali, jasan sljedeći korak i način da iz njega učiš."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "What makes a social enterprise different from a charity?",
+        "bs": "Šta razlikuje društveno preduzeće od humanitarne organizacije?"
+      },
+      "options": [
+        { "en": "It only takes donations", "bs": "Prima samo donacije" },
+        {
+          "en": "It earns income by selling products or services",
+          "bs": "Zarađuje prodajom proizvoda ili usluga"
+        },
+        { "en": "It never makes profit", "bs": "Nikad ne ostvaruje dobit" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Social enterprises fund their mission through trading.",
+        "bs": "Društvena preduzeća finansiraju misiju kroz prodaju."
+      }
+    },
+    {
+      "q": {
+        "en": "A short, intense 3-month programme that ends with a demo day is…",
+        "bs": "Kratak, intenzivan program od 3 mjeseca koji završava demo danom je…"
+      },
+      "options": [
+        { "en": "An incubator", "bs": "Inkubator" },
+        { "en": "An accelerator", "bs": "Akcelerator" },
+        { "en": "A microcredit", "bs": "Mikrokredit" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Accelerators are short and intense; incubators are longer and earlier.",
+        "bs": "Akceleratori su kratki i intenzivni; inkubatori su duži i za raniju fazu."
+      }
+    },
+    {
+      "q": {
+        "en": "Why does a good exit strategy raise a business's value?",
+        "bs": "Zašto dobra strategija izlaska povećava vrijednost biznisa?"
+      },
+      "options": [
+        { "en": "The business can run without the founder", "bs": "Biznis može raditi bez osnivača" },
+        { "en": "It hides the profits", "bs": "Krije dobit" },
+        { "en": "It removes all risk", "bs": "Uklanja sav rizik" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Buyers pay more for firms that don't depend on one person.",
+        "bs": "Kupci plaćaju više za firme koje ne zavise od jedne osobe."
+      }
+    },
+    {
+      "q": {
+        "en": "What's the best first step after learning all this?",
+        "bs": "Koji je najbolji prvi korak nakon što sve ovo naučiš?"
+      },
+      "options": [
+        { "en": "A big loan", "bs": "Veliki kredit" },
+        { "en": "A perfect 100-page plan", "bs": "Savršen plan od 100 stranica" },
+        { "en": "A small, clear test with real customers", "bs": "Mali, jasan test sa stvarnim kupcima" }
+      ],
+      "answer": 2,
+      "explain": { "en": "Start small, learn fast, then decide.", "bs": "Počni malo, uči brzo, pa odluči." }
+    }
+  ]
+}

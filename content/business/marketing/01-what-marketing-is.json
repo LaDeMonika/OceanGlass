@@ -1,0 +1,214 @@
+{
+  "slug": "what-marketing-is",
+  "title": { "en": "What marketing is", "bs": "Šta je marketing" },
+  "summary": {
+    "en": "Marketing is more than ads: it's understanding people and offering what they want.",
+    "bs": "Marketing je više od reklama: to je razumjeti ljude i ponuditi ono što žele."
+  },
+  "concepts": [
+    {
+      "slug": "marketing",
+      "term": "Marketing",
+      "local": "marketing",
+      "minutes": 5,
+      "youtube": "WFDoBtNN2Yo",
+      "youtubeQuery": "what is marketing explained simply",
+      "related": ["Sales", "Customer", "Value proposition"],
+      "en": {
+        "one": "Marketing is everything a business does to understand customers, reach them and make them want to buy.",
+        "explain": "It starts before the product exists: finding out who needs what. Then it covers the offer, the price, where it is sold, and how people hear about it. Sales is the last step, the actual deal; marketing makes that deal easier.",
+        "example": "A new gym asks locals what stops them from training, opens early for shift workers, and posts videos of real members. That is all marketing.",
+        "why": "Without marketing, even a great product can sit unsold because nobody knows it exists or why they need it.",
+        "mixup": "Marketing is not only advertising. Ads are one small tool; choosing the right customer and offer matters more."
+      },
+      "bs": {
+        "one": "Marketing je sve što firma radi da razumije kupce, dođe do njih i učini da požele kupiti.",
+        "explain": "Počinje prije nego proizvod postoji: otkriti ko treba šta. Zatim pokriva ponudu, cijenu, mjesto prodaje i kako ljudi čuju za to. Prodaja je zadnji korak, sam dogovor; marketing taj dogovor olakšava.",
+        "example": "Nova teretana pita mještane šta ih sprečava da treniraju, otvara rano za radnike u smjenama i objavljuje snimke stvarnih članova. Sve je to marketing.",
+        "why": "Bez marketinga i odličan proizvod može ostati neprodan jer niko ne zna da postoji ili zašto im treba.",
+        "mixup": "Marketing nije samo reklamiranje. Reklame su jedan mali alat; važniji je izbor pravog kupca i ponude."
+      }
+    },
+    {
+      "slug": "value-proposition",
+      "term": "Value proposition",
+      "local": "vrijednosna ponuda",
+      "minutes": 5,
+      "youtube": "Byxgi-YY8B0",
+      "youtubeQuery": "value proposition explained simply",
+      "related": ["Unique selling proposition (USP)", "Target market", "Customer needs"],
+      "en": {
+        "one": "A value proposition is a clear promise of what the customer gets and why it is worth it.",
+        "explain": "It answers three questions: what problem do you solve, for whom, and why are you better than the alternatives? A good one fits in one or two sentences and talks about the customer's gain, not your features.",
+        "example": "'Fresh lunch delivered to your office in 20 minutes, under €8' is a value proposition. 'We have a modern kitchen' is not.",
+        "why": "It guides your website, ads and sales pitch, and helps customers decide quickly.",
+        "mixup": "A value proposition is not a slogan. A slogan is catchy; a value proposition must be specific and believable."
+      },
+      "bs": {
+        "one": "Value proposition (vrijednosna ponuda) je jasno obećanje šta kupac dobija i zašto se to isplati.",
+        "explain": "Odgovara na tri pitanja: koji problem rješavaš, za koga, i zašto si bolji od alternativa? Dobra stane u jednu-dvije rečenice i govori o koristi za kupca, ne o tvojim karakteristikama.",
+        "example": "'Svjež ručak dostavljen u tvoju kancelariju za 20 minuta, ispod 8 €' je vrijednosna ponuda. 'Imamo modernu kuhinju' nije.",
+        "why": "Vodi tvoj sajt, reklame i prodajni razgovor i pomaže kupcima da brzo odluče.",
+        "mixup": "Vrijednosna ponuda nije slogan. Slogan je zvučan; vrijednosna ponuda mora biti konkretna i uvjerljiva."
+      }
+    },
+    {
+      "slug": "marketing-mix",
+      "term": "Marketing mix (4 Ps)",
+      "local": "marketing miks (4P)",
+      "minutes": 6,
+      "youtube": "Mco8vBAwOmA",
+      "youtubeQuery": "4Ps of marketing explained",
+      "related": ["Product", "Price", "Distribution channel", "Promotion"],
+      "en": {
+        "one": "The marketing mix is the four big decisions about any offer: Product, Price, Place and Promotion.",
+        "explain": "Product: what you sell and how it looks and works. Price: what it costs and how people pay. Place: where and how customers get it. Promotion: how they hear about it. The four must fit together; a luxury price with a cheap-looking package confuses people.",
+        "example": "A craft beer: special local recipe (product), €3.50 a bottle (price), sold in bars and selected shops (place), tasting events and Instagram (promotion).",
+        "why": "It is a simple checklist to make sure no part of your offer is weak or contradicts the rest.",
+        "mixup": "The 4 Ps are not separate jobs for separate people. Changing one, like price, often means changing the others."
+      },
+      "bs": {
+        "one": "Marketing mix (marketing miks) su četiri velike odluke o svakoj ponudi: Proizvod, Cijena, Mjesto i Promocija (4P: Product, Price, Place, Promotion).",
+        "explain": "Proizvod: šta prodaješ i kako izgleda i radi. Cijena: koliko košta i kako se plaća. Mjesto: gdje i kako kupci dolaze do njega. Promocija: kako čuju za njega. Sve četiri moraju se slagati; luksuzna cijena u jeftinom pakovanju zbunjuje ljude.",
+        "example": "Craft pivo: poseban lokalni recept (proizvod), 3,50 € po flaši (cijena), prodaje se u barovima i odabranim radnjama (mjesto), degustacije i Instagram (promocija).",
+        "why": "To je jednostavna lista da nijedan dio ponude nije slab ili u suprotnosti s ostatkom.",
+        "mixup": "4P nisu odvojeni poslovi za različite ljude. Promjena jednog, npr. cijene, često znači promjenu i ostalih."
+      }
+    },
+    {
+      "slug": "b2b-b2c",
+      "term": "B2B vs. B2C",
+      "local": "B2B i B2C",
+      "minutes": 4,
+      "youtube": "KoMnHjxzW98",
+      "youtubeQuery": "B2B vs B2C marketing explained",
+      "related": ["Target market", "Sales", "Customer journey"],
+      "en": {
+        "one": "B2C (business to consumer) means selling to people. B2B (business to business) means selling to other companies.",
+        "explain": "B2C buyers often decide fast and emotionally, for small amounts. B2B buyers are usually several people who compare offers, ask for quotes and think about long-term costs. That changes how you market and sell.",
+        "example": "A bakery selling bread in its shop is B2C. The same bakery supplying 20 hotels with bread every morning is B2B.",
+        "why": "Knowing which one you are tells you whether to invest in ads and shop windows, or in personal sales and relationships.",
+        "mixup": "B2B is not boring or purely rational. Business buyers are people too, and trust and reputation often decide the deal."
+      },
+      "bs": {
+        "one": "B2C (business to consumer) znači prodaju ljudima. B2B (business to business) znači prodaju drugim firmama.",
+        "explain": "B2C kupci često odlučuju brzo i emotivno, za male iznose. B2B kupaca je obično više ljudi koji porede ponude, traže predračune i misle o dugoročnim troškovima. To mijenja način marketinga i prodaje.",
+        "example": "Pekara koja prodaje hljeb u svojoj radnji je B2C. Ista pekara koja svako jutro snabdijeva 20 hotela je B2B.",
+        "why": "Kad znaš šta si, znaš da li ulagati u reklame i izloge ili u ličnu prodaju i odnose.",
+        "mixup": "B2B nije dosadan ni čisto racionalan. I poslovni kupci su ljudi, a povjerenje i ugled često odluče posao."
+      }
+    },
+    {
+      "slug": "marketing-funnel",
+      "term": "Marketing funnel",
+      "local": "marketinški lijevak",
+      "minutes": 5,
+      "youtube": "1SNyBngfmW4",
+      "youtubeQuery": "marketing funnel explained simply",
+      "related": ["Customer journey", "Conversion rate", "Lead"],
+      "en": {
+        "one": "The marketing funnel shows how many people move from first hearing about you to buying.",
+        "explain": "Classic stages are awareness (they notice you), interest, consideration (they compare), and purchase. At every step some people drop out, so the funnel gets narrower. Fixing the step where most people leave often helps more than getting more people in at the top.",
+        "example": "10,000 people see your ad, 500 visit the site, 100 add to cart, 30 buy. The biggest drop is ad to site visit.",
+        "why": "It shows where you are losing customers, so you know what to fix first.",
+        "mixup": "Real people don't move neatly step by step. They jump back and forth, but the funnel is still a useful way to measure."
+      },
+      "bs": {
+        "one": "Marketing funnel (marketinški lijevak) pokazuje koliko ljudi prelazi put od prvog susreta s tobom do kupovine.",
+        "explain": "Klasične faze su svijest (primijete te), interes, razmatranje (porede) i kupovina. Na svakom koraku neki odustanu, pa se lijevak sužava. Popraviti korak gdje najviše ljudi odlazi često pomaže više nego dovesti više ljudi na vrh.",
+        "example": "10.000 ljudi vidi tvoju reklamu, 500 posjeti sajt, 100 stavi u korpu, 30 kupi. Najveći pad je od reklame do posjete sajtu.",
+        "why": "Pokazuje gdje gubiš kupce, pa znaš šta prvo popraviti.",
+        "mixup": "Stvarni ljudi ne idu uredno korak po korak. Skaču naprijed-nazad, ali lijevak je i dalje koristan način mjerenja."
+      }
+    },
+    {
+      "slug": "customer-journey",
+      "term": "Customer journey",
+      "local": "put kupca",
+      "minutes": 5,
+      "youtube": "BCEBU3fa-wk",
+      "youtubeQuery": "customer journey map explained",
+      "related": ["Marketing funnel", "Touchpoint", "Customer experience"],
+      "en": {
+        "one": "The customer journey is every moment a person has with your business, from first noticing you to buying and coming back.",
+        "explain": "Each moment is a touchpoint: an ad, a review, your website, the shop, the delivery, the bill, the follow-up email. Mapping the journey shows where people get confused, wait too long or feel ignored.",
+        "example": "A hotel guest's journey: sees photos on Instagram, reads reviews, books online, gets a confirmation email, checks in, stays, receives a thank-you note with a return discount.",
+        "why": "Improving one weak touchpoint, like slow replies to questions, can lift sales without spending more on ads.",
+        "mixup": "The journey does not end at the purchase. What happens after the sale decides if they buy again and recommend you."
+      },
+      "bs": {
+        "one": "Customer journey (put kupca) je svaki trenutak koji osoba ima s tvojom firmom, od prvog primjećivanja do kupovine i povratka.",
+        "explain": "Svaki trenutak je dodirna tačka (touchpoint): reklama, recenzija, sajt, radnja, dostava, račun, mejl nakon kupovine. Mapa puta pokazuje gdje se ljudi zbune, predugo čekaju ili se osjete zanemareno.",
+        "example": "Put gosta hotela: vidi slike na Instagramu, čita recenzije, rezerviše online, dobije mejl potvrde, prijavi se, boravi, dobije zahvalnicu s popustom za povratak.",
+        "why": "Popravka jedne slabe tačke, npr. sporih odgovora na pitanja, može podići prodaju bez većeg trošenja na reklame.",
+        "mixup": "Put ne završava kupovinom. Ono što se desi poslije odlučuje hoće li kupiti ponovo i preporučiti te."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": { "en": "What is the main job of marketing?", "bs": "Šta je glavni posao marketinga?" },
+      "options": [
+        {
+          "en": "Understand customers and make them want to buy",
+          "bs": "Razumjeti kupce i učiniti da požele kupiti"
+        },
+        { "en": "Doing the bookkeeping", "bs": "Voditi knjige" },
+        { "en": "Only running ads", "bs": "Samo puštati reklame" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Marketing covers who you serve, what you offer, the price, where you sell and how people hear about it.",
+        "bs": "Marketing pokriva koga uslužuješ, šta nudiš, cijenu, gdje prodaješ i kako ljudi čuju za tebe."
+      }
+    },
+    {
+      "q": {
+        "en": "A bakery supplies bread to 20 hotels. What kind of selling is this?",
+        "bs": "Pekara snabdijeva hljebom 20 hotela. Koja je to vrsta prodaje?"
+      },
+      "options": [
+        { "en": "B2C", "bs": "B2C" },
+        { "en": "B2B", "bs": "B2B" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "The buyers are businesses (hotels), so it is business to business.",
+        "bs": "Kupci su firme (hoteli), pa je to prodaja firmi firmi."
+      }
+    },
+    {
+      "q": {
+        "en": "10,000 see an ad, 500 visit the site, 100 add to cart, 30 buy. Where is the biggest drop?",
+        "bs": "10.000 vidi reklamu, 500 posjeti sajt, 100 stavi u korpu, 30 kupi. Gdje je najveći pad?"
+      },
+      "options": [
+        { "en": "Site visit to cart", "bs": "Od posjete do korpe" },
+        { "en": "Cart to purchase", "bs": "Od korpe do kupovine" },
+        { "en": "Ad to site visit", "bs": "Od reklame do posjete sajtu" }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "Only 5% go from ad to site. The other steps keep 20% and 30%.",
+        "bs": "Samo 5% pređe s reklame na sajt. Ostali koraci zadrže 20% i 30%."
+      }
+    },
+    {
+      "q": {
+        "en": "Which of the 4 Ps is 'selling in bars and selected shops'?",
+        "bs": "Koje od 4P je 'prodaja u barovima i odabranim radnjama'?"
+      },
+      "options": [
+        { "en": "Promotion", "bs": "Promocija" },
+        { "en": "Price", "bs": "Cijena" },
+        { "en": "Product", "bs": "Proizvod" },
+        { "en": "Place", "bs": "Mjesto" }
+      ],
+      "answer": 3,
+      "explain": {
+        "en": "Place is where and how customers get the product.",
+        "bs": "Mjesto je gdje i kako kupci dolaze do proizvoda."
+      }
+    }
+  ]
+}

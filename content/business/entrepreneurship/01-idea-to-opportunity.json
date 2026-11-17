@@ -1,0 +1,220 @@
+{
+  "slug": "idea-to-opportunity",
+  "title": { "en": "From idea to opportunity", "bs": "Od ideje do prilike" },
+  "summary": {
+    "en": "What entrepreneurs actually do, and how to tell a nice idea from a real business opportunity.",
+    "bs": "Šta preduzetnici zaista rade i kako razlikovati lijepu ideju od stvarne poslovne prilike."
+  },
+  "concepts": [
+    {
+      "slug": "entrepreneur",
+      "term": "Entrepreneur",
+      "local": "preduzetnik",
+      "minutes": 3,
+      "youtube": "WCe8hDgKSik",
+      "youtubeQuery": "what is an entrepreneur explained simply",
+      "related": ["Business model", "Risk and uncertainty", "Opportunity cost"],
+      "en": {
+        "one": "An entrepreneur is someone who spots a problem or need, builds a way to solve it, and takes the risk of running it as a business.",
+        "explain": "It's not only about tech start-ups. A woman opening a bakery, a mechanic starting his own workshop, or a developer selling an app are all entrepreneurs. What they share: they act on an opportunity, organise money and people, and accept that it might not work.",
+        "example": "A nurse sees that elderly people in her town struggle to get to appointments. She starts a small transport service with one adapted van and grows to five.",
+        "why": "Understanding the role helps you decide if and how you want to start something yourself.",
+        "mixup": "Entrepreneurs aren't gamblers who love risk. Good ones take risks they understand and try to make them smaller."
+      },
+      "bs": {
+        "one": "Entrepreneur (preduzetnik) je neko ko uoči problem ili potrebu, napravi način da je riješi i preuzme rizik vođenja toga kao biznisa.",
+        "explain": "Nije riječ samo o tech start-upima. Žena koja otvara pekaru, mehaničar koji pokreće svoju radionicu ili programer koji prodaje aplikaciju su svi preduzetnici. Zajedničko im je: djeluju na priliku, organizuju novac i ljude i prihvataju da možda neće uspjeti.",
+        "example": "Medicinska sestra vidi da starijim ljudima u njenom gradu teško ići na preglede. Pokrene mali prevoz s jednim prilagođenim kombijem i naraste na pet.",
+        "why": "Razumijevanje te uloge pomaže ti da odlučiš želiš li i kako nešto pokrenuti sam.",
+        "mixup": "Preduzetnici nisu kockari koji vole rizik. Dobri preuzimaju rizike koje razumiju i trude se da ih smanje."
+      }
+    },
+    {
+      "slug": "idea-vs-opportunity",
+      "term": "Idea vs. opportunity",
+      "local": "ideja i prilika",
+      "minutes": 4,
+      "youtube": "tc60K5uMpYI",
+      "youtubeQuery": "business idea vs business opportunity difference",
+      "related": ["Problem-solution fit", "Market research", "Target market"],
+      "en": {
+        "one": "An idea is something you think could work. An opportunity is an idea where enough people have a real problem, will pay to solve it, and you can reach them profitably.",
+        "explain": "Ideas are cheap and everywhere. To turn one into an opportunity, check four things: is the problem real and painful, are there enough customers, will they pay a price that covers your costs, and can you actually deliver it?",
+        "example": "'An app for sharing recipes' is an idea. 'Busy parents in Sarajevo will pay 15 KM a week for planned meals with groceries delivered' is a possible opportunity you can test.",
+        "why": "Most failed businesses started with an idea nobody checked. Thinking in opportunities saves time and money.",
+        "mixup": "Loving your idea isn't proof. Your friends saying 'great idea!' isn't either. Only customers paying is proof."
+      },
+      "bs": {
+        "one": "Ideja je nešto za šta misliš da bi moglo uspjeti. Prilika je ideja gdje dovoljno ljudi ima stvaran problem, platiće da ga riješe, i možeš doći do njih profitabilno.",
+        "explain": "Ideje su jeftine i ima ih svuda. Da bi ideja postala prilika, provjeri četiri stvari: je li problem stvaran i bolan, ima li dovoljno kupaca, hoće li platiti cijenu koja pokriva tvoje troškove, i možeš li to zaista isporučiti?",
+        "example": "'Aplikacija za dijeljenje recepata' je ideja. 'Zauzeti roditelji u Sarajevu platiće 15 KM sedmično za isplanirane obroke s dostavom namirnica' je moguća prilika koju možeš testirati.",
+        "why": "Većina propalih biznisa počela je idejom koju niko nije provjerio. Razmišljanje u prilikama štedi vrijeme i novac.",
+        "mixup": "To što voliš svoju ideju nije dokaz. Ni kad prijatelji kažu 'super ideja!'. Jedini dokaz su kupci koji plaćaju."
+      }
+    },
+    {
+      "slug": "problem-solution-fit",
+      "term": "Problem-solution fit",
+      "local": "usklađenost problema i rješenja",
+      "minutes": 4,
+      "youtube": "Jzs7mrpHDMw",
+      "youtubeQuery": "problem solution fit explained startup",
+      "related": ["Idea vs. opportunity", "Customer interviews", "Product-market fit"],
+      "en": {
+        "one": "Problem-solution fit means you've confirmed that a real group of people has a specific problem, and that your solution actually solves it for them.",
+        "explain": "It's the first checkpoint for a new business, before you build much. You get there by talking to potential customers, watching how they handle the problem today, and testing a simple version of your solution.",
+        "example": "A founder believes small shops hate doing inventory. After 20 interviews, she learns the real pain is ordering at the right time, so she changes her app to focus on reorder reminders.",
+        "why": "Building something without problem-solution fit is the most common way to waste a year.",
+        "mixup": "Problem-solution fit isn't product-market fit. It says the solution works for some people, not yet that a big market wants to buy it."
+      },
+      "bs": {
+        "one": "Problem-solution fit (usklađenost problema i rješenja) znači da si potvrdio da stvarna grupa ljudi ima konkretan problem i da ga tvoje rješenje zaista rješava.",
+        "explain": "To je prva kontrolna tačka za novi biznis, prije nego mnogo izgradiš. Do nje dolaziš razgovorom s potencijalnim kupcima, posmatranjem kako danas rješavaju problem i testiranjem jednostavne verzije rješenja.",
+        "example": "Osnivačica vjeruje da male prodavnice mrze popis robe. Nakon 20 razgovora sazna da je pravi problem naručivanje u pravo vrijeme, pa promijeni aplikaciju da se fokusira na podsjetnike za narudžbu.",
+        "why": "Pravljenje nečega bez usklađenosti problema i rješenja je najčešći način da se izgubi godina.",
+        "mixup": "To nije isto što i product-market fit. Pokazuje da rješenje radi za neke ljude, ne još da ga veliko tržište želi kupiti."
+      }
+    },
+    {
+      "slug": "founder-market-fit",
+      "term": "Founder-market fit",
+      "local": "usklađenost osnivača i tržišta",
+      "minutes": 3,
+      "youtube": "-XFiUhtSNHY",
+      "youtubeQuery": "founder market fit explained",
+      "related": ["Core competence", "Entrepreneur", "Idea vs. opportunity"],
+      "en": {
+        "one": "Founder-market fit is how well your own skills, experience and contacts match the business you want to start.",
+        "explain": "Founders who know an industry from the inside spot real problems faster, understand customers better and already know suppliers or buyers. It doesn't mean you can only start in your own field, but it gives you a head start.",
+        "example": "A former hotel receptionist builds booking software for small guesthouses. She knows exactly what owners struggle with and already knows dozens of them.",
+        "why": "Investors and banks look at this, and it raises your own chances of success.",
+        "mixup": "Passion alone isn't fit. Loving coffee doesn't mean you know how to run a café profitably."
+      },
+      "bs": {
+        "one": "Founder-market fit (usklađenost osnivača i tržišta) je koliko se tvoje vještine, iskustvo i kontakti poklapaju s biznisom koji želiš pokrenuti.",
+        "explain": "Osnivači koji znaju industriju iznutra brže uočavaju stvarne probleme, bolje razumiju kupce i već poznaju dobavljače ili kupce. Ne znači da možeš počinjati samo u svojoj oblasti, ali ti daje prednost.",
+        "example": "Bivša recepcionerka u hotelu napravi softver za rezervacije za male pansione. Tačno zna s čim se vlasnici muče i već poznaje desetine njih.",
+        "why": "Investitori i banke gledaju ovo, a to povećava i tvoje šanse za uspjeh.",
+        "mixup": "Sama strast nije usklađenost. To što voliš kafu ne znači da znaš profitabilno voditi kafić."
+      }
+    },
+    {
+      "slug": "side-hustle",
+      "term": "Side hustle",
+      "local": "posao sa strane",
+      "minutes": 3,
+      "youtube": "fR1CgOV0dZQ",
+      "youtubeQuery": "start a business while working full time side hustle",
+      "related": ["Bootstrapping", "Opportunity cost", "Minimum viable product"],
+      "en": {
+        "one": "A side hustle is a small business you run alongside your regular job.",
+        "explain": "It's a low-risk way to test an idea: you keep your salary while finding out if customers will pay. Many solid businesses started as evening and weekend projects. Check your employment contract for conflicts and register the activity properly for taxes.",
+        "example": "An accountant starts making handmade leather wallets on weekends, sells them online, and only quits her job when wallet sales match half her salary for six months in a row.",
+        "why": "It lets you learn and earn without betting everything at once.",
+        "mixup": "A side hustle still has legal and tax obligations. 'It's small' doesn't mean you don't need to register or pay tax."
+      },
+      "bs": {
+        "one": "Side hustle (posao sa strane) je mali biznis koji vodiš uz redovni posao.",
+        "explain": "To je način testiranja ideje s malim rizikom: zadržavaš platu dok saznaješ hoće li kupci platiti. Mnogi solidni biznisi počeli su kao projekti uveče i vikendom. Provjeri ugovor o radu zbog sukoba interesa i pravilno registruj djelatnost zbog poreza.",
+        "example": "Računovođa počne vikendom praviti ručno rađene kožne novčanike, prodaje ih online i daje otkaz tek kad prodaja novčanika šest mjeseci zaredom dostigne pola njene plate.",
+        "why": "Omogućava ti da učiš i zarađuješ bez da sve staviš na kocku odjednom.",
+        "mixup": "Posao sa strane i dalje ima pravne i poreske obaveze. 'Mali je' ne znači da ga ne trebaš registrovati ili plaćati porez."
+      }
+    },
+    {
+      "slug": "fear-of-failure",
+      "term": "Fear of failure and smart risk",
+      "local": "strah od neuspjeha i pametan rizik",
+      "minutes": 3,
+      "youtube": "c9ADD6Vdvv0",
+      "youtubeQuery": "fear of failure entrepreneurship affordable loss",
+      "related": ["Risk and uncertainty", "Side hustle", "Experimentation"],
+      "en": {
+        "one": "Fear of failure stops many good businesses from starting. Smart risk means deciding in advance how much you can afford to lose, and testing cheaply before investing more.",
+        "explain": "A useful idea is 'affordable loss': instead of asking 'how much could I win?', ask 'how much time and money can I lose without hurting my life?' Then work within that limit and grow it as evidence comes in.",
+        "example": "Instead of taking a 50.000 KM loan for a restaurant, a cook starts with a food stall at weekend markets for 3.000 KM. If it fails, the loss is small; if it works, she has proof for the bank.",
+        "why": "Managing risk well makes it possible to try, learn and try again.",
+        "mixup": "Failing at one business doesn't make you a failure. Many successful founders failed before. What matters is failing small and learning."
+      },
+      "bs": {
+        "one": "Strah od neuspjeha zaustavlja mnoge dobre biznise prije nego počnu. Pametan rizik znači unaprijed odlučiti koliko možeš sebi priuštiti da izgubiš i jeftino testirati prije većeg ulaganja.",
+        "explain": "Korisna ideja je 'priuštivi gubitak': umjesto 'koliko mogu dobiti?', pitaj 'koliko vremena i novca mogu izgubiti a da mi to ne naruši život?' Onda radi unutar te granice i povećavaj je kako dolaze dokazi.",
+        "example": "Umjesto kredita od 50.000 KM za restoran, kuharica počne sa štandom hrane na vikend-pijacama za 3.000 KM. Ako ne uspije, gubitak je mali; ako uspije, ima dokaz za banku.",
+        "why": "Dobro upravljanje rizikom omogućava da pokušaš, naučiš i pokušaš ponovo.",
+        "mixup": "Neuspjeh jednog biznisa ne čini tebe neuspješnim. Mnogi uspješni osnivači su ranije propali. Važno je propasti malo i naučiti."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "Which is closest to a real business opportunity?",
+        "bs": "Šta je najbliže stvarnoj poslovnoj prilici?"
+      },
+      "options": [
+        { "en": "An idea all your friends like", "bs": "Ideja koja se sviđa svim tvojim prijateljima" },
+        { "en": "Something nobody has ever done", "bs": "Nešto što niko nikad nije radio" },
+        {
+          "en": "A problem people will pay to solve, and you can reach them",
+          "bs": "Problem koji će ljudi platiti da riješe, a ti možeš doći do njih"
+        }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "Opportunity = real problem + paying customers + a way to reach them profitably.",
+        "bs": "Prilika = stvaran problem + kupci koji plaćaju + način da dođeš do njih profitabilno."
+      }
+    },
+    {
+      "q": {
+        "en": "What should you confirm FIRST, before building much?",
+        "bs": "Šta trebaš potvrditi PRVO, prije nego mnogo izgradiš?"
+      },
+      "options": [
+        { "en": "Your office location", "bs": "Lokaciju kancelarije" },
+        { "en": "Your logo", "bs": "Tvoj logo" },
+        {
+          "en": "That real people have the problem and your solution helps",
+          "bs": "Da stvarni ljudi imaju problem i da tvoje rješenje pomaže"
+        }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "That's problem-solution fit, the first checkpoint.",
+        "bs": "To je usklađenost problema i rješenja, prva kontrolna tačka."
+      }
+    },
+    {
+      "q": { "en": "'Affordable loss' asks you to…", "bs": "'Priuštivi gubitak' traži da…" },
+      "options": [
+        {
+          "en": "Decide how much you can lose before you start",
+          "bs": "Odlučiš koliko možeš izgubiti prije nego počneš"
+        },
+        { "en": "Borrow as much as possible", "bs": "Pozajmiš što više možeš" },
+        { "en": "Ignore risk completely", "bs": "Potpuno ignorišeš rizik" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Set a limit on what you can afford to lose, then test within it.",
+        "bs": "Postavi granicu onoga što možeš priuštiti da izgubiš, pa testiraj unutar nje."
+      }
+    },
+    {
+      "q": {
+        "en": "Why can a side hustle be a smart way to start?",
+        "bs": "Zašto posao sa strane može biti pametan način za početak?"
+      },
+      "options": [
+        { "en": "It never needs registering", "bs": "Nikad ga ne treba registrovati" },
+        {
+          "en": "You test with customers while keeping your salary",
+          "bs": "Testiraš s kupcima dok zadržavaš platu"
+        },
+        { "en": "It's always more profitable", "bs": "Uvijek je profitabilniji" }
+      ],
+      "answer": 1,
+      "explain": { "en": "It lowers the risk of testing an idea.", "bs": "Smanjuje rizik testiranja ideje." }
+    }
+  ]
+}

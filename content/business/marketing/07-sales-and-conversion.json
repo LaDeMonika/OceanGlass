@@ -1,0 +1,211 @@
+{
+  "slug": "sales-and-conversion",
+  "title": { "en": "Sales & conversion", "bs": "Prodaja i konverzija" },
+  "summary": {
+    "en": "Turning interested people into paying customers, and testing what works.",
+    "bs": "Kako zainteresovane ljude pretvoriti u kupce i testirati šta radi."
+  },
+  "concepts": [
+    {
+      "slug": "lead",
+      "term": "Lead",
+      "local": "lead (potencijalni kupac)",
+      "minutes": 4,
+      "youtube": "_TNVSYwRoFA",
+      "youtubeQuery": "what is a lead in sales and marketing",
+      "related": ["Marketing funnel", "Conversion rate", "Sales pipeline"],
+      "en": {
+        "one": "A lead is a person or company that has shown interest and left a way to contact them.",
+        "explain": "They filled in a form, asked for a quote, signed up for a newsletter or called. A qualified lead also fits your target market and has a real need and budget. Marketing creates leads; sales turns them into customers.",
+        "example": "A solar panel installer gets 40 quote requests a month from its website. Those are leads; 8 of them sign a contract.",
+        "why": "Counting leads and where they come from shows which marketing really works.",
+        "mixup": "A lead is not a customer yet. Many leads are just curious, so follow up quickly and politely."
+      },
+      "bs": {
+        "one": "Lead (potencijalni kupac) je osoba ili firma koja je pokazala interes i ostavila način da je kontaktiraš.",
+        "explain": "Popunili su formular, tražili ponudu, prijavili se na newsletter ili nazvali. Kvalifikovan lead se uz to uklapa u tvoje ciljno tržište i ima stvarnu potrebu i budžet. Marketing stvara leadove; prodaja ih pretvara u kupce.",
+        "example": "Montažer solarnih panela dobije 40 zahtjeva za ponudu mjesečno sa sajta. To su leadovi; 8 njih potpiše ugovor.",
+        "why": "Kad brojiš leadove i odakle dolaze, vidiš koji marketing stvarno radi.",
+        "mixup": "Lead još nije kupac. Mnogi su samo radoznali, pa se javi brzo i pristojno."
+      }
+    },
+    {
+      "slug": "conversion-rate",
+      "term": "Conversion rate",
+      "local": "stopa konverzije",
+      "minutes": 4,
+      "youtube": "1szIvns5r64",
+      "youtubeQuery": "conversion rate explained",
+      "formula": {
+        "en": "Conversion rate = Conversions ÷ Visitors × 100",
+        "bs": "Stopa konverzije = Konverzije ÷ Posjetioci × 100"
+      },
+      "related": ["Marketing funnel", "A/B testing", "Landing page"],
+      "en": {
+        "one": "Conversion rate is the share of people who take the action you want, such as buying or signing up.",
+        "explain": "Divide the number who did it by the number who had the chance, and multiply by 100. Typical online shops convert 1–3% of visitors. Raising conversion is often cheaper than buying more traffic.",
+        "example": "2,000 people visit your shop page and 40 buy. Conversion rate = 40 ÷ 2,000 = 2%.",
+        "why": "Going from 2% to 3% means 50% more sales from the same visitors and the same ad budget.",
+        "mixup": "A high conversion rate isn't always good. If you only show your page to people who were going to buy anyway, you are not growing."
+      },
+      "bs": {
+        "one": "Conversion rate (stopa konverzije) je udio ljudi koji urade željenu radnju, npr. kupe ili se prijave.",
+        "explain": "Podijeli broj onih koji su to uradili s brojem onih koji su imali priliku i pomnoži sa 100. Tipični web shopovi pretvore 1–3% posjetilaca. Podizanje konverzije je često jeftinije od kupovine više posjeta.",
+        "example": "2.000 ljudi posjeti stranicu shopa, 40 kupi. Stopa konverzije = 40 ÷ 2.000 = 2%.",
+        "why": "Prelazak s 2% na 3% znači 50% više prodaje od istih posjetilaca i istog budžeta za reklame.",
+        "mixup": "Visoka konverzija nije uvijek dobra. Ako stranicu pokazuješ samo onima koji bi ionako kupili, ne rasteš."
+      }
+    },
+    {
+      "slug": "call-to-action",
+      "term": "Call to action (CTA)",
+      "local": "poziv na akciju",
+      "minutes": 3,
+      "youtube": "MdKR5f4OoU0",
+      "youtubeQuery": "call to action explained marketing",
+      "related": ["Landing page", "Conversion rate", "Copywriting"],
+      "en": {
+        "one": "A call to action is the clear instruction that tells people what to do next: 'Book now', 'Get a quote', 'Add to cart'.",
+        "explain": "Every ad, page or email should have one main CTA that is easy to see and specific. Too many choices, or none at all, leave people unsure, and they leave.",
+        "example": "A hairdresser's Instagram bio changes from just an address to 'Book your cut in 30 seconds →' with a booking link. Bookings rise.",
+        "why": "People are busy. A clear next step turns interest into action.",
+        "mixup": "'Click here' is not a good CTA. Say what they get: 'Get my free price list'."
+      },
+      "bs": {
+        "one": "Call to action (poziv na akciju) je jasna uputa šta ljudi trebaju uraditi dalje: 'Rezerviši sada', 'Zatraži ponudu', 'Dodaj u korpu'.",
+        "explain": "Svaka reklama, stranica ili mejl treba imati jedan glavni CTA koji je lako vidljiv i konkretan. Previše izbora ili nijedan ostavljaju ljude nesigurnim, pa odu.",
+        "example": "Frizerka u Instagram opisu umjesto samo adrese stavi 'Rezerviši šišanje za 30 sekundi →' s linkom. Rezervacije porastu.",
+        "why": "Ljudi su zauzeti. Jasan sljedeći korak pretvara interes u akciju.",
+        "mixup": "'Klikni ovdje' nije dobar CTA. Reci šta dobijaju: 'Preuzmi besplatni cjenovnik'."
+      }
+    },
+    {
+      "slug": "landing-page",
+      "term": "Landing page",
+      "local": "odredišna stranica",
+      "minutes": 4,
+      "youtube": "kIonmyN8j_Y",
+      "youtubeQuery": "what is a landing page explained",
+      "related": ["Call to action (CTA)", "Conversion rate", "Paid ads (PPC)"],
+      "en": {
+        "one": "A landing page is a single web page made for one goal, usually where people land after clicking an ad or email.",
+        "explain": "Unlike a home page with many links, a landing page focuses on one offer: a strong headline, the main benefits, proof like reviews, and one CTA. It should match the ad that brought people there.",
+        "example": "An ad says 'First yoga class free'. It leads to a page with that exact offer, three reviews, a photo of the studio and a 'Book my free class' button.",
+        "why": "Sending ad traffic to a focused page instead of your home page can double conversions.",
+        "mixup": "Don't send ad clicks to your home page. People have to search again for the offer, and many give up."
+      },
+      "bs": {
+        "one": "Landing page (odredišna stranica) je jedna web stranica napravljena za jedan cilj, obično tamo gdje ljudi dođu nakon klika na reklamu ili mejl.",
+        "explain": "Za razliku od početne stranice s mnogo linkova, landing page se fokusira na jednu ponudu: jak naslov, glavne koristi, dokaz kao recenzije i jedan CTA. Treba se poklapati s reklamom koja je dovela ljude.",
+        "example": "Reklama kaže 'Prvi čas joge besplatno'. Vodi na stranicu s tačno tom ponudom, tri recenzije, slikom studija i dugmetom 'Rezerviši besplatni čas'.",
+        "why": "Slanje posjeta s reklama na fokusiranu stranicu umjesto početne može udvostručiti konverzije.",
+        "mixup": "Ne šalji klikove s reklama na početnu stranicu. Ljudi moraju ponovo tražiti ponudu, a mnogi odustanu."
+      }
+    },
+    {
+      "slug": "ab-testing",
+      "term": "A/B testing",
+      "local": "A/B testiranje",
+      "minutes": 5,
+      "youtube": "hHXEjcJkcbc",
+      "youtubeQuery": "A/B testing explained simply",
+      "related": ["Conversion rate", "Landing page", "Statistical significance"],
+      "en": {
+        "one": "A/B testing means showing two versions of something to similar groups at the same time and seeing which works better.",
+        "explain": "Change one thing only, for example the headline, price display or button text. Split visitors randomly between A and B. Wait until you have enough results before deciding, or the difference may be pure luck.",
+        "example": "Version A says 'Free delivery', version B says 'Delivered tomorrow'. After 4,000 visitors, B gets 25% more orders.",
+        "why": "It replaces opinions with evidence, so small improvements add up over time.",
+        "mixup": "Ten clicks is not a test. With too few visitors, the 'winner' is often just random noise."
+      },
+      "bs": {
+        "one": "A/B testing (A/B testiranje) znači pokazati dvije verzije nečega sličnim grupama u isto vrijeme i vidjeti koja radi bolje.",
+        "explain": "Promijeni samo jednu stvar, npr. naslov, prikaz cijene ili tekst dugmeta. Nasumično podijeli posjetioce između A i B. Sačekaj dovoljno rezultata prije odluke, inače razlika može biti čista sreća.",
+        "example": "Verzija A kaže 'Besplatna dostava', verzija B 'Dostava sutra'. Nakon 4.000 posjetilaca, B dobije 25% više narudžbi.",
+        "why": "Zamjenjuje mišljenja dokazima, pa se mala poboljšanja s vremenom saberu.",
+        "mixup": "Deset klikova nije test. S premalo posjetilaca 'pobjednik' je često samo slučajnost."
+      }
+    },
+    {
+      "slug": "sales-pipeline",
+      "term": "Sales pipeline",
+      "local": "prodajni pipeline (tok prodaje)",
+      "minutes": 5,
+      "youtube": "sIBJGLpUJ3o",
+      "youtubeQuery": "sales pipeline explained simply",
+      "related": ["Lead", "Conversion rate", "CRM"],
+      "en": {
+        "one": "A sales pipeline is a simple list of all open deals and which stage each one is in.",
+        "explain": "Typical stages: new lead, contacted, needs understood, offer sent, negotiation, won or lost. A CRM tool or even a spreadsheet tracks it. It shows how much future income is likely and where deals get stuck.",
+        "example": "An IT firm has 12 offers sent worth €60,000. If it usually wins 1 in 4, it can expect about €15,000.",
+        "why": "A pipeline helps you forecast sales and know when to look for more leads before income dries up.",
+        "mixup": "A full pipeline is not money in the bank. Old deals nobody has touched in months should be cleaned out."
+      },
+      "bs": {
+        "one": "Sales pipeline (prodajni pipeline) je jednostavan spisak svih otvorenih poslova i faze u kojoj je svaki.",
+        "explain": "Tipične faze: novi lead, kontaktiran, potrebe shvaćene, ponuda poslana, pregovori, dobijen ili izgubljen. Prati se CRM alatom ili čak tabelom. Pokazuje koliko budućeg prihoda je vjerovatno i gdje poslovi zapnu.",
+        "example": "IT firma ima 12 poslanih ponuda vrijednih 60.000 €. Ako obično dobije 1 od 4, može očekivati oko 15.000 €.",
+        "why": "Pipeline ti pomaže da predvidiš prodaju i znaš kad tražiti nove leadove prije nego prihod presuši.",
+        "mixup": "Pun pipeline nije novac na računu. Stare poslove koje niko nije dirao mjesecima treba očistiti."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "2,000 people visit and 40 buy. What is the conversion rate?",
+        "bs": "2.000 ljudi posjeti, a 40 kupi. Kolika je stopa konverzije?"
+      },
+      "options": [
+        { "en": "20%", "bs": "20%" },
+        { "en": "2%", "bs": "2%" },
+        { "en": "0.2%", "bs": "0,2%" }
+      ],
+      "answer": 1,
+      "explain": { "en": "40 ÷ 2,000 = 0.02 = 2%.", "bs": "40 ÷ 2.000 = 0,02 = 2%." }
+    },
+    {
+      "q": { "en": "Where should a paid ad send people?", "bs": "Gdje plaćena reklama treba slati ljude?" },
+      "options": [
+        {
+          "en": "A landing page that matches the ad",
+          "bs": "Na odredišnu stranicu koja se poklapa s reklamom"
+        },
+        { "en": "Your home page", "bs": "Na početnu stranicu" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "A focused page with the same offer and one CTA converts much better.",
+        "bs": "Fokusirana stranica s istom ponudom i jednim CTA-om pretvara mnogo bolje."
+      }
+    },
+    {
+      "q": {
+        "en": "In an A/B test, how many things should you change at once?",
+        "bs": "U A/B testu, koliko stvari mijenjaš odjednom?"
+      },
+      "options": [
+        { "en": "None", "bs": "Nijednu" },
+        { "en": "As many as possible", "bs": "Što više" },
+        { "en": "One", "bs": "Jednu" }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "Change one thing, so you know what caused the difference.",
+        "bs": "Promijeni jednu stvar, da znaš šta je izazvalo razliku."
+      }
+    },
+    {
+      "q": {
+        "en": "€60,000 in open offers, and you usually win 1 in 4. What can you expect?",
+        "bs": "60.000 € u otvorenim ponudama, a obično dobiješ 1 od 4. Šta možeš očekivati?"
+      },
+      "options": [
+        { "en": "About €40,000", "bs": "Oko 40.000 €" },
+        { "en": "About €15,000", "bs": "Oko 15.000 €" },
+        { "en": "€60,000", "bs": "60.000 €" }
+      ],
+      "answer": 1,
+      "explain": { "en": "€60,000 × 1/4 = €15,000.", "bs": "60.000 € × 1/4 = 15.000 €." }
+    }
+  ]
+}

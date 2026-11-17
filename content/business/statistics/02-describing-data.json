@@ -1,0 +1,214 @@
+{
+  "slug": "describing-data",
+  "title": { "en": "Describing data", "bs": "Opisivanje podataka" },
+  "summary": {
+    "en": "Summing up a pile of numbers: the typical value, the spread, and the odd ones out.",
+    "bs": "Kako sažeti gomilu brojeva: tipična vrijednost, raspršenost i oni koji odskaču."
+  },
+  "concepts": [
+    {
+      "slug": "mean",
+      "term": "Mean (average)",
+      "local": "aritmetička sredina (prosjek)",
+      "minutes": 4,
+      "youtube": "OmCPPHa9zHY",
+      "youtubeQuery": "mean median mode explained simply",
+      "formula": {
+        "en": "Mean = Sum of values ÷ Number of values",
+        "bs": "Prosjek = Zbir vrijednosti ÷ Broj vrijednosti"
+      },
+      "related": ["Median", "Outlier", "Weighted average"],
+      "en": {
+        "one": "The mean is the everyday 'average': add up all the values and divide by how many there are.",
+        "explain": "It uses every number, so it is a good summary when values are fairly similar. But one extreme value can pull it a long way up or down.",
+        "example": "Five sales: €20, €25, €30, €35, €40. Mean = €150 ÷ 5 = €30.",
+        "why": "Average order value, average salary, average daily sales: the mean is everywhere in business reports.",
+        "mixup": "The mean is not always the 'typical' value. If one customer spent €5,000, the average order can look much bigger than what most people spend."
+      },
+      "bs": {
+        "one": "Mean (aritmetička sredina) je svakodnevni 'prosjek': saberi sve vrijednosti i podijeli s brojem vrijednosti.",
+        "explain": "Koristi svaki broj, pa je dobar sažetak kad su vrijednosti prilično slične. Ali jedna krajnja vrijednost može ga jako povući gore ili dolje.",
+        "example": "Pet prodaja: 20 €, 25 €, 30 €, 35 €, 40 €. Prosjek = 150 € ÷ 5 = 30 €.",
+        "why": "Prosječna narudžba, prosječna plata, prosječna dnevna prodaja: prosjek je svuda u poslovnim izvještajima.",
+        "mixup": "Prosjek nije uvijek 'tipična' vrijednost. Ako je jedan kupac potrošio 5.000 €, prosječna narudžba može izgledati mnogo veća od onoga što većina troši."
+      }
+    },
+    {
+      "slug": "median",
+      "term": "Median",
+      "local": "medijan",
+      "minutes": 4,
+      "youtube": "bLtccHoxuec",
+      "youtubeQuery": "mean vs median explained",
+      "related": ["Mean (average)", "Outlier", "Percentile"],
+      "en": {
+        "one": "The median is the middle value when you line the numbers up from smallest to largest.",
+        "explain": "Half the values are below it and half above. With an even count, take the average of the two middle values. Because it ignores how extreme the ends are, it shows the 'typical' case better when there are outliers.",
+        "example": "Salaries in a small firm: €900, €1,000, €1,100, €1,200, €8,000 (the owner). Mean = €2,440, but the median is €1,100, much closer to what most people earn.",
+        "why": "For prices, incomes and house values, the median often tells a truer story than the mean.",
+        "mixup": "Median and mean are not interchangeable. When they're far apart, that gap itself tells you the data is lopsided."
+      },
+      "bs": {
+        "one": "Median (medijan) je srednja vrijednost kad brojeve poredaš od najmanjeg do najvećeg.",
+        "explain": "Pola vrijednosti je ispod, a pola iznad. Kod parnog broja uzmi prosjek dvije srednje vrijednosti. Pošto ne mari koliko su krajevi ekstremni, bolje pokazuje 'tipičan' slučaj kad ima odstupanja.",
+        "example": "Plate u maloj firmi: 900 €, 1.000 €, 1.100 €, 1.200 €, 8.000 € (vlasnik). Prosjek = 2.440 €, ali medijan je 1.100 €, mnogo bliže onome što većina zarađuje.",
+        "why": "Kod cijena, primanja i vrijednosti stanova, medijan često priča istinitiju priču od prosjeka.",
+        "mixup": "Medijan i prosjek nisu zamjenjivi. Kad su daleko jedan od drugog, sam taj jaz ti govori da su podaci nakrivljeni."
+      }
+    },
+    {
+      "slug": "mode",
+      "term": "Mode",
+      "local": "mod (najčešća vrijednost)",
+      "minutes": 3,
+      "youtube": "JyU6R7isGhw",
+      "youtubeQuery": "what is the mode in statistics",
+      "related": ["Mean (average)", "Median", "Qualitative data"],
+      "en": {
+        "one": "The mode is the value that appears most often.",
+        "explain": "It's the only 'average' that works for categories, like the most popular size or colour. A set of data can have one mode, several, or none.",
+        "example": "A shoe shop sold sizes 38, 39, 39, 40, 39, 42, 41. The mode is 39, so it should stock more of that size.",
+        "why": "For stock planning and menus, knowing the most common choice is often more useful than any average.",
+        "mixup": "The most common value is not necessarily the majority. 39 can be the mode while most customers still buy other sizes."
+      },
+      "bs": {
+        "one": "Mode (mod) je vrijednost koja se najčešće pojavljuje.",
+        "explain": "To je jedini 'prosjek' koji radi za kategorije, npr. najpopularnija veličina ili boja. Skup podataka može imati jedan mod, više njih ili nijedan.",
+        "example": "Prodavnica obuće prodala je brojeve 38, 39, 39, 40, 39, 42, 41. Mod je 39, pa treba držati više tog broja.",
+        "why": "Za planiranje zaliha i menija, znati najčešći izbor je često korisnije od bilo kojeg prosjeka.",
+        "mixup": "Najčešća vrijednost nije nužno većina. 39 može biti mod, a većina kupaca i dalje kupi druge brojeve."
+      }
+    },
+    {
+      "slug": "range-spread",
+      "term": "Range & spread",
+      "local": "raspon i raspršenost",
+      "minutes": 4,
+      "youtube": "eKk8h7xY2VY",
+      "youtubeQuery": "range interquartile range explained simply",
+      "related": ["Standard deviation", "Median", "Outlier"],
+      "en": {
+        "one": "Spread tells you how far apart the values are. The simplest measure is the range: largest minus smallest.",
+        "explain": "Two shops can both average €1,000 a day, but one swings between €950 and €1,050 and the other between €200 and €3,000. The average is the same; the risk is very different. Percentiles help too: the 25th percentile is the value a quarter of the data falls below.",
+        "example": "Delivery times: 2, 3, 3, 4, 10 days. Range = 10 − 2 = 8 days, a warning that some customers wait far longer.",
+        "why": "Spread shows how reliable and predictable something is, not just how big it is on average.",
+        "mixup": "The range only looks at two values. One freak number can make it huge, so check what's in the middle too."
+      },
+      "bs": {
+        "one": "Spread (raspršenost) govori koliko su vrijednosti udaljene jedna od druge. Najjednostavnija mjera je range (raspon): najveća minus najmanja.",
+        "explain": "Dvije radnje mogu imati prosjek od 1.000 € dnevno, ali jedna se kreće između 950 € i 1.050 €, a druga između 200 € i 3.000 €. Prosjek je isti; rizik je vrlo različit. Pomažu i percentili: 25. percentil je vrijednost ispod koje je četvrtina podataka.",
+        "example": "Vrijeme dostave: 2, 3, 3, 4, 10 dana. Raspon = 10 − 2 = 8 dana, upozorenje da neki kupci čekaju mnogo duže.",
+        "why": "Raspršenost pokazuje koliko je nešto pouzdano i predvidivo, a ne samo koliko je veliko u prosjeku.",
+        "mixup": "Raspon gleda samo dvije vrijednosti. Jedan čudan broj ga može učiniti ogromnim, pa provjeri i šta je u sredini."
+      }
+    },
+    {
+      "slug": "standard-deviation",
+      "term": "Standard deviation",
+      "local": "standardna devijacija",
+      "minutes": 6,
+      "youtube": "ApT_UJfIeAc",
+      "youtubeQuery": "standard deviation explained simply",
+      "related": ["Range & spread", "Mean (average)", "Normal distribution"],
+      "en": {
+        "one": "Standard deviation measures how far values typically are from the mean.",
+        "explain": "A small standard deviation means most values sit close to the average; a large one means they're scattered. You rarely calculate it by hand; spreadsheets do it with STDEV. Roughly, in many real datasets about two-thirds of values fall within one standard deviation of the mean.",
+        "example": "Two suppliers both deliver in 5 days on average. Supplier A has a standard deviation of 0.5 days, supplier B 3 days. A is far more reliable.",
+        "why": "It turns 'how consistent is this?' into one number, useful for quality, risk and planning stock.",
+        "mixup": "Standard deviation is not the average error. It's a typical distance from the mean, calculated in a way that weighs big gaps more."
+      },
+      "bs": {
+        "one": "Standard deviation (standardna devijacija) mjeri koliko su vrijednosti tipično udaljene od prosjeka.",
+        "explain": "Mala standardna devijacija znači da je većina vrijednosti blizu prosjeka; velika da su raštrkane. Rijetko je računaš ručno; tabele to rade s STDEV. Otprilike, u mnogim stvarnim podacima oko dvije trećine vrijednosti padne unutar jedne standardne devijacije od prosjeka.",
+        "example": "Dva dobavljača u prosjeku isporučuju za 5 dana. Dobavljač A ima standardnu devijaciju od 0,5 dana, dobavljač B 3 dana. A je mnogo pouzdaniji.",
+        "why": "Pretvara pitanje 'koliko je ovo dosljedno?' u jedan broj, korisno za kvalitet, rizik i planiranje zaliha.",
+        "mixup": "Standardna devijacija nije prosječna greška. To je tipična udaljenost od prosjeka, izračunata tako da veći razmaci teže više."
+      }
+    },
+    {
+      "slug": "outlier",
+      "term": "Outlier",
+      "local": "ekstremna vrijednost (outlier)",
+      "minutes": 4,
+      "youtube": "37vtcOLck1s",
+      "youtubeQuery": "outliers in data explained",
+      "related": ["Mean (average)", "Median", "Data quality"],
+      "en": {
+        "one": "An outlier is a value that is far away from the rest.",
+        "explain": "It can be an error (someone typed €10,000 instead of €100) or something real and important (one huge order). Always check outliers before deciding: fix errors, but don't delete real events just because they're inconvenient.",
+        "example": "Daily sales are about €800, but one day shows €9,000. It turns out a company bought gifts for all staff, a real lead worth following up.",
+        "why": "Outliers can wreck averages, and they can also point to your biggest risks or opportunities.",
+        "mixup": "Outliers are not always mistakes. Removing them blindly can hide exactly what you needed to see."
+      },
+      "bs": {
+        "one": "Outlier (ekstremna vrijednost) je vrijednost koja je daleko od ostalih.",
+        "explain": "Može biti greška (neko je ukucao 10.000 € umjesto 100 €) ili nešto stvarno i važno (jedna ogromna narudžba). Uvijek provjeri ekstremne vrijednosti prije odluke: ispravi greške, ali ne briši stvarne događaje samo zato što smetaju.",
+        "example": "Dnevna prodaja je oko 800 €, ali jedan dan pokazuje 9.000 €. Ispostavi se da je jedna firma kupila poklone za sve zaposlene, pravi lead koji vrijedi pratiti.",
+        "why": "Ekstremne vrijednosti mogu upropastiti prosjeke, a mogu i ukazati na najveće rizike ili prilike.",
+        "mixup": "Ekstremne vrijednosti nisu uvijek greške. Slijepo brisanje može sakriti baš ono što si trebao vidjeti."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "Sales of €20, €25, €30, €35 and €40. What is the mean?",
+        "bs": "Prodaje od 20 €, 25 €, 30 €, 35 € i 40 €. Koliki je prosjek?"
+      },
+      "options": [
+        { "en": "€30", "bs": "30 €" },
+        { "en": "€150", "bs": "150 €" },
+        { "en": "€25", "bs": "25 €" }
+      ],
+      "answer": 0,
+      "explain": { "en": "€150 ÷ 5 = €30.", "bs": "150 € ÷ 5 = 30 €." }
+    },
+    {
+      "q": {
+        "en": "Salaries: €900, €1,000, €1,100, €1,200, €8,000. Which best shows a typical salary?",
+        "bs": "Plate: 900 €, 1.000 €, 1.100 €, 1.200 €, 8.000 €. Šta najbolje pokazuje tipičnu platu?"
+      },
+      "options": [
+        { "en": "The median, €1,100", "bs": "Medijan, 1.100 €" },
+        { "en": "The mean, €2,440", "bs": "Prosjek, 2.440 €" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "The €8,000 outlier pulls the mean up; the median stays with most people.",
+        "bs": "Ekstrem od 8.000 € povlači prosjek gore; medijan ostaje uz većinu."
+      }
+    },
+    {
+      "q": {
+        "en": "Both suppliers average 5 days. A has a standard deviation of 0.5 days, B of 3 days. Which is more reliable?",
+        "bs": "Oba dobavljača u prosjeku isporuče za 5 dana. A ima standardnu devijaciju 0,5 dana, B 3 dana. Koji je pouzdaniji?"
+      },
+      "options": [
+        { "en": "B", "bs": "B" },
+        { "en": "A", "bs": "A" },
+        { "en": "They are the same", "bs": "Isti su" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "A smaller standard deviation means deliveries stay closer to 5 days.",
+        "bs": "Manja standardna devijacija znači da isporuke ostaju bliže 5 dana."
+      }
+    },
+    {
+      "q": {
+        "en": "Which 'average' works for the most popular shirt colour?",
+        "bs": "Koji 'prosjek' radi za najpopularniju boju majice?"
+      },
+      "options": [
+        { "en": "Mean", "bs": "Prosjek" },
+        { "en": "Mode", "bs": "Mod" },
+        { "en": "Median", "bs": "Medijan" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Colours are categories; only the mode (most frequent) makes sense.",
+        "bs": "Boje su kategorije; samo mod (najčešća) ima smisla."
+      }
+    }
+  ]
+}

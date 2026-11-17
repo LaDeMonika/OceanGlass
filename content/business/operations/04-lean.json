@@ -1,0 +1,211 @@
+{
+  "slug": "lean",
+  "title": { "en": "Lean", "bs": "Lean" },
+  "summary": {
+    "en": "Doing more of what customers value, with less waste.",
+    "bs": "Raditi više onoga što kupci cijene, uz manje rasipanja."
+  },
+  "concepts": [
+    {
+      "slug": "lean",
+      "term": "Lean",
+      "local": "lean, vitko poslovanje",
+      "minutes": 5,
+      "youtube": "Cc490OnqIK4",
+      "youtubeQuery": "lean management explained simply",
+      "related": ["Seven wastes", "Kaizen", "Just-in-time"],
+      "en": {
+        "one": "Lean is a way of working that focuses on what the customer values and removes everything else.",
+        "explain": "It grew out of Toyota's factories. The idea: look at every step and ask 'would the customer pay for this?'. Steps that add value stay. Steps that don't are waste and should shrink or go. Then keep the work flowing smoothly, without piles and waiting.",
+        "example": "A clinic sees patients filling the same form three times. Lean cuts it to one digital form, and visits get 10 minutes shorter.",
+        "why": "Lean lowers cost and speeds things up at the same time, often without big investments.",
+        "mixup": "Lean isn't about cutting staff. Done right, it frees people from pointless work so they can do useful work."
+      },
+      "bs": {
+        "one": "Lean (vitko poslovanje) je način rada koji se fokusira na ono što kupac cijeni i uklanja sve ostalo.",
+        "explain": "Nastao je u Toyotinim fabrikama. Ideja: pogledaj svaki korak i pitaj 'bi li kupac platio za ovo?'. Koraci koji dodaju vrijednost ostaju. Oni koji ne dodaju su rasipanje i treba ih smanjiti ili ukloniti. Zatim održavaj da posao teče glatko, bez gomila i čekanja.",
+        "example": "Klinika vidi da pacijenti isti obrazac popunjavaju tri puta. Lean to svede na jedan digitalni obrazac i pregledi postanu 10 minuta kraći.",
+        "why": "Lean istovremeno smanjuje troškove i ubrzava stvari, često bez velikih ulaganja.",
+        "mixup": "Lean nije otpuštanje ljudi. Kad se radi kako treba, oslobađa ljude besmislenog posla da bi radili koristan posao."
+      }
+    },
+    {
+      "slug": "seven-wastes",
+      "term": "The seven wastes (muda)",
+      "local": "sedam vrsta rasipanja",
+      "minutes": 5,
+      "youtube": "JrAGp78asX8",
+      "youtubeQuery": "7 wastes of lean explained TIMWOOD",
+      "related": ["Lean", "Inventory", "Lead time and cycle time"],
+      "en": {
+        "one": "Lean names seven kinds of waste you can spot in almost any business. 'Muda' is the Japanese word for waste.",
+        "explain": "An easy way to remember them is TIMWOOD: Transport (moving things for no reason), Inventory (too much stock), Motion (people walking and searching), Waiting, Overproduction (making more than needed), Over-processing (doing more than the customer needs), Defects. Some add an eighth: unused talent.",
+        "example": "In an office: printing reports nobody reads (overproduction), waiting for approval (waiting), searching for files (motion) and fixing typos in contracts (defects).",
+        "why": "Once you know the names, you start seeing waste everywhere, and that's the first step to removing it.",
+        "mixup": "Overproduction is often called the worst waste, because it hides all the others behind piles of stock."
+      },
+      "bs": {
+        "one": "Lean imenuje sedam vrsta rasipanja koje možeš primijetiti u skoro svakoj firmi. 'Muda' je japanska riječ za rasipanje.",
+        "explain": "Lako ih je zapamtiti kao TIMWOOD: Transport (premještanje stvari bez razloga), Inventory (previše zaliha), Motion (ljudi hodaju i traže), Waiting (čekanje), Overproduction (praviti više nego treba), Over-processing (raditi više nego što kupcu treba), Defects (greške). Neki dodaju osmo: neiskorišten talenat.",
+        "example": "U kancelariji: štampanje izvještaja koje niko ne čita (prekomjerna proizvodnja), čekanje odobrenja (čekanje), traženje fajlova (kretanje) i ispravljanje grešaka u ugovorima (greške).",
+        "why": "Kad znaš imena, počneš vidjeti rasipanje svuda, a to je prvi korak do uklanjanja.",
+        "mixup": "Prekomjerna proizvodnja se često zove najgorim rasipanjem, jer sakrije sva ostala iza gomila zaliha."
+      }
+    },
+    {
+      "slug": "just-in-time",
+      "term": "Just-in-time (JIT)",
+      "local": "tačno na vrijeme",
+      "minutes": 4,
+      "youtube": "zCTmN17ZDek",
+      "youtubeQuery": "just in time inventory explained",
+      "related": ["Lean", "Kanban", "Safety stock"],
+      "en": {
+        "one": "Just-in-time means getting materials and making products only when they're needed, in the amount needed.",
+        "explain": "Instead of filling a warehouse 'just in case', you order small amounts often and produce to real demand. Less money is tied up in stock and problems show up faster. But it needs reliable suppliers and steady demand.",
+        "example": "A sandwich bar gets fresh bread delivered every morning for that day's sales, instead of freezing a week's worth.",
+        "why": "It frees cash and space, and cuts waste from goods that spoil or go out of fashion.",
+        "mixup": "JIT is risky when supply chains break. During COVID many JIT companies stopped because one part was missing. Keep some safety stock for critical items."
+      },
+      "bs": {
+        "one": "Just-in-time (JIT, tačno na vrijeme) znači nabavljati materijal i praviti proizvode samo kad su potrebni, u količini koja je potrebna.",
+        "explain": "Umjesto da puniš skladište 'za svaki slučaj', naručuješ male količine često i proizvodiš prema stvarnoj potražnji. Manje novca je zarobljeno u zalihama i problemi se brže pokažu. Ali traži pouzdane dobavljače i stabilnu potražnju.",
+        "example": "Sendvič bar svako jutro dobije svjež hljeb za taj dan, umjesto da zamrzne zalihu za cijelu sedmicu.",
+        "why": "Oslobađa novac i prostor, i smanjuje otpad od robe koja se pokvari ili izađe iz mode.",
+        "mixup": "JIT je rizičan kad se lanci snabdijevanja pokidaju. Tokom COVID-a mnoge JIT firme su stale jer je falio jedan dio. Drži malo sigurnosne zalihe za ključne stvari."
+      }
+    },
+    {
+      "slug": "kanban",
+      "term": "Kanban board",
+      "local": "kanban tabla",
+      "minutes": 4,
+      "youtube": "vY7pdgiiO04",
+      "youtubeQuery": "kanban board explained for beginners",
+      "related": ["Just-in-time", "Throughput", "Agile and Scrum"],
+      "en": {
+        "one": "A Kanban board is a simple visual board that shows work moving through stages, like To do, Doing and Done.",
+        "explain": "Each task is a card that moves right as it progresses. The key rule is a limit on how many cards can be in 'Doing' at once. That stops people from starting too much and finishing too little, and makes blockages easy to see.",
+        "example": "A small marketing team puts every task on a Trello board, with a limit of 3 tasks 'In progress'. Half-finished work drops and deadlines are met more often.",
+        "why": "Everyone sees who's doing what, and where work is stuck, without status meetings.",
+        "mixup": "A board without a work-in-progress limit is just a to-do list. The limit is what makes it Kanban."
+      },
+      "bs": {
+        "one": "Kanban tabla je jednostavna vizuelna tabla koja pokazuje kako posao prolazi kroz faze, npr. Za uraditi, Radi se i Gotovo.",
+        "explain": "Svaki zadatak je kartica koja se pomjera udesno kako napreduje. Ključno pravilo je ograničenje koliko kartica smije biti u 'Radi se' istovremeno. To sprečava da ljudi započnu previše, a završe premalo, i čini zastoje lako vidljivim.",
+        "example": "Mali marketinški tim stavi svaki zadatak na Trello tablu, uz ograničenje od 3 zadatka 'U toku'. Napola završenog posla bude manje, a rokovi se češće ispune.",
+        "why": "Svi vide ko radi šta i gdje je posao zapeo, bez sastanaka o statusu.",
+        "mixup": "Tabla bez ograničenja posla u toku je samo lista zadataka. Ograničenje je ono što je čini kanbanom."
+      }
+    },
+    {
+      "slug": "five-s",
+      "term": "5S workplace organisation",
+      "local": "5S organizacija radnog mjesta",
+      "minutes": 4,
+      "youtube": "cagruPhwXBA",
+      "youtubeQuery": "5S workplace organization explained",
+      "related": ["Lean", "Seven wastes", "Standard operating procedure"],
+      "en": {
+        "one": "5S is a simple method to keep a workplace clean, tidy and easy to work in.",
+        "explain": "Five steps: Sort (remove what you don't need), Set in order (a place for everything), Shine (clean it), Standardise (make it the normal way), Sustain (keep doing it). It works for workshops, kitchens, stores and even shared computer folders.",
+        "example": "A car repair shop paints tool outlines on the wall. Every tool has its place, so missing ones are obvious and nobody spends 10 minutes looking for a wrench.",
+        "why": "Less searching, fewer accidents, faster training and a place customers trust.",
+        "mixup": "5S isn't a one-time spring clean. Without the last two S's, the mess comes back in a month."
+      },
+      "bs": {
+        "one": "5S je jednostavna metoda za čisto, uredno radno mjesto na kojem se lako radi.",
+        "explain": "Pet koraka: Sortiraj (ukloni ono što ne treba), Složi (mjesto za svaku stvar), Očisti, Standardizuj (neka to bude normalan način), Održavaj (nastavi tako). Radi za radionice, kuhinje, prodavnice, pa i dijeljene foldere na računaru.",
+        "example": "Auto-servis nacrta obrise alata na zidu. Svaki alat ima svoje mjesto, pa se odmah vidi šta fali i niko ne traži ključ 10 minuta.",
+        "why": "Manje traženja, manje nezgoda, brža obuka i mjesto kojem kupci vjeruju.",
+        "mixup": "5S nije jednokratno proljetno čišćenje. Bez zadnja dva S, nered se vrati za mjesec dana."
+      }
+    },
+    {
+      "slug": "pull-vs-push",
+      "term": "Pull vs. push",
+      "local": "povlačenje i guranje",
+      "minutes": 4,
+      "youtube": "sPURJB6j5b4",
+      "youtubeQuery": "push vs pull production system explained",
+      "related": ["Just-in-time", "Kanban board", "Forecasting"],
+      "en": {
+        "one": "In a push system you make products based on a forecast and push them to customers. In a pull system you make them when a customer actually orders.",
+        "explain": "Push is good for steady, predictable products and gives quick delivery from stock, but risks unsold goods. Pull keeps stock low and waste small, but customers may wait. Many businesses mix both.",
+        "example": "A supermarket bakes standard bread every morning (push). A wedding cake shop only bakes after an order (pull).",
+        "why": "Picking the right mix decides how much cash sits in stock and how fast you can deliver.",
+        "mixup": "Pull doesn't mean no planning. You still need forecasts to have enough people and materials ready."
+      },
+      "bs": {
+        "one": "U push sistemu (guranje) proizvode praviš prema prognozi i guraš ih prema kupcima. U pull sistemu (povlačenje) ih praviš kad kupac stvarno naruči.",
+        "explain": "Push je dobar za stabilne, predvidive proizvode i omogućava brzu isporuku sa zaliha, ali nosi rizik neprodate robe. Pull drži zalihe niskim i otpad malim, ali kupci možda čekaju. Mnoge firme miješaju oboje.",
+        "example": "Supermarket svako jutro peče standardni hljeb (push). Poslastičarnica za svadbene torte peče tek nakon narudžbe (pull).",
+        "why": "Pravi omjer odlučuje koliko novca stoji u zalihama i koliko brzo možeš isporučiti.",
+        "mixup": "Pull ne znači bez planiranja. I dalje trebaju prognoze da bi imao dovoljno ljudi i materijala spremno."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "Staff walking across the warehouse to look for tape is which lean waste?",
+        "bs": "Radnici koji hodaju preko skladišta tražeći selotejp su koja vrsta lean rasipanja?"
+      },
+      "options": [
+        { "en": "Defects", "bs": "Greške" },
+        { "en": "Overproduction", "bs": "Prekomjerna proizvodnja" },
+        { "en": "Motion", "bs": "Kretanje" }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "Unnecessary movement of people is the 'motion' waste.",
+        "bs": "Nepotrebno kretanje ljudi je rasipanje 'kretanja'."
+      }
+    },
+    {
+      "q": { "en": "What is the main risk of just-in-time?", "bs": "Koji je glavni rizik just-in-time pristupa?" },
+      "options": [
+        { "en": "Too much cash tied up in stock", "bs": "Previše novca zarobljenog u zalihama" },
+        { "en": "A supplier delay can stop everything", "bs": "Kašnjenje dobavljača može sve zaustaviti" },
+        { "en": "Goods spoiling in the warehouse", "bs": "Roba se kvari u skladištu" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "With little stock there's no buffer, so a missing delivery stops work.",
+        "bs": "Uz male zalihe nema rezerve, pa izostala isporuka zaustavlja rad."
+      }
+    },
+    {
+      "q": {
+        "en": "What turns a to-do board into a Kanban board?",
+        "bs": "Šta tablu zadataka pretvara u kanban tablu?"
+      },
+      "options": [
+        { "en": "A limit on work in progress", "bs": "Ograničenje posla u toku" },
+        { "en": "Daily status meetings", "bs": "Dnevni sastanci o statusu" },
+        { "en": "Using sticky notes", "bs": "Korištenje samoljepljivih papirića" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "The WIP limit stops people starting too much and makes blockages visible.",
+        "bs": "WIP ograničenje sprečava previše započetog posla i čini zastoje vidljivim."
+      }
+    },
+    {
+      "q": {
+        "en": "A custom furniture maker only builds after a customer orders. This is…",
+        "bs": "Proizvođač namještaja po mjeri gradi tek nakon narudžbe kupca. To je…"
+      },
+      "options": [
+        { "en": "A pull system", "bs": "Pull sistem" },
+        { "en": "Overproduction", "bs": "Prekomjerna proizvodnja" },
+        { "en": "A push system", "bs": "Push sistem" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Production starts from a real order, so it's pull.",
+        "bs": "Proizvodnja kreće od stvarne narudžbe, pa je to pull."
+      }
+    }
+  ]
+}

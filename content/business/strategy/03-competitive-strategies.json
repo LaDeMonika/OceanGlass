@@ -1,0 +1,214 @@
+{
+  "slug": "competitive-strategies",
+  "title": { "en": "Ways to compete", "bs": "Načini takmičenja" },
+  "summary": {
+    "en": "Cheapest, different, or focused: the classic choices for how to win.",
+    "bs": "Najjeftiniji, drugačiji ili fokusiran: klasični izbori kako pobijediti."
+  },
+  "concepts": [
+    {
+      "slug": "cost-leadership",
+      "term": "Cost leadership",
+      "local": "vodstvo u troškovima",
+      "minutes": 4,
+      "youtube": "TDkuq8-Un9I",
+      "youtubeQuery": "cost leadership strategy explained examples",
+      "related": ["Economies of scale", "Differentiation", "Productivity"],
+      "en": {
+        "one": "Cost leadership means having the lowest costs in your industry, so you can offer low prices and still make money.",
+        "explain": "It comes from scale, simple products, efficient processes, cheap locations and strict cost control. It works best when customers mainly compare on price. Usually only one or two companies in a market can really be the cost leader.",
+        "example": "Budget airlines fly one plane type, use cheaper airports, sell online only and charge for extras. Their low cost per seat lets them sell tickets others can't match.",
+        "why": "If you can truly be the cheapest, price wars hurt your rivals more than you.",
+        "mixup": "Low prices aren't the same as low costs. Selling cheap without the lowest costs just means lower profit."
+      },
+      "bs": {
+        "one": "Cost leadership (vodstvo u troškovima) znači imati najniže troškove u svojoj industriji, pa možeš nuditi niske cijene i i dalje zarađivati.",
+        "explain": "Dolazi od veličine, jednostavnih proizvoda, efikasnih procesa, jeftinih lokacija i stroge kontrole troškova. Najbolje radi kad kupci uglavnom porede cijenu. Obično samo jedna ili dvije firme na tržištu mogu stvarno biti lider u troškovima.",
+        "example": "Niskotarifne aviokompanije lete jednim tipom aviona, koriste jeftinije aerodrome, prodaju samo online i naplaćuju dodatke. Nizak trošak po sjedištu im omogućava cijene koje drugi ne mogu pratiti.",
+        "why": "Ako stvarno možeš biti najjeftiniji, cjenovni ratovi više štete konkurentima nego tebi.",
+        "mixup": "Niske cijene nisu isto što i niski troškovi. Jeftina prodaja bez najnižih troškova znači samo manju dobit."
+      }
+    },
+    {
+      "slug": "differentiation",
+      "term": "Differentiation",
+      "local": "diferencijacija",
+      "minutes": 4,
+      "youtube": "8VzvbxMgwdg",
+      "youtubeQuery": "differentiation strategy explained examples",
+      "related": ["Cost leadership", "USP", "Brand"],
+      "en": {
+        "one": "Differentiation means offering something customers see as special and worth paying more for.",
+        "explain": "It can be quality, design, service, brand, speed, customisation or a unique experience. The difference must matter to customers and be hard to copy, and the extra price must be higher than the extra cost of being different.",
+        "example": "A local chocolate maker uses Bosnian plums and walnuts, hand-wraps each bar and tells the farmer's story. People happily pay three times the supermarket price.",
+        "why": "It lets smaller firms earn good margins without fighting the giants on price.",
+        "mixup": "Being different isn't enough. If customers don't care about the difference, it's just extra cost."
+      },
+      "bs": {
+        "one": "Differentiation (diferencijacija) znači nuditi nešto što kupci vide kao posebno i vrijedno veće cijene.",
+        "explain": "To može biti kvalitet, dizajn, usluga, brend, brzina, prilagođavanje ili jedinstveno iskustvo. Razlika mora biti bitna kupcima i teška za kopiranje, a viša cijena mora biti veća od dodatnog troška razlikovanja.",
+        "example": "Lokalni proizvođač čokolade koristi bosanske šljive i orahe, ručno pakuje svaku tablu i priča priču farmera. Ljudi rado plate tri puta više nego u supermarketu.",
+        "why": "Omogućava manjim firmama dobre marže bez borbe s divovima na cijeni.",
+        "mixup": "Biti drugačiji nije dovoljno. Ako kupcima razlika nije bitna, to je samo dodatni trošak."
+      }
+    },
+    {
+      "slug": "niche-focus",
+      "term": "Focus (niche) strategy",
+      "local": "strategija fokusa (niša)",
+      "minutes": 4,
+      "youtube": "cSMD6MoNeBo",
+      "youtubeQuery": "focus strategy niche market explained",
+      "related": ["Target market", "Segmentation", "Differentiation"],
+      "en": {
+        "one": "A focus strategy means serving one narrow group of customers better than anyone else, either cheaper or in a special way.",
+        "explain": "Instead of trying to please everyone, you pick a niche: a specific type of customer, region or need. Big companies often ignore niches because they're too small for them, which leaves room for specialists.",
+        "example": "A Banja Luka bike shop sells and services only electric cargo bikes for families and delivery businesses. Big chains don't bother, so it becomes the place to go.",
+        "why": "It's often the smartest strategy for small businesses and start-ups.",
+        "mixup": "A niche must be big enough to support a business. Too narrow, and there aren't enough paying customers."
+      },
+      "bs": {
+        "one": "Strategija fokusa znači služiti jednu usku grupu kupaca bolje od svih drugih, bilo jeftinije bilo na poseban način.",
+        "explain": "Umjesto da pokušavaš zadovoljiti sve, izabereš nišu: određenu vrstu kupaca, regiju ili potrebu. Velike firme često ignorišu niše jer su im premale, što ostavlja prostor specijalistima.",
+        "example": "Biciklistička radnja u Banjoj Luci prodaje i servisira samo električne teretne bicikle za porodice i dostavne firme. Veliki lanci se time ne bave, pa postane glavno mjesto za to.",
+        "why": "Često je najpametnija strategija za male firme i start-upove.",
+        "mixup": "Niša mora biti dovoljno velika da izdržava posao. Ako je preuska, nema dovoljno kupaca koji plaćaju."
+      }
+    },
+    {
+      "slug": "stuck-in-the-middle",
+      "term": "Stuck in the middle",
+      "local": "zaglavljen u sredini",
+      "minutes": 3,
+      "youtube": "boDvWAm-a2s",
+      "youtubeQuery": "stuck in the middle Porter generic strategies explained",
+      "related": ["Cost leadership", "Differentiation", "Strategy"],
+      "en": {
+        "one": "A company is 'stuck in the middle' when it's neither the cheapest nor clearly different, so customers have no strong reason to choose it.",
+        "explain": "Porter warned that trying to be everything to everyone usually leads to average products at average prices, squeezed by cheaper rivals on one side and better ones on the other.",
+        "example": "A mid-priced clothing shop is more expensive than the discount chain and less stylish than the boutique next door. Sales slowly fall on both sides.",
+        "why": "It reminds you to make a clear choice about how you compete.",
+        "mixup": "Some companies do manage to be both good and cheap, often through clever processes. But that's rare and hard to copy, not a default plan."
+      },
+      "bs": {
+        "one": "Firma je 'zaglavljena u sredini' kad nije ni najjeftinija ni jasno drugačija, pa kupci nemaju jak razlog da je izaberu.",
+        "explain": "Porter je upozorio da pokušaj da budeš sve svima obično vodi do prosječnih proizvoda po prosječnim cijenama, stisnutih s jedne strane jeftinijim, a s druge boljim konkurentima.",
+        "example": "Prodavnica odjeće srednje cijene je skuplja od diskonta i manje moderna od butika pored. Prodaja polako pada s obje strane.",
+        "why": "Podsjeća te da napraviš jasan izbor kako se takmičiš.",
+        "mixup": "Neke firme uspiju biti i dobre i jeftine, često zahvaljujući pametnim procesima. Ali to je rijetko i teško se kopira, nije podrazumijevani plan."
+      }
+    },
+    {
+      "slug": "blue-ocean",
+      "term": "Blue ocean strategy",
+      "local": "strategija plavog okeana",
+      "minutes": 5,
+      "youtube": "VdoQQjWi9wc",
+      "youtubeQuery": "blue ocean strategy explained simply",
+      "related": ["Differentiation", "Competitive advantage", "Innovation"],
+      "en": {
+        "one": "Blue ocean strategy means creating a new market space where there's little competition, instead of fighting in a crowded 'red ocean'.",
+        "explain": "You do this by rethinking what the industry offers: remove features customers don't value, reduce some, raise others, and create new ones nobody offers. The aim is something both different and affordable.",
+        "example": "Cirque du Soleil dropped animals and star performers (expensive) from the classic circus and added theatre, music and story. It attracted adults willing to pay theatre prices.",
+        "why": "It shifts the question from 'how do we beat competitors?' to 'how can we make them irrelevant?'.",
+        "mixup": "Blue oceans don't stay blue forever. Success attracts copycats, so you need to keep moving."
+      },
+      "bs": {
+        "one": "Strategija plavog okeana znači stvoriti novi tržišni prostor s malo konkurencije, umjesto borbe u prenatrpanom 'crvenom okeanu'.",
+        "explain": "To radiš preispitivanjem onoga što industrija nudi: ukloni osobine koje kupci ne cijene, smanji neke, pojačaj druge i stvori nove koje niko ne nudi. Cilj je nešto što je i drugačije i pristupačno.",
+        "example": "Cirque du Soleil je iz klasičnog cirkusa izbacio životinje i zvijezde (skupo) i dodao pozorište, muziku i priču. Privukao je odrasle spremne platiti cijenu pozorišta.",
+        "why": "Mijenja pitanje iz 'kako pobijediti konkurente?' u 'kako ih učiniti nebitnim?'.",
+        "mixup": "Plavi okeani ne ostaju plavi zauvijek. Uspjeh privlači imitatore, pa se moraš stalno kretati."
+      }
+    },
+    {
+      "slug": "first-mover",
+      "term": "First-mover advantage",
+      "local": "prednost prvog na tržištu",
+      "minutes": 4,
+      "youtube": "tSSa0i3iVtU",
+      "youtubeQuery": "first mover advantage vs second mover explained",
+      "related": ["Network effects", "Switching costs", "Blue ocean strategy"],
+      "en": {
+        "one": "A first-mover advantage is the benefit of being first into a new market: grabbing customers, brand recognition and good partners before others arrive.",
+        "explain": "It's strongest when customers are hard to win back once they choose (high switching costs or network effects). But first movers also pay to educate the market and make the early mistakes that followers learn from.",
+        "example": "Google wasn't the first search engine, and Facebook wasn't the first social network. Both learned from earlier players' mistakes and won as 'fast followers'.",
+        "why": "It helps you decide whether rushing to market is worth it, or whether it's smarter to learn and follow.",
+        "mixup": "Being first doesn't guarantee winning. Being first to get it right matters more."
+      },
+      "bs": {
+        "one": "First-mover advantage (prednost prvog) je korist od toga da prvi uđeš na novo tržište: osvojiš kupce, prepoznatljivost brenda i dobre partnere prije nego drugi stignu.",
+        "explain": "Najjača je kad je kupce teško vratiti nakon što izaberu (visoki troškovi prelaska ili mrežni efekti). Ali prvi takođe plaćaju edukaciju tržišta i prave rane greške iz kojih sljedbenici uče.",
+        "example": "Google nije bio prvi pretraživač, a Facebook nije bio prva društvena mreža. Oba su učila iz grešaka ranijih igrača i pobijedila kao 'brzi sljedbenici'.",
+        "why": "Pomaže ti da odlučiš isplati li se žuriti na tržište ili je pametnije učiti i slijediti.",
+        "mixup": "Biti prvi ne garantuje pobjedu. Važnije je biti prvi koji to uradi kako treba."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "A budget airline with the lowest cost per seat follows which strategy?",
+        "bs": "Niskotarifna aviokompanija s najnižim troškom po sjedištu prati koju strategiju?"
+      },
+      "options": [
+        { "en": "Cost leadership", "bs": "Vodstvo u troškovima" },
+        { "en": "Differentiation", "bs": "Diferencijacija" },
+        { "en": "Blue ocean", "bs": "Plavi okean" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Its advantage comes from having the lowest costs.",
+        "bs": "Njena prednost dolazi od najnižih troškova."
+      }
+    },
+    {
+      "q": {
+        "en": "A shop that only serves electric cargo bikes is using…",
+        "bs": "Radnja koja radi samo s električnim teretnim biciklima koristi…"
+      },
+      "options": [
+        { "en": "Cost leadership", "bs": "Vodstvo u troškovima" },
+        { "en": "Diversification", "bs": "Diverzifikaciju" },
+        { "en": "A focus (niche) strategy", "bs": "Strategiju fokusa (niše)" }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "It serves one narrow group of customers better than anyone else.",
+        "bs": "Služi jednu usku grupu kupaca bolje od svih."
+      }
+    },
+    {
+      "q": {
+        "en": "A shop is pricier than discounters and less special than boutiques. It is…",
+        "bs": "Prodavnica je skuplja od diskonta i manje posebna od butika. Ona je…"
+      },
+      "options": [
+        { "en": "A cost leader", "bs": "Lider u troškovima" },
+        { "en": "Stuck in the middle", "bs": "Zaglavljena u sredini" },
+        { "en": "In a blue ocean", "bs": "U plavom okeanu" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Without a clear way to win, it gets squeezed from both sides.",
+        "bs": "Bez jasnog načina da pobijedi, stisnuta je s obje strane."
+      }
+    },
+    {
+      "q": { "en": "When is differentiation worth it?", "bs": "Kada se diferencijacija isplati?" },
+      "options": [
+        { "en": "Whenever a product is different", "bs": "Kad god je proizvod drugačiji" },
+        {
+          "en": "When customers value the difference and pay more than it costs",
+          "bs": "Kad kupci cijene razliku i plate više nego što košta"
+        },
+        { "en": "Only for the cheapest products", "bs": "Samo za najjeftinije proizvode" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "A difference only pays when customers care and the premium beats the extra cost.",
+        "bs": "Razlika se isplati samo kad je kupcima bitna i kad premija nadmaši dodatni trošak."
+      }
+    }
+  ]
+}

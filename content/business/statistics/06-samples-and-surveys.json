@@ -1,0 +1,218 @@
+{
+  "slug": "samples-and-surveys",
+  "title": { "en": "Samples & surveys", "bs": "Uzorci i ankete" },
+  "summary": {
+    "en": "Asking the right people the right questions, and knowing how much to trust the answer.",
+    "bs": "Kako pitati prave ljude prava pitanja i znati koliko vjerovati odgovoru."
+  },
+  "concepts": [
+    {
+      "slug": "random-sample",
+      "term": "Random sample",
+      "local": "slučajni uzorak",
+      "minutes": 4,
+      "youtube": "sonXfzE1hvo",
+      "youtubeQuery": "random sampling explained simply",
+      "related": ["Population vs. sample", "Sampling bias", "Sample size"],
+      "en": {
+        "one": "A random sample is one where everyone in the population has the same chance of being picked.",
+        "explain": "Randomness is what makes a small group represent the whole. Picking people who are easy to reach, like friends or whoever walks by at noon, usually skews the result. Tools as simple as a spreadsheet's RAND function can pick names fairly.",
+        "example": "Instead of asking the first 100 guests in July, a hotel emails a survey to 300 guests chosen at random from the whole year.",
+        "why": "A small random sample beats a big, convenient but one-sided one.",
+        "mixup": "Random doesn't mean careless. It's a deliberate method so that no group is favoured."
+      },
+      "bs": {
+        "one": "Random sample (slučajni uzorak) je onaj gdje svako u populaciji ima istu šansu da bude izabran.",
+        "explain": "Slučajnost je ono što čini da mala grupa predstavlja cjelinu. Biranje ljudi do kojih je lako doći, kao prijatelja ili ko god prođe u podne, obično iskrivi rezultat. Alati jednostavni kao funkcija RAND u tabeli mogu pošteno izabrati imena.",
+        "example": "Umjesto da pita prvih 100 gostiju u julu, hotel pošalje anketu na 300 gostiju nasumično izabranih iz cijele godine.",
+        "why": "Mali slučajni uzorak pobijedi velik, zgodan, ali jednostran.",
+        "mixup": "Slučajno ne znači nemarno. To je namjerna metoda da nijedna grupa ne bude favorizovana."
+      }
+    },
+    {
+      "slug": "sample-size",
+      "term": "Sample size",
+      "local": "veličina uzorka",
+      "minutes": 4,
+      "youtube": "0UzZw1XSIM8",
+      "youtubeQuery": "how sample size affects results explained",
+      "related": ["Margin of error", "Law of large numbers", "Random sample"],
+      "en": {
+        "one": "Sample size is how many people or items you actually measure.",
+        "explain": "Bigger samples give more stable results, but with diminishing returns: going from 100 to 400 responses halves the margin of error, but going from 1,000 to 4,000 helps much less. About 400–1,000 random responses is enough for most business surveys, whatever the population size.",
+        "example": "With 50 responses, '60% like the new logo' could easily really be 46% or 74%. With 1,000 responses it's about 57–63%.",
+        "why": "Knowing roughly how many answers you need saves money and avoids decisions based on noise.",
+        "mixup": "You don't need to ask a big share of the population. 1,000 random people describe a city or a whole country about equally well."
+      },
+      "bs": {
+        "one": "Sample size (veličina uzorka) je koliko ljudi ili stavki stvarno mjeriš.",
+        "explain": "Veći uzorci daju stabilnije rezultate, ali sa sve manjim dobitkom: prelazak sa 100 na 400 odgovora prepolovi marginu greške, a sa 1.000 na 4.000 pomaže mnogo manje. Oko 400–1.000 slučajnih odgovora je dovoljno za većinu poslovnih anketa, bez obzira na veličinu populacije.",
+        "example": "S 50 odgovora, '60% voli novi logo' lako može stvarno biti 46% ili 74%. S 1.000 odgovora to je oko 57–63%.",
+        "why": "Kad otprilike znaš koliko odgovora trebaš, štediš novac i izbjegavaš odluke na osnovu šuma.",
+        "mixup": "Ne moraš pitati velik dio populacije. 1.000 slučajnih ljudi opisuje grad ili cijelu državu otprilike jednako dobro."
+      }
+    },
+    {
+      "slug": "sampling-bias",
+      "term": "Sampling bias",
+      "local": "pristranost uzorka",
+      "minutes": 4,
+      "youtube": "-GTssnnXpxY",
+      "youtubeQuery": "sampling bias explained examples",
+      "related": ["Random sample", "Survivorship bias", "Survey design"],
+      "en": {
+        "one": "Sampling bias happens when the people you measure differ in an important way from the people you want to know about.",
+        "explain": "Only happy customers answer, only online users see the survey, or only one region is asked. Then even a huge sample gives a wrong answer. Ask yourself: who is missing from this data, and why?",
+        "example": "A gym surveys members in the evening and concludes everyone wants later hours. Morning members, who never saw the survey, wanted earlier ones.",
+        "why": "Biased samples lead to products and services built for the wrong people.",
+        "mixup": "More responses don't fix bias. A million biased answers are still biased."
+      },
+      "bs": {
+        "one": "Sampling bias (pristranost uzorka) se desi kad se ljudi koje mjeriš razlikuju na važan način od ljudi o kojima želiš znati.",
+        "explain": "Odgovaraju samo zadovoljni kupci, anketu vide samo online korisnici ili se pita samo jedna regija. Tada čak i ogroman uzorak daje pogrešan odgovor. Pitaj se: ko nedostaje u ovim podacima i zašto?",
+        "example": "Teretana anketira članove uveče i zaključi da svi žele kasnije radno vrijeme. Jutarnji članovi, koji anketu nikad nisu vidjeli, željeli su ranije.",
+        "why": "Pristrani uzorci vode do proizvoda i usluga napravljenih za pogrešne ljude.",
+        "mixup": "Više odgovora ne popravlja pristranost. Milion pristranih odgovora je i dalje pristrano."
+      }
+    },
+    {
+      "slug": "survey-design",
+      "term": "Survey design",
+      "local": "dizajn ankete",
+      "minutes": 5,
+      "youtube": "Iq_fhTuY1hw",
+      "youtubeQuery": "how to write good survey questions",
+      "related": ["Market research", "Sampling bias", "Quantitative vs. qualitative data"],
+      "en": {
+        "one": "Survey design is writing questions that get honest, clear and useful answers.",
+        "explain": "Keep it short, ask one thing per question, use neutral words, and give balanced answer options. Avoid leading questions ('How much do you love our new menu?') and double questions ('Was the food tasty and cheap?'). Test it on a few people first.",
+        "example": "Instead of 'Don't you agree our prices are fair?', ask 'How would you rate our prices? Very low / Low / Fair / High / Very high'.",
+        "why": "Bad questions produce confident numbers that are simply wrong.",
+        "mixup": "A long survey is not a thorough survey. Every extra question costs you responses and attention."
+      },
+      "bs": {
+        "one": "Survey design (dizajn ankete) je pisanje pitanja koja daju iskrene, jasne i korisne odgovore.",
+        "explain": "Neka bude kratka, jedno pitanje po stvari, neutralne riječi i uravnotežene opcije odgovora. Izbjegavaj sugestivna pitanja ('Koliko volite naš novi meni?') i dvostruka pitanja ('Je li hrana bila ukusna i jeftina?'). Prvo je testiraj na par ljudi.",
+        "example": "Umjesto 'Zar se ne slažete da su naše cijene fer?', pitaj 'Kako biste ocijenili naše cijene? Vrlo niske / Niske / Fer / Visoke / Vrlo visoke'.",
+        "why": "Loša pitanja daju sigurne brojeve koji su jednostavno pogrešni.",
+        "mixup": "Duga anketa nije temeljita anketa. Svako dodatno pitanje te košta odgovora i pažnje."
+      }
+    },
+    {
+      "slug": "margin-of-error",
+      "term": "Margin of error",
+      "local": "margina greške",
+      "minutes": 5,
+      "youtube": "WDuIwu9GoLQ",
+      "youtubeQuery": "margin of error and confidence interval explained",
+      "related": ["Sample size", "Random sample", "Statistical significance"],
+      "en": {
+        "one": "The margin of error tells you how far a sample result might be from the true value for the whole population.",
+        "explain": "'45% ± 3%' means the true value is probably between 42% and 48%. It's usually stated with 95% confidence: if you repeated the survey many times, about 95 out of 100 such ranges would include the true value. Bigger random samples have smaller margins.",
+        "example": "A poll says brand A has 34% and brand B 31%, each ±4%. The ranges overlap, so you can't say A is really ahead.",
+        "why": "It stops you from overreacting to small differences that are just noise.",
+        "mixup": "The margin of error only covers random chance. It says nothing about bias from a bad sample or bad questions."
+      },
+      "bs": {
+        "one": "Margin of error (margina greške) govori koliko rezultat uzorka može biti daleko od stvarne vrijednosti za cijelu populaciju.",
+        "explain": "'45% ± 3%' znači da je stvarna vrijednost vjerovatno između 42% i 48%. Obično se navodi uz 95% pouzdanosti: kad bi anketu ponovio mnogo puta, oko 95 od 100 takvih raspona uključilo bi stvarnu vrijednost. Veći slučajni uzorci imaju manje margine.",
+        "example": "Anketa kaže da brend A ima 34%, a brend B 31%, svaki ±4%. Rasponi se preklapaju, pa ne možeš reći da je A stvarno ispred.",
+        "why": "Sprečava te da pretjerano reaguješ na male razlike koje su samo šum.",
+        "mixup": "Margina greške pokriva samo slučajnost. Ne govori ništa o pristranosti zbog lošeg uzorka ili loših pitanja."
+      }
+    },
+    {
+      "slug": "statistical-significance",
+      "term": "Statistical significance",
+      "local": "statistička značajnost",
+      "minutes": 6,
+      "youtube": "YMj79TfYUps",
+      "youtubeQuery": "statistical significance explained simply p value",
+      "related": ["A/B testing", "Margin of error", "Sample size"],
+      "en": {
+        "one": "A result is statistically significant when it's unlikely to be just random luck.",
+        "explain": "Tests give a p-value: the chance of seeing a difference this big if there were really no difference. A common cut-off is 5% (p < 0.05). Significance depends on both the size of the difference and the sample size.",
+        "example": "In an A/B test, version B converts 3.3% vs A's 3.0%. With 500 visitors each, that's probably noise; with 50,000 each, it's significant.",
+        "why": "It's how you avoid rolling out 'winners' that were only luck.",
+        "mixup": "Significant doesn't mean important. A tiny, meaningless difference can be significant with enough data, so also ask: is it big enough to matter?"
+      },
+      "bs": {
+        "one": "Rezultat je statistically significant (statistički značajan) kad je malo vjerovatno da je samo slučajna sreća.",
+        "explain": "Testovi daju p-vrijednost: šansu da vidiš ovoliku razliku kad stvarno ne bi bilo razlike. Česta granica je 5% (p < 0,05). Značajnost zavisi i od veličine razlike i od veličine uzorka.",
+        "example": "U A/B testu verzija B pretvara 3,3% naspram 3,0% za A. S 500 posjetilaca svaka, to je vjerovatno šum; s 50.000 svaka, značajno je.",
+        "why": "Tako izbjegavaš uvođenje 'pobjednika' koji su bili samo sreća.",
+        "mixup": "Značajno ne znači važno. Sitna, nebitna razlika može biti značajna uz dovoljno podataka, pa pitaj i: je li dovoljno velika da bude bitna?"
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "A gym surveys only evening members about opening hours. What's the main problem?",
+        "bs": "Teretana o radnom vremenu anketira samo večernje članove. Koji je glavni problem?"
+      },
+      "options": [
+        { "en": "Too few questions", "bs": "Premalo pitanja" },
+        { "en": "Wrong chart", "bs": "Pogrešan grafikon" },
+        { "en": "Sampling bias", "bs": "Pristranost uzorka" }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "Morning members are missing, so the sample doesn't represent all members.",
+        "bs": "Jutarnji članovi nedostaju, pa uzorak ne predstavlja sve članove."
+      }
+    },
+    {
+      "q": {
+        "en": "Brand A has 34% and brand B 31%, each ±4%. What can you conclude?",
+        "bs": "Brend A ima 34%, a brend B 31%, svaki ±4%. Šta možeš zaključiti?"
+      },
+      "options": [
+        { "en": "A is clearly ahead", "bs": "A je jasno ispred" },
+        { "en": "You can't be sure who is ahead", "bs": "Ne možeš biti siguran ko je ispred" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "The ranges (30–38% and 27–35%) overlap, so the gap could be noise.",
+        "bs": "Rasponi (30–38% i 27–35%) se preklapaju, pa razlika može biti šum."
+      }
+    },
+    {
+      "q": { "en": "Which survey question is best?", "bs": "Koje pitanje u anketi je najbolje?" },
+      "options": [
+        { "en": "'Was the food tasty and cheap?'", "bs": "'Je li hrana bila ukusna i jeftina?'" },
+        {
+          "en": "'Don't you agree our prices are fair?'",
+          "bs": "'Zar se ne slažete da su naše cijene fer?'"
+        },
+        {
+          "en": "'How would you rate our prices, from very low to very high?'",
+          "bs": "'Kako biste ocijenili naše cijene, od vrlo niskih do vrlo visokih?'"
+        }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "It's neutral, asks one thing, and offers balanced options.",
+        "bs": "Neutralno je, pita jednu stvar i nudi uravnotežene opcije."
+      }
+    },
+    {
+      "q": {
+        "en": "A test result is statistically significant. Does that mean it's important for the business?",
+        "bs": "Rezultat testa je statistički značajan. Znači li to da je važan za posao?"
+      },
+      "options": [
+        {
+          "en": "Not necessarily; check if the difference is big enough to matter",
+          "bs": "Ne nužno; provjeri je li razlika dovoljno velika da bude bitna"
+        },
+        { "en": "Yes, always", "bs": "Da, uvijek" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Significance says it's probably not luck, not that it's large or valuable.",
+        "bs": "Značajnost kaže da vjerovatno nije sreća, a ne da je velika ili vrijedna."
+      }
+    }
+  ]
+}

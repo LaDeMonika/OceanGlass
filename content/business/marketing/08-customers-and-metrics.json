@@ -1,0 +1,225 @@
+{
+  "slug": "customers-and-metrics",
+  "title": { "en": "Keeping customers & measuring marketing", "bs": "Zadržavanje kupaca i mjerenje marketinga" },
+  "summary": {
+    "en": "What a customer is worth, what it costs to win one, and how to keep them coming back.",
+    "bs": "Koliko vrijedi kupac, koliko košta da ga dobiješ i kako ga zadržati."
+  },
+  "concepts": [
+    {
+      "slug": "cac",
+      "term": "Customer acquisition cost (CAC)",
+      "local": "trošak pridobijanja kupca",
+      "minutes": 5,
+      "youtube": "bif_jwz8iHs",
+      "youtubeQuery": "customer acquisition cost explained",
+      "formula": {
+        "en": "CAC = Marketing & sales costs ÷ New customers",
+        "bs": "CAC = Troškovi marketinga i prodaje ÷ Novi kupci"
+      },
+      "related": ["Customer lifetime value (CLV)", "Unit economics", "ROAS"],
+      "en": {
+        "one": "CAC is how much you spend, on average, to win one new customer.",
+        "explain": "Add up all marketing and sales costs in a period (ads, tools, salaries, discounts) and divide by the number of new customers in that period. Compare it to how much a customer brings you over time.",
+        "example": "You spend €3,000 on marketing in a month and get 60 new customers. CAC = €50.",
+        "why": "If it costs more to win a customer than they ever bring in, growing faster only loses money faster.",
+        "mixup": "Don't count only ad spend. Salaries, tools and free trials are part of the real cost."
+      },
+      "bs": {
+        "one": "CAC (trošak pridobijanja kupca) je koliko u prosjeku potrošiš da dobiješ jednog novog kupca.",
+        "explain": "Saberi sve troškove marketinga i prodaje u periodu (reklame, alati, plate, popusti) i podijeli s brojem novih kupaca u tom periodu. Uporedi to s onim koliko kupac donese kroz vrijeme.",
+        "example": "Potrošiš 3.000 € na marketing u mjesecu i dobiješ 60 novih kupaca. CAC = 50 €.",
+        "why": "Ako je dobijanje kupca skuplje od onoga što ikad donese, brži rast samo brže gubi novac.",
+        "mixup": "Ne računaj samo reklame. Plate, alati i besplatne probe su dio stvarnog troška."
+      }
+    },
+    {
+      "slug": "clv",
+      "term": "Customer lifetime value (CLV)",
+      "local": "životna vrijednost kupca",
+      "minutes": 5,
+      "youtube": "vA1YX8963ts",
+      "youtubeQuery": "customer lifetime value explained simply",
+      "formula": {
+        "en": "CLV ≈ Profit per purchase × Purchases per year × Years",
+        "bs": "CLV ≈ Dobit po kupovini × Kupovine godišnje × Godine"
+      },
+      "related": ["Customer acquisition cost (CAC)", "Retention", "Churn"],
+      "en": {
+        "one": "Customer lifetime value is the total profit you expect from one customer over the whole time they buy from you.",
+        "explain": "A simple version: average profit per purchase × purchases per year × years they stay. Compare it with CAC: a healthy business often has CLV at least three times CAC.",
+        "example": "A customer buys coffee beans every month with €6 profit and stays about 2 years: CLV ≈ €6 × 12 × 2 = €144.",
+        "why": "It tells you how much you can afford to spend to win a customer, and why keeping them matters.",
+        "mixup": "Use profit, not revenue. A customer who spends a lot on low-margin products may be worth less than you think."
+      },
+      "bs": {
+        "one": "Customer lifetime value (životna vrijednost kupca) je ukupna dobit koju očekuješ od jednog kupca kroz cijelo vrijeme dok kupuje kod tebe.",
+        "explain": "Jednostavna verzija: prosječna dobit po kupovini × kupovine godišnje × godine koliko ostane. Uporedi s CAC-om: zdrav posao često ima CLV bar tri puta veći od CAC-a.",
+        "example": "Kupac svaki mjesec kupi zrna kafe s 6 € dobiti i ostane oko 2 godine: CLV ≈ 6 € × 12 × 2 = 144 €.",
+        "why": "Govori ti koliko si možeš priuštiti da potrošiš na dobijanje kupca i zašto je važno zadržati ga.",
+        "mixup": "Koristi dobit, ne prihod. Kupac koji puno troši na proizvode s niskom maržom možda vrijedi manje nego misliš."
+      }
+    },
+    {
+      "slug": "retention-churn",
+      "term": "Retention & churn",
+      "local": "zadržavanje i odliv kupaca",
+      "minutes": 5,
+      "youtube": "mp1r6O8MGrI",
+      "youtubeQuery": "customer retention and churn rate explained",
+      "formula": {
+        "en": "Churn rate = Customers lost ÷ Customers at start × 100",
+        "bs": "Stopa odliva = Izgubljeni kupci ÷ Kupci na početku × 100"
+      },
+      "related": ["Customer lifetime value (CLV)", "Freemium & subscriptions", "Loyalty program"],
+      "en": {
+        "one": "Retention is the share of customers who stay with you. Churn is the share who leave in a period.",
+        "explain": "If you start the month with 200 subscribers and 10 cancel, churn is 5% and retention 95%. Small changes in churn have a huge effect over time, because lost customers must be replaced just to stand still.",
+        "example": "A gym with 5% monthly churn loses about half its members in a year unless it keeps signing up new ones.",
+        "why": "Keeping an existing customer is usually much cheaper than winning a new one.",
+        "mixup": "Low churn is not the same as happy customers. Some stay only because leaving is hard, and they won't recommend you."
+      },
+      "bs": {
+        "one": "Retention (zadržavanje) je udio kupaca koji ostaju. Churn (odliv) je udio koji ode u periodu.",
+        "explain": "Ako mjesec počneš s 200 pretplatnika, a 10 otkaže, odliv je 5%, a zadržavanje 95%. Male promjene u odlivu imaju ogroman efekat kroz vrijeme, jer izgubljene kupce moraš nadoknaditi samo da ostaneš na istom.",
+        "example": "Teretana s mjesečnim odlivom od 5% za godinu izgubi oko pola članova ako stalno ne upisuje nove.",
+        "why": "Zadržati postojećeg kupca obično je mnogo jeftinije nego dobiti novog.",
+        "mixup": "Nizak odliv nije isto što i zadovoljni kupci. Neki ostaju samo zato što je teško otići, i neće te preporučiti."
+      }
+    },
+    {
+      "slug": "nps",
+      "term": "Net Promoter Score (NPS)",
+      "local": "neto ocjena preporuke (NPS)",
+      "minutes": 4,
+      "youtube": "dpe2QhXmehA",
+      "youtubeQuery": "net promoter score explained",
+      "formula": { "en": "NPS = % Promoters − % Detractors", "bs": "NPS = % Promotera − % Kritičara" },
+      "related": ["Reputation & reviews", "Customer experience", "Retention & churn"],
+      "en": {
+        "one": "NPS measures how likely customers are to recommend you, from a single question on a 0–10 scale.",
+        "explain": "People who answer 9–10 are promoters, 7–8 are passives, 0–6 are detractors. NPS = % promoters − % detractors, so it ranges from −100 to +100. The follow-up question 'Why?' is often more useful than the score.",
+        "example": "Out of 100 customers, 50 give 9–10, 30 give 7–8, 20 give 0–6. NPS = 50 − 20 = 30.",
+        "why": "It is a quick health check of loyalty and word of mouth, easy to track over time.",
+        "mixup": "NPS is not a percentage. A score of 30 doesn't mean 30% of people are happy."
+      },
+      "bs": {
+        "one": "NPS (Net Promoter Score) mjeri koliko je vjerovatno da će te kupci preporučiti, jednim pitanjem na skali 0–10.",
+        "explain": "Oni koji odgovore 9–10 su promoteri, 7–8 pasivni, 0–6 kritičari. NPS = % promotera − % kritičara, pa ide od −100 do +100. Dodatno pitanje 'Zašto?' je često korisnije od same ocjene.",
+        "example": "Od 100 kupaca, 50 da 9–10, 30 da 7–8, 20 da 0–6. NPS = 50 − 20 = 30.",
+        "why": "Brza je provjera lojalnosti i preporuka, lako se prati kroz vrijeme.",
+        "mixup": "NPS nije procenat. Ocjena 30 ne znači da je 30% ljudi zadovoljno."
+      }
+    },
+    {
+      "slug": "loyalty-program",
+      "term": "Loyalty program",
+      "local": "program lojalnosti",
+      "minutes": 4,
+      "youtube": "98WzZsklWHQ",
+      "youtubeQuery": "customer loyalty programs explained",
+      "related": ["Retention & churn", "Customer lifetime value (CLV)", "Discounts & promotions"],
+      "en": {
+        "one": "A loyalty program rewards customers for coming back: points, stamps, member prices or perks.",
+        "explain": "The best ones are simple and the reward feels reachable. They also give you data on who buys what. Rewards cost money, so they must bring extra visits, not just discount sales you'd have made anyway.",
+        "example": "A café card: buy 9 coffees, get the 10th free. Regulars choose it over the café next door.",
+        "why": "Loyalty programs raise retention and CLV, and help you know your best customers.",
+        "mixup": "A loyalty program can't fix a bad product. People join for the reward, but stay for the experience."
+      },
+      "bs": {
+        "one": "Loyalty program (program lojalnosti) nagrađuje kupce što se vraćaju: bodovi, pečati, cijene za članove ili pogodnosti.",
+        "explain": "Najbolji su jednostavni i nagrada djeluje dostižno. Daju ti i podatke o tome ko kupuje šta. Nagrade koštaju, pa moraju donijeti dodatne posjete, a ne samo popust na prodaju koju bi ionako imao.",
+        "example": "Kartica kafića: kupi 9 kafa, deseta gratis. Stalni gosti ga biraju umjesto kafića do njega.",
+        "why": "Programi lojalnosti povećavaju zadržavanje i CLV i pomažu ti da upoznaš najbolje kupce.",
+        "mixup": "Program lojalnosti ne može popraviti loš proizvod. Ljudi se učlane zbog nagrade, a ostanu zbog iskustva."
+      }
+    },
+    {
+      "slug": "roas",
+      "term": "Marketing ROI & ROAS",
+      "local": "povrat na marketing i ROAS",
+      "minutes": 5,
+      "youtube": "-aEJqnBAf6E",
+      "youtubeQuery": "ROAS vs ROI marketing explained",
+      "formula": { "en": "ROAS = Revenue from ads ÷ Ad spend", "bs": "ROAS = Prihod od reklama ÷ Trošak reklama" },
+      "related": ["ROI (Return on investment)", "Customer acquisition cost (CAC)", "Paid ads (PPC)"],
+      "en": {
+        "one": "ROAS (return on ad spend) shows how much revenue each euro of ads brings. Marketing ROI shows the profit after all costs.",
+        "explain": "ROAS = revenue from ads ÷ ad spend. A ROAS of 4 means €4 of sales per €1 of ads. But revenue isn't profit: after product costs, a ROAS of 4 can still lose money if your margins are thin.",
+        "example": "You spend €500 on ads and get €2,000 in sales: ROAS = 4. With a 30% margin, profit is €600 − €500 = €100.",
+        "why": "Measuring return per channel tells you where to put more money and what to stop.",
+        "mixup": "High ROAS is not automatically profitable. Always check it against your margin."
+      },
+      "bs": {
+        "one": "ROAS (povrat na potrošeno za reklame) pokazuje koliko prihoda donosi svaki euro reklama. Marketing ROI pokazuje dobit nakon svih troškova.",
+        "explain": "ROAS = prihod od reklama ÷ trošak reklama. ROAS 4 znači 4 € prodaje na 1 € reklama. Ali prihod nije dobit: nakon troška proizvoda, ROAS 4 i dalje može gubiti novac ako su marže tanke.",
+        "example": "Potrošiš 500 € na reklame i dobiješ 2.000 € prodaje: ROAS = 4. S maržom od 30%, dobit je 600 € − 500 € = 100 €.",
+        "why": "Mjerenje povrata po kanalu govori ti gdje uložiti više, a šta prekinuti.",
+        "mixup": "Visok ROAS nije automatski profitabilan. Uvijek ga uporedi sa svojom maržom."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "You spend €3,000 and get 60 new customers. What is the CAC?",
+        "bs": "Potrošiš 3.000 € i dobiješ 60 novih kupaca. Koliki je CAC?"
+      },
+      "options": [
+        { "en": "€180", "bs": "180 €" },
+        { "en": "€50", "bs": "50 €" },
+        { "en": "€20", "bs": "20 €" }
+      ],
+      "answer": 1,
+      "explain": { "en": "€3,000 ÷ 60 = €50 per customer.", "bs": "3.000 € ÷ 60 = 50 € po kupcu." }
+    },
+    {
+      "q": {
+        "en": "50% promoters, 30% passives, 20% detractors. What is the NPS?",
+        "bs": "50% promotera, 30% pasivnih, 20% kritičara. Koliki je NPS?"
+      },
+      "options": [
+        { "en": "80", "bs": "80" },
+        { "en": "30", "bs": "30" },
+        { "en": "50", "bs": "50" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "NPS = % promoters − % detractors = 50 − 20 = 30. Passives don't count.",
+        "bs": "NPS = % promotera − % kritičara = 50 − 20 = 30. Pasivni se ne računaju."
+      }
+    },
+    {
+      "q": {
+        "en": "€500 of ads bring €2,000 of sales at a 30% margin. Is it profitable?",
+        "bs": "500 € reklama donese 2.000 € prodaje uz maržu od 30%. Je li profitabilno?"
+      },
+      "options": [
+        { "en": "Yes, a €100 profit", "bs": "Da, 100 € dobiti" },
+        { "en": "Yes, a €1,500 profit", "bs": "Da, 1.500 € dobiti" },
+        { "en": "No, a loss", "bs": "Ne, gubitak" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "30% of €2,000 = €600 gross profit, minus €500 of ads = €100.",
+        "bs": "30% od 2.000 € = 600 € bruto dobiti, minus 500 € reklama = 100 €."
+      }
+    },
+    {
+      "q": {
+        "en": "You start with 200 subscribers and 10 cancel this month. What is the churn rate?",
+        "bs": "Počneš s 200 pretplatnika, a 10 otkaže ovaj mjesec. Kolika je stopa odliva?"
+      },
+      "options": [
+        { "en": "5%", "bs": "5%" },
+        { "en": "95%", "bs": "95%" },
+        { "en": "10%", "bs": "10%" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "10 ÷ 200 = 5%. Retention is the other 95%.",
+        "bs": "10 ÷ 200 = 5%. Zadržavanje je preostalih 95%."
+      }
+    }
+  ]
+}

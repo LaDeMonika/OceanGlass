@@ -1,0 +1,223 @@
+{
+  "slug": "contracts",
+  "title": { "en": "Contracts", "bs": "Ugovori" },
+  "summary": {
+    "en": "What makes a deal legally binding, and what to do when it goes wrong. General ideas, not legal advice.",
+    "bs": "Šta dogovor čini pravno obavezujućim i šta raditi kad pođe naopako. Opće ideje, ne pravni savjet."
+  },
+  "concepts": [
+    {
+      "slug": "contract",
+      "term": "Contract",
+      "local": "ugovor",
+      "minutes": 4,
+      "youtube": "N2OfiK3PqfQ",
+      "youtubeQuery": "what is a contract explained simply",
+      "related": ["Offer and acceptance", "Breach of contract", "Terms and conditions"],
+      "en": {
+        "one": "A contract is an agreement between two or more parties that the law will enforce.",
+        "explain": "Most contracts need: an offer, an acceptance, something of value going each way (money, goods, work), parties who are able to agree (adults, not forced), and a legal purpose. Many contracts are valid even if spoken, but some, like property sales, must be in writing.",
+        "example": "You agree with a designer to make your logo for 400 KM, delivered in two weeks. Even by email, that's a contract.",
+        "why": "Almost everything a business does runs on contracts: buying, selling, hiring, renting, borrowing.",
+        "mixup": "A handshake deal can be a contract too. The real problem is proving what was agreed, so put important deals in writing."
+      },
+      "bs": {
+        "one": "Contract (ugovor) je dogovor između dvije ili više strana koji zakon štiti i može natjerati da se ispuni.",
+        "explain": "Većina ugovora treba: ponudu, prihvatanje, nešto vrijedno što ide u oba smjera (novac, roba, rad), strane koje mogu pristati (punoljetne, nisu prisiljene) i zakonit cilj. Mnogi ugovori vrijede i kad su usmeni, ali neki, npr. prodaja nekretnina, moraju biti u pisanom obliku.",
+        "example": "Dogovoriš s dizajnerom da ti napravi logo za 400 KM, isporuka za dvije sedmice. I preko emaila, to je ugovor.",
+        "why": "Skoro sve što firma radi počiva na ugovorima: kupovina, prodaja, zapošljavanje, zakup, zaduživanje.",
+        "mixup": "I dogovor rukovanjem može biti ugovor. Pravi problem je dokazati šta je dogovoreno, zato važne dogovore stavi na papir."
+      }
+    },
+    {
+      "slug": "offer-and-acceptance",
+      "term": "Offer and acceptance",
+      "local": "ponuda i prihvat",
+      "minutes": 4,
+      "youtube": "CM6C4oqOMQ4",
+      "youtubeQuery": "offer and acceptance contract law explained",
+      "related": ["Contract", "Terms and conditions", "Negotiation"],
+      "en": {
+        "one": "A contract is formed when one side makes a clear offer and the other side accepts it as it is.",
+        "explain": "If the other side changes the terms ('yes, but for 10% less'), that's not acceptance, it's a counter-offer, and the first offer is gone. An ad or a price list is usually an invitation to make offers, not an offer itself.",
+        "example": "A supplier quotes 2,000 KM for 100 chairs. You reply 'OK at 1,800 KM'. There's no deal yet until the supplier agrees to 1,800 KM.",
+        "why": "Knowing when a deal is closed tells you when you're bound, and when you can still walk away.",
+        "mixup": "Silence usually isn't acceptance. 'If I don't hear from you, we have a deal' generally doesn't bind the other side."
+      },
+      "bs": {
+        "one": "Ugovor nastaje kad jedna strana da jasnu ponudu, a druga je prihvati takvu kakva jeste.",
+        "explain": "Ako druga strana promijeni uslove ('da, ali 10% jeftinije'), to nije prihvat nego kontraponuda, i prva ponuda prestaje. Oglas ili cjenovnik je obično poziv da se daju ponude, a ne sama ponuda.",
+        "example": "Dobavljač ponudi 100 stolica za 2.000 KM. Ti odgovoriš 'OK za 1.800 KM'. Dogovora još nema dok dobavljač ne pristane na 1.800 KM.",
+        "why": "Kad znaš kada je dogovor zaključen, znaš kada si vezan, a kada još možeš odustati.",
+        "mixup": "Šutnja obično nije prihvat. 'Ako mi se ne javiš, imamo dogovor' uglavnom ne obavezuje drugu stranu."
+      }
+    },
+    {
+      "slug": "terms-and-conditions",
+      "term": "Terms and conditions",
+      "local": "opšti uslovi poslovanja",
+      "minutes": 4,
+      "youtube": "nS-13-oxemk",
+      "youtubeQuery": "terms and conditions explained small business",
+      "related": ["Contract", "Consumer rights", "Privacy policy"],
+      "en": {
+        "one": "Terms and conditions are your standard rules for every sale: prices, payment, delivery, returns, liability.",
+        "explain": "Instead of negotiating each deal, you set the rules once and the customer accepts them when buying. They must be easy to find, clear, and accepted before the purchase. For consumers, they can't remove rights the law gives them.",
+        "example": "A webshop's terms say payment is upfront, delivery takes 3–5 days, and returns are free within 14 days. Customers tick a box before paying.",
+        "why": "Clear terms prevent arguments and protect you when something goes wrong.",
+        "mixup": "Copying another company's terms is risky. They may not fit your business or your country's law."
+      },
+      "bs": {
+        "one": "Terms and conditions (opšti uslovi poslovanja) su tvoja standardna pravila za svaku prodaju: cijene, plaćanje, isporuka, povrat, odgovornost.",
+        "explain": "Umjesto da pregovaraš svaki posao, pravila postaviš jednom, a kupac ih prihvati pri kupovini. Moraju biti lako dostupni, jasni i prihvaćeni prije kupovine. Prema potrošačima ne smiju ukinuti prava koja im daje zakon.",
+        "example": "Uslovi webshopa kažu da se plaća unaprijed, isporuka traje 3–5 dana, a povrat je besplatan u roku od 14 dana. Kupci označe kvadratić prije plaćanja.",
+        "why": "Jasni uslovi sprečavaju svađe i štite te kad nešto pođe naopako.",
+        "mixup": "Kopiranje uslova druge firme je rizično. Možda ne odgovaraju tvom poslu ili zakonu tvoje zemlje."
+      }
+    },
+    {
+      "slug": "breach-of-contract",
+      "term": "Breach of contract",
+      "local": "kršenje ugovora",
+      "minutes": 4,
+      "youtube": "kRIvgr0GyVU",
+      "youtubeQuery": "breach of contract explained remedies",
+      "related": ["Contract", "Dispute resolution", "Penalty clause"],
+      "en": {
+        "one": "A breach is when one side doesn't do what the contract says: doesn't pay, delivers late, or delivers the wrong thing.",
+        "explain": "The other side can usually ask for the contract to be fulfilled, claim damages for the loss, or in serious cases end the contract. Many contracts include a penalty for late delivery so the cost is clear in advance.",
+        "example": "A builder promised to finish your shop by 1 March. He finishes on 1 April and you lose a month of sales. The contract's 50 KM per day penalty clause makes it easy to claim 1,550 KM.",
+        "why": "Knowing your options helps you respond calmly and get compensated.",
+        "mixup": "You usually can't just stop paying because you're unhappy. Raise the breach in writing first and follow the contract's rules."
+      },
+      "bs": {
+        "one": "Breach (kršenje ugovora) je kad jedna strana ne uradi ono što ugovor kaže: ne plati, kasni s isporukom ili isporuči pogrešnu stvar.",
+        "explain": "Druga strana obično može tražiti da se ugovor ispuni, tražiti naknadu štete ili u ozbiljnim slučajevima raskinuti ugovor. Mnogi ugovori imaju ugovornu kaznu za kašnjenje, pa je trošak jasan unaprijed.",
+        "example": "Majstor je obećao da će završiti tvoju radnju do 1. marta. Završi 1. aprila i ti izgubiš mjesec prodaje. Ugovorna kazna od 50 KM po danu olakša da tražiš 1.550 KM.",
+        "why": "Kad znaš svoje opcije, reaguješ smireno i dobiješ naknadu.",
+        "mixup": "Obično ne možeš samo prestati plaćati jer nisi zadovoljan. Prvo pismeno ukaži na kršenje i prati pravila iz ugovora."
+      }
+    },
+    {
+      "slug": "dispute-resolution",
+      "term": "Mediation, arbitration and court",
+      "local": "medijacija, arbitraža i sud",
+      "minutes": 5,
+      "youtube": "MJ2SbrOOgjE",
+      "youtubeQuery": "mediation vs arbitration vs litigation explained",
+      "related": ["Breach of contract", "Negotiation", "Contract"],
+      "en": {
+        "one": "When a business dispute can't be settled by talking, there are three main paths: mediation, arbitration and court.",
+        "explain": "Mediation: a neutral person helps both sides reach their own agreement. Cheap, fast, private, nobody is forced. Arbitration: a private expert decides, and the decision is usually final and binding. Court: a judge decides in public; it's slow and costly but can be enforced everywhere.",
+        "example": "Two firms argue about a 20,000 KM invoice. They try mediation first, agree on 15,000 KM in one afternoon, and stay business partners.",
+        "why": "Choosing the right path saves money, time and relationships.",
+        "mixup": "Arbitration isn't a cheap version of mediation. It ends with a binding decision, often with no appeal."
+      },
+      "bs": {
+        "one": "Kad se poslovni spor ne može riješiti razgovorom, postoje tri glavna puta: medijacija, arbitraža i sud.",
+        "explain": "Medijacija: neutralna osoba pomaže objema stranama da same postignu dogovor. Jeftino, brzo, povjerljivo, niko nije prisiljen. Arbitraža: privatni stručnjak odlučuje, a odluka je obično konačna i obavezujuća. Sud: sudija odlučuje javno; sporo je i skupo, ali se može svuda izvršiti.",
+        "example": "Dvije firme se spore oko fakture od 20.000 KM. Prvo probaju medijaciju, za jedno popodne se dogovore na 15.000 KM i ostanu poslovni partneri.",
+        "why": "Pravi izbor puta štedi novac, vrijeme i odnose.",
+        "mixup": "Arbitraža nije jeftinija medijacija. Završava se obavezujućom odlukom, često bez žalbe."
+      }
+    },
+    {
+      "slug": "electronic-signature",
+      "term": "Electronic signatures",
+      "local": "elektronski potpis",
+      "minutes": 3,
+      "youtube": "xG0mQQOJvyk",
+      "youtubeQuery": "electronic signature explained simple vs qualified",
+      "related": ["Contract", "Terms and conditions", "Cybersecurity basics"],
+      "en": {
+        "one": "An electronic signature is a way to agree to a document digitally, from typing your name to a certified digital signature.",
+        "explain": "Simple e-signatures (a click, a scanned signature, a typed name) are fine for most everyday business deals. Advanced and qualified signatures use certificates that prove who signed and that nothing was changed afterwards; in the EU, a qualified signature has the same weight as a handwritten one.",
+        "example": "A freelancer signs client contracts with a free e-sign tool. For a large bank loan, the bank asks for a qualified electronic signature.",
+        "why": "It makes deals faster and cheaper, especially with partners abroad.",
+        "mixup": "Not every document can be signed simply online. Some deals still need a notary or a qualified signature."
+      },
+      "bs": {
+        "one": "Electronic signature (elektronski potpis) je način da se digitalno pristane na dokument, od ukucanog imena do certificiranog digitalnog potpisa.",
+        "explain": "Jednostavni e-potpisi (klik, skenirani potpis, ukucano ime) su dovoljni za većinu svakodnevnih poslova. Napredni i kvalifikovani potpisi koriste certifikate koji dokazuju ko je potpisao i da ništa nije mijenjano poslije; u EU kvalifikovani potpis ima istu snagu kao vlastoručni.",
+        "example": "Frilenser potpisuje ugovore s klijentima besplatnim alatom za e-potpis. Za veliki kredit banka traži kvalifikovani elektronski potpis.",
+        "why": "Ubrzava i pojeftinjuje poslove, naročito s partnerima iz inostranstva.",
+        "mixup": "Ne može se svaki dokument jednostavno potpisati online. Neki poslovi i dalje traže notara ili kvalifikovani potpis."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "A supplier offers 100 chairs for 2,000 KM and you reply 'OK, at 1,800 KM'. Is there a contract?",
+        "bs": "Dobavljač ponudi 100 stolica za 2.000 KM, a ti odgovoriš 'OK, za 1.800 KM'. Postoji li ugovor?"
+      },
+      "options": [
+        { "en": "Yes, at 1,800 KM", "bs": "Da, za 1.800 KM" },
+        { "en": "Yes, at 2,000 KM", "bs": "Da, za 2.000 KM" },
+        { "en": "No, it's a counter-offer", "bs": "Ne, to je kontraponuda" }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "Changing the terms is a counter-offer. A deal needs the supplier to accept it.",
+        "bs": "Promjena uslova je kontraponuda. Za dogovor dobavljač je mora prihvatiti."
+      }
+    },
+    {
+      "q": {
+        "en": "Which option ends with a neutral person helping both sides reach their own agreement?",
+        "bs": "Kod koje opcije neutralna osoba pomaže objema stranama da same postignu dogovor?"
+      },
+      "options": [
+        { "en": "Court", "bs": "Sud" },
+        { "en": "Arbitration", "bs": "Arbitraža" },
+        { "en": "Mediation", "bs": "Medijacija" }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "In mediation nobody imposes a decision. In arbitration and court, someone else decides.",
+        "bs": "U medijaciji niko ne nameće odluku. U arbitraži i na sudu odlučuje neko drugi."
+      }
+    },
+    {
+      "q": {
+        "en": "Is a deal agreed only by email a contract?",
+        "bs": "Je li dogovor postignut samo emailom ugovor?"
+      },
+      "options": [
+        { "en": "Only if a lawyer was involved", "bs": "Samo ako je bio uključen advokat" },
+        { "en": "Never, it must be on paper", "bs": "Nikad, mora biti na papiru" },
+        {
+          "en": "Usually yes, if the basic elements are there",
+          "bs": "Obično da, ako postoje osnovni elementi"
+        }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "Most contracts don't need a special form. Email also helps prove what was agreed.",
+        "bs": "Većina ugovora ne traži poseban oblik. Email i pomaže da se dokaže šta je dogovoreno."
+      }
+    },
+    {
+      "q": {
+        "en": "A builder finishes late. What should you do first?",
+        "bs": "Majstor završi s kašnjenjem. Šta prvo trebaš uraditi?"
+      },
+      "options": [
+        { "en": "Post about it on social media", "bs": "Objaviti to na društvenim mrežama" },
+        {
+          "en": "Raise the breach in writing, using the contract",
+          "bs": "Pismeno ukazati na kršenje, oslanjajući se na ugovor"
+        },
+        {
+          "en": "Stop all payments without saying anything",
+          "bs": "Prestati plaćati bez ikakvog objašnjenja"
+        }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Putting it in writing and following the contract protects your claim.",
+        "bs": "Pismeno obraćanje i praćenje ugovora štiti tvoj zahtjev."
+      }
+    }
+  ]
+}

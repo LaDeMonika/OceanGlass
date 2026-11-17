@@ -1,0 +1,210 @@
+{
+  "slug": "developing-and-keeping-people",
+  "title": { "en": "Developing & keeping people", "bs": "Razvoj i zadržavanje ljudi" },
+  "summary": {
+    "en": "Helping people grow, keeping them healthy, and stopping good ones from leaving.",
+    "bs": "Kako pomoći ljudima da rastu, ostanu zdravi i kako zadržati dobre."
+  },
+  "concepts": [
+    {
+      "slug": "training-development",
+      "term": "Training & development",
+      "local": "obuka i razvoj",
+      "minutes": 4,
+      "youtube": "qBQqR_DBwlo",
+      "youtubeQuery": "employee training and development explained",
+      "related": ["Coaching", "Career path", "Motivation"],
+      "en": {
+        "one": "Training teaches the skills needed for the current job. Development prepares people for bigger roles later.",
+        "explain": "Mix methods: learning on the job, short courses, mentoring, job rotation and online learning. Tie it to real needs (a new system, weak sales skills) and check afterwards if work actually improved.",
+        "example": "A shop trains all staff on the new till in a day, and sends its best sales assistant on a 3-month team-lead course.",
+        "why": "Skilled people make fewer mistakes, serve customers better, and are more likely to stay.",
+        "mixup": "'What if I train them and they leave?' The bigger risk is not training them and they stay."
+      },
+      "bs": {
+        "one": "Training (obuka) uči vještine potrebne za sadašnji posao. Development (razvoj) priprema ljude za veće uloge kasnije.",
+        "explain": "Kombinuj metode: učenje na poslu, kratke kurseve, mentorstvo, rotaciju poslova i online učenje. Veži to za stvarne potrebe (novi sistem, slabe prodajne vještine) i poslije provjeri da li je rad stvarno bolji.",
+        "example": "Radnja za jedan dan obuči sve radnike na novoj kasi, a najbolju prodavačicu pošalje na 3-mjesečni kurs za voditelja tima.",
+        "why": "Vješti ljudi prave manje grešaka, bolje uslužuju kupce i vjerovatnije ostaju.",
+        "mixup": "'Šta ako ih obučim, a oni odu?' Veći rizik je da ih ne obučiš, a oni ostanu."
+      }
+    },
+    {
+      "slug": "coaching-mentoring",
+      "term": "Coaching & mentoring",
+      "local": "coaching i mentorstvo",
+      "minutes": 4,
+      "youtube": "TZjjJdO6uzk",
+      "youtubeQuery": "coaching vs mentoring explained",
+      "related": ["Training & development", "One-on-one meetings", "Feedback"],
+      "en": {
+        "one": "Coaching helps someone find their own answers by asking good questions. Mentoring is an experienced person sharing advice and experience.",
+        "explain": "A coach asks 'What options do you see? What would you try?' A mentor says 'Here's what worked for me.' Managers do both: coaching builds independent thinkers; mentoring speeds up learning.",
+        "example": "A junior project manager is stuck with a late supplier. Her boss asks what she's tried and what else she could do, and she comes up with a plan herself.",
+        "why": "It grows people who can solve problems without running to you every time.",
+        "mixup": "Coaching isn't giving answers. If you always solve it for them, they never learn."
+      },
+      "bs": {
+        "one": "Coaching pomaže osobi da sama nađe odgovore kroz dobra pitanja. Mentoring (mentorstvo) je kad iskusna osoba dijeli savjete i iskustvo.",
+        "explain": "Coach pita 'Koje opcije vidiš? Šta bi probao?' Mentor kaže 'Evo šta je meni uspjelo.' Menadžeri rade oboje: coaching gradi samostalne mislioce; mentorstvo ubrzava učenje.",
+        "example": "Mlada projektna menadžerka je zapela s dobavljačem koji kasni. Šefica je pita šta je probala i šta još može, i ona sama smisli plan.",
+        "why": "Razvija ljude koji mogu rješavati probleme bez da svaki put trče tebi.",
+        "mixup": "Coaching nije davanje odgovora. Ako uvijek riješiš umjesto njih, nikad ne nauče."
+      }
+    },
+    {
+      "slug": "career-path",
+      "term": "Career path",
+      "local": "karijerni put",
+      "minutes": 4,
+      "youtube": "t0AoTsWspfE",
+      "youtubeQuery": "career path and progression explained",
+      "related": ["Training & development", "Performance review", "Employee retention"],
+      "en": {
+        "one": "A career path shows how someone can grow in your company: next roles, skills needed, and roughly when.",
+        "explain": "In small firms there aren't many titles, so growth can also mean more responsibility, new skills or specialist roles. Talk about it openly in reviews, and make the steps clear and fair.",
+        "example": "In a restaurant: kitchen assistant → line cook → sous-chef, each step with listed skills and a pay band.",
+        "why": "People leave when they can't see a future. A visible path keeps ambitious people.",
+        "mixup": "A career path isn't only upward into management. Great specialists shouldn't have to become bosses to grow."
+      },
+      "bs": {
+        "one": "Career path (karijerni put) pokazuje kako osoba može rasti u tvojoj firmi: sljedeće uloge, potrebne vještine i otprilike kada.",
+        "explain": "U malim firmama nema mnogo titula, pa rast može značiti i više odgovornosti, nove vještine ili stručne uloge. Razgovaraj o tome otvoreno na ocjenama i neka koraci budu jasni i fer.",
+        "example": "U restoranu: pomoćni kuhar → kuhar na liniji → zamjenik šefa kuhinje, svaki korak s navedenim vještinama i rasponom plate.",
+        "why": "Ljudi odlaze kad ne vide budućnost. Vidljiv put zadržava ambiciozne.",
+        "mixup": "Karijerni put nije samo gore u menadžment. Odlični stručnjaci ne bi trebali postati šefovi da bi rasli."
+      }
+    },
+    {
+      "slug": "employee-turnover",
+      "term": "Employee turnover & retention",
+      "local": "fluktuacija i zadržavanje radnika",
+      "minutes": 5,
+      "youtube": "TYqZy6D_W6M",
+      "youtubeQuery": "employee turnover and retention explained cost",
+      "formula": {
+        "en": "Turnover = Leavers ÷ Average headcount × 100",
+        "bs": "Fluktuacija = Otišli ÷ Prosječan broj zaposlenih × 100"
+      },
+      "related": ["Retention & churn", "Motivation", "Employer branding"],
+      "en": {
+        "one": "Employee turnover is the share of staff who leave in a year. Retention is keeping the people you want.",
+        "explain": "Turnover = people who left ÷ average headcount × 100. Replacing someone often costs from several months' to a year's salary once you count hiring, training and lost work. People mostly leave because of their manager, pay that feels unfair, no growth, or overload. Exit interviews tell you why.",
+        "example": "A call centre with 40 staff loses 20 in a year: 50% turnover. After fixing schedules and adding a career step, it drops to 25%.",
+        "why": "Keeping good people is cheaper than constantly replacing them, and customers notice the difference.",
+        "mixup": "Some turnover is healthy. The aim is to keep the right people, not everyone at any cost."
+      },
+      "bs": {
+        "one": "Employee turnover (fluktuacija) je udio radnika koji odu u godini. Retention (zadržavanje) je zadržati ljude koje želiš.",
+        "explain": "Fluktuacija = broj onih koji su otišli ÷ prosječan broj zaposlenih × 100. Zamjena osobe često košta od nekoliko mjesečnih plata do godišnje plate kad uračunaš zapošljavanje, obuku i izgubljeni rad. Ljudi uglavnom odlaze zbog šefa, plate koja se čini nepoštenom, nedostatka rasta ili preopterećenja. Izlazni razgovori ti kažu zašto.",
+        "example": "Call centar s 40 radnika izgubi 20 za godinu: 50% fluktuacije. Nakon popravke rasporeda i dodavanja karijernog koraka, padne na 25%.",
+        "why": "Zadržati dobre ljude je jeftinije od stalnog zamjenjivanja, a i kupci primijete razliku.",
+        "mixup": "Nešto fluktuacije je zdravo. Cilj je zadržati prave ljude, ne svakoga po svaku cijenu."
+      }
+    },
+    {
+      "slug": "burnout-wellbeing",
+      "term": "Burnout & wellbeing",
+      "local": "sagorijevanje i dobrobit",
+      "minutes": 5,
+      "youtube": "5QIkR7f9oSU",
+      "youtubeQuery": "burnout at work explained signs",
+      "related": ["Working time & overtime", "Psychological safety", "Employee turnover & retention"],
+      "en": {
+        "one": "Burnout is long-term exhaustion from work stress: people feel drained, cynical and less effective.",
+        "explain": "Common causes are constant overload, little control over work, unfairness, and no recovery time. Managers can prevent it by keeping workloads realistic, respecting breaks and leave, noticing changes in people, and fixing the causes rather than offering yoga after the fact.",
+        "example": "A top salesperson starts missing deadlines and snapping at colleagues after six months of 60-hour weeks. Her manager rebalances her accounts and makes sure she takes her leave.",
+        "why": "Burned-out people make mistakes, get ill and leave, often your best ones first.",
+        "mixup": "Burnout isn't personal weakness. It's mostly a sign of how the work is set up."
+      },
+      "bs": {
+        "one": "Burnout (sagorijevanje) je dugotrajna iscrpljenost od stresa na poslu: ljudi se osjećaju ispražnjeno, cinično i manje uspješno.",
+        "explain": "Česti uzroci su stalno preopterećenje, mala kontrola nad poslom, nepravda i nedostatak odmora. Menadžeri ga mogu spriječiti realnim obimom posla, poštovanjem pauza i odmora, primjećivanjem promjena kod ljudi i popravkom uzroka, umjesto da naknadno nude jogu.",
+        "example": "Najbolja prodavačica počne kasniti s rokovima i obrecivati se na kolege nakon šest mjeseci sedmica od 60 sati. Menadžer preraspodijeli njene klijente i pobrine se da iskoristi godišnji odmor.",
+        "why": "Sagorjeli ljudi griješe, obolijevaju i odlaze, često prvo oni najbolji.",
+        "mixup": "Sagorijevanje nije lična slabost. Uglavnom je znak kako je posao postavljen."
+      }
+    },
+    {
+      "slug": "diversity-fairness",
+      "term": "Fairness & equal treatment",
+      "local": "pravičnost i jednak tretman",
+      "minutes": 4,
+      "youtube": "9hhpG0_Jif0",
+      "youtubeQuery": "workplace discrimination and equal treatment explained",
+      "related": ["Structured interview", "Labour law", "Company culture"],
+      "en": {
+        "one": "Fair treatment means people are hired, paid and promoted based on their work, not on gender, age, ethnicity, religion, disability or other personal traits.",
+        "explain": "Anti-discrimination laws in BiH and Croatia forbid this, including in job ads and interviews (e.g. asking about plans to have children). Equal pay for equal work is a legal principle. Clear criteria and structured processes reduce hidden bias.",
+        "example": "A firm reviews its salaries and finds two people doing the same job with a 15% gap and no reason. It closes the gap.",
+        "why": "Fairness avoids legal risk, widens your talent pool and builds trust in the team.",
+        "mixup": "Treating everyone 'the same' isn't always fair. Reasonable adjustments, like for a disability, can be what fairness requires."
+      },
+      "bs": {
+        "one": "Pravičan tretman znači da se ljudi zapošljavaju, plaćaju i unapređuju na osnovu rada, a ne spola, godina, nacionalnosti, vjere, invaliditeta ili drugih ličnih osobina.",
+        "explain": "Zakoni protiv diskriminacije u BiH i Hrvatskoj to zabranjuju, uključujući oglase i razgovore za posao (npr. pitanja o planovima za djecu). Jednaka plata za jednak rad je zakonski princip. Jasni kriteriji i strukturirani procesi smanjuju skrivenu pristranost.",
+        "example": "Firma pregleda plate i nađe dvoje ljudi na istom poslu s razlikom od 15% bez razloga. Zatvori razliku.",
+        "why": "Pravičnost izbjegava pravni rizik, širi krug talenata i gradi povjerenje u timu.",
+        "mixup": "Tretirati sve 'isto' nije uvijek pravično. Razumne prilagodbe, npr. zbog invaliditeta, mogu biti ono što pravičnost traži."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "40 staff on average and 20 left this year. What is the turnover?",
+        "bs": "Prosječno 40 radnika, a 20 je otišlo ove godine. Kolika je fluktuacija?"
+      },
+      "options": [
+        { "en": "200%", "bs": "200%" },
+        { "en": "20%", "bs": "20%" },
+        { "en": "50%", "bs": "50%" }
+      ],
+      "answer": 2,
+      "explain": { "en": "20 ÷ 40 × 100 = 50%.", "bs": "20 ÷ 40 × 100 = 50%." }
+    },
+    {
+      "q": {
+        "en": "A manager asks 'What options do you see?' instead of giving the answer. This is…",
+        "bs": "Menadžer pita 'Koje opcije vidiš?' umjesto da da odgovor. To je…"
+      },
+      "options": [
+        { "en": "Micromanaging", "bs": "Mikromenadžment" },
+        { "en": "Mentoring", "bs": "Mentorstvo" },
+        { "en": "Coaching", "bs": "Coaching" }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "Coaching helps people find their own answers.",
+        "bs": "Coaching pomaže ljudima da sami nađu odgovore."
+      }
+    },
+    {
+      "q": { "en": "What usually causes burnout?", "bs": "Šta obično uzrokuje sagorijevanje?" },
+      "options": [
+        { "en": "Constant overload and no recovery", "bs": "Stalno preopterećenje i bez odmora" },
+        { "en": "Personal weakness", "bs": "Lična slabost" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "It's mainly about how work is set up, so fix the causes.",
+        "bs": "Uglavnom je stvar kako je posao postavljen, pa popravi uzroke."
+      }
+    },
+    {
+      "q": {
+        "en": "In an interview, may you ask a candidate about plans to have children?",
+        "bs": "Smiješ li na razgovoru pitati kandidata o planovima za djecu?"
+      },
+      "options": [
+        { "en": "No, it can be discrimination", "bs": "Ne, to može biti diskriminacija" },
+        { "en": "Yes, it helps planning", "bs": "Da, pomaže planiranju" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Anti-discrimination law forbids decisions based on such personal matters.",
+        "bs": "Zakon protiv diskriminacije zabranjuje odluke na osnovu takvih ličnih stvari."
+      }
+    }
+  ]
+}

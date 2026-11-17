@@ -1,0 +1,215 @@
+{
+  "slug": "service-and-resilience",
+  "title": { "en": "Service and resilience", "bs": "Usluga i otpornost" },
+  "summary": {
+    "en": "Serving customers smoothly every day, and staying open when things go wrong.",
+    "bs": "Glatko uslužiti kupce svaki dan, i ostati otvoren kad stvari krenu naopako."
+  },
+  "concepts": [
+    {
+      "slug": "queue-management",
+      "term": "Queues and waiting time",
+      "local": "redovi i vrijeme čekanja",
+      "minutes": 4,
+      "youtube": "UuZ-bymoY_w",
+      "youtubeQuery": "queue management psychology of waiting lines",
+      "related": ["Capacity", "Bottleneck", "Customer experience"],
+      "en": {
+        "one": "Queue management is about reducing how long customers wait, and how long the wait feels.",
+        "explain": "Real waiting drops with more capacity at peak times, appointments, or self-service. Felt waiting drops when people know how long it will take, are kept busy, and see that the line is fair. An unexplained wait always feels longer.",
+        "example": "A bank branch adds a ticket system with a screen showing the expected wait, plus online appointments. Complaints about waiting fall even though the average wait barely changes.",
+        "why": "Long or unfair-feeling queues are one of the fastest ways to lose customers.",
+        "mixup": "Adding staff isn't the only fix. Shifting demand away from peaks, or making the wait feel shorter, can work just as well."
+      },
+      "bs": {
+        "one": "Upravljanje redovima znači smanjiti koliko kupci čekaju, i koliko im se čekanje čini dugim.",
+        "explain": "Stvarno čekanje pada s više kapaciteta u špicama, terminima ili samoposluživanjem. Osjećaj čekanja pada kad ljudi znaju koliko će trajati, kad su nečim zauzeti i kad vide da je red pravedan. Neobjašnjeno čekanje se uvijek čini dužim.",
+        "example": "Poslovnica banke uvede sistem s brojevima i ekranom koji pokazuje očekivano čekanje, plus online termine. Žalbe na čekanje padnu, iako se prosječno čekanje jedva promijenilo.",
+        "why": "Dugi ili nepravedni redovi su jedan od najbržih načina da izgubiš kupce.",
+        "mixup": "Dodavanje radnika nije jedino rješenje. Pomjeranje potražnje izvan špica ili činjenje da čekanje izgleda kraće mogu jednako dobro raditi."
+      }
+    },
+    {
+      "slug": "sla",
+      "term": "Service level agreement (SLA)",
+      "local": "ugovor o nivou usluge",
+      "minutes": 4,
+      "youtube": "lbp3Gu64cx0",
+      "youtubeQuery": "service level agreement SLA explained",
+      "related": ["Supplier selection", "Outsourcing", "KPI"],
+      "en": {
+        "one": "An SLA is a written promise about the level of service: how fast, how reliable, how available, and what happens if the promise is broken.",
+        "explain": "It turns vague words like 'quick support' into measurable numbers, like 'reply within 4 working hours' or '99.9% uptime'. It often includes compensation, like a discount, when targets are missed.",
+        "example": "A web hosting company promises 99.9% uptime. When the site is down for 10 hours in one month, the client gets 20% off that month.",
+        "why": "Both sides know exactly what to expect, which prevents arguments and makes suppliers comparable.",
+        "mixup": "99% uptime sounds great, but it still allows over 7 hours of downtime a month. Read the numbers carefully."
+      },
+      "bs": {
+        "one": "SLA (ugovor o nivou usluge) je pisano obećanje o nivou usluge: koliko brzo, koliko pouzdano, koliko dostupno, i šta se dešava ako se obećanje prekrši.",
+        "explain": "Pretvara nejasne riječi poput 'brza podrška' u mjerljive brojeve, npr. 'odgovor u roku od 4 radna sata' ili '99,9% dostupnosti'. Često uključuje naknadu, npr. popust, kad se ciljevi ne ispune.",
+        "example": "Firma za web hosting obećava 99,9% dostupnosti. Kad stranica ne radi 10 sati u jednom mjesecu, klijent dobije 20% popusta za taj mjesec.",
+        "why": "Obje strane tačno znaju šta da očekuju, što sprečava svađe i čini dobavljače uporedivim.",
+        "mixup": "99% dostupnosti zvuči odlično, ali i dalje dozvoljava preko 7 sati prekida mjesečno. Pažljivo čitaj brojeve."
+      }
+    },
+    {
+      "slug": "shift-scheduling",
+      "term": "Staff scheduling",
+      "local": "raspored rada",
+      "minutes": 4,
+      "youtube": "zKDFFoSURmI",
+      "youtubeQuery": "employee shift scheduling tips",
+      "related": ["Capacity", "Working time", "Forecasting"],
+      "en": {
+        "one": "Staff scheduling is planning who works when, so you have enough people at busy times and not too many at quiet times.",
+        "explain": "Start from expected demand by hour and day, then match staff to it while respecting labour law, rest times and people's lives. Publish schedules early and keep them fair.",
+        "example": "A restaurant looks at last year's sales by hour and sees Friday 19–21h is three times busier than Tuesday afternoon. It shifts two waiters from Tuesday to Friday.",
+        "why": "Wages are often the biggest cost in services, and good scheduling both saves money and keeps service quality up.",
+        "mixup": "Cutting staff to the bare minimum backfires. Tired staff and long waits cost more than one extra shift."
+      },
+      "bs": {
+        "one": "Raspored rada je planiranje ko radi kada, tako da imaš dovoljno ljudi u gužvi, a ne previše kad je mirno.",
+        "explain": "Kreni od očekivane potražnje po satu i danu, pa uskladi radnike s tim, poštujući zakon o radu, odmore i živote ljudi. Objavi raspored rano i neka bude pravedan.",
+        "example": "Restoran pogleda prošlogodišnju prodaju po satima i vidi da je petkom 19–21h tri puta veća gužva nego utorkom popodne. Prebaci dva konobara s utorka na petak.",
+        "why": "Plate su često najveći trošak u uslugama, a dobar raspored i štedi novac i održava kvalitet usluge.",
+        "mixup": "Smanjivanje radnika na goli minimum se obije o glavu. Umorni radnici i dugo čekanje koštaju više od jedne dodatne smjene."
+      }
+    },
+    {
+      "slug": "otif",
+      "term": "On-time in-full (OTIF)",
+      "local": "isporuka na vrijeme i u punoj količini",
+      "minutes": 3,
+      "youtube": "3XyEVn44yaQ",
+      "youtubeQuery": "OTIF on time in full KPI explained",
+      "formula": {
+        "en": "OTIF = Orders on time and complete ÷ All orders × 100%",
+        "bs": "OTIF = Narudžbe na vrijeme i kompletne ÷ Sve narudžbe × 100%"
+      },
+      "related": ["KPI", "Supplier selection", "Lead time and cycle time"],
+      "en": {
+        "one": "OTIF measures the share of orders delivered on time and complete, with the right items and quantities.",
+        "explain": "An order only counts if it is both on time and in full. It's a tough, honest measure of delivery performance, used for your own operations and to judge suppliers.",
+        "example": "Out of 200 orders last month, 180 arrived on time, but 10 of those were missing items. OTIF = 170 ÷ 200 = 85%.",
+        "why": "It shows how reliable you really are from the customer's point of view.",
+        "mixup": "Measuring 'on time' alone can look great while customers keep getting incomplete orders."
+      },
+      "bs": {
+        "one": "OTIF mjeri udio narudžbi isporučenih na vrijeme i kompletno, s pravim artiklima i količinama.",
+        "explain": "Narudžba se računa samo ako je i na vrijeme i u punoj količini. To je strogo, pošteno mjerilo isporuke, koje se koristi za vlastite operacije i za ocjenu dobavljača.",
+        "example": "Od 200 narudžbi prošlog mjeseca, 180 je stiglo na vrijeme, ali 10 od njih nije bilo kompletno. OTIF = 170 ÷ 200 = 85%.",
+        "why": "Pokazuje koliko si stvarno pouzdan iz ugla kupca.",
+        "mixup": "Ako mjeriš samo 'na vrijeme', rezultat može izgledati odlično dok kupci stalno dobijaju nekompletne narudžbe."
+      }
+    },
+    {
+      "slug": "business-continuity",
+      "term": "Business continuity plan",
+      "local": "plan kontinuiteta poslovanja",
+      "minutes": 4,
+      "youtube": "A8t8wi3qH1w",
+      "youtubeQuery": "business continuity plan small business explained",
+      "related": ["Crisis management", "Safety stock", "Supplier selection"],
+      "en": {
+        "one": "A business continuity plan says how you will keep running, or restart fast, after a disruption like a fire, flood, IT outage or losing a key supplier.",
+        "explain": "List the activities you can't stop, what they depend on (people, systems, suppliers, premises) and a backup for each. Keep backups of data off-site, know who to call, and test the plan once a year.",
+        "example": "A small accounting office keeps all files in a cloud system with daily backups. When a pipe floods the office, everyone works from home the next morning.",
+        "why": "Many small businesses that suffer a major disruption without a plan never fully recover.",
+        "mixup": "Insurance isn't a continuity plan. It may pay later, but it won't keep your customers while you're closed."
+      },
+      "bs": {
+        "one": "Business continuity plan (plan kontinuiteta poslovanja) kaže kako ćeš nastaviti raditi, ili brzo ponovo pokrenuti posao, nakon prekida kao što su požar, poplava, pad IT sistema ili gubitak ključnog dobavljača.",
+        "explain": "Nabroji aktivnosti koje ne smiješ zaustaviti, od čega zavise (ljudi, sistemi, dobavljači, prostor) i rezervu za svaku. Čuvaj kopije podataka van firme, znaj koga zvati i testiraj plan jednom godišnje.",
+        "example": "Mala knjigovodstvena kancelarija drži sve fajlove u cloud sistemu s dnevnim kopijama. Kad pukne cijev i poplavi kancelariju, svi sljedeće jutro rade od kuće.",
+        "why": "Mnoge male firme koje dožive veliki prekid bez plana se nikad potpuno ne oporave.",
+        "mixup": "Osiguranje nije plan kontinuiteta. Možda kasnije plati, ali ti neće sačuvati kupce dok si zatvoren."
+      }
+    },
+    {
+      "slug": "sustainable-operations",
+      "term": "Sustainable operations",
+      "local": "održive operacije",
+      "minutes": 4,
+      "youtube": "-LXhTJpl9_U",
+      "youtubeQuery": "sustainable operations business explained",
+      "related": ["Lean", "Seven wastes", "Reverse logistics"],
+      "en": {
+        "one": "Sustainable operations means running the business with less energy, less material and less waste, and treating workers and suppliers fairly.",
+        "explain": "Often it goes hand in hand with lean: less waste usually means lower cost. Typical steps: energy-efficient equipment, less packaging, local suppliers, repair and reuse, and measuring your footprint. Larger EU companies now must report on this, and their suppliers are asked for data too.",
+        "example": "A bakery donates unsold bread to a food bank at closing time and switches to LED lighting. Its energy bill drops by 15% and its local reputation grows.",
+        "why": "Customers, big buyers and banks increasingly ask about it, and it often saves money.",
+        "mixup": "Green claims without real changes ('greenwashing') can backfire and, in the EU, break consumer law."
+      },
+      "bs": {
+        "one": "Održive operacije znače voditi firmu s manje energije, manje materijala i manje otpada, i pošteno se odnositi prema radnicima i dobavljačima.",
+        "explain": "Često ide ruku pod ruku s leanom: manje rasipanja obično znači manji trošak. Tipični koraci: energetski efikasna oprema, manje ambalaže, lokalni dobavljači, popravka i ponovna upotreba, i mjerenje svog otiska. Veće EU firme sada moraju izvještavati o ovome, a i od njihovih dobavljača se traže podaci.",
+        "example": "Pekara na kraju dana donira neprodati hljeb banci hrane i pređe na LED rasvjetu. Račun za struju padne za 15%, a ugled u kraju raste.",
+        "why": "Kupci, veliki naručioci i banke sve više pitaju o tome, a često i štedi novac.",
+        "mixup": "Zelene tvrdnje bez stvarnih promjena ('greenwashing') mogu se obiti o glavu i u EU kršiti zakon o zaštiti potrošača."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "200 orders: 170 were on time and complete. What is the OTIF?",
+        "bs": "200 narudžbi: 170 je bilo na vrijeme i kompletno. Koliki je OTIF?"
+      },
+      "options": [
+        { "en": "85%", "bs": "85%" },
+        { "en": "90%", "bs": "90%" },
+        { "en": "170%", "bs": "170%" }
+      ],
+      "answer": 0,
+      "explain": { "en": "170 ÷ 200 × 100% = 85%.", "bs": "170 ÷ 200 × 100% = 85%." }
+    },
+    {
+      "q": { "en": "What usually makes a wait feel shorter?", "bs": "Šta obično čini da čekanje izgleda kraće?" },
+      "options": [
+        { "en": "A wait with no information", "bs": "Čekanje bez informacija" },
+        { "en": "Seeing others skip the line", "bs": "Vidjeti da drugi preskaču red" },
+        { "en": "Knowing how long it will take", "bs": "Znati koliko će trajati" }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "Uncertain and unfair waits feel longer. Information makes them feel shorter.",
+        "bs": "Neizvjesna i nepravedna čekanja se čine dužim. Informacija ih čini kraćim."
+      }
+    },
+    {
+      "q": {
+        "en": "An SLA promises '99.9% uptime'. What is it?",
+        "bs": "SLA obećava '99,9% dostupnosti'. Šta je to?"
+      },
+      "options": [
+        { "en": "A marketing slogan", "bs": "Marketinški slogan" },
+        { "en": "An insurance policy", "bs": "Polisa osiguranja" },
+        { "en": "A measurable service promise", "bs": "Mjerljivo obećanje o usluzi" }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "An SLA puts numbers on service levels, often with compensation if missed.",
+        "bs": "SLA stavlja brojeve na nivo usluge, često s naknadom ako se ne ispuni."
+      }
+    },
+    {
+      "q": {
+        "en": "Why isn't insurance enough instead of a continuity plan?",
+        "bs": "Zašto osiguranje nije dovoljno umjesto plana kontinuiteta?"
+      },
+      "options": [
+        { "en": "It is illegal", "bs": "Nije zakonito" },
+        {
+          "en": "It may pay later but won't keep you running",
+          "bs": "Možda plati kasnije, ali te neće održati u radu"
+        },
+        { "en": "Insurance never pays", "bs": "Osiguranje nikad ne plaća" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Customers leave while you're closed. A plan gets you running again quickly.",
+        "bs": "Kupci odlaze dok si zatvoren. Plan te brzo vraća u rad."
+      }
+    }
+  ]
+}

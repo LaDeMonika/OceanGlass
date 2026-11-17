@@ -1,0 +1,211 @@
+{
+  "slug": "fair-play-and-compliance",
+  "title": { "en": "Fair competition and compliance", "bs": "Poštena konkurencija i usklađenost" },
+  "summary": {
+    "en": "Competing fairly, paying taxes properly, and staying away from corruption and dirty money.",
+    "bs": "Pošteno se takmičiti, ispravno plaćati porez i kloniti se korupcije i prljavog novca."
+  },
+  "concepts": [
+    {
+      "slug": "competition-law",
+      "term": "Competition law and cartels",
+      "local": "pravo konkurencije i karteli",
+      "minutes": 4,
+      "youtube": "O0coWltRKgE",
+      "youtubeQuery": "competition law cartels price fixing explained",
+      "related": ["Market structures", "Abuse of dominance", "Monopoly"],
+      "en": {
+        "one": "Competition law stops businesses from agreeing among themselves to avoid competing, for example by fixing prices or splitting customers.",
+        "explain": "Such deals between competitors are called cartels and are illegal almost everywhere, including in BiH and the EU. Even an informal chat about 'not going below a certain price' can count. Fines can be up to 10% of a company's yearly turnover.",
+        "example": "Three bakeries in a town agree over coffee to all raise bread prices by 10 cents on the same day. That's price fixing.",
+        "why": "Fines are huge and managers can face personal consequences. Fair competition also keeps businesses sharp.",
+        "mixup": "Charging the same price as competitors isn't illegal if you each decided it alone. Agreeing on it together is."
+      },
+      "bs": {
+        "one": "Competition law (pravo konkurencije) sprečava firme da se međusobno dogovore kako se ne bi takmičile, npr. dogovaranjem cijena ili dijeljenjem kupaca.",
+        "explain": "Takvi dogovori između konkurenata zovu se karteli i nezakoniti su skoro svuda, uključujući BiH i EU. I neformalan razgovor o tome da se 'ne ide ispod neke cijene' može se računati. Kazne mogu biti do 10% godišnjeg prometa firme.",
+        "example": "Tri pekare u gradu se uz kafu dogovore da sve istog dana podignu cijenu hljeba za 10 feninga. To je dogovaranje cijena.",
+        "why": "Kazne su ogromne, a menadžeri mogu snositi lične posljedice. Poštena konkurencija također drži firme u formi.",
+        "mixup": "Ista cijena kao kod konkurencije nije nezakonita ako je svako sam odlučio. Zajednički dogovor jeste."
+      }
+    },
+    {
+      "slug": "abuse-of-dominance",
+      "term": "Abuse of dominance",
+      "local": "zloupotreba dominantnog položaja",
+      "minutes": 4,
+      "youtube": "9IX6zAXVgcI",
+      "youtubeQuery": "abuse of dominant position explained",
+      "related": ["Competition law and cartels", "Monopoly", "Market structures"],
+      "en": {
+        "one": "Being big is legal, but a company that dominates a market isn't allowed to use that power to push out competitors or exploit customers.",
+        "explain": "Examples of abuse: selling below cost to kill a smaller rival, forcing customers to buy one product to get another, refusing to supply without a good reason, or charging unfairly high prices. Regulators look at market share and how easily others can enter.",
+        "example": "A dominant distributor tells shops they can only stock its drinks if they don't sell a new local brand. That can be abuse of dominance.",
+        "why": "If you're small, these rules protect you. If you grow big, they limit what you may do.",
+        "mixup": "Winning a big market share with a better product isn't abuse. Abuse is how the power is used."
+      },
+      "bs": {
+        "one": "Biti velik je legalno, ali firma koja dominira tržištem ne smije tu moć koristiti da istjera konkurente ili iskorištava kupce.",
+        "explain": "Primjeri zloupotrebe: prodaja ispod troška da se uništi manji konkurent, uslovljavanje kupovine jednog proizvoda drugim, odbijanje isporuke bez dobrog razloga ili nepravedno visoke cijene. Regulatori gledaju tržišni udio i koliko lako drugi mogu ući.",
+        "example": "Dominantni distributer kaže prodavnicama da mogu držati njegova pića samo ako ne prodaju novi lokalni brend. To može biti zloupotreba dominantnog položaja.",
+        "why": "Ako si mali, ova pravila te štite. Ako narasteš, ograničavaju šta smiješ raditi.",
+        "mixup": "Osvojiti veliki tržišni udio boljim proizvodom nije zloupotreba. Zloupotreba je način na koji se moć koristi."
+      }
+    },
+    {
+      "slug": "tax-avoidance-evasion",
+      "term": "Tax planning vs. tax evasion",
+      "local": "porezno planiranje i utaja poreza",
+      "minutes": 4,
+      "youtube": "QxeqrV_aZtE",
+      "youtubeQuery": "tax avoidance vs tax evasion difference",
+      "related": ["Profit tax", "Deductible expenses", "Business ethics"],
+      "en": {
+        "one": "Tax planning is legally arranging your affairs to pay less tax. Tax evasion is illegally hiding income or faking costs to avoid paying tax.",
+        "explain": "Legal: claiming all real business expenses, choosing the right legal form, timing investments. Illegal: sales without receipts, fake invoices, paying wages 'in an envelope'. In between is aggressive avoidance: legal on paper but against the spirit of the law, and often challenged by tax authorities.",
+        "example": "A café that books all real costs and buys a new coffee machine before year-end is planning. A café that rings up only half its sales is evading.",
+        "why": "Evasion brings fines, back taxes, and in serious cases prison. It also makes a business impossible to sell or finance.",
+        "mixup": "'Everyone does it' isn't a defence. Cash businesses are exactly where tax inspectors look first."
+      },
+      "bs": {
+        "one": "Porezno planiranje je zakonito uređivanje poslova da se plati manje poreza. Utaja poreza je nezakonito skrivanje prihoda ili lažiranje troškova da se porez ne plati.",
+        "explain": "Zakonito: priznavanje svih stvarnih poslovnih troškova, izbor pravog pravnog oblika, tempiranje investicija. Nezakonito: prodaja bez računa, lažne fakture, plate 'u koverti'. Između je agresivno izbjegavanje: zakonito na papiru, ali protiv duha zakona, i porezne uprave ga često osporavaju.",
+        "example": "Kafić koji knjiži sve stvarne troškove i kupi novi aparat za kafu prije kraja godine planira. Kafić koji otkuca samo pola prodaje utaje porez.",
+        "why": "Utaja donosi kazne, dodatni porez, a u ozbiljnim slučajevima i zatvor. Također čini firmu nemogućom za prodaju ili finansiranje.",
+        "mixup": "'Svi to rade' nije odbrana. Gotovinski poslovi su baš mjesto gdje porezni inspektori prvo gledaju."
+      }
+    },
+    {
+      "slug": "fiscal-receipts",
+      "term": "Fiscal receipts",
+      "local": "fiskalni računi",
+      "minutes": 3,
+      "youtube": "ycLPsLKmET4",
+      "youtubeQuery": "fiscal cash register receipts explained",
+      "related": ["Tax planning vs. tax evasion", "Invoice", "VAT"],
+      "en": {
+        "one": "Many countries, including BiH, require shops and restaurants to issue every cash sale through a registered fiscal device that reports to the tax authority.",
+        "explain": "Each sale must get a fiscal receipt. The device records the sale so it can't be hidden later. Not issuing receipts can bring fines and even temporary closure of the business. Several countries are moving to online real-time reporting.",
+        "example": "A tax inspector orders a coffee, gets no receipt, and the café receives a fine and a closure order.",
+        "why": "It's one of the most checked rules for small businesses, and an easy one to get right.",
+        "mixup": "A fiscal receipt isn't the same as an invoice to a business customer, which needs more details like the buyer's tax number."
+      },
+      "bs": {
+        "one": "Mnoge zemlje, uključujući BiH, traže da prodavnice i restorani svaku gotovinsku prodaju evidentiraju kroz registrovan fiskalni uređaj koji izvještava poreznu upravu.",
+        "explain": "Svaka prodaja mora dobiti fiskalni račun. Uređaj bilježi prodaju pa se kasnije ne može sakriti. Neizdavanje računa može donijeti kazne, pa čak i privremeno zatvaranje. Nekoliko zemalja prelazi na online izvještavanje u realnom vremenu.",
+        "example": "Porezni inspektor naruči kafu, ne dobije račun, i kafić dobije kaznu i nalog za zatvaranje.",
+        "why": "To je jedno od najčešće provjeravanih pravila za male firme, a lako ga je poštovati.",
+        "mixup": "Fiskalni račun nije isto što i faktura poslovnom kupcu, koja traži više podataka, npr. porezni broj kupca."
+      }
+    },
+    {
+      "slug": "anti-money-laundering",
+      "term": "Anti-money laundering (AML)",
+      "local": "sprečavanje pranja novca",
+      "minutes": 4,
+      "youtube": "rYhT5CB3dz0",
+      "youtubeQuery": "anti money laundering explained simply",
+      "related": ["Know your customer", "Tax planning vs. tax evasion", "Business ethics"],
+      "en": {
+        "one": "Money laundering is making criminal money look legal by passing it through normal-looking businesses or transactions.",
+        "explain": "AML rules require banks and some businesses (like real estate agents, accountants and car dealers) to check who their customers are, watch for suspicious payments, limit large cash payments and report suspicions to the authorities.",
+        "example": "Someone wants to buy a car for 60,000 KM in cash and refuses to show where the money comes from. The dealer should refuse and report it.",
+        "why": "Getting caught up in laundering, even by not asking questions, can mean fines, losing your bank account, or criminal charges.",
+        "mixup": "It isn't only a bank's problem. Any business taking large cash amounts should ask where the money comes from."
+      },
+      "bs": {
+        "one": "Money laundering (pranje novca) je činjenje da kriminalni novac izgleda legalno, provlačenjem kroz normalne poslove ili transakcije.",
+        "explain": "AML pravila traže od banaka i nekih firmi (npr. agenata za nekretnine, računovođa i prodavaca automobila) da provjere ko su im kupci, prate sumnjive uplate, ograniče velika gotovinska plaćanja i prijave sumnje nadležnima.",
+        "example": "Neko želi kupiti auto za 60.000 KM u gotovini i odbija pokazati odakle mu novac. Prodavac treba odbiti i prijaviti.",
+        "why": "Upletenost u pranje novca, čak i kroz nepostavljanje pitanja, može značiti kazne, gubitak bankovnog računa ili krivičnu prijavu.",
+        "mixup": "Nije to samo problem banaka. Svaka firma koja prima velike gotovinske iznose treba pitati odakle novac."
+      }
+    },
+    {
+      "slug": "bribery-corruption",
+      "term": "Bribery and corruption",
+      "local": "mito i korupcija",
+      "minutes": 4,
+      "youtube": "2hlUcQVGanY",
+      "youtubeQuery": "bribery and corruption in business explained",
+      "related": ["Business ethics", "Conflict of interest", "Code of conduct"],
+      "en": {
+        "one": "Bribery is offering, giving or accepting something of value to improperly influence a decision.",
+        "explain": "It can be cash, gifts, trips, jobs for relatives or 'consulting fees'. Bribing officials is a crime almost everywhere, and many countries also punish bribery between companies. EU and US laws can apply even to deals done abroad. Small 'facilitation payments' to speed up paperwork are also bribes in most countries.",
+        "example": "A supplier offers a purchasing manager a free holiday if the contract is renewed. Accepting it is bribery, even if the supplier was going to win anyway.",
+        "why": "Corruption leads to fines, prison and lost contracts, and once known, it destroys trust in a company.",
+        "mixup": "A small gift isn't automatically a bribe. Clear rules (for example, a value limit and registering gifts) help draw the line."
+      },
+      "bs": {
+        "one": "Bribery (mito) je nuđenje, davanje ili primanje nečeg vrijednog da bi se nepropisno uticalo na odluku.",
+        "explain": "Može biti gotovina, pokloni, putovanja, poslovi za rodbinu ili 'konsultantske naknade'. Podmićivanje službenika je krivično djelo skoro svuda, a mnoge zemlje kažnjavaju i mito između firmi. Zakoni EU i SAD mogu važiti i za poslove u inostranstvu. Mala 'plaćanja za ubrzanje' papirologije su također mito u većini zemalja.",
+        "example": "Dobavljač ponudi nabavnom menadžeru besplatan odmor ako se ugovor obnovi. Prihvatanje je mito, čak i da bi dobavljač i inače pobijedio.",
+        "why": "Korupcija vodi do kazni, zatvora i izgubljenih ugovora, a kad se sazna, uništava povjerenje u firmu.",
+        "mixup": "Mali poklon nije automatski mito. Jasna pravila (npr. ograničenje vrijednosti i evidencija poklona) pomažu povući granicu."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "Competing bakeries agree to raise bread prices on the same day. This is…",
+        "bs": "Pekare konkurenti se dogovore da istog dana podignu cijenu hljeba. To je…"
+      },
+      "options": [
+        { "en": "Psychological pricing", "bs": "Psihološko određivanje cijena" },
+        { "en": "An illegal cartel", "bs": "Nezakonit kartel" },
+        { "en": "Normal market pricing", "bs": "Normalno tržišno određivanje cijena" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Agreeing on prices with competitors is price fixing.",
+        "bs": "Dogovaranje cijena s konkurentima je kartelni dogovor."
+      }
+    },
+    {
+      "q": { "en": "Which of these is legal tax planning?", "bs": "Šta od ovoga je zakonito porezno planiranje?" },
+      "options": [
+        { "en": "Not ringing up some sales", "bs": "Neotkucavanje dijela prodaje" },
+        { "en": "Claiming all real business expenses", "bs": "Priznavanje svih stvarnih poslovnih troškova" },
+        { "en": "Paying wages in cash 'in an envelope'", "bs": "Isplata plata u gotovini 'u koverti'" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Using real deductions is legal. The other two hide income from the tax office.",
+        "bs": "Korištenje stvarnih odbitaka je zakonito. Druge dvije opcije skrivaju prihod od porezne."
+      }
+    },
+    {
+      "q": {
+        "en": "A customer wants to pay 60,000 KM in cash and won't explain where it's from. What should a car dealer do?",
+        "bs": "Kupac želi platiti 60.000 KM u gotovini i ne želi objasniti odakle novac. Šta treba uraditi prodavac auta?"
+      },
+      "options": [
+        { "en": "Refuse and report the suspicion", "bs": "Odbiti i prijaviti sumnju" },
+        { "en": "Accept, cash is cash", "bs": "Prihvatiti, gotovina je gotovina" },
+        { "en": "Give a discount for cash", "bs": "Dati popust za gotovinu" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "These are classic money-laundering warning signs.",
+        "bs": "Ovo su klasični znakovi upozorenja za pranje novca."
+      }
+    },
+    {
+      "q": {
+        "en": "A supplier offers your buyer a free holiday if the contract is renewed. This is…",
+        "bs": "Dobavljač nudi tvom nabavljaču besplatan odmor ako se ugovor obnovi. To je…"
+      },
+      "options": [
+        { "en": "A normal business gift", "bs": "Normalan poslovni poklon" },
+        { "en": "Marketing", "bs": "Marketing" },
+        { "en": "Bribery", "bs": "Mito" }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "A valuable gift tied to a decision is a bribe.",
+        "bs": "Vrijedan poklon vezan za odluku je mito."
+      }
+    }
+  ]
+}

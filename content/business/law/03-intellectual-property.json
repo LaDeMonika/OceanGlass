@@ -1,0 +1,211 @@
+{
+  "slug": "intellectual-property",
+  "title": { "en": "Intellectual property", "bs": "Intelektualno vlasništvo" },
+  "summary": {
+    "en": "Protecting names, ideas, designs and know-how, and not using other people's by accident.",
+    "bs": "Zaštita naziva, ideja, dizajna i znanja, i kako slučajno ne koristiti tuđe."
+  },
+  "concepts": [
+    {
+      "slug": "intellectual-property",
+      "term": "Intellectual property (IP)",
+      "local": "intelektualno vlasništvo",
+      "minutes": 4,
+      "youtube": "uvWvtoX-b24",
+      "youtubeQuery": "intellectual property explained simply",
+      "related": ["Trademark", "Copyright", "Patent"],
+      "en": {
+        "one": "Intellectual property is ownership of things you create with your mind: brands, texts, designs, inventions and secret know-how.",
+        "explain": "The main types are trademarks (names and logos), copyright (creative works like text, photos, code), patents (inventions), designs (how a product looks) and trade secrets. Each protects something different, for a different time, in a different way.",
+        "example": "A chocolate maker owns the trademark for its brand name, copyright on its packaging photos, a registered design for its bar shape, and keeps its recipe a trade secret.",
+        "why": "For many businesses, their brand and know-how are worth more than their machines.",
+        "mixup": "Having an idea isn't owning it. Ideas alone aren't protected; the specific expression, invention or brand is."
+      },
+      "bs": {
+        "one": "Intellectual property (intelektualno vlasništvo) je vlasništvo nad onim što stvoriš umom: brendovi, tekstovi, dizajni, izumi i tajno znanje.",
+        "explain": "Glavne vrste su žigovi (nazivi i logotipi), autorska prava (kreativna djela poput teksta, slika, koda), patenti (izumi), industrijski dizajn (kako proizvod izgleda) i poslovne tajne. Svaka štiti nešto drugo, različito dugo i na različit način.",
+        "example": "Proizvođač čokolade ima žig na naziv brenda, autorska prava na slike s ambalaže, registrovan dizajn oblika table, a recept čuva kao poslovnu tajnu.",
+        "why": "Za mnoge firme brend i znanje vrijede više od mašina.",
+        "mixup": "Imati ideju ne znači posjedovati je. Same ideje nisu zaštićene; zaštićen je konkretan izraz, izum ili brend."
+      }
+    },
+    {
+      "slug": "trademark",
+      "term": "Trademark",
+      "local": "žig, zaštitni znak",
+      "minutes": 4,
+      "youtube": "GqCksDhMdLU",
+      "youtubeQuery": "what is a trademark explained",
+      "related": ["Brand", "Intellectual property", "Brand identity"],
+      "en": {
+        "one": "A trademark is a registered name, logo or slogan that only you may use for your type of products or services.",
+        "explain": "You register it with the national IP office (in BiH, the Institute for Intellectual Property) or for the whole EU. It covers specific classes of goods, can be renewed forever, and lets you stop others from using a confusingly similar name.",
+        "example": "A Mostar coffee roaster registers its brand name. A year later, a competitor opens a café with almost the same name and must change it.",
+        "why": "Without registration, someone else can register your name first and force you to rebrand.",
+        "mixup": "Registering a company name or buying a domain isn't the same as a trademark. They don't give you the same protection."
+      },
+      "bs": {
+        "one": "Trademark (žig, zaštitni znak) je registrovan naziv, logo ili slogan koji samo ti smiješ koristiti za svoju vrstu proizvoda ili usluga.",
+        "explain": "Registruješ ga kod nacionalnog zavoda (u BiH, Institut za intelektualno vlasništvo) ili za cijelu EU. Pokriva određene klase robe, može se obnavljati zauvijek i omogućava ti da zabraniš drugima korištenje naziva koji zbunjujuće liči.",
+        "example": "Pržionica kafe iz Mostara registruje naziv brenda. Godinu kasnije konkurent otvori kafić skoro istog naziva i mora ga promijeniti.",
+        "why": "Bez registracije, neko drugi može prvi registrovati tvoj naziv i natjerati te na rebranding.",
+        "mixup": "Registracija naziva firme ili kupovina domene nije isto što i žig. Ne daju istu zaštitu."
+      }
+    },
+    {
+      "slug": "copyright",
+      "term": "Copyright",
+      "local": "autorsko pravo",
+      "minutes": 4,
+      "youtube": "Tamoj84j64I",
+      "youtubeQuery": "copyright explained for small business",
+      "related": ["Intellectual property", "Licensing", "Content marketing"],
+      "en": {
+        "one": "Copyright protects original creative work, like text, photos, music, videos, designs and software, automatically from the moment it's created.",
+        "explain": "No registration is needed. The creator decides who may copy, change or share the work, usually for their life plus 70 years. Using someone else's photo or music in your marketing without permission is infringement, even if you found it online.",
+        "example": "A shop copies a photo from Google for its Instagram ad. The photographer finds it and demands a licence fee.",
+        "why": "It protects your content, and it keeps you from expensive mistakes with other people's.",
+        "mixup": "If you pay a freelancer to create something, you don't automatically own all rights. Put the transfer of rights in the contract."
+      },
+      "bs": {
+        "one": "Copyright (autorsko pravo) štiti originalno kreativno djelo, kao što su tekst, fotografije, muzika, video, dizajn i softver, automatski od trenutka nastanka.",
+        "explain": "Registracija nije potrebna. Autor odlučuje ko smije kopirati, mijenjati ili dijeliti djelo, obično dok je živ plus 70 godina. Korištenje tuđe slike ili muzike u marketingu bez dozvole je povreda prava, čak i ako si je našao na internetu.",
+        "example": "Prodavnica kopira sliku s Googlea za Instagram oglas. Fotograf je pronađe i traži naknadu za licencu.",
+        "why": "Štiti tvoj sadržaj i čuva te od skupih grešaka s tuđim.",
+        "mixup": "Ako platiš frilensera da nešto napravi, ne posjeduješ automatski sva prava. Prenos prava stavi u ugovor."
+      }
+    },
+    {
+      "slug": "patent",
+      "term": "Patent",
+      "local": "patent",
+      "minutes": 4,
+      "youtube": "3MUGEPZHCRI",
+      "youtubeQuery": "what is a patent explained simply",
+      "related": ["Intellectual property", "Trade secret", "Licensing"],
+      "en": {
+        "one": "A patent gives you the exclusive right to use and sell a new invention for up to 20 years.",
+        "explain": "The invention must be new, not obvious, and useful in industry. To get it, you publish a detailed description, so after it expires, anyone can use it. Patents are expensive and slow, and protect you only in the countries where you file.",
+        "example": "A small engineering firm invents a new valve, patents it in the EU, and licenses it to a bigger manufacturer for a fee per unit sold.",
+        "why": "A patent can make an invention much more valuable and attract investors.",
+        "mixup": "Telling people about your invention before filing can destroy its 'newness'. Use an NDA and file first."
+      },
+      "bs": {
+        "one": "Patent ti daje isključivo pravo da koristiš i prodaješ novi izum do 20 godina.",
+        "explain": "Izum mora biti nov, ne smije biti očigledan i mora biti primjenjiv u industriji. Da ga dobiješ, objaviš detaljan opis, pa nakon isteka svako ga može koristiti. Patenti su skupi i spori, i štite te samo u zemljama gdje ih prijaviš.",
+        "example": "Mala inženjerska firma izumi novi ventil, patentira ga u EU i licencira većem proizvođaču uz naknadu po prodatom komadu.",
+        "why": "Patent može izum učiniti mnogo vrijednijim i privući investitore.",
+        "mixup": "Ako pričaš o izumu prije prijave, možeš uništiti njegovu 'novost'. Koristi NDA i prvo prijavi."
+      }
+    },
+    {
+      "slug": "trade-secret-nda",
+      "term": "Trade secrets and NDAs",
+      "local": "poslovna tajna i ugovor o povjerljivosti",
+      "minutes": 4,
+      "youtube": "_O0MgMvFm3s",
+      "youtubeQuery": "trade secret and NDA explained",
+      "related": ["Patent", "Intellectual property", "Contract"],
+      "en": {
+        "one": "A trade secret is valuable business information you keep confidential. An NDA (non-disclosure agreement) is a contract that obliges someone to keep it secret.",
+        "explain": "Recipes, customer lists, pricing models and processes can all be trade secrets, as long as you actively protect them: limit access, mark documents as confidential and use NDAs with staff and partners.",
+        "example": "Before showing a potential investor its supplier list and margins, a start-up asks them to sign an NDA.",
+        "why": "Trade secrets can last forever and cost nothing to register, but only if you guard them.",
+        "mixup": "Many investors won't sign NDAs for a first pitch. Share the big picture, keep the real secrets for later."
+      },
+      "bs": {
+        "one": "Trade secret (poslovna tajna) je vrijedna poslovna informacija koju čuvaš u tajnosti. NDA (ugovor o povjerljivosti) je ugovor koji nekoga obavezuje da je čuva.",
+        "explain": "Recepti, liste kupaca, modeli cijena i procesi mogu biti poslovne tajne, dok god ih aktivno štitiš: ograniči pristup, označi dokumente kao povjerljive i koristi NDA s radnicima i partnerima.",
+        "example": "Prije nego potencijalnom investitoru pokaže listu dobavljača i marže, start-up traži da potpiše NDA.",
+        "why": "Poslovne tajne mogu trajati zauvijek i ne koštaju ništa za registraciju, ali samo ako ih čuvaš.",
+        "mixup": "Mnogi investitori neće potpisati NDA za prvu prezentaciju. Podijeli širu sliku, a prave tajne čuvaj za kasnije."
+      }
+    },
+    {
+      "slug": "licensing",
+      "term": "Licensing",
+      "local": "licenciranje",
+      "minutes": 4,
+      "youtube": "cTZ3_BhN1_8",
+      "youtubeQuery": "licensing intellectual property explained",
+      "related": ["Copyright", "Patent", "Franchise"],
+      "en": {
+        "one": "Licensing means letting someone else use your IP, or using theirs, under agreed conditions, usually for a fee.",
+        "explain": "A licence says what may be used, where, for how long, whether it's exclusive, and what's paid (a one-off fee or a royalty per sale). Software, music, photos, brands and patents are commonly licensed.",
+        "example": "A café pays a yearly fee to play music legally, and a clothing brand pays a royalty to print a famous cartoon character on T-shirts.",
+        "why": "It turns IP into income without having to make everything yourself, and lets you use others' IP legally.",
+        "mixup": "Buying a licence isn't buying ownership. When it ends, or if you break its terms, you must stop using it."
+      },
+      "bs": {
+        "one": "Licensing (licenciranje) znači dozvoliti nekom drugom da koristi tvoje intelektualno vlasništvo, ili ti koristiti tuđe, pod dogovorenim uslovima, obično uz naknadu.",
+        "explain": "Licenca kaže šta se smije koristiti, gdje, koliko dugo, je li isključiva i šta se plaća (jednokratna naknada ili tantijema po prodaji). Često se licenciraju softver, muzika, fotografije, brendovi i patenti.",
+        "example": "Kafić plaća godišnju naknadu da legalno pušta muziku, a brend odjeće plaća tantijemu da štampa poznati crtani lik na majice.",
+        "why": "Pretvara intelektualno vlasništvo u prihod bez da sve sam praviš, i omogućava ti da legalno koristiš tuđe.",
+        "mixup": "Kupovina licence nije kupovina vlasništva. Kad istekne, ili ako prekršiš uslove, moraš prestati koristiti."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "Your company's recipe is valuable and you never want it public. What protection fits best?",
+        "bs": "Recept tvoje firme je vrijedan i nikad ga ne želiš objaviti. Koja zaštita najbolje odgovara?"
+      },
+      "options": [
+        { "en": "Trade secret", "bs": "Poslovna tajna" },
+        { "en": "Patent", "bs": "Patent" },
+        { "en": "Trademark", "bs": "Žig" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "A patent requires publishing the details. A trade secret stays secret as long as you protect it.",
+        "bs": "Patent traži objavu detalja. Poslovna tajna ostaje tajna dok je štitiš."
+      }
+    },
+    {
+      "q": {
+        "en": "Do you need to register copyright for your own photos?",
+        "bs": "Trebaš li registrovati autorsko pravo za svoje fotografije?"
+      },
+      "options": [
+        { "en": "Yes, with a notary", "bs": "Da, kod notara" },
+        { "en": "No, it's automatic", "bs": "Ne, automatsko je" },
+        { "en": "Yes, at the court", "bs": "Da, na sudu" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Copyright arises automatically when a work is created.",
+        "bs": "Autorsko pravo nastaje automatski kad djelo nastane."
+      }
+    },
+    {
+      "q": { "en": "Which protects a brand name or logo?", "bs": "Šta štiti naziv brenda ili logo?" },
+      "options": [
+        { "en": "NDA", "bs": "NDA" },
+        { "en": "Trademark", "bs": "Žig" },
+        { "en": "Patent", "bs": "Patent" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Trademarks protect names, logos and slogans used in trade.",
+        "bs": "Žigovi štite nazive, logotipe i slogane koji se koriste u prometu."
+      }
+    },
+    {
+      "q": {
+        "en": "You found a great photo on Google for your ad. Can you use it?",
+        "bs": "Našao si odličnu sliku na Googleu za oglas. Smiješ li je koristiti?"
+      },
+      "options": [
+        { "en": "Only with permission or a licence", "bs": "Samo uz dozvolu ili licencu" },
+        { "en": "Yes, it's online so it's free", "bs": "Da, na internetu je pa je besplatna" },
+        { "en": "Yes, if you credit the source", "bs": "Da, ako navedeš izvor" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Being online doesn't make a photo free. Crediting it isn't the same as permission.",
+        "bs": "To što je na internetu ne znači da je slika besplatna. Navođenje izvora nije isto što i dozvola."
+      }
+    }
+  ]
+}

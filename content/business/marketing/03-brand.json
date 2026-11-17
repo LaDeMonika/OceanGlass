@@ -1,0 +1,207 @@
+{
+  "slug": "brand",
+  "title": { "en": "Brand", "bs": "Brend" },
+  "summary": {
+    "en": "What makes people remember, trust and prefer you over others.",
+    "bs": "Šta čini da te ljudi zapamte, vjeruju ti i biraju tebe umjesto drugih."
+  },
+  "concepts": [
+    {
+      "slug": "brand",
+      "term": "Brand",
+      "local": "brend",
+      "minutes": 5,
+      "youtube": "sO4te2QNsHY",
+      "youtubeQuery": "what is a brand explained simply",
+      "related": ["Brand identity", "Positioning", "Brand awareness"],
+      "en": {
+        "one": "A brand is what people think and feel when they hear your name.",
+        "explain": "It is built from every experience: the product, the service, the price, how you talk, what others say about you. The logo and colours are only the visible signs. A strong brand lets you charge more and keeps customers coming back.",
+        "example": "Many people pay more for a known coffee brand than for an unknown one of the same quality, because they trust what they'll get.",
+        "why": "A brand is an asset: it makes selling easier and more profitable over time.",
+        "mixup": "A brand is not your logo. You can have a beautiful logo and a bad brand if the experience disappoints people."
+      },
+      "bs": {
+        "one": "Brand (brend) je ono što ljudi misle i osjećaju kad čuju tvoje ime.",
+        "explain": "Gradi se iz svakog iskustva: proizvoda, usluge, cijene, načina govora, onoga što drugi kažu o tebi. Logo i boje su samo vidljivi znakovi. Jak brend ti omogućava višu cijenu i vraća kupce.",
+        "example": "Mnogi plaćaju više za poznati brend kafe nego za nepoznat istog kvaliteta, jer vjeruju u ono što će dobiti.",
+        "why": "Brend je imovina: s vremenom prodaju čini lakšom i profitabilnijom.",
+        "mixup": "Brend nije tvoj logo. Možeš imati prelijep logo i loš brend ako iskustvo razočara ljude."
+      }
+    },
+    {
+      "slug": "brand-identity",
+      "term": "Brand identity",
+      "local": "vizuelni identitet brenda",
+      "minutes": 5,
+      "youtube": "ZKFsHTJx7XY",
+      "youtubeQuery": "brand identity explained logo colors tone of voice",
+      "related": ["Brand", "Positioning", "Storytelling"],
+      "en": {
+        "one": "Brand identity is the set of visible and audible signs that make you recognisable: name, logo, colours, fonts, tone of voice.",
+        "explain": "It should match your positioning and stay consistent everywhere: shop sign, website, packaging, invoices, social posts. Consistency helps people recognise you instantly.",
+        "example": "A children's bookshop uses bright colours, a playful font and a friendly 'Hey, little reader!' tone across its shop and Instagram.",
+        "why": "Consistent identity makes every ad and post build on the last one, instead of starting from zero.",
+        "mixup": "Changing your logo often doesn't refresh your brand; it mostly confuses people who were starting to recognise you."
+      },
+      "bs": {
+        "one": "Brand identity (vizuelni identitet brenda) je skup vidljivih i čujnih znakova po kojima si prepoznatljiv: ime, logo, boje, fontovi, ton komunikacije.",
+        "explain": "Treba se slagati s pozicioniranjem i ostati dosljedan svuda: tabla na radnji, sajt, pakovanje, fakture, objave. Dosljednost pomaže ljudima da te odmah prepoznaju.",
+        "example": "Dječja knjižara koristi jarke boje, razigrani font i prijateljski ton 'Hej, mali čitaču!' u radnji i na Instagramu.",
+        "why": "Dosljedan identitet čini da svaka reklama i objava gradi na prethodnoj, umjesto da počinje od nule.",
+        "mixup": "Česta promjena logotipa ne osvježava brend; uglavnom zbuni ljude koji su te počeli prepoznavati."
+      }
+    },
+    {
+      "slug": "usp",
+      "term": "Unique selling proposition (USP)",
+      "local": "jedinstvena prodajna prednost",
+      "minutes": 4,
+      "youtube": "rfYdR4iwqAE",
+      "youtubeQuery": "unique selling proposition explained",
+      "related": ["Value proposition", "Positioning", "Competitor analysis"],
+      "en": {
+        "one": "A USP is the one thing that makes you different from competitors and matters to customers.",
+        "explain": "It must be specific, true, and something customers actually care about. 'Good quality' isn't a USP because everyone claims it. Your value proposition is the whole promise; the USP is the sharp difference inside it.",
+        "example": "A dry cleaner's USP: 'Ready in 3 hours, or it's free.'",
+        "why": "A clear USP gives people one simple reason to choose you instead of the shop next door.",
+        "mixup": "Different is not enough. Being the only shop with purple walls is unique, but no one buys because of it."
+      },
+      "bs": {
+        "one": "USP (jedinstvena prodajna prednost) je ono jedno što te razlikuje od konkurenata i važno je kupcima.",
+        "explain": "Mora biti konkretna, istinita i nešto do čega kupcima stvarno stoji. 'Dobar kvalitet' nije USP jer to svi tvrde. Vrijednosna ponuda je cijelo obećanje; USP je oštra razlika unutar njega.",
+        "example": "USP hemijske čistionice: 'Gotovo za 3 sata, ili je besplatno.'",
+        "why": "Jasan USP daje ljudima jedan jednostavan razlog da izaberu tebe umjesto radnje do tebe.",
+        "mixup": "Drugačije nije dovoljno. Biti jedina radnja s ljubičastim zidovima je jedinstveno, ali niko zbog toga ne kupuje."
+      }
+    },
+    {
+      "slug": "brand-awareness",
+      "term": "Brand awareness",
+      "local": "prepoznatljivost brenda",
+      "minutes": 4,
+      "youtube": "J2vj0GDEOC0",
+      "youtubeQuery": "brand awareness explained",
+      "related": ["Brand", "Marketing funnel", "Reach"],
+      "en": {
+        "one": "Brand awareness is how many people in your target market know that you exist and what you do.",
+        "explain": "It is the top of the funnel: people can't buy from you if they've never heard of you. It grows through ads, word of mouth, PR, social media, events and a visible location. It is measured with surveys, searches for your name, or social reach.",
+        "example": "A new burger place gives free samples at a city festival. A month later, more people search for its name online.",
+        "why": "Awareness alone doesn't sell, but without it nothing else in marketing can work.",
+        "mixup": "Being known is not the same as being liked. Awareness from a scandal can hurt sales."
+      },
+      "bs": {
+        "one": "Brand awareness (prepoznatljivost brenda) je koliko ljudi u tvom ciljnom tržištu zna da postojiš i šta radiš.",
+        "explain": "To je vrh lijevka: ljudi ne mogu kupiti od tebe ako za tebe nikad nisu čuli. Raste kroz reklame, preporuke, PR, društvene mreže, događaje i vidljivu lokaciju. Mjeri se anketama, pretragama tvog imena ili dosegom na mrežama.",
+        "example": "Novi burger restoran dijeli besplatne zalogaje na gradskom festivalu. Mjesec kasnije više ljudi pretražuje njegovo ime online.",
+        "why": "Sama prepoznatljivost ne prodaje, ali bez nje ništa drugo u marketingu ne može raditi.",
+        "mixup": "Biti poznat nije isto što i biti omiljen. Prepoznatljivost zbog skandala može smanjiti prodaju."
+      }
+    },
+    {
+      "slug": "storytelling",
+      "term": "Brand storytelling",
+      "local": "pričanje priče brenda",
+      "minutes": 5,
+      "youtube": "9-Hs18ftGAA",
+      "youtubeQuery": "brand storytelling explained",
+      "related": ["Brand", "Content marketing", "Brand identity"],
+      "en": {
+        "one": "Storytelling is using real stories, not just facts, to show who you are and why you matter.",
+        "explain": "People remember stories far better than lists of features. A good brand story has a person, a problem, and a change. It can be about the founder, a customer, or how the product is made.",
+        "example": "A honey producer from Herzegovina shares how three generations of the family have kept bees on the same hill.",
+        "why": "Stories make you memorable and help people feel connected, which builds loyalty and word of mouth.",
+        "mixup": "Storytelling is not making things up. Invented stories get found out and destroy trust."
+      },
+      "bs": {
+        "one": "Storytelling (pričanje priče) je korištenje stvarnih priča, ne samo činjenica, da pokažeš ko si i zašto si važan.",
+        "explain": "Ljudi pamte priče mnogo bolje od spiska karakteristika. Dobra priča brenda ima osobu, problem i promjenu. Može biti o osnivaču, kupcu ili načinu na koji se proizvod pravi.",
+        "example": "Proizvođač meda iz Hercegovine priča kako tri generacije porodice drže pčele na istom brdu.",
+        "why": "Priče te čine pamtljivim i pomažu ljudima da se povežu, što gradi lojalnost i preporuke.",
+        "mixup": "Storytelling nije izmišljanje. Izmišljene priče se otkriju i unište povjerenje."
+      }
+    },
+    {
+      "slug": "reputation",
+      "term": "Reputation & reviews",
+      "local": "ugled i recenzije",
+      "minutes": 4,
+      "youtube": "6R5usD7Kw8k",
+      "youtubeQuery": "online reviews and reputation management explained",
+      "related": ["Brand", "Herd behaviour & social proof", "Customer experience"],
+      "en": {
+        "one": "Reputation is what people say about you when you're not in the room. Today, online reviews are a big part of it.",
+        "explain": "Most people check reviews on Google, Booking or social media before they buy. A steady stream of honest, recent reviews builds trust. How you answer bad reviews matters as much as the score.",
+        "example": "A restaurant replies politely to a 2-star review, apologises, and fixes the slow service. Future readers see a business that cares.",
+        "why": "A good reputation lowers your cost of getting customers, because others sell for you.",
+        "mixup": "Fake reviews are not a shortcut. Platforms detect and remove them, and they can be illegal."
+      },
+      "bs": {
+        "one": "Reputation (ugled) je ono što ljudi pričaju o tebi kad nisi tu. Danas su online recenzije velik dio toga.",
+        "explain": "Većina ljudi provjeri recenzije na Googleu, Bookingu ili mrežama prije kupovine. Stalan niz iskrenih, svježih recenzija gradi povjerenje. Kako odgovaraš na loše recenzije važno je koliko i ocjena.",
+        "example": "Restoran pristojno odgovori na recenziju s 2 zvjezdice, izvini se i popravi sporu uslugu. Budući čitaoci vide firmu kojoj je stalo.",
+        "why": "Dobar ugled smanjuje trošak dobijanja kupaca, jer drugi prodaju umjesto tebe.",
+        "mixup": "Lažne recenzije nisu prečica. Platforme ih otkrivaju i brišu, a mogu biti i nezakonite."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": { "en": "Which is the best USP?", "bs": "Koji je najbolji USP?" },
+      "options": [
+        { "en": "'We have purple walls'", "bs": "'Imamo ljubičaste zidove'" },
+        { "en": "'Good quality and fair prices'", "bs": "'Dobar kvalitet i fer cijene'" },
+        { "en": "'Ready in 3 hours, or it's free'", "bs": "'Gotovo za 3 sata, ili je besplatno'" }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "A USP must be specific, true and matter to customers. Everyone claims good quality.",
+        "bs": "USP mora biti konkretan, istinit i važan kupcima. Dobar kvalitet tvrde svi."
+      }
+    },
+    {
+      "q": { "en": "What is a brand, really?", "bs": "Šta je zapravo brend?" },
+      "options": [
+        { "en": "The logo and colours", "bs": "Logo i boje" },
+        { "en": "Your company's legal name", "bs": "Pravno ime firme" },
+        { "en": "What people think and feel about you", "bs": "Ono što ljudi misle i osjećaju o tebi" }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "Logo and colours are only signs. The brand is built from every experience people have.",
+        "bs": "Logo i boje su samo znakovi. Brend se gradi iz svakog iskustva koje ljudi imaju."
+      }
+    },
+    {
+      "q": {
+        "en": "You get a 2-star review about slow service. What helps most?",
+        "bs": "Dobiješ recenziju s 2 zvjezdice zbog spore usluge. Šta najviše pomaže?"
+      },
+      "options": [
+        { "en": "Post fake 5-star reviews", "bs": "Objaviti lažne recenzije s 5 zvjezdica" },
+        { "en": "Ignore it", "bs": "Ignorisati je" },
+        { "en": "Reply politely and fix the problem", "bs": "Pristojno odgovoriti i popraviti problem" }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "Future customers read your replies. A calm fix builds trust; fake reviews destroy it.",
+        "bs": "Budući kupci čitaju tvoje odgovore. Smirena popravka gradi povjerenje; lažne recenzije ga uništavaju."
+      }
+    },
+    {
+      "q": {
+        "en": "Why keep brand identity consistent everywhere?",
+        "bs": "Zašto držati identitet brenda dosljednim svuda?"
+      },
+      "options": [
+        { "en": "Because the law requires it", "bs": "Jer to zakon traži" },
+        { "en": "So people recognise you instantly", "bs": "Da te ljudi odmah prepoznaju" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Consistency means each touchpoint builds on the last.",
+        "bs": "Dosljednost znači da svaka dodirna tačka gradi na prethodnoj."
+      }
+    }
+  ]
+}

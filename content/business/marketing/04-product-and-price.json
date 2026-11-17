@@ -1,0 +1,217 @@
+{
+  "slug": "product-and-price",
+  "title": { "en": "Product & price", "bs": "Proizvod i cijena" },
+  "summary": {
+    "en": "How products grow and fade, and the tricks and logic behind prices people see.",
+    "bs": "Kako proizvodi rastu i blijede i logika iza cijena koje ljudi vide."
+  },
+  "concepts": [
+    {
+      "slug": "product-life-cycle",
+      "term": "Product life cycle",
+      "local": "životni ciklus proizvoda",
+      "minutes": 5,
+      "youtube": "ZvsUQikUEwI",
+      "youtubeQuery": "product life cycle explained",
+      "related": ["Marketing mix (4 Ps)", "Innovation", "Pricing strategies"],
+      "en": {
+        "one": "The product life cycle is the path a product takes: introduction, growth, maturity and decline.",
+        "explain": "At introduction, few people know it and costs are high. In growth, sales rise fast and competitors arrive. In maturity, sales level off and the fight is on price and loyalty. In decline, demand falls as something newer replaces it. Each stage needs different marketing.",
+        "example": "DVD players grew fast in the 2000s, matured, then declined as streaming took over.",
+        "why": "Knowing the stage tells you whether to invest heavily, defend your share, or plan the next product.",
+        "mixup": "Decline is not always the end. A product can be refreshed or moved to a new market."
+      },
+      "bs": {
+        "one": "Product life cycle (životni ciklus proizvoda) je put kojim proizvod prolazi: uvođenje, rast, zrelost i opadanje.",
+        "explain": "Kod uvođenja malo ljudi zna za njega, a troškovi su visoki. U rastu prodaja brzo raste i dolaze konkurenti. U zrelosti prodaja se ustali, a borba je na cijeni i lojalnosti. U opadanju potražnja pada jer ga zamjenjuje nešto novije. Svaka faza traži drugačiji marketing.",
+        "example": "DVD plejeri su brzo rasli 2000-ih, sazreli, a onda opali kad je došao streaming.",
+        "why": "Kad znaš fazu, znaš da li jako ulagati, braniti svoj udio ili planirati sljedeći proizvod.",
+        "mixup": "Opadanje nije uvijek kraj. Proizvod se može osvježiti ili prebaciti na novo tržište."
+      }
+    },
+    {
+      "slug": "product-range",
+      "term": "Product range",
+      "local": "asortiman",
+      "minutes": 4,
+      "youtube": "vMGo5Y_MF9Y",
+      "youtubeQuery": "product line and product mix explained",
+      "related": ["Product life cycle", "Upselling & cross-selling", "Positioning"],
+      "en": {
+        "one": "Your product range is the full set of products and versions you sell.",
+        "explain": "It has width (how many different lines) and depth (how many versions in each line). A wider range brings more customers, but costs more in stock, staff and focus. Many small firms do better with a narrow range done very well.",
+        "example": "A bakery sells bread, pastries and cakes (width), with 12 kinds of bread (depth).",
+        "why": "Choosing what not to sell is as important as choosing what to sell; slow products tie up cash and shelf space.",
+        "mixup": "More choice does not always mean more sales. Too many options can make people buy nothing."
+      },
+      "bs": {
+        "one": "Product range (asortiman) je cijeli skup proizvoda i verzija koje prodaješ.",
+        "explain": "Ima širinu (koliko različitih linija) i dubinu (koliko verzija u svakoj liniji). Širi asortiman donosi više kupaca, ali košta više u zalihama, ljudima i fokusu. Mnoge male firme bolje prolaze s uskim asortimanom urađenim vrlo dobro.",
+        "example": "Pekara prodaje hljeb, peciva i kolače (širina), s 12 vrsta hljeba (dubina).",
+        "why": "Izbor šta ne prodavati važan je koliko i šta prodavati; spori proizvodi zarobljavaju novac i prostor na policama.",
+        "mixup": "Više izbora ne znači uvijek više prodaje. Previše opcija može učiniti da ljudi ne kupe ništa."
+      }
+    },
+    {
+      "slug": "psychological-pricing",
+      "term": "Psychological pricing",
+      "local": "psihološko određivanje cijena",
+      "minutes": 4,
+      "youtube": "kMJLv9nXcs4",
+      "youtubeQuery": "psychological pricing explained charm pricing",
+      "related": ["Pricing strategies", "Anchoring", "Price elasticity"],
+      "en": {
+        "one": "Psychological pricing uses the way people read prices to make them feel lower or more attractive.",
+        "explain": "Common tricks: €9.99 instead of €10 (the first digit sticks), showing a high 'decoy' option so the middle one looks good, and splitting a price into small parts ('€1 a day'). Round prices like €50 can signal quality in premium shops.",
+        "example": "A café offers coffee in small €1.80, medium €2.60 and large €2.80. Almost everyone buys large, because it seems almost free compared to medium.",
+        "why": "Small changes in how a price is shown can change sales without changing what you earn per item much.",
+        "mixup": "It works best on top of real value. Tricks can't save a product people don't want, and misleading prices can break consumer law."
+      },
+      "bs": {
+        "one": "Psychological pricing (psihološko određivanje cijena) koristi način na koji ljudi čitaju cijene da izgledaju niže ili privlačnije.",
+        "explain": "Česti trikovi: 9,99 € umjesto 10 € (prva cifra se pamti), prikaz skupe 'mamac' opcije da srednja izgleda dobro, i dijeljenje cijene na male dijelove ('1 € dnevno'). Okrugle cijene kao 50 € mogu signalizirati kvalitet u premium radnjama.",
+        "example": "Kafić nudi kafu: mala 1,80 €, srednja 2,60 € i velika 2,80 €. Skoro svi uzmu veliku, jer izgleda skoro besplatna u odnosu na srednju.",
+        "why": "Male promjene u prikazu cijene mogu promijeniti prodaju bez velike promjene zarade po komadu.",
+        "mixup": "Najbolje radi uz stvarnu vrijednost. Trikovi ne mogu spasiti proizvod koji ljudi ne žele, a obmanjujuće cijene mogu prekršiti zakon o zaštiti potrošača."
+      }
+    },
+    {
+      "slug": "discounts-promotions",
+      "term": "Discounts & promotions",
+      "local": "popusti i akcije",
+      "minutes": 5,
+      "youtube": "TIsCySxasgY",
+      "youtubeQuery": "do discounts hurt your business explained",
+      "related": ["Margin", "Psychological pricing", "Customer lifetime value"],
+      "en": {
+        "one": "A discount is a temporary lower price to get more people to buy, now.",
+        "explain": "Discounts can bring new customers, clear old stock or fill quiet hours. But they cut your margin, and frequent sales train customers to wait. Always check how many extra sales you need just to earn the same profit.",
+        "example": "You sell at €20 with €8 profit. A 20% discount cuts the price to €16 and your profit to €4, so you must sell twice as many just to break even on profit.",
+        "why": "Smart promotions grow the business; careless ones quietly destroy profit.",
+        "mixup": "A big jump in sales during a discount is not automatically success. Check the profit, and whether sales drop afterwards."
+      },
+      "bs": {
+        "one": "Discount (popust) je privremeno niža cijena da više ljudi kupi, odmah.",
+        "explain": "Popusti mogu dovesti nove kupce, isprazniti staru robu ili popuniti mirne sate. Ali smanjuju maržu, a česte akcije uče kupce da čekaju. Uvijek provjeri koliko dodatne prodaje treba samo da zaradiš istu dobit.",
+        "example": "Prodaješ po 20 € s 8 € dobiti. Popust od 20% spusti cijenu na 16 €, a dobit na 4 €, pa moraš prodati duplo više samo da zaradiš isto.",
+        "why": "Pametne akcije razvijaju posao; nepromišljene tiho uništavaju dobit.",
+        "mixup": "Velik skok prodaje tokom akcije nije automatski uspjeh. Provjeri dobit i da li prodaja padne poslije."
+      }
+    },
+    {
+      "slug": "freemium-subscription",
+      "term": "Freemium & subscriptions",
+      "local": "freemium i pretplate",
+      "minutes": 5,
+      "youtube": "Yp7txa832Qo",
+      "youtubeQuery": "freemium and subscription business model explained",
+      "related": ["Customer lifetime value", "Churn", "Recurring revenue"],
+      "en": {
+        "one": "Freemium means the basic version is free and people pay for more. A subscription means customers pay regularly, e.g. monthly, for ongoing access.",
+        "explain": "Freemium attracts many users cheaply; a small share, often 2–5%, upgrades to paid. Subscriptions give steady, predictable income, but you must keep delivering value or people cancel.",
+        "example": "A music app is free with ads; the paid plan removes ads and allows offline listening. A gym charges €35 a month instead of per visit.",
+        "why": "Recurring income makes planning easier and makes the business worth more.",
+        "mixup": "Free users are not free for you. They cost servers, support and attention, so the paid share must cover them."
+      },
+      "bs": {
+        "one": "Freemium znači da je osnovna verzija besplatna, a ljudi plaćaju za više. Subscription (pretplata) znači da kupci plaćaju redovno, npr. mjesečno, za stalan pristup.",
+        "explain": "Freemium jeftino privlači mnogo korisnika; mali dio, često 2–5%, pređe na plaćeno. Pretplate daju stabilan, predvidiv prihod, ali moraš stalno davati vrijednost ili ljudi otkažu.",
+        "example": "Muzička aplikacija je besplatna s reklamama; plaćeni paket uklanja reklame i omogućava slušanje offline. Teretana naplaćuje 35 € mjesečno umjesto po dolasku.",
+        "why": "Ponavljajući prihod olakšava planiranje i povećava vrijednost firme.",
+        "mixup": "Besplatni korisnici nisu besplatni za tebe. Koštaju servere, podršku i pažnju, pa plaćeni dio mora pokriti i njih."
+      }
+    },
+    {
+      "slug": "upsell-cross-sell",
+      "term": "Upselling & cross-selling",
+      "local": "upselling i cross-selling",
+      "minutes": 4,
+      "youtube": "jnCBmHT_o9E",
+      "youtubeQuery": "upselling vs cross selling explained",
+      "related": ["Average order value", "Customer lifetime value", "Product range"],
+      "en": {
+        "one": "Upselling is offering a better, pricier version. Cross-selling is offering something extra that goes with what they're buying.",
+        "explain": "Both raise how much each customer spends, which is often cheaper than finding new customers. They work when the offer truly helps the customer, at the right moment.",
+        "example": "Upsell: 'For €2 more you get the large menu.' Cross-sell: 'Would you like a case for your new phone?'",
+        "why": "Raising the average order by even 10% can lift profit a lot, because you already paid to get the customer.",
+        "mixup": "Pushy offers backfire. If it doesn't fit the customer's need, it feels like a trick and hurts trust."
+      },
+      "bs": {
+        "one": "Upselling je nuđenje bolje, skuplje verzije. Cross-selling je nuđenje nečeg dodatnog što ide uz ono što kupuju.",
+        "explain": "Oba povećavaju koliko svaki kupac potroši, što je često jeftinije od traženja novih kupaca. Rade kad ponuda stvarno pomaže kupcu, u pravom trenutku.",
+        "example": "Upsell: 'Za 2 € više dobijate veliki meni.' Cross-sell: 'Želite li futrolu za novi telefon?'",
+        "why": "Povećanje prosječne narudžbe čak i za 10% može puno podići dobit, jer si kupca već platio da dođe.",
+        "mixup": "Napadne ponude se vrate kao bumerang. Ako ne odgovaraju potrebi kupca, djeluju kao trik i štete povjerenju."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": {
+        "en": "You sell at €20 with €8 profit per item. After a 20% discount, what is your profit per item?",
+        "bs": "Prodaješ po 20 € s 8 € dobiti po komadu. Nakon popusta od 20%, kolika je dobit po komadu?"
+      },
+      "options": [
+        { "en": "€4", "bs": "4 €" },
+        { "en": "€8", "bs": "8 €" },
+        { "en": "€6.40", "bs": "6,40 €" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "The price drops by €4 (20% of €20), and the full €4 comes out of your €8 profit.",
+        "bs": "Cijena padne za 4 € (20% od 20 €), a cijelih 4 € ide iz tvojih 8 € dobiti."
+      }
+    },
+    {
+      "q": {
+        "en": "Sales level off and competitors fight on price. Which life-cycle stage is this?",
+        "bs": "Prodaja se ustali, a konkurenti se bore cijenom. Koja je ovo faza životnog ciklusa?"
+      },
+      "options": [
+        { "en": "Maturity", "bs": "Zrelost" },
+        { "en": "Growth", "bs": "Rast" },
+        { "en": "Decline", "bs": "Opadanje" },
+        { "en": "Introduction", "bs": "Uvođenje" }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "In maturity, the market is full and growth slows.",
+        "bs": "U zrelosti je tržište puno, a rast usporava."
+      }
+    },
+    {
+      "q": {
+        "en": "'Would you like a case for your new phone?' is…",
+        "bs": "'Želite li futrolu za novi telefon?' je…"
+      },
+      "options": [
+        { "en": "Upselling", "bs": "Upselling" },
+        { "en": "Cross-selling", "bs": "Cross-selling" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Offering an extra product that goes with the purchase is cross-selling.",
+        "bs": "Nuđenje dodatnog proizvoda uz kupovinu je cross-selling."
+      }
+    },
+    {
+      "q": {
+        "en": "Coffee: small €1.80, medium €2.60, large €2.80. Why does almost everyone buy large?",
+        "bs": "Kafa: mala 1,80 €, srednja 2,60 €, velika 2,80 €. Zašto skoro svi kupe veliku?"
+      },
+      "options": [
+        { "en": "People always buy the biggest", "bs": "Ljudi uvijek kupe najveće" },
+        {
+          "en": "The medium is a decoy that makes large look like a bargain",
+          "bs": "Srednja je mamac zbog kojeg velika izgleda kao povoljnost"
+        },
+        { "en": "Large coffee is healthier", "bs": "Velika kafa je zdravija" }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Next to medium, large costs only €0.20 more, so it feels almost free.",
+        "bs": "Pored srednje, velika košta samo 0,20 € više, pa djeluje skoro besplatno."
+      }
+    }
+  ]
+}
