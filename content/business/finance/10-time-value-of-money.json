@@ -84,6 +84,29 @@
       }
     },
     {
+      "slug": "irr",
+      "term": "IRR (Internal rate of return)",
+      "local": "interna stopa povrata",
+      "minutes": 6,
+      "youtube": "gBHKIyhkbTg",
+      "youtubeQuery": "internal rate of return IRR explained simply",
+      "related": ["Net present value (NPV)", "Cost of capital", "ROI (Return on investment)"],
+      "en": {
+        "one": "IRR is the yearly return an investment gives you, once you count when each euro comes back.",
+        "explain": "It is the discount rate at which the NPV of a project is exactly zero. In plain words: if you put money into this project, it grows as if it sat in an account paying the IRR every year. If the IRR is higher than what the money costs you, the project is worth doing.",
+        "example": "A €10,000 oven brings €4,000 a year for 3 years. Its IRR is about 9.7%. If your loan costs 7%, the oven pays off. If money costs you 12%, it does not.",
+        "why": "IRR gives one simple percentage you can compare with your loan rate, your savings rate or other projects.",
+        "mixup": "A higher IRR is not always the better choice. A small project with 40% IRR may earn fewer euros in total than a big project with 15%. Look at NPV too."
+      },
+      "bs": {
+        "one": "IRR (interna stopa povrata) je godišnji povrat koji ti ulaganje daje, kad uračunaš kada se koji euro vrati.",
+        "explain": "To je diskontna stopa pri kojoj je NPV projekta tačno nula. Jednostavno rečeno: ako uložiš novac u ovaj projekat, on raste kao da stoji na računu koji svake godine plaća IRR. Ako je IRR veći od onoga što te novac košta, projekat se isplati.",
+        "example": "Peć od 10.000 € donosi 4.000 € godišnje 3 godine. Njen IRR je oko 9,7%. Ako te kredit košta 7%, peć se isplati. Ako te novac košta 12%, ne isplati se.",
+        "why": "IRR daje jedan jednostavan procenat koji možeš porediti s kamatom na kredit, štednjom ili drugim projektima.",
+        "mixup": "Veći IRR nije uvijek bolji izbor. Mali projekat s 40% IRR može ukupno zaraditi manje eura od velikog projekta s 15%. Gledaj i NPV."
+      }
+    },
+    {
       "slug": "payback-period",
       "term": "Payback period",
       "local": "period povrata",

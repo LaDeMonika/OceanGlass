@@ -102,6 +102,33 @@
         "why": "Cijena je najbrži način da promijeniš dobit. Podići cijenu za 5% često znači više nego prodati 5% više.",
         "mixup": "Najniža cijena ne pobjeđuje uvijek. Preniska cijena može ljudima reći da je proizvod loš i ne ostavlja novac za rast."
       }
+    },
+    {
+      "slug": "vat",
+      "term": "VAT (Value added tax)",
+      "local": "PDV (porez na dodanu vrijednost)",
+      "minutes": 6,
+      "youtube": "a6RB4rIxWqI",
+      "youtubeQuery": "how VAT works explained simply",
+      "formula": {
+        "en": "VAT to pay = VAT you charged customers − VAT you paid suppliers",
+        "bs": "PDV za uplatu = PDV naplaćen od kupaca − PDV plaćen dobavljačima"
+      },
+      "related": ["Pricing strategies", "Revenue", "Cash flow"],
+      "en": {
+        "one": "VAT is a tax added to the price of most things you buy. Businesses collect it for the state; it is not their money.",
+        "explain": "When a VAT-registered business sells, it adds VAT to the price (17% in Bosnia and Herzegovina, 25% standard rate in Croatia). When it buys from suppliers, it also pays VAT. Each month or quarter it sends the state the difference. In the end, only the final customer really pays the tax.",
+        "example": "In Croatia you sell a chair for €100 + 25% VAT = €125. You bought the wood for €40 + €10 VAT. You owe the state €25 − €10 = €15. Your real revenue is €100, not €125.",
+        "why": "Mixing up VAT and revenue is one of the most common small-business mistakes. VAT money must be ready when the tax bill comes.",
+        "mixup": "The VAT in your bank account is not profit. Count prices without VAT (net) when you plan, and keep the VAT part aside."
+      },
+      "bs": {
+        "one": "PDV (porez na dodanu vrijednost) je porez koji se dodaje na cijenu većine stvari. Firme ga skupljaju za državu; to nije njihov novac.",
+        "explain": "Kad firma u sistemu PDV-a prodaje, dodaje PDV na cijenu (17% u BiH, opća stopa 25% u Hrvatskoj). Kad kupuje od dobavljača, i ona plaća PDV. Svaki mjesec ili kvartal državi uplati razliku. Na kraju porez stvarno plati samo krajnji kupac.",
+        "example": "U Hrvatskoj prodaš stolicu za 100 € + 25% PDV = 125 €. Drvo si kupio za 40 € + 10 € PDV-a. Državi duguješ 25 € − 10 € = 15 €. Tvoj stvarni prihod je 100 €, ne 125 €.",
+        "why": "Miješanje PDV-a i prihoda je jedna od najčešćih grešaka malih firmi. Novac za PDV mora biti spreman kad stigne poreski račun.",
+        "mixup": "PDV na tvom računu u banci nije dobit. Kad planiraš, računaj cijene bez PDV-a (neto) i drži PDV dio sa strane."
+      }
     }
   ]
 }

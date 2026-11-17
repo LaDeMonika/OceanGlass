@@ -114,16 +114,16 @@
       "related": ["Cash flow", "Asset", "Liability"],
       "en": {
         "one": "Working capital is the money a business has available to run day to day.",
-        "explain": "Take what you can turn into cash soon (cash, stock, money customers owe you) and subtract the bills you must pay soon.",
-        "example": "€8,000 in short-term assets minus €3,000 of bills due this month gives €5,000 of working capital.",
-        "why": "It tells you if you can pay next month's bills without stress.",
+        "explain": "Take what you can turn into cash within a year (cash, stock, money customers owe you) and subtract the bills you must pay within a year.",
+        "example": "€8,000 in short-term assets minus €3,000 of bills due within a year gives €5,000 of working capital.",
+        "why": "It tells you if you can pay the coming bills without stress.",
         "mixup": "Positive working capital does not mean the cash is in the bank today. Part of it may still be stuck in unsold stock or unpaid invoices."
       },
       "bs": {
         "one": "Working capital (obrtni kapital) je novac koji firma ima na raspolaganju za svakodnevni rad.",
-        "explain": "Uzmi ono što uskoro možeš pretvoriti u novac (gotovina, zalihe, ono što ti kupci duguju) i oduzmi račune koje uskoro moraš platiti.",
-        "example": "8.000 € kratkoročne imovine minus 3.000 € računa koji dospijevaju ovog mjeseca daje 5.000 € obrtnog kapitala.",
-        "why": "Govori ti možeš li platiti račune sljedećeg mjeseca bez stresa.",
+        "explain": "Uzmi ono što u roku od godinu dana možeš pretvoriti u novac (gotovina, zalihe, ono što ti kupci duguju) i oduzmi račune koje moraš platiti u roku od godinu dana.",
+        "example": "8.000 € kratkoročne imovine minus 3.000 € računa koji dospijevaju u roku od godinu dana daje 5.000 € obrtnog kapitala.",
+        "why": "Govori ti možeš li platiti nadolazeće račune bez stresa.",
         "mixup": "Pozitivan obrtni kapital ne znači da je novac danas na računu. Dio može još biti zarobljen u neprodatoj robi ili neplaćenim fakturama."
       }
     }
