@@ -79,6 +79,8 @@ npm run dev               # http://localhost:3000
    - `SESSION_SECRET`: run `openssl rand -base64 48` and paste the result
    - `MSIMIC_PASSWORD` and `ADMIN_PASSWORD`: long passwords, at least 10 characters
    - `DOMAIN`: your domain, e.g. `learn.yourdomain.com`
+
+   Put each password and the secret in single quotes, e.g. `ADMIN_PASSWORD='my$ecret'`. Without the quotes, Docker reads a `$` as the start of a variable and changes the value.
 4. **Start it:**
    ```bash
    docker compose up -d --build
